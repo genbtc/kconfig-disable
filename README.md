@@ -1,41 +1,29 @@
 # kconfig-disable
-Kconfig symbols we can disable for large chain reactions
+Kconfig symbols we can disable, entire sections for large chain reactions
 
 # Description:
-Started from default config-5.19.17-gentoo-dist (sys-kernel/gentoo-kernel .config), and these are what is removed from my config.
-
-The basis for the config is to disable entire sections!
-
-And primarily remove excess device drivers.
-
-The dist-kernel has tons of stuff built as a module, which is great for compatibility but terrible for compilation time.
-
-This config pares the modules down from over 4000 to under 700.
-
-This reduced overall compile time from 20 minutes to 3 minutes.
-
-So
-
-I got a little carried away, and used in its entirety, or alone, would not result in success.
-
-The system is AMD Ryzen based so all Intel tech is disabled.
-
-see below for more specific information
-
-
-please note these are aggressive settings and more documentation will follow, but this works for me.
-
-@genr8eofl 10-30-22 CC-BY-SA-4.0 w/attribution) 
-
-#Folders Explanation - how to use this repository:
-Each folder contains files named after a number and the name is the kconfig symbol name.
-
-The number is irrelevant (which line in my master list it came from). The name is important.
-
-The contents are .diff's from applying this 1 config item to the dist-kernel-config Before, and then after applying it (in isolation).
+Started from default config-5.19.17-gentoo-dist (sys-kernel/gentoo-kernel .config),  
+These are what is removed from my config.  
+The basis for the config is to disable entire sections!  
+And primarily remove excess device drivers.  
+The dist-kernel has tons of stuff built as a module, which is great for compatibility but terrible for compilation time.  
+This config pares the modules down from over 4000 to under 700.  
+This reduced overall compile time from 20 minutes to 3 minutes.  
+So  
+I got a little carried away, and used in its entirety, or alone, would not result in success.  
+The system is AMD Ryzen based so all Intel tech is disabled.  
+see below for more specific information  
+  
+please note these are aggressive settings and more documentation will follow, but this works for me.  
+@genr8eofl 10-30-22 CC-BY-SA-4.0 w/attribution)  
+  
+# Folders Explanation: - how to use this repository:
+Each folder contains files named after a number and the name is the kconfig symbol name.  
+The number is irrelevant (which line in my master list it came from). The name is important.  
+The contents are .diff's from applying this 1 config item to the dist-kernel-config Before, and then after applying it (in isolation).  
 
 
-#Folders List
+# Folders List:
 * _largest(66): Media Support disabled (video capture)
 * _sub100bytes(448): individual items
             NLS languages disabled except for barebones ascii/english
