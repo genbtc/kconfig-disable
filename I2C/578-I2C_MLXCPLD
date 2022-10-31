@@ -1,0 +1,4 @@
+4415c4415
+< CONFIG_I2C_MLXCPLD=m
+---
+> # CONFIG_I2C_MLXCPLD is not set

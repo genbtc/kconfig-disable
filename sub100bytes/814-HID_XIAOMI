@@ -1,0 +1,4 @@
+7053c7053
+< CONFIG_HID_XIAOMI=m
+---
+> # CONFIG_HID_XIAOMI is not set

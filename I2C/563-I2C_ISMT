@@ -1,0 +1,4 @@
+4367c4367
+< CONFIG_I2C_ISMT=m
+---
+> # CONFIG_I2C_ISMT is not set

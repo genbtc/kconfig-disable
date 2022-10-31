@@ -1,0 +1,4 @@
+7132c7132
+< CONFIG_HID_ALPS=m
+---
+> # CONFIG_HID_ALPS is not set

@@ -1,0 +1,4 @@
+7025c7025
+< CONFIG_HID_MACALLY=m
+---
+> # CONFIG_HID_MACALLY is not set

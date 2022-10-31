@@ -1,0 +1,4 @@
+6501c6501
+< CONFIG_SND_RIPTIDE=m
+---
+> # CONFIG_SND_RIPTIDE is not set

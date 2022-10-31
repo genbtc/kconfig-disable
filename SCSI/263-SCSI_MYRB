@@ -1,0 +1,4 @@
+2729c2729
+< CONFIG_SCSI_MYRB=m
+---
+> # CONFIG_SCSI_MYRB is not set

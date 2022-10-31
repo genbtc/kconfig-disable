@@ -1,0 +1,4 @@
+7129c7129
+< CONFIG_HID_ZYDACRON=m
+---
+> # CONFIG_HID_ZYDACRON is not set

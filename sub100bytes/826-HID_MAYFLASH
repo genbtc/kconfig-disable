@@ -1,0 +1,4 @@
+7073c7073
+< CONFIG_HID_MAYFLASH=m
+---
+> # CONFIG_HID_MAYFLASH is not set

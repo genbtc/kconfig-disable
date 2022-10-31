@@ -1,0 +1,4 @@
+2689c2689
+< CONFIG_SCSI_HPSA=m
+---
+> # CONFIG_SCSI_HPSA is not set

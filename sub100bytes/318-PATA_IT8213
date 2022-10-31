@@ -1,0 +1,4 @@
+2844c2844
+< CONFIG_PATA_IT8213=m
+---
+> # CONFIG_PATA_IT8213 is not set

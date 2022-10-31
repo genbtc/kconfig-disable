@@ -1,0 +1,4 @@
+3501c3501
+< CONFIG_USB_PEGASUS=m
+---
+> # CONFIG_USB_PEGASUS is not set

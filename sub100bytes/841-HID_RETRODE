@@ -1,0 +1,4 @@
+7099c7099
+< CONFIG_HID_RETRODE=m
+---
+> # CONFIG_HID_RETRODE is not set

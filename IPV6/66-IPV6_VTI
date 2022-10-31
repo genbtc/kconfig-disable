@@ -1,0 +1,4 @@
+1256c1256
+< CONFIG_IPV6_VTI=m
+---
+> # CONFIG_IPV6_VTI is not set

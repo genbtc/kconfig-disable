@@ -1,0 +1,4 @@
+6488c6488
+< CONFIG_SND_HDSPM=m
+---
+> # CONFIG_SND_HDSPM is not set

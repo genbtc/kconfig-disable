@@ -1,0 +1,4 @@
+3192c3192
+< CONFIG_IXGB=m
+---
+> # CONFIG_IXGB is not set

@@ -1,0 +1,4 @@
+6454c6454
+< CONFIG_SND_CA0106=m
+---
+> # CONFIG_SND_CA0106 is not set

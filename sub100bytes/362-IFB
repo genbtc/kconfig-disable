@@ -1,0 +1,6 @@
+1152d1151
+< CONFIG_NET_REDIRECT=y
+2978c2977
+< CONFIG_IFB=m
+---
+> # CONFIG_IFB is not set

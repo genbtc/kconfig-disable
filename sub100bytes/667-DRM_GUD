@@ -1,0 +1,4 @@
+6244c6244
+< CONFIG_DRM_GUD=m
+---
+> # CONFIG_DRM_GUD is not set

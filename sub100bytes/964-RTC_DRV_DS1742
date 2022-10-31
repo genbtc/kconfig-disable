@@ -1,0 +1,4 @@
+7744c7744
+< CONFIG_RTC_DRV_DS1742=m
+---
+> # CONFIG_RTC_DRV_DS1742 is not set

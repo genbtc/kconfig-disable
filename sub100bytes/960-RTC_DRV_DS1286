@@ -1,0 +1,4 @@
+7735c7735
+< CONFIG_RTC_DRV_DS1286=m
+---
+> # CONFIG_RTC_DRV_DS1286 is not set

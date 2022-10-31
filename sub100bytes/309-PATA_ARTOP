@@ -1,0 +1,4 @@
+2833c2833
+< CONFIG_PATA_ARTOP=m
+---
+> # CONFIG_PATA_ARTOP is not set

@@ -1,0 +1,4 @@
+7051c7051
+< CONFIG_HID_WALTOP=m
+---
+> # CONFIG_HID_WALTOP is not set

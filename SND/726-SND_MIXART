@@ -1,0 +1,4 @@
+6498c6498
+< CONFIG_SND_MIXART=m
+---
+> # CONFIG_SND_MIXART is not set

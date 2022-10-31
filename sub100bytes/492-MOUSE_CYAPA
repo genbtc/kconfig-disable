@@ -1,0 +1,4 @@
+3951c3951
+< CONFIG_MOUSE_CYAPA=m
+---
+> # CONFIG_MOUSE_CYAPA is not set

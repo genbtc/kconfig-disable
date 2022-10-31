@@ -1,0 +1,4 @@
+9279c9279
+< CONFIG_HFS_FS=m
+---
+> # CONFIG_HFS_FS is not set

@@ -1,0 +1,4 @@
+2826c2826
+< CONFIG_SATA_VITESSE=m
+---
+> # CONFIG_SATA_VITESSE is not set

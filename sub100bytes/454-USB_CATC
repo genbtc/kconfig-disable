@@ -1,0 +1,4 @@
+3499c3499
+< CONFIG_USB_CATC=m
+---
+> # CONFIG_USB_CATC is not set

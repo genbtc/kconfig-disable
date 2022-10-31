@@ -1,0 +1,4 @@
+2823c2823
+< CONFIG_SATA_SVW=m
+---
+> # CONFIG_SATA_SVW is not set

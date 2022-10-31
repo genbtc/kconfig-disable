@@ -1,0 +1,6 @@
+7221d7220
+< # CONFIG_USB_U132_HCD is not set
+7359c7358
+< CONFIG_USB_FTDI_ELAN=m
+---
+> # CONFIG_USB_FTDI_ELAN is not set

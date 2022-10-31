@@ -1,0 +1,4 @@
+7039c7039
+< CONFIG_HID_GEMBIRD=m
+---
+> # CONFIG_HID_GEMBIRD is not set

@@ -1,0 +1,4 @@
+2772c2772
+< CONFIG_SCSI_PMCRAID=m
+---
+> # CONFIG_SCSI_PMCRAID is not set

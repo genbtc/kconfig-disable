@@ -1,0 +1,4 @@
+2864c2864
+< CONFIG_PATA_WINBOND=m
+---
+> # CONFIG_PATA_WINBOND is not set

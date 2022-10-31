@@ -1,0 +1,4 @@
+2852c2852
+< CONFIG_PATA_OPTIDMA=m
+---
+> # CONFIG_PATA_OPTIDMA is not set

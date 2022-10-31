@@ -1,0 +1,4 @@
+7041c7041
+< CONFIG_HID_GLORIOUS=m
+---
+> # CONFIG_HID_GLORIOUS is not set

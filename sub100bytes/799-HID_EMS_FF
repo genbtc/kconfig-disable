@@ -1,0 +1,4 @@
+7033c7033
+< CONFIG_HID_EMS_FF=m
+---
+> # CONFIG_HID_EMS_FF is not set

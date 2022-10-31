@@ -1,0 +1,4 @@
+2743c2743
+< CONFIG_SCSI_ISCI=m
+---
+> # CONFIG_SCSI_ISCI is not set

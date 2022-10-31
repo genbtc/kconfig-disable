@@ -1,0 +1,4 @@
+7111c7111
+< CONFIG_HID_RMI=m
+---
+> # CONFIG_HID_RMI is not set

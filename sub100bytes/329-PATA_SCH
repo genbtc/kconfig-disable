@@ -1,0 +1,4 @@
+2857c2857
+< CONFIG_PATA_SCH=m
+---
+> # CONFIG_PATA_SCH is not set

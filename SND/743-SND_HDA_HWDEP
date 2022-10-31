@@ -1,0 +1,4 @@
+6519c6519
+< CONFIG_SND_HDA_HWDEP=y
+---
+> # CONFIG_SND_HDA_HWDEP is not set

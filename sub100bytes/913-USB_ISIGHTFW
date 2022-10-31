@@ -1,0 +1,4 @@
+7368c7368
+< CONFIG_USB_ISIGHTFW=m
+---
+> # CONFIG_USB_ISIGHTFW is not set

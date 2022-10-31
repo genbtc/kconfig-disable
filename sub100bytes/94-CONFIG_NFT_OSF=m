@@ -1,0 +1,4 @@
+1361c1361
+< # CONFIG_NFT_OSF is not set
+---
+> CONFIG_NFT_OSF=m

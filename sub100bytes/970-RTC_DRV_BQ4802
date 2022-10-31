@@ -1,0 +1,4 @@
+7751c7751
+< CONFIG_RTC_DRV_BQ4802=m
+---
+> # CONFIG_RTC_DRV_BQ4802 is not set

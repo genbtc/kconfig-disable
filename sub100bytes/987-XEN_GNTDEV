@@ -1,0 +1,4 @@
+7927c7927
+< CONFIG_XEN_GNTDEV=m
+---
+> # CONFIG_XEN_GNTDEV is not set

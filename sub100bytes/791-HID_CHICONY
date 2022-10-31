@@ -1,0 +1,4 @@
+7022c7022
+< CONFIG_HID_CHICONY=m
+---
+> # CONFIG_HID_CHICONY is not set

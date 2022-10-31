@@ -1,0 +1,4 @@
+7054c7054
+< CONFIG_HID_GYRATION=m
+---
+> # CONFIG_HID_GYRATION is not set

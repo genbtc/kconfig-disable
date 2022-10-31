@@ -1,0 +1,4 @@
+2724c2724
+< CONFIG_SCSI_MPI3MR=m
+---
+> # CONFIG_SCSI_MPI3MR is not set

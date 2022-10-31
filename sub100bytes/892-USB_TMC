@@ -1,0 +1,4 @@
+7237c7237
+< CONFIG_USB_TMC=m
+---
+> # CONFIG_USB_TMC is not set

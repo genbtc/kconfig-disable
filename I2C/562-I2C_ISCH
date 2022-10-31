@@ -1,0 +1,4 @@
+4366c4366
+< CONFIG_I2C_ISCH=m
+---
+> # CONFIG_I2C_ISCH is not set

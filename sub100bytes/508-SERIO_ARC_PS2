@@ -1,0 +1,4 @@
+4160c4160
+< CONFIG_SERIO_ARC_PS2=m
+---
+> # CONFIG_SERIO_ARC_PS2 is not set

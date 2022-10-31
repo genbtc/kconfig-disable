@@ -1,0 +1,4 @@
+6565c6565
+< CONFIG_SND_USB_HIFACE=m
+---
+> # CONFIG_SND_USB_HIFACE is not set

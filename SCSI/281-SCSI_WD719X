@@ -1,0 +1,4 @@
+2770c2770
+< CONFIG_SCSI_WD719X=m
+---
+> # CONFIG_SCSI_WD719X is not set

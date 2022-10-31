@@ -1,0 +1,4 @@
+7363c7363
+< CONFIG_USB_LD=m
+---
+> # CONFIG_USB_LD is not set

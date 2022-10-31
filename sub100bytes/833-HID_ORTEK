@@ -1,0 +1,4 @@
+7083c7083
+< CONFIG_HID_ORTEK=m
+---
+> # CONFIG_HID_ORTEK is not set

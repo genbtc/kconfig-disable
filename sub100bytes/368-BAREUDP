@@ -1,0 +1,4 @@
+2992c2992
+< CONFIG_BAREUDP=m
+---
+> # CONFIG_BAREUDP is not set

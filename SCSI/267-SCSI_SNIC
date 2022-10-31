@@ -1,0 +1,5 @@
+2738,2739c2738
+< CONFIG_SCSI_SNIC=m
+< # CONFIG_SCSI_SNIC_DEBUG_FS is not set
+---
+> # CONFIG_SCSI_SNIC is not set

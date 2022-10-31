@@ -1,0 +1,4 @@
+4312c4312
+< CONFIG_TCG_VTPM_PROXY=m
+---
+> # CONFIG_TCG_VTPM_PROXY is not set

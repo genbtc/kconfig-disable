@@ -1,0 +1,4 @@
+9147c9147
+< CONFIG_NILFS2_FS=m
+---
+> # CONFIG_NILFS2_FS is not set

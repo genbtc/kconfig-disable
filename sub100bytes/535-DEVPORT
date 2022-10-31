@@ -1,0 +1,4 @@
+4292c4292
+< CONFIG_DEVPORT=y
+---
+> # CONFIG_DEVPORT is not set

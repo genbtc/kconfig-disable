@@ -1,0 +1,4 @@
+7353c7353
+< CONFIG_USB_SEVSEG=m
+---
+> # CONFIG_USB_SEVSEG is not set

@@ -1,0 +1,4 @@
+2713c2713
+< CONFIG_SCSI_ARCMSR=m
+---
+> # CONFIG_SCSI_ARCMSR is not set

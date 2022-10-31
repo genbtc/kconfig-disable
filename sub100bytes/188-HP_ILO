@@ -1,0 +1,4 @@
+2576c2576
+< CONFIG_HP_ILO=m
+---
+> # CONFIG_HP_ILO is not set

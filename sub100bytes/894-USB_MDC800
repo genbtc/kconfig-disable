@@ -1,0 +1,4 @@
+7267c7267
+< CONFIG_USB_MDC800=m
+---
+> # CONFIG_USB_MDC800 is not set

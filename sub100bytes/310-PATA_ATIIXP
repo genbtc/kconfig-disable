@@ -1,0 +1,4 @@
+2834c2834
+< CONFIG_PATA_ATIIXP=m
+---
+> # CONFIG_PATA_ATIIXP is not set

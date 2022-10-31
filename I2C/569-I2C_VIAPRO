@@ -1,0 +1,4 @@
+4377c4377
+< CONFIG_I2C_VIAPRO=m
+---
+> # CONFIG_I2C_VIAPRO is not set

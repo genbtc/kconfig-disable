@@ -1,0 +1,4 @@
+2839c2839
+< CONFIG_PATA_HPT366=m
+---
+> # CONFIG_PATA_HPT366 is not set

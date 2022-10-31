@@ -1,0 +1,4 @@
+9276c9276
+< CONFIG_AFFS_FS=m
+---
+> # CONFIG_AFFS_FS is not set

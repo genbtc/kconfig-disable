@@ -1,0 +1,4 @@
+1671c1671
+< CONFIG_BRIDGE_CFM=y
+---
+> # CONFIG_BRIDGE_CFM is not set

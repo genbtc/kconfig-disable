@@ -1,0 +1,4 @@
+7103c7103
+< CONFIG_HID_SEMITEK=m
+---
+> # CONFIG_HID_SEMITEK is not set

@@ -1,0 +1,4 @@
+6995c6995
+< CONFIG_SND_VIRTIO=m
+---
+> # CONFIG_SND_VIRTIO is not set

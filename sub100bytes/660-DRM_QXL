@@ -1,0 +1,4 @@
+6206c6206
+< CONFIG_DRM_QXL=m
+---
+> # CONFIG_DRM_QXL is not set

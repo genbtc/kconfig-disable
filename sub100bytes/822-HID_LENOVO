@@ -1,0 +1,4 @@
+7062c7062
+< CONFIG_HID_LENOVO=m
+---
+> # CONFIG_HID_LENOVO is not set

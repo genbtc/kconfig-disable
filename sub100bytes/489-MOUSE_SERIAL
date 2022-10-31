@@ -1,0 +1,4 @@
+3948c3948
+< CONFIG_MOUSE_SERIAL=m
+---
+> # CONFIG_MOUSE_SERIAL is not set

@@ -1,0 +1,4 @@
+2726c2726
+< CONFIG_SCSI_HPTIOP=m
+---
+> # CONFIG_SCSI_HPTIOP is not set

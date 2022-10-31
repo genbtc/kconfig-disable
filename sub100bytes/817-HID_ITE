@@ -1,0 +1,4 @@
+7056c7056
+< CONFIG_HID_ITE=m
+---
+> # CONFIG_HID_ITE is not set

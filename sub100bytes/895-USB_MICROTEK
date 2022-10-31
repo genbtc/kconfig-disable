@@ -1,0 +1,4 @@
+7268c7268
+< CONFIG_USB_MICROTEK=m
+---
+> # CONFIG_USB_MICROTEK is not set

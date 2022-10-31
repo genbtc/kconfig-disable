@@ -1,0 +1,4 @@
+6457c6457
+< CONFIG_SND_OXYGEN=m
+---
+> # CONFIG_SND_OXYGEN is not set

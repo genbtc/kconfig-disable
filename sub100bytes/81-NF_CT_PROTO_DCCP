@@ -1,0 +1,4 @@
+1311c1311
+< CONFIG_NF_CT_PROTO_DCCP=y
+---
+> # CONFIG_NF_CT_PROTO_DCCP is not set

@@ -1,0 +1,4 @@
+6504c6504
+< CONFIG_SND_RME9652=m
+---
+> # CONFIG_SND_RME9652 is not set

@@ -1,0 +1,4 @@
+7055c7055
+< CONFIG_HID_ICADE=m
+---
+> # CONFIG_HID_ICADE is not set

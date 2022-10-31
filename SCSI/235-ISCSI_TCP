@@ -1,0 +1,4 @@
+2681c2681
+< CONFIG_ISCSI_TCP=m
+---
+> # CONFIG_ISCSI_TCP is not set

@@ -1,0 +1,4 @@
+4372c4372
+< CONFIG_I2C_NVIDIA_GPU=m
+---
+> # CONFIG_I2C_NVIDIA_GPU is not set

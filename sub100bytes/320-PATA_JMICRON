@@ -1,0 +1,4 @@
+2846c2846
+< CONFIG_PATA_JMICRON=m
+---
+> # CONFIG_PATA_JMICRON is not set

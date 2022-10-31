@@ -1,0 +1,4 @@
+3147c3147
+< CONFIG_DNET=m
+---
+> # CONFIG_DNET is not set

@@ -1,0 +1,4 @@
+2818c2818
+< CONFIG_SATA_MV=m
+---
+> # CONFIG_SATA_MV is not set

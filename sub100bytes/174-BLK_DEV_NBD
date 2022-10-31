@@ -1,0 +1,4 @@
+2525c2525
+< CONFIG_BLK_DEV_NBD=m
+---
+> # CONFIG_BLK_DEV_NBD is not set

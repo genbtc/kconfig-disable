@@ -1,0 +1,4 @@
+1363c1363
+< CONFIG_NFT_SYNPROXY=m
+---
+> # CONFIG_NFT_SYNPROXY is not set

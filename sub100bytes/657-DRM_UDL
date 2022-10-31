@@ -1,0 +1,4 @@
+6203c6203
+< CONFIG_DRM_UDL=m
+---
+> # CONFIG_DRM_UDL is not set

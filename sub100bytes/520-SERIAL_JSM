@@ -1,0 +1,4 @@
+4222c4222
+< CONFIG_SERIAL_JSM=m
+---
+> # CONFIG_SERIAL_JSM is not set

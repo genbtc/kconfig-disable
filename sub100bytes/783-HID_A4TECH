@@ -1,0 +1,4 @@
+7010c7010
+< CONFIG_HID_A4TECH=m
+---
+> # CONFIG_HID_A4TECH is not set

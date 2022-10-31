@@ -1,0 +1,4 @@
+9474c9474
+< CONFIG_NLS_KOI8_R=m
+---
+> # CONFIG_NLS_KOI8_R is not set

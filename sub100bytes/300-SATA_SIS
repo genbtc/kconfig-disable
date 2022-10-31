@@ -1,0 +1,4 @@
+2822c2822
+< CONFIG_SATA_SIS=m
+---
+> # CONFIG_SATA_SIS is not set

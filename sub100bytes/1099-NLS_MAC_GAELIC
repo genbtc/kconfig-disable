@@ -1,0 +1,4 @@
+9481c9481
+< CONFIG_NLS_MAC_GAELIC=m
+---
+> # CONFIG_NLS_MAC_GAELIC is not set

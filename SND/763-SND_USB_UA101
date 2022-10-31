@@ -1,0 +1,4 @@
+6559c6559
+< CONFIG_SND_USB_UA101=m
+---
+> # CONFIG_SND_USB_UA101 is not set

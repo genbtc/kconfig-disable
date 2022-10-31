@@ -1,0 +1,4 @@
+7072c7072
+< CONFIG_HID_MALTRON=m
+---
+> # CONFIG_HID_MALTRON is not set

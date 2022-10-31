@@ -1,0 +1,4 @@
+3208c3208
+< CONFIG_IGC=m
+---
+> # CONFIG_IGC is not set

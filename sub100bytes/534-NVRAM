@@ -1,0 +1,4 @@
+4291c4291
+< CONFIG_NVRAM=y
+---
+> CONFIG_NVRAM=m

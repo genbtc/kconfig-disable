@@ -1,0 +1,4 @@
+6464c6464
+< CONFIG_SND_LAYLA20=m
+---
+> # CONFIG_SND_LAYLA20 is not set

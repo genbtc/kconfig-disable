@@ -1,0 +1,4 @@
+7126c7126
+< CONFIG_HID_XINMO=m
+---
+> # CONFIG_HID_XINMO is not set

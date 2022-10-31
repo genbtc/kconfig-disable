@@ -1,0 +1,4 @@
+7124c7124
+< CONFIG_HID_WACOM=m
+---
+> # CONFIG_HID_WACOM is not set

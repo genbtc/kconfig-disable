@@ -1,0 +1,4 @@
+3537c3537
+< CONFIG_USB_IPHETH=m
+---
+> # CONFIG_USB_IPHETH is not set

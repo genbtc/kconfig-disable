@@ -1,0 +1,4 @@
+2825c2825
+< CONFIG_SATA_VIA=m
+---
+> # CONFIG_SATA_VIA is not set

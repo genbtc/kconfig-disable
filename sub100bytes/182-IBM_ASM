@@ -1,0 +1,4 @@
+2569c2569
+< CONFIG_IBM_ASM=m
+---
+> # CONFIG_IBM_ASM is not set

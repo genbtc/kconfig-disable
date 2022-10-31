@@ -1,0 +1,4 @@
+3894c3894
+< CONFIG_INPUT_JOYDEV=m
+---
+> # CONFIG_INPUT_JOYDEV is not set

@@ -1,0 +1,4 @@
+6494c6494
+< CONFIG_SND_LOLA=m
+---
+> # CONFIG_SND_LOLA is not set

@@ -1,0 +1,4 @@
+7672c7672
+< CONFIG_RTC_DRV_ABX80X=m
+---
+> # CONFIG_RTC_DRV_ABX80X is not set

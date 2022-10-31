@@ -1,0 +1,4 @@
+6568c6568
+< CONFIG_SND_USB_POD=m
+---
+> # CONFIG_SND_USB_POD is not set

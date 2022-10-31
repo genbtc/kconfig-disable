@@ -1,0 +1,4 @@
+2690c2690
+< CONFIG_SCSI_3W_9XXX=m
+---
+> # CONFIG_SCSI_3W_9XXX is not set

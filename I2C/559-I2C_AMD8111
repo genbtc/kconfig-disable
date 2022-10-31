@@ -1,0 +1,4 @@
+4363c4363
+< CONFIG_I2C_AMD8111=m
+---
+> # CONFIG_I2C_AMD8111 is not set

@@ -1,0 +1,4 @@
+7736c7736
+< CONFIG_RTC_DRV_DS1511=m
+---
+> # CONFIG_RTC_DRV_DS1511 is not set

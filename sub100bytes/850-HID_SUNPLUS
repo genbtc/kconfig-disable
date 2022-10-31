@@ -1,0 +1,4 @@
+7110c7110
+< CONFIG_HID_SUNPLUS=m
+---
+> # CONFIG_HID_SUNPLUS is not set

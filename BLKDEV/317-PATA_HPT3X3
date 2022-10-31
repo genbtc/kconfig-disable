@@ -1,0 +1,5 @@
+2842,2843c2842
+< CONFIG_PATA_HPT3X3=m
+< # CONFIG_PATA_HPT3X3_DMA is not set
+---
+> # CONFIG_PATA_HPT3X3 is not set

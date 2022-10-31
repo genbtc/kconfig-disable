@@ -1,0 +1,4 @@
+4303c4303
+< CONFIG_TCG_TIS_I2C_CR50=m
+---
+> # CONFIG_TCG_TIS_I2C_CR50 is not set

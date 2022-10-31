@@ -1,0 +1,4 @@
+4420c4420
+< CONFIG_I2C_STUB=m
+---
+> # CONFIG_I2C_STUB is not set

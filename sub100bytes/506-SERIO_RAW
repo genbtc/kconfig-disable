@@ -1,0 +1,4 @@
+4157c4157
+< CONFIG_SERIO_RAW=m
+---
+> # CONFIG_SERIO_RAW is not set

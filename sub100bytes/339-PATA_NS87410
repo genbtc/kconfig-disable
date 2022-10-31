@@ -1,0 +1,4 @@
+2871c2871
+< CONFIG_PATA_NS87410=m
+---
+> # CONFIG_PATA_NS87410 is not set

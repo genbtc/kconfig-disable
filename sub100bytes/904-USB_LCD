@@ -1,0 +1,4 @@
+7355c7355
+< CONFIG_USB_LCD=m
+---
+> # CONFIG_USB_LCD is not set

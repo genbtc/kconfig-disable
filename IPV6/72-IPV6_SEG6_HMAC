@@ -1,0 +1,4 @@
+1270c1270
+< CONFIG_IPV6_SEG6_HMAC=y
+---
+> # CONFIG_IPV6_SEG6_HMAC is not set

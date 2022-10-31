@@ -1,0 +1,4 @@
+7358c7358
+< CONFIG_USB_IDMOUSE=m
+---
+> # CONFIG_USB_IDMOUSE is not set

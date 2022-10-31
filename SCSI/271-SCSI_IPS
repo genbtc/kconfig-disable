@@ -1,0 +1,4 @@
+2744c2744
+< CONFIG_SCSI_IPS=m
+---
+> # CONFIG_SCSI_IPS is not set

@@ -1,0 +1,4 @@
+7140c7140
+< CONFIG_HID_PID=y
+---
+> # CONFIG_HID_PID is not set

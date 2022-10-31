@@ -1,0 +1,4 @@
+2575c2575
+< CONFIG_SGI_XP=m
+---
+> # CONFIG_SGI_XP is not set

@@ -1,0 +1,4 @@
+7100c7100
+< CONFIG_HID_ROCCAT=m
+---
+> # CONFIG_HID_ROCCAT is not set

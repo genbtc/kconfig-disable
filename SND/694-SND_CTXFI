@@ -1,0 +1,4 @@
+6461c6461
+< CONFIG_SND_CTXFI=m
+---
+> # CONFIG_SND_CTXFI is not set

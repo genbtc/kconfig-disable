@@ -1,0 +1,4 @@
+3504c3504
+< CONFIG_USB_LAN78XX=m
+---
+> # CONFIG_USB_LAN78XX is not set

@@ -1,0 +1,4 @@
+7162c7162
+< CONFIG_AMD_SFH_HID=m
+---
+> # CONFIG_AMD_SFH_HID is not set

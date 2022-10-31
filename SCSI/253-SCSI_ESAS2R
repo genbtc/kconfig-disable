@@ -1,0 +1,4 @@
+2714c2714
+< CONFIG_SCSI_ESAS2R=m
+---
+> # CONFIG_SCSI_ESAS2R is not set

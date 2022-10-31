@@ -1,0 +1,4 @@
+6564c6564
+< CONFIG_SND_USB_6FIRE=m
+---
+> # CONFIG_SND_USB_6FIRE is not set

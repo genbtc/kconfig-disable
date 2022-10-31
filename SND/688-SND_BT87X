@@ -1,0 +1,5 @@
+6452,6453c6452
+< CONFIG_SND_BT87X=m
+< # CONFIG_SND_BT87X_OVERCLOCK is not set
+---
+> # CONFIG_SND_BT87X is not set

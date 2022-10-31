@@ -1,0 +1,4 @@
+9462c9462
+< CONFIG_NLS_ASCII=y
+---
+> # CONFIG_NLS_ASCII is not set

@@ -1,0 +1,4 @@
+2840c2840
+< CONFIG_PATA_HPT37X=m
+---
+> # CONFIG_PATA_HPT37X is not set

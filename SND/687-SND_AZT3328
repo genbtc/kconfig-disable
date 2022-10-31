@@ -1,0 +1,4 @@
+6451c6451
+< CONFIG_SND_AZT3328=m
+---
+> # CONFIG_SND_AZT3328 is not set

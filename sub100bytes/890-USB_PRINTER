@@ -1,0 +1,4 @@
+7235c7235
+< CONFIG_USB_PRINTER=m
+---
+> # CONFIG_USB_PRINTER is not set

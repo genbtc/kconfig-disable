@@ -1,0 +1,4 @@
+7352c7352
+< CONFIG_USB_ADUTUX=m
+---
+> # CONFIG_USB_ADUTUX is not set

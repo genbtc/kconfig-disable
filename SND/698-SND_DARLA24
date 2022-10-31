@@ -1,0 +1,4 @@
+6465c6465
+< CONFIG_SND_DARLA24=m
+---
+> # CONFIG_SND_DARLA24 is not set

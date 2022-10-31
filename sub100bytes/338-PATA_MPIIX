@@ -1,0 +1,4 @@
+2870c2870
+< CONFIG_PATA_MPIIX=m
+---
+> # CONFIG_PATA_MPIIX is not set

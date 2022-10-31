@@ -1,0 +1,4 @@
+2972c2972
+< CONFIG_BONDING=m
+---
+> # CONFIG_BONDING is not set

@@ -1,0 +1,4 @@
+7117c7117
+< CONFIG_HID_TIVO=m
+---
+> # CONFIG_HID_TIVO is not set

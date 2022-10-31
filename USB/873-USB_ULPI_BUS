@@ -1,0 +1,8 @@
+7179c7179
+< CONFIG_USB_ULPI_BUS=m
+---
+> # CONFIG_USB_ULPI_BUS is not set
+8981,8983d8980
+< # CONFIG_PHY_QCOM_USB_HS is not set
+< # CONFIG_PHY_QCOM_USB_HSIC is not set
+< # CONFIG_PHY_TUSB1210 is not set

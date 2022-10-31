@@ -1,0 +1,4 @@
+3266c3266
+< CONFIG_FEALNX=m
+---
+> # CONFIG_FEALNX is not set

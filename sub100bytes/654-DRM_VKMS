@@ -1,0 +1,4 @@
+6198c6198
+< CONFIG_DRM_VKMS=m
+---
+> # CONFIG_DRM_VKMS is not set

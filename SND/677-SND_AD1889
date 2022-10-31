@@ -1,0 +1,4 @@
+6440c6440
+< CONFIG_SND_AD1889=m
+---
+> # CONFIG_SND_AD1889 is not set

@@ -1,0 +1,4 @@
+6503c6503
+< CONFIG_SND_RME96=m
+---
+> # CONFIG_SND_RME96 is not set

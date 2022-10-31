@@ -1,0 +1,4 @@
+7030c7030
+< CONFIG_HID_CYPRESS=m
+---
+> # CONFIG_HID_CYPRESS is not set

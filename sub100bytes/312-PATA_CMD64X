@@ -1,0 +1,4 @@
+2836c2836
+< CONFIG_PATA_CMD64X=m
+---
+> # CONFIG_PATA_CMD64X is not set

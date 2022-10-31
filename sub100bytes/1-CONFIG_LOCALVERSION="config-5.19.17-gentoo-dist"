@@ -1,0 +1,4 @@
+32c32
+< CONFIG_LOCALVERSION="-gentoo-dist"
+---
+> CONFIG_LOCALVERSION="config-5.19.17-gentoo-dist"

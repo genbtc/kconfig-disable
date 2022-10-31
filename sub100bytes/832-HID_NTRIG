@@ -1,0 +1,4 @@
+7082c7082
+< CONFIG_HID_NTRIG=y
+---
+> # CONFIG_HID_NTRIG is not set

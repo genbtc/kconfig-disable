@@ -1,0 +1,4 @@
+1670c1670
+< CONFIG_BRIDGE_MRP=y
+---
+> # CONFIG_BRIDGE_MRP is not set

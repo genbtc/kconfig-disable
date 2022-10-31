@@ -1,0 +1,4 @@
+6563c6563
+< CONFIG_SND_USB_US122L=m
+---
+> # CONFIG_SND_USB_US122L is not set

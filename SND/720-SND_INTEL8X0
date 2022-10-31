@@ -1,0 +1,4 @@
+6491c6491
+< CONFIG_SND_INTEL8X0=m
+---
+> # CONFIG_SND_INTEL8X0 is not set

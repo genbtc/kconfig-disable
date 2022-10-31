@@ -1,0 +1,4 @@
+6469c6469
+< CONFIG_SND_MIA=m
+---
+> # CONFIG_SND_MIA is not set

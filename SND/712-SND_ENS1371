@@ -1,0 +1,4 @@
+6480c6480
+< CONFIG_SND_ENS1371=m
+---
+> # CONFIG_SND_ENS1371 is not set

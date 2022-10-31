@@ -1,0 +1,4 @@
+3873c3873
+< CONFIG_NETDEVSIM=m
+---
+> # CONFIG_NETDEVSIM is not set

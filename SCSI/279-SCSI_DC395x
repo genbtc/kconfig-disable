@@ -1,0 +1,4 @@
+2768c2768
+< CONFIG_SCSI_DC395x=m
+---
+> # CONFIG_SCSI_DC395x is not set

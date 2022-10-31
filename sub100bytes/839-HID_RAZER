@@ -1,0 +1,4 @@
+7097c7097
+< CONFIG_HID_RAZER=m
+---
+> # CONFIG_HID_RAZER is not set

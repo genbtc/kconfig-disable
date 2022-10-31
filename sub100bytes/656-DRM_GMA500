@@ -1,0 +1,4 @@
+6202c6202
+< CONFIG_DRM_GMA500=m
+---
+> # CONFIG_DRM_GMA500 is not set

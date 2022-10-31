@@ -1,0 +1,4 @@
+7081c7081
+< CONFIG_HID_NTI=m
+---
+> # CONFIG_HID_NTI is not set

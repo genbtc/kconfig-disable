@@ -1,0 +1,4 @@
+6472c6472
+< CONFIG_SND_INDIGOIO=m
+---
+> # CONFIG_SND_INDIGOIO is not set

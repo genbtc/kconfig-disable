@@ -1,0 +1,4 @@
+4296c4296
+< CONFIG_UV_MMTIMER=m
+---
+> # CONFIG_UV_MMTIMER is not set

@@ -1,0 +1,4 @@
+7350c7350
+< CONFIG_USB_EMI62=m
+---
+> # CONFIG_USB_EMI62 is not set

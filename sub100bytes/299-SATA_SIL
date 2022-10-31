@@ -1,0 +1,4 @@
+2821c2821
+< CONFIG_SATA_SIL=m
+---
+> # CONFIG_SATA_SIL is not set

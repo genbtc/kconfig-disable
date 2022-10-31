@@ -1,0 +1,4 @@
+6473c6473
+< CONFIG_SND_INDIGODJ=m
+---
+> # CONFIG_SND_INDIGODJ is not set

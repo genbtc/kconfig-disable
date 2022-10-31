@@ -1,0 +1,4 @@
+2636c2636
+< CONFIG_UACCE=m
+---
+> # CONFIG_UACCE is not set

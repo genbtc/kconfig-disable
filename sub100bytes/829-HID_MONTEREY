@@ -1,0 +1,4 @@
+7077c7077
+< CONFIG_HID_MONTEREY=m
+---
+> # CONFIG_HID_MONTEREY is not set

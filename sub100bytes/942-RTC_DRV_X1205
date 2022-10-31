@@ -1,0 +1,4 @@
+7682c7682
+< CONFIG_RTC_DRV_X1205=m
+---
+> # CONFIG_RTC_DRV_X1205 is not set

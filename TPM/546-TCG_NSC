@@ -1,0 +1,4 @@
+4307c4307
+< CONFIG_TCG_NSC=m
+---
+> # CONFIG_TCG_NSC is not set

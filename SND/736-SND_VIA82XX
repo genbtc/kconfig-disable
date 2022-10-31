@@ -1,0 +1,4 @@
+6507c6507
+< CONFIG_SND_VIA82XX=m
+---
+> # CONFIG_SND_VIA82XX is not set

@@ -1,0 +1,4 @@
+7036c7036
+< CONFIG_HID_ELO=m
+---
+> # CONFIG_HID_ELO is not set

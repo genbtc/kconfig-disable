@@ -1,0 +1,4 @@
+2537c2537
+< CONFIG_BLK_DEV_RBD=m
+---
+> # CONFIG_BLK_DEV_RBD is not set

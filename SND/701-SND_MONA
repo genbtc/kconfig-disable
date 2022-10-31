@@ -1,0 +1,4 @@
+6468c6468
+< CONFIG_SND_MONA=m
+---
+> # CONFIG_SND_MONA is not set

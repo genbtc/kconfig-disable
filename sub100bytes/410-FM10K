@@ -1,0 +1,4 @@
+3207c3207
+< CONFIG_FM10K=m
+---
+> # CONFIG_FM10K is not set

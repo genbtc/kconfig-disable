@@ -1,0 +1,4 @@
+6569c6569
+< CONFIG_SND_USB_PODHD=m
+---
+> # CONFIG_SND_USB_PODHD is not set

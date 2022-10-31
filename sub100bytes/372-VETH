@@ -1,0 +1,4 @@
+3004c3004
+< CONFIG_VETH=m
+---
+> # CONFIG_VETH is not set

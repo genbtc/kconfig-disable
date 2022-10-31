@@ -1,0 +1,4 @@
+2820c2820
+< CONFIG_SATA_PROMISE=m
+---
+> # CONFIG_SATA_PROMISE is not set

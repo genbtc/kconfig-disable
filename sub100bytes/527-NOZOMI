@@ -1,0 +1,4 @@
+4246c4246
+< CONFIG_NOZOMI=m
+---
+> # CONFIG_NOZOMI is not set

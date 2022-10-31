@@ -1,0 +1,4 @@
+574c574
+< CONFIG_PM_TEST_SUSPEND=y
+---
+> # CONFIG_PM_TEST_SUSPEND is not set

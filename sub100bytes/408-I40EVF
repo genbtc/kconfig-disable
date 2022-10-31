@@ -1,0 +1,5 @@
+3202,3203c3202
+< CONFIG_IAVF=m
+< CONFIG_I40EVF=m
+---
+> # CONFIG_I40EVF is not set

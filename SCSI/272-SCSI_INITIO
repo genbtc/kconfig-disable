@@ -1,0 +1,4 @@
+2745c2745
+< CONFIG_SCSI_INITIO=m
+---
+> # CONFIG_SCSI_INITIO is not set

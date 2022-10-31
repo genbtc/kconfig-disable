@@ -1,0 +1,4 @@
+6566c6566
+< CONFIG_SND_BCD2000=m
+---
+> # CONFIG_SND_BCD2000 is not set

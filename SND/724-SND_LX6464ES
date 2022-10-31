@@ -1,0 +1,4 @@
+6495c6495
+< CONFIG_SND_LX6464ES=m
+---
+> # CONFIG_SND_LX6464ES is not set

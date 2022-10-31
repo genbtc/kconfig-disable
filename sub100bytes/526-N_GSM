@@ -1,0 +1,4 @@
+4245c4245
+< CONFIG_N_GSM=m
+---
+> # CONFIG_N_GSM is not set

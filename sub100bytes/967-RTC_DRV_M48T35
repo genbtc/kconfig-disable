@@ -1,0 +1,4 @@
+7748c7748
+< CONFIG_RTC_DRV_M48T35=m
+---
+> # CONFIG_RTC_DRV_M48T35 is not set

@@ -1,0 +1,4 @@
+2848c2848
+< CONFIG_PATA_NETCELL=m
+---
+> # CONFIG_PATA_NETCELL is not set

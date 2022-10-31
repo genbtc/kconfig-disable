@@ -1,0 +1,4 @@
+7058c7058
+< CONFIG_HID_TWINHAN=m
+---
+> # CONFIG_HID_TWINHAN is not set

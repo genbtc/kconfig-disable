@@ -1,0 +1,4 @@
+2749c2749
+< CONFIG_SCSI_STEX=m
+---
+> # CONFIG_SCSI_STEX is not set

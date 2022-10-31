@@ -1,0 +1,4 @@
+7220c7220
+< CONFIG_USB_UHCI_HCD=y
+---
+> # CONFIG_USB_UHCI_HCD is not set

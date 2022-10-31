@@ -1,0 +1,4 @@
+7018c7018
+< CONFIG_HID_BELKIN=m
+---
+> # CONFIG_HID_BELKIN is not set

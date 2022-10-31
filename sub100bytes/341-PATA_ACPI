@@ -1,0 +1,4 @@
+2879c2879
+< CONFIG_PATA_ACPI=m
+---
+> # CONFIG_PATA_ACPI is not set

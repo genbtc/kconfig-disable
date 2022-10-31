@@ -1,0 +1,4 @@
+6230c6230
+< CONFIG_DRM_GM12U320=m
+---
+> # CONFIG_DRM_GM12U320 is not set

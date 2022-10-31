@@ -1,0 +1,4 @@
+6478c6478
+< CONFIG_SND_EMU10K1X=m
+---
+> # CONFIG_SND_EMU10K1X is not set

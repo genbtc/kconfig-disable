@@ -1,0 +1,4 @@
+4364c4364
+< CONFIG_I2C_AMD_MP2=m
+---
+> # CONFIG_I2C_AMD_MP2 is not set

@@ -1,0 +1,4 @@
+6462c6462
+< CONFIG_SND_DARLA20=m
+---
+> # CONFIG_SND_DARLA20 is not set

@@ -1,0 +1,4 @@
+3503c3503
+< CONFIG_USB_RTL8152=m
+---
+> # CONFIG_USB_RTL8152 is not set

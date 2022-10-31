@@ -1,0 +1,4 @@
+7375c7375
+< CONFIG_USB_CHAOSKEY=m
+---
+> # CONFIG_USB_CHAOSKEY is not set

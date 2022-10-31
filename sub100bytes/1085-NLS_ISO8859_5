@@ -1,0 +1,4 @@
+9467c9467
+< CONFIG_NLS_ISO8859_5=m
+---
+> # CONFIG_NLS_ISO8859_5 is not set

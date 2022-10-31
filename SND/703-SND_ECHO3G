@@ -1,0 +1,4 @@
+6470c6470
+< CONFIG_SND_ECHO3G=m
+---
+> # CONFIG_SND_ECHO3G is not set

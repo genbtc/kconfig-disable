@@ -1,0 +1,8 @@
+3254,3258c3254
+< CONFIG_NET_VENDOR_MICREL=y
+< # CONFIG_KS8842 is not set
+< # CONFIG_KS8851 is not set
+< # CONFIG_KS8851_MLL is not set
+< CONFIG_KSZ884X_PCI=m
+---
+> # CONFIG_NET_VENDOR_MICREL is not set

@@ -1,0 +1,4 @@
+2762c2762
+< CONFIG_SCSI_QLA_ISCSI=m
+---
+> # CONFIG_SCSI_QLA_ISCSI is not set

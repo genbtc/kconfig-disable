@@ -1,0 +1,4 @@
+4406c4406
+< CONFIG_I2C_CP2615=m
+---
+> # CONFIG_I2C_CP2615 is not set

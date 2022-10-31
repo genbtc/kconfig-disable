@@ -1,0 +1,4 @@
+2730c2730
+< CONFIG_SCSI_MYRS=m
+---
+> # CONFIG_SCSI_MYRS is not set

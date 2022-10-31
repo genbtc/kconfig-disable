@@ -1,0 +1,4 @@
+2859c2859
+< CONFIG_PATA_SIL680=m
+---
+> # CONFIG_PATA_SIL680 is not set

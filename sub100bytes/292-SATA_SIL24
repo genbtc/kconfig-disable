@@ -1,0 +1,4 @@
+2802c2802
+< CONFIG_SATA_SIL24=m
+---
+> # CONFIG_SATA_SIL24 is not set

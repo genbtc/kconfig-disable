@@ -1,0 +1,4 @@
+7122c7122
+< CONFIG_HID_UDRAW_PS3=m
+---
+> # CONFIG_HID_UDRAW_PS3 is not set

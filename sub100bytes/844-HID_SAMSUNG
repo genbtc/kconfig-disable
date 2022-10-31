@@ -1,0 +1,4 @@
+7102c7102
+< CONFIG_HID_SAMSUNG=m
+---
+> # CONFIG_HID_SAMSUNG is not set

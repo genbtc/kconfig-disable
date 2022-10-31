@@ -1,0 +1,4 @@
+4376c4376
+< CONFIG_I2C_VIA=m
+---
+> # CONFIG_I2C_VIA is not set

@@ -1,0 +1,4 @@
+3870c3870
+< CONFIG_FUJITSU_ES=m
+---
+> # CONFIG_FUJITSU_ES is not set

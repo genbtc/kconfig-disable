@@ -1,0 +1,4 @@
+1210c1210
+< CONFIG_INET_AH=m
+---
+> # CONFIG_INET_AH is not set

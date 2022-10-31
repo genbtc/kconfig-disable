@@ -1,0 +1,4 @@
+6490c6490
+< CONFIG_SND_ICE1724=m
+---
+> # CONFIG_SND_ICE1724 is not set

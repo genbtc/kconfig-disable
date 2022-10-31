@@ -1,0 +1,4 @@
+6197c6197
+< CONFIG_DRM_VGEM=m
+---
+> # CONFIG_DRM_VGEM is not set

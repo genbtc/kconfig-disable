@@ -1,0 +1,4 @@
+2175c2175
+< CONFIG_VMD=m
+---
+> # CONFIG_VMD is not set

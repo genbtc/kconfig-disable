@@ -1,0 +1,4 @@
+4155c4155
+< # CONFIG_SERIO_PCIPS2 is not set
+---
+> CONFIG_SERIO_PCIPS2=m

@@ -1,0 +1,4 @@
+3287c3287
+< CONFIG_ETHOC=m
+---
+> # CONFIG_ETHOC is not set

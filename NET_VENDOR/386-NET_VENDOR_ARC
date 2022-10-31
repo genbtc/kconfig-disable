@@ -1,0 +1,4 @@
+3096c3096
+< CONFIG_NET_VENDOR_ARC=y
+---
+> # CONFIG_NET_VENDOR_ARC is not set

@@ -1,0 +1,4 @@
+4309c4309
+< CONFIG_TCG_INFINEON=m
+---
+> # CONFIG_TCG_INFINEON is not set

@@ -1,0 +1,4 @@
+4208c4208
+< CONFIG_SERIAL_8250_DW=y
+---
+> # CONFIG_SERIAL_8250_DW is not set

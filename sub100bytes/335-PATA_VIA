@@ -1,0 +1,4 @@
+2863c2863
+< CONFIG_PATA_VIA=m
+---
+> # CONFIG_PATA_VIA is not set

@@ -1,0 +1,4 @@
+2693c2693
+< CONFIG_SCSI_AACRAID=m
+---
+> # CONFIG_SCSI_AACRAID is not set

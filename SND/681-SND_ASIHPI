@@ -1,0 +1,4 @@
+6444c6444
+< CONFIG_SND_ASIHPI=m
+---
+> # CONFIG_SND_ASIHPI is not set

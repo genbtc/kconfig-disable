@@ -1,0 +1,4 @@
+7019c7019
+< CONFIG_HID_BETOP_FF=m
+---
+> # CONFIG_HID_BETOP_FF is not set

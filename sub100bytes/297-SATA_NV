@@ -1,0 +1,4 @@
+2819c2819
+< CONFIG_SATA_NV=m
+---
+> # CONFIG_SATA_NV is not set

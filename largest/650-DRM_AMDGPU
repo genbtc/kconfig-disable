@@ -1,0 +1,32 @@
+579d578
+< CONFIG_PM_GENERIC_DOMAINS=y
+581d579
+< CONFIG_PM_GENERIC_DOMAINS_SLEEP=y
+6132d6129
+< CONFIG_DRM_SCHED=m
+6150,6172c6147
+< CONFIG_DRM_AMDGPU=m
+< CONFIG_DRM_AMDGPU_SI=y
+< CONFIG_DRM_AMDGPU_CIK=y
+< CONFIG_DRM_AMDGPU_USERPTR=y
+< 
+< #
+< # ACP (Audio CoProcessor) Configuration
+< #
+< CONFIG_DRM_AMD_ACP=y
+< # end of ACP (Audio CoProcessor) Configuration
+< 
+< #
+< # Display Engine Configuration
+< #
+< CONFIG_DRM_AMD_DC=y
+< CONFIG_DRM_AMD_DC_DCN=y
+< CONFIG_DRM_AMD_DC_HDCP=y
+< CONFIG_DRM_AMD_DC_SI=y
+< CONFIG_DRM_AMD_SECURE_DISPLAY=y
+< # end of Display Engine Configuration
+< 
+< CONFIG_HSA_AMD=y
+< CONFIG_HSA_AMD_SVM=y
+---
+> # CONFIG_DRM_AMDGPU is not set

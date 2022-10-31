@@ -1,0 +1,4 @@
+7038c7038
+< CONFIG_HID_FT260=m
+---
+> # CONFIG_HID_FT260 is not set

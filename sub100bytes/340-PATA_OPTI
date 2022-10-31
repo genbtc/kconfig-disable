@@ -1,0 +1,4 @@
+2872c2872
+< CONFIG_PATA_OPTI=m
+---
+> # CONFIG_PATA_OPTI is not set

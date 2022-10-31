@@ -1,0 +1,4 @@
+6441c6441
+< CONFIG_SND_ALS300=m
+---
+> # CONFIG_SND_ALS300 is not set

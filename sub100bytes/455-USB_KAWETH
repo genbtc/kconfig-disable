@@ -1,0 +1,4 @@
+3500c3500
+< CONFIG_USB_KAWETH=m
+---
+> # CONFIG_USB_KAWETH is not set

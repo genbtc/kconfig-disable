@@ -1,0 +1,7 @@
+1643,1646c1643
+< CONFIG_RDS=m
+< CONFIG_RDS_RDMA=m
+< CONFIG_RDS_TCP=m
+< # CONFIG_RDS_DEBUG is not set
+---
+> # CONFIG_RDS is not set

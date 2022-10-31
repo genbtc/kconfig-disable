@@ -1,0 +1,4 @@
+7049c7049
+< CONFIG_HID_KYE=m
+---
+> # CONFIG_HID_KYE is not set

@@ -1,0 +1,4 @@
+6467c6467
+< CONFIG_SND_LAYLA24=m
+---
+> # CONFIG_SND_LAYLA24 is not set

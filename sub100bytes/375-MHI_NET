@@ -1,0 +1,4 @@
+3009c3009
+< CONFIG_MHI_NET=m
+---
+> # CONFIG_MHI_NET is not set

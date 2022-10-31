@@ -1,0 +1,4 @@
+9280c9280
+< CONFIG_HFSPLUS_FS=m
+---
+> # CONFIG_HFSPLUS_FS is not set

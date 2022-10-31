@@ -1,0 +1,4 @@
+2838c2838
+< CONFIG_PATA_EFAR=m
+---
+> # CONFIG_PATA_EFAR is not set

@@ -1,0 +1,4 @@
+7101c7101
+< CONFIG_HID_SAITEK=m
+---
+> # CONFIG_HID_SAITEK is not set

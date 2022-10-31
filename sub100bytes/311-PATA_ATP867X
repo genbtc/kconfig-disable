@@ -1,0 +1,4 @@
+2835c2835
+< CONFIG_PATA_ATP867X=m
+---
+> # CONFIG_PATA_ATP867X is not set

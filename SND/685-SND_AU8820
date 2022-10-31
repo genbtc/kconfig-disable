@@ -1,0 +1,4 @@
+6448c6448
+< CONFIG_SND_AU8820=m
+---
+> # CONFIG_SND_AU8820 is not set

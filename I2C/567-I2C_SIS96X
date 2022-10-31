@@ -1,0 +1,4 @@
+4375c4375
+< CONFIG_I2C_SIS96X=m
+---
+> # CONFIG_I2C_SIS96X is not set

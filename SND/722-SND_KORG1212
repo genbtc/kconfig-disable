@@ -1,0 +1,4 @@
+6493c6493
+< CONFIG_SND_KORG1212=m
+---
+> # CONFIG_SND_KORG1212 is not set

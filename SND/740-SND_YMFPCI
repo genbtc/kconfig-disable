@@ -1,0 +1,4 @@
+6511c6511
+< CONFIG_SND_YMFPCI=m
+---
+> # CONFIG_SND_YMFPCI is not set

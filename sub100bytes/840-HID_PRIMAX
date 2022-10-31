@@ -1,0 +1,4 @@
+7098c7098
+< CONFIG_HID_PRIMAX=m
+---
+> # CONFIG_HID_PRIMAX is not set

@@ -1,0 +1,4 @@
+6560c6560
+< CONFIG_SND_USB_USX2Y=m
+---
+> # CONFIG_SND_USB_USX2Y is not set

@@ -1,0 +1,4 @@
+7696c7696
+< CONFIG_RTC_DRV_EM3027=m
+---
+> # CONFIG_RTC_DRV_EM3027 is not set

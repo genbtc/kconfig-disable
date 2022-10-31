@@ -1,0 +1,4 @@
+6499c6499
+< CONFIG_SND_NM256=m
+---
+> # CONFIG_SND_NM256 is not set

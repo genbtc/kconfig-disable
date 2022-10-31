@@ -1,0 +1,8 @@
+3871d3870
+< CONFIG_USB4_NET=m
+9001,9003c9000
+< CONFIG_USB4=m
+< # CONFIG_USB4_DEBUGFS_WRITE is not set
+< # CONFIG_USB4_DMA_TEST is not set
+---
+> # CONFIG_USB4 is not set

@@ -1,0 +1,4 @@
+7040c7040
+< CONFIG_HID_GFRM=m
+---
+> # CONFIG_HID_GFRM is not set

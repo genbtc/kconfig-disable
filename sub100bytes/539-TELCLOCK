@@ -1,0 +1,4 @@
+4315c4315
+< CONFIG_TELCLOCK=m
+---
+> # CONFIG_TELCLOCK is not set

@@ -1,0 +1,4 @@
+9477c9477
+< CONFIG_NLS_MAC_CELTIC=m
+---
+> # CONFIG_NLS_MAC_CELTIC is not set

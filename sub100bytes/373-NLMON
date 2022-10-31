@@ -1,0 +1,4 @@
+3006c3006
+< CONFIG_NLMON=m
+---
+> # CONFIG_NLMON is not set

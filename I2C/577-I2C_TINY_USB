@@ -1,0 +1,4 @@
+4410c4410
+< CONFIG_I2C_TINY_USB=m
+---
+> # CONFIG_I2C_TINY_USB is not set

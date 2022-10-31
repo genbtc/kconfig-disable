@@ -1,0 +1,4 @@
+2719c2719
+< CONFIG_MEGARAID_SAS=m
+---
+> # CONFIG_MEGARAID_SAS is not set

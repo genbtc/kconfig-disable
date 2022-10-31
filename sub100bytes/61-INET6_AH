@@ -1,0 +1,4 @@
+1247c1247
+< CONFIG_INET6_AH=m
+---
+> # CONFIG_INET6_AH is not set

@@ -1,0 +1,4 @@
+2854c2854
+< CONFIG_PATA_PDC_OLD=m
+---
+> # CONFIG_PATA_PDC_OLD is not set

@@ -1,0 +1,4 @@
+2995c2995
+< CONFIG_MACSEC=m
+---
+> # CONFIG_MACSEC is not set

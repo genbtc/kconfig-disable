@@ -1,0 +1,4 @@
+4319c4319
+< CONFIG_XILLYUSB=m
+---
+> # CONFIG_XILLYUSB is not set

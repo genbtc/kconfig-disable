@@ -1,0 +1,5 @@
+2630,2631c2630
+< CONFIG_BCM_VK=m
+< CONFIG_BCM_VK_TTY=y
+---
+> # CONFIG_BCM_VK is not set

@@ -1,0 +1,4 @@
+2849c2849
+< CONFIG_PATA_NINJA32=m
+---
+> # CONFIG_PATA_NINJA32 is not set

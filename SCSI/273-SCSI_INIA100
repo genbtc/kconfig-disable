@@ -1,0 +1,4 @@
+2746c2746
+< CONFIG_SCSI_INIA100=m
+---
+> # CONFIG_SCSI_INIA100 is not set

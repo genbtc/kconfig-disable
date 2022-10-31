@@ -1,0 +1,4 @@
+7749c7749
+< CONFIG_RTC_DRV_M48T59=m
+---
+> # CONFIG_RTC_DRV_M48T59 is not set

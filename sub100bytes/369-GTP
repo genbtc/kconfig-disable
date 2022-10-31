@@ -1,0 +1,4 @@
+2993c2993
+< CONFIG_GTP=m
+---
+> # CONFIG_GTP is not set

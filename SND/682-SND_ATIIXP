@@ -1,0 +1,4 @@
+6445c6445
+< CONFIG_SND_ATIIXP=m
+---
+> # CONFIG_SND_ATIIXP is not set

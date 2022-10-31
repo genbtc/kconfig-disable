@@ -1,0 +1,4 @@
+6506c6506
+< CONFIG_SND_TRIDENT=m
+---
+> # CONFIG_SND_TRIDENT is not set

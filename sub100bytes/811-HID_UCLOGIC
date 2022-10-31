@@ -1,0 +1,4 @@
+7050c7050
+< CONFIG_HID_UCLOGIC=m
+---
+> # CONFIG_HID_UCLOGIC is not set

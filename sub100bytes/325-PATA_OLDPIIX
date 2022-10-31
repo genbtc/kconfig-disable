@@ -1,0 +1,4 @@
+2851c2851
+< CONFIG_PATA_OLDPIIX=m
+---
+> # CONFIG_PATA_OLDPIIX is not set

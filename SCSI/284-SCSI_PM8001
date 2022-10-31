@@ -1,0 +1,4 @@
+2773c2773
+< CONFIG_SCSI_PM8001=m
+---
+> # CONFIG_SCSI_PM8001 is not set

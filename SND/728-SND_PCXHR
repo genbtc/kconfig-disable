@@ -1,0 +1,4 @@
+6500c6500
+< CONFIG_SND_PCXHR=m
+---
+> # CONFIG_SND_PCXHR is not set

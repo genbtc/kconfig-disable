@@ -1,0 +1,4 @@
+7697c7697
+< CONFIG_RTC_DRV_RV3028=m
+---
+> # CONFIG_RTC_DRV_RV3028 is not set

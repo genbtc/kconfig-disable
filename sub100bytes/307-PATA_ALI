@@ -1,0 +1,4 @@
+2831c2831
+< CONFIG_PATA_ALI=m
+---
+> # CONFIG_PATA_ALI is not set

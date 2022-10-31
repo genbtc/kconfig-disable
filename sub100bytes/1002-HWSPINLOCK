@@ -1,0 +1,4 @@
+8231c8231
+< CONFIG_HWSPINLOCK=y
+---
+> # CONFIG_HWSPINLOCK is not set

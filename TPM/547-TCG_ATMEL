@@ -1,0 +1,4 @@
+4308c4308
+< CONFIG_TCG_ATMEL=m
+---
+> # CONFIG_TCG_ATMEL is not set

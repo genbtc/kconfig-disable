@@ -1,0 +1,4 @@
+7035c7035
+< CONFIG_HID_ELECOM=m
+---
+> # CONFIG_HID_ELECOM is not set

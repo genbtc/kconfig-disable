@@ -1,0 +1,4 @@
+6204c6204
+< CONFIG_DRM_AST=m
+---
+> # CONFIG_DRM_AST is not set

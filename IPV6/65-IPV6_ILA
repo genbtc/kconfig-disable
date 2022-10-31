@@ -1,0 +1,4 @@
+1253c1253
+< CONFIG_IPV6_ILA=m
+---
+> # CONFIG_IPV6_ILA is not set

@@ -1,0 +1,4 @@
+2862c2862
+< CONFIG_PATA_TRIFLEX=m
+---
+> # CONFIG_PATA_TRIFLEX is not set

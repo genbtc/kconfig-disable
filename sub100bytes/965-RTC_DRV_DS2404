@@ -1,0 +1,4 @@
+7745c7745
+< CONFIG_RTC_DRV_DS2404=m
+---
+> # CONFIG_RTC_DRV_DS2404 is not set

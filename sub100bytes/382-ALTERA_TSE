@@ -1,0 +1,4 @@
+3084c3084
+< CONFIG_ALTERA_TSE=m
+---
+> # CONFIG_ALTERA_TSE is not set

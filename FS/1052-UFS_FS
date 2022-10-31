@@ -1,0 +1,6 @@
+9353,9355c9353
+< CONFIG_UFS_FS=m
+< # CONFIG_UFS_FS_WRITE is not set
+< # CONFIG_UFS_DEBUG is not set
+---
+> # CONFIG_UFS_FS is not set

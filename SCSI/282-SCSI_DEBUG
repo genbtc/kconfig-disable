@@ -1,0 +1,4 @@
+2771c2771
+< CONFIG_SCSI_DEBUG=m
+---
+> # CONFIG_SCSI_DEBUG is not set

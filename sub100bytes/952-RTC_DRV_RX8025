@@ -1,0 +1,4 @@
+7695c7695
+< CONFIG_RTC_DRV_RX8025=m
+---
+> # CONFIG_RTC_DRV_RX8025 is not set

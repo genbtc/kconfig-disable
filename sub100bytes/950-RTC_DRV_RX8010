@@ -1,0 +1,4 @@
+7693c7693
+< CONFIG_RTC_DRV_RX8010=m
+---
+> # CONFIG_RTC_DRV_RX8010 is not set

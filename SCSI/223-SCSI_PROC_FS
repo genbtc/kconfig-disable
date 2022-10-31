@@ -1,0 +1,4 @@
+2651c2651
+< CONFIG_SCSI_PROC_FS=y
+---
+> # CONFIG_SCSI_PROC_FS is not set

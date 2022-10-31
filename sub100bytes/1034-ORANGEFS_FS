@@ -1,0 +1,4 @@
+9274c9274
+< CONFIG_ORANGEFS_FS=m
+---
+> # CONFIG_ORANGEFS_FS is not set

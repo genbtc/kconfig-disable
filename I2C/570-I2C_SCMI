@@ -1,0 +1,4 @@
+4382c4382
+< CONFIG_I2C_SCMI=m
+---
+> # CONFIG_I2C_SCMI is not set

@@ -1,0 +1,4 @@
+7700c7700
+< CONFIG_RTC_DRV_SD3078=m
+---
+> # CONFIG_RTC_DRV_SD3078 is not set

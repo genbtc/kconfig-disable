@@ -1,0 +1,4 @@
+1274c1274
+< CONFIG_NETLABEL=y
+---
+> # CONFIG_NETLABEL is not set

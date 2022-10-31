@@ -1,0 +1,4 @@
+7015c7015
+< CONFIG_HID_APPLEIR=m
+---
+> # CONFIG_HID_APPLEIR is not set

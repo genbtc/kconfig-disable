@@ -1,0 +1,4 @@
+7086c7086
+< CONFIG_HID_PENMOUNT=m
+---
+> # CONFIG_HID_PENMOUNT is not set

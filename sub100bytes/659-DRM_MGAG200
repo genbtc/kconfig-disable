@@ -1,0 +1,4 @@
+6205c6205
+< CONFIG_DRM_MGAG200=m
+---
+> # CONFIG_DRM_MGAG200 is not set

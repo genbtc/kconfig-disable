@@ -1,0 +1,4 @@
+7048c7048
+< CONFIG_HID_KEYTOUCH=m
+---
+> # CONFIG_HID_KEYTOUCH is not set

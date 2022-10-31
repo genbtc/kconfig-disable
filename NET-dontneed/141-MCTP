@@ -1,0 +1,13 @@
+2022c2022
+< CONFIG_MCTP=y
+---
+> # CONFIG_MCTP is not set
+3449,3456d3448
+< 
+< #
+< # MCTP Device Drivers
+< #
+< CONFIG_MCTP_SERIAL=m
+< # CONFIG_MCTP_TRANSPORT_I2C is not set
+< # end of MCTP Device Drivers
+< 

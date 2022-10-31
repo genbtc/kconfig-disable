@@ -1,0 +1,4 @@
+2691c2691
+< CONFIG_SCSI_3W_SAS=m
+---
+> # CONFIG_SCSI_3W_SAS is not set

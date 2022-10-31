@@ -1,0 +1,4 @@
+3185c3185
+< CONFIG_E1000=m
+---
+> # CONFIG_E1000 is not set

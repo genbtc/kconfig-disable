@@ -1,0 +1,4 @@
+1252c1252
+< CONFIG_IPV6_MIP6=y
+---
+> # CONFIG_IPV6_MIP6 is not set

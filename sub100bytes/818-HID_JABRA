@@ -1,0 +1,4 @@
+7057c7057
+< CONFIG_HID_JABRA=m
+---
+> # CONFIG_HID_JABRA is not set

@@ -1,0 +1,4 @@
+2623c2623
+< CONFIG_INTEL_MEI_TXE=m
+---
+> # CONFIG_INTEL_MEI_TXE is not set

@@ -1,0 +1,4 @@
+7037c7037
+< CONFIG_HID_EZKEY=m
+---
+> # CONFIG_HID_EZKEY is not set

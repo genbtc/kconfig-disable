@@ -1,0 +1,4 @@
+2723c2723
+< CONFIG_SCSI_MPT2SAS=m
+---
+> # CONFIG_SCSI_MPT2SAS is not set

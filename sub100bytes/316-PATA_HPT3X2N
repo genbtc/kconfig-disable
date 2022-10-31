@@ -1,0 +1,4 @@
+2841c2841
+< CONFIG_PATA_HPT3X2N=m
+---
+> # CONFIG_PATA_HPT3X2N is not set

@@ -1,0 +1,4 @@
+6502c6502
+< CONFIG_SND_RME32=m
+---
+> # CONFIG_SND_RME32 is not set

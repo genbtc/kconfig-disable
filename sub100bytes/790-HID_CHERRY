@@ -1,0 +1,4 @@
+7021c7021
+< CONFIG_HID_CHERRY=m
+---
+> # CONFIG_HID_CHERRY is not set

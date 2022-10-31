@@ -1,0 +1,4 @@
+6466c6466
+< CONFIG_SND_GINA24=m
+---
+> # CONFIG_SND_GINA24 is not set

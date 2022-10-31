@@ -1,0 +1,6 @@
+2954d2953
+< CONFIG_FUSION_LAN=m
+2977c2976
+< CONFIG_NET_FC=y
+---
+> # CONFIG_NET_FC is not set

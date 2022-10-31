@@ -1,0 +1,4 @@
+4398c4398
+< CONFIG_I2C_SIMTEC=m
+---
+> # CONFIG_I2C_SIMTEC is not set

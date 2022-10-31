@@ -1,0 +1,4 @@
+2590c2590
+< CONFIG_DW_XDATA_PCIE=m
+---
+> # CONFIG_DW_XDATA_PCIE is not set

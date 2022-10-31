@@ -1,0 +1,4 @@
+2861c2861
+< CONFIG_PATA_TOSHIBA=m
+---
+> # CONFIG_PATA_TOSHIBA is not set
