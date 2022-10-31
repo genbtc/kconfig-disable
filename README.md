@@ -57,3 +57,31 @@ Then run 'make oldconfig' and it will say "warning: override: reassigning to sym
 * TPM(9): TPMs other than AMD, disabled.
 * PCI(9): PCI Controllers for wrong hardware, disabled
 * PSTORE(6): Persistent store (function helps save crash dumps)
+
+### (# number of bytes): File Folder (contains everything inside)
+#### ordered from largest to smallest
+137389 _largest.txt
+34541 ./AFTER_kconfig-disables.txt
+32563 _sub100bytes.txt
+23860 SND.txt
+7666 NET_VENDOR.txt
+5030 SCSI.txt
+4140 NET-dontneed.txt
+3101 I2C.txt
+2532 FS.txt
+1803 USB.txt
+1561 IPV6.txt
+1527 MFD.txt
+1498 NET-transports.txt
+1291 HID.txt
+1165 BLKDEV.txt
+1056 VIRT.txt
+912 PSTORE.txt
+878 PCI.txt
+867 RTC.txt
+841 DRM.txt
+799 SERIAL.txt
+620 TPM.txt
+382 INPUT.txt
+
+
