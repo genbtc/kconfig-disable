@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/iio/position/Makefile
+# CONFIG_HID_SENSOR_CUSTOM_INTEL_HINGE hid-sensor-custom-intel-hinge.o 
+# CONFIG_IQS624_POS iqs624-pos.o 

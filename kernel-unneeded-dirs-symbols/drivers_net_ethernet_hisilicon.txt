@@ -1,0 +1,16 @@
+# Reading Makefile: drivers/net/ethernet/hisilicon/hns3/Makefile
+# CONFIG_HNS3 hnae3.o 
+# CONFIG_HNS3_ENET hns3.o 
+# CONFIG_HNS3_HCLGEVF hclgevf.o 
+# CONFIG_HNS3_HCLGE hclge.o 
+# Reading Makefile: drivers/net/ethernet/hisilicon/hns/Makefile
+# CONFIG_HNS hnae.o 
+# CONFIG_HNS_DSAF hns_dsaf.o 
+# CONFIG_HNS_ENET hns_enet_drv.o 
+# Reading Makefile: drivers/net/ethernet/hisilicon/Makefile
+# CONFIG_HIX5HD2_GMAC hix5hd2_gmac.o 
+# CONFIG_HIP04_ETH hip04_eth.o 
+# CONFIG_HNS_MDIO hns_mdio.o 
+# CONFIG_HNS hns/ 
+# CONFIG_HNS3 hns3/ 
+# CONFIG_HISI_FEMAC hisi_femac.o 

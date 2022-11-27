@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/hte/Makefile
+# CONFIG_HTE hte.o 
+# CONFIG_HTE_TEGRA194 hte-tegra194.o 
+# CONFIG_HTE_TEGRA194_TEST hte-tegra194-test.o 

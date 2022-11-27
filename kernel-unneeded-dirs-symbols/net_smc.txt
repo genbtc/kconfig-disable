@@ -1,0 +1,3 @@
+# Reading Makefile: net/smc/Makefile
+# CONFIG_SMC smc.o 
+# CONFIG_SMC_DIAG smc_diag.o 

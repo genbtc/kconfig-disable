@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/vc04_services/bcm2835-camera/Makefile
+# CONFIG_VIDEO_BCM2835 bcm2835-v4l2.o 

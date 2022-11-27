@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/cec/usb/pulse8/Makefile
+# CONFIG_USB_PULSE8_CEC pulse8-cec.o 

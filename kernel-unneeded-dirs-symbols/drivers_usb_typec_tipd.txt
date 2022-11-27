@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/usb/typec/tipd/Makefile
+# CONFIG_TYPEC_TPS6598X tps6598x.o 

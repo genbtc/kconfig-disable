@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/thermal/tegra/Makefile
+# CONFIG_TEGRA_SOCTHERM tegra-soctherm.o 
+# CONFIG_TEGRA_BPMP_THERMAL tegra-bpmp-thermal.o 
+# CONFIG_TEGRA30_TSENSOR tegra30-tsensor.o 

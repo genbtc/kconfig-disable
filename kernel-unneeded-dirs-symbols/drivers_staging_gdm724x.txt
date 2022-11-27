@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/staging/gdm724x/Makefile
+# CONFIG_LTE_GDM724X gdmulte.o 
+# CONFIG_LTE_GDM724X gdmtty.o 

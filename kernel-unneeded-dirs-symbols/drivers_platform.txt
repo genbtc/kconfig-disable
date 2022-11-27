@@ -1,0 +1,214 @@
+# Reading Makefile: drivers/platform/x86/intel/wmi/Makefile
+# CONFIG_INTEL_WMI_SBL_FW_UPDATE intel-wmi-sbl-fw-update.o 
+# CONFIG_INTEL_WMI_THUNDERBOLT intel-wmi-thunderbolt.o 
+# Reading Makefile: drivers/platform/x86/intel/uncore-frequency/Makefile
+# CONFIG_INTEL_UNCORE_FREQ_CONTROL intel-uncore-frequency.o 
+# CONFIG_INTEL_UNCORE_FREQ_CONTROL intel-uncore-frequency-common.o 
+# Reading Makefile: drivers/platform/x86/intel/telemetry/Makefile
+# CONFIG_INTEL_TELEMETRY intel_telemetry_core.o 
+# CONFIG_INTEL_TELEMETRY intel_telemetry_pltdrv.o 
+# CONFIG_INTEL_TELEMETRY intel_telemetry_debugfs.o 
+# Reading Makefile: drivers/platform/x86/intel/speed_select_if/Makefile
+# CONFIG_INTEL_SPEED_SELECT_INTERFACE isst_if_common.o 
+# CONFIG_INTEL_SPEED_SELECT_INTERFACE isst_if_mmio.o 
+# CONFIG_INTEL_SPEED_SELECT_INTERFACE isst_if_mbox_pci.o 
+# CONFIG_INTEL_SPEED_SELECT_INTERFACE isst_if_mbox_msr.o 
+# Reading Makefile: drivers/platform/x86/intel/pmt/Makefile
+# CONFIG_INTEL_PMT_CLASS pmt_class.o 
+# CONFIG_INTEL_PMT_TELEMETRY pmt_telemetry.o 
+# CONFIG_INTEL_PMT_CRASHLOG pmt_crashlog.o 
+# Reading Makefile: drivers/platform/x86/intel/pmc/Makefile
+# CONFIG_INTEL_PMC_CORE intel_pmc_core.o 
+# CONFIG_INTEL_PMC_CORE intel_pmc_core_pltdrv.o 
+# Reading Makefile: drivers/platform/x86/intel/int3472/Makefile
+# CONFIG_INTEL_SKL_INT3472 intel_skl_int3472_discrete.o 					   intel_skl_int3472_tps68470.o 
+# Reading Makefile: drivers/platform/x86/intel/int1092/Makefile
+# CONFIG_INTEL_SAR_INT1092 intel_sar.o 
+# Reading Makefile: drivers/platform/x86/intel/ifs/Makefile
+# CONFIG_INTEL_IFS intel_ifs.o 
+# Reading Makefile: drivers/platform/x86/intel/atomisp2/Makefile
+# CONFIG_INTEL_ATOMISP2_LED intel_atomisp2_led.o 
+# CONFIG_INTEL_ATOMISP2_PM intel_atomisp2_pm.o 
+# Reading Makefile: drivers/platform/x86/intel/Makefile
+# CONFIG_INTEL_ATOMISP2_PDX86 atomisp2/ 
+# CONFIG_INTEL_IFS ifs/ 
+# CONFIG_INTEL_SAR_INT1092 int1092/ 
+# CONFIG_INTEL_SKL_INT3472 int3472/ 
+# CONFIG_INTEL_PMC_CORE pmc/ 
+# CONFIG_INTEL_PMT_CLASS pmt/ 
+# CONFIG_INTEL_SPEED_SELECT_INTERFACE speed_select_if/ 
+# CONFIG_INTEL_TELEMETRY telemetry/ 
+# CONFIG_INTEL_WMI wmi/ 
+# CONFIG_INTEL_UNCORE_FREQ_CONTROL uncore-frequency/ 
+# CONFIG_INTEL_HID_EVENT intel-hid.o 
+# CONFIG_INTEL_VBTN intel-vbtn.o 
+# CONFIG_INTEL_ISHTP_ECLITE ishtp_eclite.o 
+# CONFIG_INTEL_INT0002_VGPIO intel_int0002_vgpio.o 
+# CONFIG_INTEL_OAKTRAIL intel_oaktrail.o 
+# CONFIG_INTEL_SDSI intel_sdsi.o 
+# CONFIG_INTEL_VSEC intel_vsec.o 
+# CONFIG_INTEL_BXTWC_PMIC_TMU intel_bxtwc_tmu.o 
+# CONFIG_X86_ANDROID_TABLETS intel_crystal_cove_charger.o 
+# CONFIG_INTEL_CHTDC_TI_PWRBTN intel_chtdc_ti_pwrbtn.o 
+# CONFIG_INTEL_CHTWC_INT33FE intel_chtwc_int33fe.o 
+# CONFIG_INTEL_MRFLD_PWRBTN intel_mrfld_pwrbtn.o 
+# CONFIG_INTEL_PUNIT_IPC intel_punit_ipc.o 
+# CONFIG_INTEL_RST intel-rst.o 
+# CONFIG_INTEL_SMARTCONNECT intel-smartconnect.o 
+# CONFIG_INTEL_TURBO_MAX_3 intel_turbo_max_3.o 
+# Reading Makefile: drivers/platform/x86/dell/dell-wmi-sysman/Makefile
+# CONFIG_DELL_WMI_SYSMAN dell-wmi-sysman.o 
+# Reading Makefile: drivers/platform/x86/dell/Makefile
+# CONFIG_ALIENWARE_WMI alienware-wmi.o 
+# CONFIG_DCDBAS dcdbas.o 
+# CONFIG_DELL_LAPTOP dell-laptop.o 
+# CONFIG_DELL_RBTN dell-rbtn.o 
+# CONFIG_DELL_RBU dell_rbu.o 
+# CONFIG_DELL_SMBIOS dell-smbios.o 
+# CONFIG_DELL_SMO8800 dell-smo8800.o 
+# CONFIG_DELL_WMI dell-wmi.o 
+# CONFIG_DELL_WMI_AIO dell-wmi-aio.o 
+# CONFIG_DELL_WMI_DESCRIPTOR dell-wmi-descriptor.o 
+# CONFIG_DELL_WMI_LED dell-wmi-led.o 
+# CONFIG_DELL_WMI_SYSMAN dell-wmi-sysman/ 
+# Reading Makefile: drivers/platform/x86/Makefile
+# CONFIG_ACPI_WMI wmi.o 
+# CONFIG_WMI_BMOF wmi-bmof.o 
+# CONFIG_HUAWEI_WMI huawei-wmi.o 
+# CONFIG_MXM_WMI mxm-wmi.o 
+# CONFIG_NVIDIA_WMI_EC_BACKLIGHT nvidia-wmi-ec-backlight.o 
+# CONFIG_PEAQ_WMI peaq-wmi.o 
+# CONFIG_XIAOMI_WMI xiaomi-wmi.o 
+# CONFIG_GIGABYTE_WMI gigabyte-wmi.o 
+# CONFIG_YOGABOOK_WMI lenovo-yogabook-wmi.o 
+# CONFIG_ACERHDF acerhdf.o 
+# CONFIG_ACER_WIRELESS acer-wireless.o 
+# CONFIG_ACER_WMI acer-wmi.o 
+# CONFIG_AMD_PMC amd-pmc.o 
+# CONFIG_AMD_HSMP amd_hsmp.o 
+# CONFIG_ADV_SWBUTTON adv_swbutton.o 
+# CONFIG_APPLE_GMUX apple-gmux.o 
+# CONFIG_ASUS_LAPTOP asus-laptop.o 
+# CONFIG_ASUS_WIRELESS asus-wireless.o 
+# CONFIG_ASUS_WMI asus-wmi.o 
+# CONFIG_ASUS_NB_WMI asus-nb-wmi.o 
+# CONFIG_ASUS_TF103C_DOCK asus-tf103c-dock.o 
+# CONFIG_EEEPC_LAPTOP eeepc-laptop.o 
+# CONFIG_EEEPC_WMI eeepc-wmi.o 
+# CONFIG_MERAKI_MX100 meraki-mx100.o 
+# CONFIG_X86_PLATFORM_DRIVERS_DELL dell/ 
+# CONFIG_AMILO_RFKILL amilo-rfkill.o 
+# CONFIG_FUJITSU_LAPTOP fujitsu-laptop.o 
+# CONFIG_FUJITSU_TABLET fujitsu-tablet.o 
+# CONFIG_GPD_POCKET_FAN gpd-pocket-fan.o 
+# CONFIG_HP_ACCEL hp_accel.o 
+# CONFIG_HP_WMI hp-wmi.o 
+# CONFIG_TC1100_WMI tc1100-wmi.o 
+# CONFIG_UV_SYSFS uv_sysfs.o 
+# CONFIG_IBM_RTL ibm_rtl.o 
+# CONFIG_IDEAPAD_LAPTOP ideapad-laptop.o 
+# CONFIG_SENSORS_HDAPS hdaps.o 
+# CONFIG_THINKPAD_ACPI thinkpad_acpi.o 
+# CONFIG_THINKPAD_LMI think-lmi.o 
+# CONFIG_MSI_LAPTOP msi-laptop.o 
+# CONFIG_MSI_WMI msi-wmi.o 
+# CONFIG_XO15_EBOOK xo15-ebook.o 
+# CONFIG_XO1_RFKILL xo1-rfkill.o 
+# CONFIG_PCENGINES_APU2 pcengines-apuv2.o 
+# CONFIG_BARCO_P50_GPIO barco-p50-gpio.o 
+# CONFIG_SAMSUNG_LAPTOP samsung-laptop.o 
+# CONFIG_SAMSUNG_Q10 samsung-q10.o 
+# CONFIG_TOSHIBA_BT_RFKILL toshiba_bluetooth.o 
+# CONFIG_TOSHIBA_HAPS toshiba_haps.o 
+# CONFIG_TOSHIBA_WMI toshiba-wmi.o 
+# CONFIG_ACPI_TOSHIBA toshiba_acpi.o 
+# CONFIG_ACPI_CMPC classmate-laptop.o 
+# CONFIG_COMPAL_LAPTOP compal-laptop.o 
+# CONFIG_LG_LAPTOP lg-laptop.o 
+# CONFIG_PANASONIC_LAPTOP panasonic-laptop.o 
+# CONFIG_SONY_LAPTOP sony-laptop.o 
+# CONFIG_SYSTEM76_ACPI system76_acpi.o 
+# CONFIG_TOPSTAR_LAPTOP topstar-laptop.o 
+# CONFIG_FW_ATTR_CLASS firmware_attributes_class.o 
+# CONFIG_SERIAL_MULTI_INSTANTIATE serial-multi-instantiate.o 
+# CONFIG_MLX_PLATFORM mlx-platform.o 
+# CONFIG_TOUCHSCREEN_DMI touchscreen_dmi.o 
+# CONFIG_WIRELESS_HOTKEY wireless-hotkey.o 
+# CONFIG_X86_ANDROID_TABLETS x86-android-tablets.o 
+# CONFIG_INTEL_IPS intel_ips.o 
+# CONFIG_INTEL_SCU_IPC intel_scu_ipc.o 
+# CONFIG_INTEL_SCU_PCI intel_scu_pcidrv.o 
+# CONFIG_INTEL_SCU_PLATFORM intel_scu_pltdrv.o 
+# CONFIG_INTEL_SCU_WDT intel_scu_wdt.o 
+# CONFIG_INTEL_SCU_IPC_UTIL intel_scu_ipcutil.o 
+# CONFIG_PMC_ATOM pmc_atom.o 
+# CONFIG_SIEMENS_SIMATIC_IPC simatic-ipc.o 
+# CONFIG_WINMATE_FM07_KEYS winmate-fm07-keys.o 
+# Reading Makefile: drivers/platform/surface/aggregator/Makefile
+# CONFIG_SURFACE_AGGREGATOR surface_aggregator.o 
+# Reading Makefile: drivers/platform/surface/Makefile
+# CONFIG_SURFACE3_WMI surface3-wmi.o 
+# CONFIG_SURFACE_3_POWER_OPREGION surface3_power.o 
+# CONFIG_SURFACE_ACPI_NOTIFY surface_acpi_notify.o 
+# CONFIG_SURFACE_AGGREGATOR aggregator/ 
+# CONFIG_SURFACE_AGGREGATOR_CDEV surface_aggregator_cdev.o 
+# CONFIG_SURFACE_AGGREGATOR_REGISTRY surface_aggregator_registry.o 
+# CONFIG_SURFACE_DTX surface_dtx.o 
+# CONFIG_SURFACE_GPE surface_gpe.o 
+# CONFIG_SURFACE_HOTPLUG surface_hotplug.o 
+# CONFIG_SURFACE_PLATFORM_PROFILE surface_platform_profile.o 
+# CONFIG_SURFACE_PRO3_BUTTON surfacepro3_button.o 
+# Reading Makefile: drivers/platform/olpc/Makefile
+# CONFIG_OLPC_EC olpc-ec.o 
+# CONFIG_OLPC_XO175_EC olpc-xo175-ec.o 
+# Reading Makefile: drivers/platform/mips/Makefile
+# CONFIG_CPU_HWMON cpu_hwmon.o 
+# CONFIG_RS780E_ACPI rs780e-acpi.o 
+# CONFIG_LS2K_RESET ls2k-reset.o 
+# Reading Makefile: drivers/platform/mellanox/Makefile
+# CONFIG_MLXBF_BOOTCTL mlxbf-bootctl.o 
+# CONFIG_MLXBF_PMC mlxbf-pmc.o 
+# CONFIG_MLXBF_TMFIFO mlxbf-tmfifo.o 
+# CONFIG_MLXREG_HOTPLUG mlxreg-hotplug.o 
+# CONFIG_MLXREG_IO mlxreg-io.o 
+# CONFIG_MLXREG_LC mlxreg-lc.o 
+# CONFIG_NVSW_SN2201 nvsw-sn2201.o 
+# Reading Makefile: drivers/platform/goldfish/Makefile
+# CONFIG_GOLDFISH_PIPE goldfish_pipe.o 
+# Reading Makefile: drivers/platform/chrome/wilco_ec/Makefile
+# CONFIG_WILCO_EC wilco_ec.o 
+# CONFIG_WILCO_EC_DEBUGFS wilco_ec_debugfs.o 
+# CONFIG_WILCO_EC_EVENTS wilco_ec_events.o 
+# CONFIG_WILCO_EC_TELEMETRY wilco_ec_telem.o 
+# Reading Makefile: drivers/platform/chrome/Makefile
+# CONFIG_CHROMEOS_ACPI chromeos_acpi.o 
+# CONFIG_CHROMEOS_LAPTOP chromeos_laptop.o 
+# CONFIG_CHROMEOS_PRIVACY_SCREEN chromeos_privacy_screen.o 
+# CONFIG_CHROMEOS_PSTORE chromeos_pstore.o 
+# CONFIG_CHROMEOS_TBMC chromeos_tbmc.o 
+# CONFIG_CROS_EC cros_ec.o 
+# CONFIG_CROS_EC_I2C cros_ec_i2c.o 
+# CONFIG_CROS_EC_ISHTP cros_ec_ishtp.o 
+# CONFIG_CROS_EC_RPMSG cros_ec_rpmsg.o 
+# CONFIG_CROS_EC_SPI cros_ec_spi.o 
+# CONFIG_CROS_EC_TYPEC cros_ec_typec.o 
+# CONFIG_CROS_EC_LPC cros_ec_lpcs.o 
+# CONFIG_CROS_EC_PROTO cros_ec_proto.o cros_ec_trace.o 
+# CONFIG_CROS_KBD_LED_BACKLIGHT cros_kbd_led_backlight.o 
+# CONFIG_CROS_EC_CHARDEV cros_ec_chardev.o 
+# CONFIG_CROS_EC_LIGHTBAR cros_ec_lightbar.o 
+# CONFIG_CROS_EC_VBC cros_ec_vbc.o 
+# CONFIG_CROS_EC_DEBUGFS cros_ec_debugfs.o 
+# CONFIG_CROS_EC_SENSORHUB cros-ec-sensorhub.o 
+# CONFIG_CROS_EC_SYSFS cros_ec_sysfs.o 
+# CONFIG_CROS_USBPD_LOGGER cros_usbpd_logger.o 
+# CONFIG_CROS_USBPD_NOTIFY cros_usbpd_notify.o 
+# CONFIG_WILCO_EC wilco_ec/ 
+# Reading Makefile: drivers/platform/Makefile
+# CONFIG_X86 x86/ 
+# CONFIG_MELLANOX_PLATFORM mellanox/ 
+# CONFIG_MIPS mips/ 
+# CONFIG_OLPC_EC olpc/ 
+# CONFIG_GOLDFISH goldfish/ 
+# CONFIG_CHROME_PLATFORMS chrome/ 
+# CONFIG_SURFACE_PLATFORMS surface/ 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/video/fbdev/mmp/fb/Makefile
+# CONFIG_MMP_FB mmpfb.o 

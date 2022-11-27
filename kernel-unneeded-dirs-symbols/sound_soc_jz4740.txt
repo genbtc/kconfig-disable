@@ -1,0 +1,2 @@
+# Reading Makefile: sound/soc/jz4740/Makefile
+# CONFIG_SND_JZ4740_SOC_I2S snd-soc-jz4740-i2s.o 

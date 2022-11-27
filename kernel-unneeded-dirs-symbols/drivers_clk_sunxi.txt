@@ -1,0 +1,26 @@
+# Reading Makefile: drivers/clk/sunxi/Makefile
+# CONFIG_CLK_SUNXI clk-factors.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-sunxi.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-a10-codec.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-a10-hosc.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-a10-mod1.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-a10-pll2.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-a10-ve.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-a20-gmac.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-mod0.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-simple-gates.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-sun4i-display.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-sun4i-pll3.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-sun4i-tcon-ch1.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-sun8i-bus-gates.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-sun8i-mbus.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-sun9i-core.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-sun9i-mmc.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-usb.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-sun8i-apb0.o 
+# CONFIG_CLK_SUNXI_CLOCKS clk-sun9i-cpus.o 
+# CONFIG_CLK_SUNXI_PRCM_SUN6I clk-sun6i-apb0.o 
+# CONFIG_CLK_SUNXI_PRCM_SUN6I clk-sun6i-apb0-gates.o 
+# CONFIG_CLK_SUNXI_PRCM_SUN6I clk-sun6i-ar100.o 
+# CONFIG_CLK_SUNXI_PRCM_SUN8I clk-sun8i-apb0.o 
+# CONFIG_CLK_SUNXI_PRCM_SUN8I clk-sun6i-apb0-gates.o 

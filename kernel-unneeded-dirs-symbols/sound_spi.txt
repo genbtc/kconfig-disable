@@ -1,0 +1,2 @@
+# Reading Makefile: sound/spi/Makefile
+# CONFIG_SND_AT73C213 snd-at73c213.o 

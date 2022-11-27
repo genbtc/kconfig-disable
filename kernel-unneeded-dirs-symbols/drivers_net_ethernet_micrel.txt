@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/net/ethernet/micrel/Makefile
+# CONFIG_KS8842 ks8842.o 
+# CONFIG_KS8851 ks8851_common.o ks8851_spi.o 
+# CONFIG_KS8851_MLL ks8851_common.o ks8851_par.o 
+# CONFIG_KSZ884X_PCI ksz884x.o 

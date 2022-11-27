@@ -1,0 +1,2 @@
+# Reading Makefile: fs/crypto/Makefile
+# CONFIG_FS_ENCRYPTION fscrypto.o 

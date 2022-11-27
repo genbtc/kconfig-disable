@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/media/common/saa7146/Makefile
+# CONFIG_VIDEO_SAA7146 saa7146.o 
+# CONFIG_VIDEO_SAA7146_VV saa7146_vv.o 

@@ -1,0 +1,19 @@
+# Reading Makefile: drivers/iio/common/st_sensors/Makefile
+# CONFIG_IIO_ST_SENSORS_I2C st_sensors_i2c.o 
+# CONFIG_IIO_ST_SENSORS_SPI st_sensors_spi.o 
+# CONFIG_IIO_ST_SENSORS_CORE st_sensors.o 
+# Reading Makefile: drivers/iio/common/ssp_sensors/Makefile
+# CONFIG_IIO_SSP_SENSORHUB sensorhub.o 
+# CONFIG_IIO_SSP_SENSORS_COMMONS ssp_iio.o 
+# Reading Makefile: drivers/iio/common/scmi_sensors/Makefile
+# CONFIG_IIO_SCMI scmi_iio.o 
+# Reading Makefile: drivers/iio/common/ms_sensors/Makefile
+# CONFIG_IIO_MS_SENSORS_I2C ms_sensors_i2c.o 
+# Reading Makefile: drivers/iio/common/hid-sensors/Makefile
+# CONFIG_HID_SENSOR_IIO_COMMON hid-sensor-iio-common.o 
+# CONFIG_HID_SENSOR_IIO_TRIGGER hid-sensor-trigger.o 
+# Reading Makefile: drivers/iio/common/cros_ec_sensors/Makefile
+# CONFIG_IIO_CROS_EC_SENSORS_CORE cros_ec_sensors_core.o 
+# CONFIG_IIO_CROS_EC_SENSORS cros_ec_sensors.o 
+# CONFIG_IIO_CROS_EC_SENSORS_LID_ANGLE cros_ec_lid_angle.o 
+# Reading Makefile: drivers/iio/common/Makefile

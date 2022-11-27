@@ -1,0 +1,13 @@
+OHCI support for Broadcom SSB OHCI core (DEPRECATED)
+This option is deprecated now and the driver was removed, use
+USB_HCD_SSB and USB_OHCI_HCD_PLATFORM instead.
+
+Support for the Sonics Silicon Backplane (SSB) attached
+Broadcom USB OHCI core.
+
+This device is present in some embedded devices with
+Broadcom based SSB bus.
+
+If unsure, say N.
+Depends: (SSB = y || SSB = USB_OHCI_HCD)
+---

@@ -1,0 +1,15 @@
+# Reading Makefile: drivers/soc/tegra/fuse/Makefile
+# CONFIG_ARCH_TEGRA_2x_SOC fuse-tegra20.o 
+# CONFIG_ARCH_TEGRA_2x_SOC speedo-tegra20.o 
+# CONFIG_ARCH_TEGRA_3x_SOC speedo-tegra30.o 
+# CONFIG_ARCH_TEGRA_114_SOC speedo-tegra114.o 
+# CONFIG_ARCH_TEGRA_124_SOC speedo-tegra124.o 
+# CONFIG_ARCH_TEGRA_132_SOC speedo-tegra124.o 
+# CONFIG_ARCH_TEGRA_210_SOC speedo-tegra210.o 
+# Reading Makefile: drivers/soc/tegra/Makefile
+# CONFIG_SOC_TEGRA_FLOWCTRL flowctrl.o 
+# CONFIG_SOC_TEGRA_PMC pmc.o 
+# CONFIG_SOC_TEGRA_POWERGATE_BPMP powergate-bpmp.o 
+# CONFIG_SOC_TEGRA20_VOLTAGE_COUPLER regulators-tegra20.o 
+# CONFIG_SOC_TEGRA30_VOLTAGE_COUPLER regulators-tegra30.o 
+# CONFIG_ARCH_TEGRA_186_SOC ari-tegra186.o 

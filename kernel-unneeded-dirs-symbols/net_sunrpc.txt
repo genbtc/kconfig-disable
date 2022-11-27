@@ -1,0 +1,9 @@
+# Reading Makefile: net/sunrpc/xprtrdma/Makefile
+# CONFIG_SUNRPC_XPRT_RDMA rpcrdma.o 
+# Reading Makefile: net/sunrpc/auth_gss/Makefile
+# CONFIG_SUNRPC_GSS auth_rpcgss.o 
+# CONFIG_RPCSEC_GSS_KRB5 rpcsec_gss_krb5.o 
+# Reading Makefile: net/sunrpc/Makefile
+# CONFIG_SUNRPC sunrpc.o 
+# CONFIG_SUNRPC_GSS auth_gss/ 
+# CONFIG_SUNRPC_XPRT_RDMA xprtrdma/ 

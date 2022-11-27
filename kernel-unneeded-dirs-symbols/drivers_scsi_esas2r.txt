@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/scsi/esas2r/Makefile
+# CONFIG_SCSI_ESAS2R esas2r.o 

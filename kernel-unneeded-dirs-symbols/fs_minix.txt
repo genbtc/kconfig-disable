@@ -1,0 +1,2 @@
+# Reading Makefile: fs/minix/Makefile
+# CONFIG_MINIX_FS minix.o 

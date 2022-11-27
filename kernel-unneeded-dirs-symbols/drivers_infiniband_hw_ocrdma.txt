@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/infiniband/hw/ocrdma/Makefile
+# CONFIG_INFINIBAND_OCRDMA ocrdma.o 

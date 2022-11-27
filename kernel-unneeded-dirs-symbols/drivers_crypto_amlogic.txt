@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/crypto/amlogic/Makefile
+# CONFIG_CRYPTO_DEV_AMLOGIC_GXL amlogic-gxl-crypto.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/iio/adc/Makefile
+# CONFIG_AD7816 ad7816.o 

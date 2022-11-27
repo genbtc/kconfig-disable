@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/nfc/st21nfca/Makefile
+# CONFIG_NFC_ST21NFCA st21nfca_hci.o 
+# CONFIG_NFC_ST21NFCA_I2C st21nfca_i2c.o 

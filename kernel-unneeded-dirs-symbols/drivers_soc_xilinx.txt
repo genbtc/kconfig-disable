@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/soc/xilinx/Makefile
+# CONFIG_ZYNQMP_POWER zynqmp_power.o 
+# CONFIG_ZYNQMP_PM_DOMAINS zynqmp_pm_domains.o 
+# CONFIG_XLNX_EVENT_MANAGER xlnx_event_manager.o 

@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/media/pci/ttpci/Makefile
+# CONFIG_DVB_BUDGET_CORE budget-core.o 
+# CONFIG_DVB_BUDGET budget.o 
+# CONFIG_DVB_BUDGET_AV budget-av.o 
+# CONFIG_DVB_BUDGET_CI budget-ci.o 

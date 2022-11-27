@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/net/ethernet/sis/Makefile
+# CONFIG_SIS190 sis190.o 
+# CONFIG_SIS900 sis900.o 

@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/soc/rockchip/Makefile
+# CONFIG_ROCKCHIP_GRF grf.o 
+# CONFIG_ROCKCHIP_IODOMAIN io-domain.o 
+# CONFIG_ROCKCHIP_PM_DOMAINS pm_domains.o 
+# CONFIG_ROCKCHIP_DTPM dtpm.o 

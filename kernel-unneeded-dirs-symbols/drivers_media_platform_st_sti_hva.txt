@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/st/sti/hva/Makefile
+# CONFIG_VIDEO_STI_HVA st-hva.o 

@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/wireless/mediatek/mt76/mt76x2/Makefile
+# CONFIG_MT76x2_COMMON mt76x2-common.o 
+# CONFIG_MT76x2E mt76x2e.o 
+# CONFIG_MT76x2U mt76x2u.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/common/v4l2-tpg/Makefile
+# CONFIG_VIDEO_V4L2_TPG v4l2-tpg.o 

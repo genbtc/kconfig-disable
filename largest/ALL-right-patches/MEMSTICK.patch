@@ -1,0 +1,34 @@
+Sony MemoryStick card support
+Sony MemoryStick is a proprietary storage/extension card protocol.
+
+If you want MemoryStick support, you should say Y here and also
+to the specific driver for your MemoryStick interface.
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:20:25.404610311 -0400
+@@ -7458,24 +7458,7 @@
+ # CONFIG_MMC_MTK is not set
+ CONFIG_MMC_SDHCI_XENON=m
+ # CONFIG_SCSI_UFSHCD is not set
+-CONFIG_MEMSTICK=m
+-# CONFIG_MEMSTICK_DEBUG is not set
+-
+-#
+-# MemoryStick drivers
+-#
+-# CONFIG_MEMSTICK_UNSAFE_RESUME is not set
+-CONFIG_MSPRO_BLOCK=m
+-# CONFIG_MS_BLOCK is not set
+-
+-#
+-# MemoryStick Host Controller Drivers
+-#
+-CONFIG_MEMSTICK_TIFM_MS=m
+-CONFIG_MEMSTICK_JMICRON_38X=m
+-CONFIG_MEMSTICK_R592=m
+-CONFIG_MEMSTICK_REALTEK_PCI=m
+-CONFIG_MEMSTICK_REALTEK_USB=m
++# CONFIG_MEMSTICK is not set
+ CONFIG_NEW_LEDS=y
+ CONFIG_LEDS_CLASS=y
+ CONFIG_LEDS_CLASS_FLASH=m

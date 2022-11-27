@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/pasemi/Makefile
+# CONFIG_PASEMI_MAC pasemi_mac_driver.o 

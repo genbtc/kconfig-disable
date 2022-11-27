@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/net/ethernet/sgi/Makefile
+# CONFIG_SGI_O2MACE_ETH meth.o 
+# CONFIG_SGI_IOC3_ETH ioc3-eth.o 

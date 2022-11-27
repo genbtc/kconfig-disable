@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/scsi/qedi/Makefile
+# CONFIG_QEDI qedi.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/thermal/samsung/Makefile
+# CONFIG_EXYNOS_THERMAL exynos_thermal.o 

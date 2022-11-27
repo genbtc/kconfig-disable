@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/gpu/drm/stm/Makefile
+# CONFIG_DRM_STM_DSI dw_mipi_dsi-stm.o 
+# CONFIG_DRM_STM stm-drm.o 

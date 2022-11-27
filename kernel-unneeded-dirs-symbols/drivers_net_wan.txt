@@ -1,0 +1,18 @@
+# Reading Makefile: drivers/net/wan/Makefile
+# CONFIG_HDLC hdlc.o 
+# CONFIG_HDLC_RAW hdlc_raw.o 
+# CONFIG_HDLC_RAW_ETH hdlc_raw_eth.o 
+# CONFIG_HDLC_CISCO hdlc_cisco.o 
+# CONFIG_HDLC_FR hdlc_fr.o 
+# CONFIG_HDLC_PPP hdlc_ppp.o 
+# CONFIG_HDLC_X25 hdlc_x25.o 
+# CONFIG_FARSYNC farsync.o 
+# CONFIG_LAPBETHER lapbether.o 
+# CONFIG_N2 n2.o 
+# CONFIG_C101 c101.o 
+# CONFIG_WANXL wanxl.o 
+# CONFIG_PCI200SYN pci200syn.o 
+# CONFIG_PC300TOO pc300too.o 
+# CONFIG_IXP4XX_HSS ixp4xx_hss.o 
+# CONFIG_FSL_UCC_HDLC fsl_ucc_hdlc.o 
+# CONFIG_SLIC_DS26522 slic_ds26522.o 

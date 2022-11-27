@@ -1,0 +1,5 @@
+# Reading Makefile: net/openvswitch/Makefile
+# CONFIG_OPENVSWITCH openvswitch.o 
+# CONFIG_OPENVSWITCH_VXLAN vport-vxlan.o 
+# CONFIG_OPENVSWITCH_GENEVE vport-geneve.o 
+# CONFIG_OPENVSWITCH_GRE vport-gre.o 

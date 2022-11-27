@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/firmware/meson/Makefile
+# CONFIG_MESON_SM meson_sm.o 

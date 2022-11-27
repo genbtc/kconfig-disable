@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/atmel-hlcdc/Makefile
+# CONFIG_DRM_ATMEL_HLCDC atmel-hlcdc-dc.o 

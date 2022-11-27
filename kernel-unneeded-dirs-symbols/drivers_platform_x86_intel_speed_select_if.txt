@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/platform/x86/intel/speed_select_if/Makefile
+# CONFIG_INTEL_SPEED_SELECT_INTERFACE isst_if_common.o 
+# CONFIG_INTEL_SPEED_SELECT_INTERFACE isst_if_mmio.o 
+# CONFIG_INTEL_SPEED_SELECT_INTERFACE isst_if_mbox_pci.o 
+# CONFIG_INTEL_SPEED_SELECT_INTERFACE isst_if_mbox_msr.o 

@@ -1,0 +1,157 @@
+QoS and/or fair queueing
+When the kernel has several packets to send out over a network
+device, it has to decide which ones to send first, which ones to
+delay, and which ones to drop. This is the job of the queueing
+disciplines, several different algorithms for how to do this
+"fairly" have been proposed.
+
+If you say N here, you will get the standard packet scheduler, which
+is a FIFO (first come, first served). If you say Y here, you will be
+able to choose from among several alternative algorithms which can
+then be attached to different network devices. This is useful for
+example if some of your network devices are real time devices that
+need a certain minimum data flow rate, or if you need to limit the
+maximum data flow rate for traffic which matches specified criteria.
+This code is considered to be experimental.
+
+To administer these schedulers, you'll need the user-level utilities
+from the package iproute2+tc at
+<https://www.kernel.org/pub/linux/utils/net/iproute2/>.  That package
+also contains some documentation; for more, check out
+<http://www.linuxfoundation.org/collaborate/workgroups/networking/iproute2>.
+
+This Quality of Service (QoS) support will enable you to use
+Differentiated Services (diffserv) and Resource Reservation Protocol
+(RSVP) on your Linux router if you also say Y to the corresponding
+classifiers below.  Documentation and software is at
+<http://diffserv.sourceforge.net/>.
+
+If you say Y here and to "/proc file system" below, you will be able
+to read status information about packet schedulers from the file
+/proc/net/psched.
+
+The available schedulers are listed in the following questions; you
+can say Y to as many as you like. If unsure, say N now.
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:11.970610377 -0400
+@@ -1725,100 +1725,7 @@
+ CONFIG_IEEE802154_SOCKET=m
+ CONFIG_IEEE802154_6LOWPAN=m
+ CONFIG_MAC802154=m
+-CONFIG_NET_SCHED=y
+-
+-#
+-# Queueing/Scheduling
+-#
+-CONFIG_NET_SCH_CBQ=m
+-CONFIG_NET_SCH_HTB=m
+-CONFIG_NET_SCH_HFSC=m
+-CONFIG_NET_SCH_ATM=m
+-CONFIG_NET_SCH_PRIO=m
+-CONFIG_NET_SCH_MULTIQ=m
+-CONFIG_NET_SCH_RED=m
+-CONFIG_NET_SCH_SFB=m
+-CONFIG_NET_SCH_SFQ=m
+-CONFIG_NET_SCH_TEQL=m
+-CONFIG_NET_SCH_TBF=m
+-CONFIG_NET_SCH_CBS=m
+-CONFIG_NET_SCH_ETF=m
+-CONFIG_NET_SCH_TAPRIO=m
+-CONFIG_NET_SCH_GRED=m
+-CONFIG_NET_SCH_DSMARK=m
+-CONFIG_NET_SCH_NETEM=m
+-CONFIG_NET_SCH_DRR=m
+-CONFIG_NET_SCH_MQPRIO=m
+-# CONFIG_NET_SCH_SKBPRIO is not set
+-CONFIG_NET_SCH_CHOKE=m
+-CONFIG_NET_SCH_QFQ=m
+-CONFIG_NET_SCH_CODEL=m
+-CONFIG_NET_SCH_FQ_CODEL=y
+-CONFIG_NET_SCH_CAKE=m
+-CONFIG_NET_SCH_FQ=m
+-CONFIG_NET_SCH_HHF=m
+-CONFIG_NET_SCH_PIE=m
+-# CONFIG_NET_SCH_FQ_PIE is not set
+-CONFIG_NET_SCH_INGRESS=m
+-CONFIG_NET_SCH_PLUG=m
+-CONFIG_NET_SCH_ETS=m
+-# CONFIG_NET_SCH_DEFAULT is not set
+-
+-#
+-# Classification
+-#
+-CONFIG_NET_CLS=y
+-CONFIG_NET_CLS_BASIC=m
+-CONFIG_NET_CLS_TCINDEX=m
+-CONFIG_NET_CLS_ROUTE4=m
+-CONFIG_NET_CLS_FW=m
+-CONFIG_NET_CLS_U32=m
+-CONFIG_CLS_U32_PERF=y
+-CONFIG_CLS_U32_MARK=y
+-CONFIG_NET_CLS_RSVP=m
+-CONFIG_NET_CLS_RSVP6=m
+-CONFIG_NET_CLS_FLOW=m
+-CONFIG_NET_CLS_CGROUP=y
+-CONFIG_NET_CLS_BPF=m
+-CONFIG_NET_CLS_FLOWER=m
+-CONFIG_NET_CLS_MATCHALL=m
+-CONFIG_NET_EMATCH=y
+-CONFIG_NET_EMATCH_STACK=32
+-CONFIG_NET_EMATCH_CMP=m
+-CONFIG_NET_EMATCH_NBYTE=m
+-CONFIG_NET_EMATCH_U32=m
+-CONFIG_NET_EMATCH_META=m
+-CONFIG_NET_EMATCH_TEXT=m
+-CONFIG_NET_EMATCH_CANID=m
+-CONFIG_NET_EMATCH_IPSET=m
+-CONFIG_NET_EMATCH_IPT=m
+-CONFIG_NET_CLS_ACT=y
+-CONFIG_NET_ACT_POLICE=m
+-CONFIG_NET_ACT_GACT=m
+-CONFIG_GACT_PROB=y
+-CONFIG_NET_ACT_MIRRED=m
+-CONFIG_NET_ACT_SAMPLE=m
+-CONFIG_NET_ACT_IPT=m
+-CONFIG_NET_ACT_NAT=m
+-CONFIG_NET_ACT_PEDIT=m
+-CONFIG_NET_ACT_SIMP=m
+-CONFIG_NET_ACT_SKBEDIT=m
+-CONFIG_NET_ACT_CSUM=m
+-CONFIG_NET_ACT_MPLS=m
+-CONFIG_NET_ACT_VLAN=m
+-CONFIG_NET_ACT_BPF=m
+-CONFIG_NET_ACT_CONNMARK=m
+-CONFIG_NET_ACT_CTINFO=m
+-CONFIG_NET_ACT_SKBMOD=m
+-CONFIG_NET_ACT_IFE=m
+-CONFIG_NET_ACT_TUNNEL_KEY=m
+-CONFIG_NET_ACT_CT=m
+-CONFIG_NET_ACT_GATE=m
+-CONFIG_NET_IFE_SKBMARK=m
+-CONFIG_NET_IFE_SKBPRIO=m
+-CONFIG_NET_IFE_SKBTCINDEX=m
+-CONFIG_NET_TC_SKB_EXT=y
+-CONFIG_NET_SCH_FIFO=y
++# CONFIG_NET_SCHED is not set
+ CONFIG_DCB=y
+ CONFIG_DNS_RESOLVER=m
+ CONFIG_BATMAN_ADV=m
+@@ -3037,7 +2944,6 @@
+ CONFIG_B53_SERDES=m
+ CONFIG_NET_DSA_BCM_SF2=m
+ CONFIG_NET_DSA_LOOP=m
+-CONFIG_NET_DSA_HIRSCHMANN_HELLCREEK=m
+ # CONFIG_NET_DSA_LANTIQ_GSWIP is not set
+ CONFIG_NET_DSA_MT7530=m
+ # CONFIG_NET_DSA_MV88E6060 is not set
+@@ -3232,9 +3138,6 @@
+ CONFIG_MLX5_MPFS=y
+ CONFIG_MLX5_ESWITCH=y
+ CONFIG_MLX5_BRIDGE=y
+-CONFIG_MLX5_CLS_ACT=y
+-CONFIG_MLX5_TC_CT=y
+-CONFIG_MLX5_TC_SAMPLE=y
+ CONFIG_MLX5_CORE_EN_DCB=y
+ CONFIG_MLX5_CORE_IPOIB=y
+ CONFIG_MLX5_EN_IPSEC=y

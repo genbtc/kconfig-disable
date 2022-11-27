@@ -1,0 +1,16 @@
+# Reading Makefile: drivers/net/ethernet/atheros/atlx/Makefile
+# CONFIG_ATL1 atl1.o 
+# CONFIG_ATL2 atl2.o 
+# Reading Makefile: drivers/net/ethernet/atheros/atl1e/Makefile
+# CONFIG_ATL1E atl1e.o 
+# Reading Makefile: drivers/net/ethernet/atheros/atl1c/Makefile
+# CONFIG_ATL1C atl1c.o 
+# Reading Makefile: drivers/net/ethernet/atheros/alx/Makefile
+# CONFIG_ALX alx.o 
+# Reading Makefile: drivers/net/ethernet/atheros/Makefile
+# CONFIG_AG71XX ag71xx.o 
+# CONFIG_ATL1 atlx/ 
+# CONFIG_ATL2 atlx/ 
+# CONFIG_ATL1E atl1e/ 
+# CONFIG_ATL1C atl1c/ 
+# CONFIG_ALX alx/ 

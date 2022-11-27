@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/mediatek/Makefile
+# CONFIG_NET_MEDIATEK_SOC mtk_eth.o 
+# CONFIG_NET_MEDIATEK_SOC_WED mtk_wed_ops.o 
+# CONFIG_NET_MEDIATEK_STAR_EMAC mtk_star_emac.o 

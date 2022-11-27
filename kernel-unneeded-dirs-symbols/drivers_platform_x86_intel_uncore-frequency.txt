@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/platform/x86/intel/uncore-frequency/Makefile
+# CONFIG_INTEL_UNCORE_FREQ_CONTROL intel-uncore-frequency.o 
+# CONFIG_INTEL_UNCORE_FREQ_CONTROL intel-uncore-frequency-common.o 

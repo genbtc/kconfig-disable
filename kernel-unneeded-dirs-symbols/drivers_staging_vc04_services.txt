@@ -1,0 +1,11 @@
+# Reading Makefile: drivers/staging/vc04_services/vchiq-mmal/Makefile
+# CONFIG_BCM2835_VCHIQ_MMAL bcm2835-mmal-vchiq.o 
+# Reading Makefile: drivers/staging/vc04_services/bcm2835-camera/Makefile
+# CONFIG_VIDEO_BCM2835 bcm2835-v4l2.o 
+# Reading Makefile: drivers/staging/vc04_services/bcm2835-audio/Makefile
+# CONFIG_SND_BCM2835 snd-bcm2835.o 
+# Reading Makefile: drivers/staging/vc04_services/Makefile
+# CONFIG_BCM2835_VCHIQ vchiq.o 
+# CONFIG_SND_BCM2835 bcm2835-audio/ 
+# CONFIG_VIDEO_BCM2835 bcm2835-camera/ 
+# CONFIG_BCM2835_VCHIQ_MMAL vchiq-mmal/ 

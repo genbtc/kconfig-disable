@@ -1,0 +1,6 @@
+# Reading Makefile: sound/usb/line6/Makefile
+# CONFIG_SND_USB_LINE6 snd-usb-line6.o 
+# CONFIG_SND_USB_POD snd-usb-pod.o 
+# CONFIG_SND_USB_PODHD snd-usb-podhd.o 
+# CONFIG_SND_USB_TONEPORT snd-usb-toneport.o 
+# CONFIG_SND_USB_VARIAX snd-usb-variax.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/platform/goldfish/Makefile
+# CONFIG_GOLDFISH_PIPE goldfish_pipe.o 

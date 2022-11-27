@@ -1,0 +1,16 @@
+# Reading Makefile: drivers/ntb/hw/mscc/Makefile
+# CONFIG_NTB_SWITCHTEC ntb_hw_switchtec.o 
+# Reading Makefile: drivers/ntb/hw/intel/Makefile
+# CONFIG_NTB_INTEL ntb_hw_intel.o 
+# Reading Makefile: drivers/ntb/hw/idt/Makefile
+# CONFIG_NTB_IDT ntb_hw_idt.o 
+# Reading Makefile: drivers/ntb/hw/epf/Makefile
+# CONFIG_NTB_EPF ntb_hw_epf.o 
+# Reading Makefile: drivers/ntb/hw/amd/Makefile
+# CONFIG_NTB_AMD ntb_hw_amd.o 
+# Reading Makefile: drivers/ntb/hw/Makefile
+# CONFIG_NTB_AMD amd/ 
+# CONFIG_NTB_IDT idt/ 
+# CONFIG_NTB_INTEL intel/ 
+# CONFIG_NTB_EPF epf/ 
+# CONFIG_NTB_SWITCHTEC mscc/ 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ipa/Makefile
+# CONFIG_QCOM_IPA ipa.o 

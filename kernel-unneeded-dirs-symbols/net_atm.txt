@@ -1,0 +1,7 @@
+# Reading Makefile: net/atm/Makefile
+# CONFIG_ATM atm.o 
+# CONFIG_ATM_CLIP clip.o 
+# CONFIG_ATM_BR2684 br2684.o 
+# CONFIG_ATM_LANE lec.o 
+# CONFIG_ATM_MPOA mpoa.o 
+# CONFIG_PPPOATM pppoatm.o 

@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/input/rmi4/Makefile
+# CONFIG_RMI4_CORE rmi_core.o 
+# CONFIG_RMI4_I2C rmi_i2c.o 
+# CONFIG_RMI4_SPI rmi_spi.o 
+# CONFIG_RMI4_SMB rmi_smbus.o 

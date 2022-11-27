@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/net/wireless/atmel/Makefile
+# CONFIG_ATMEL atmel.o 
+# CONFIG_PCI_ATMEL atmel_pci.o  
+# CONFIG_PCMCIA_ATMEL atmel_cs.o 
+# CONFIG_AT76C50X_USB at76c50x-usb.o 

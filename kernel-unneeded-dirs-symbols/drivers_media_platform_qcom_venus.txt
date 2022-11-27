@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/media/platform/qcom/venus/Makefile
+# CONFIG_VIDEO_QCOM_VENUS venus-core.o 
+# CONFIG_VIDEO_QCOM_VENUS venus-dec.o 
+# CONFIG_VIDEO_QCOM_VENUS venus-enc.o 

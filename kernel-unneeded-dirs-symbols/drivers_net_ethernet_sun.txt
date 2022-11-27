@@ -1,0 +1,10 @@
+# Reading Makefile: drivers/net/ethernet/sun/Makefile
+# CONFIG_HAPPYMEAL sunhme.o 
+# CONFIG_SUNQE sunqe.o 
+# CONFIG_SUNBMAC sunbmac.o 
+# CONFIG_SUNGEM sungem.o 
+# CONFIG_CASSINI cassini.o 
+# CONFIG_SUNVNET_COMMON sunvnet_common.o 
+# CONFIG_SUNVNET sunvnet.o 
+# CONFIG_LDMVSW ldmvsw.o 
+# CONFIG_NIU niu.o 

@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/net/wireless/marvell/mwifiex/Makefile
+# CONFIG_MWIFIEX mwifiex.o 
+# CONFIG_MWIFIEX_SDIO mwifiex_sdio.o 
+# CONFIG_MWIFIEX_PCIE mwifiex_pcie.o 
+# CONFIG_MWIFIEX_USB mwifiex_usb.o 

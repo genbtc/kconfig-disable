@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/net/wireless/intersil/p54/Makefile
+# CONFIG_P54_COMMON p54common.o 
+# CONFIG_P54_USB p54usb.o 
+# CONFIG_P54_PCI p54pci.o 
+# CONFIG_P54_SPI p54spi.o 

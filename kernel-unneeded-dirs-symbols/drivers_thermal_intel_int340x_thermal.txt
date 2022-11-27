@@ -1,0 +1,14 @@
+# Reading Makefile: drivers/thermal/intel/int340x_thermal/Makefile
+# CONFIG_INT340X_THERMAL int3400_thermal.o 
+# CONFIG_INT340X_THERMAL int340x_thermal_zone.o 
+# CONFIG_INT340X_THERMAL int3402_thermal.o 
+# CONFIG_INT340X_THERMAL int3403_thermal.o 
+# CONFIG_INT340X_THERMAL processor_thermal_device.o 
+# CONFIG_INT340X_THERMAL int3401_thermal.o 
+# CONFIG_INT340X_THERMAL processor_thermal_device_pci_legacy.o 
+# CONFIG_INT340X_THERMAL processor_thermal_device_pci.o 
+# CONFIG_PROC_THERMAL_MMIO_RAPL processor_thermal_rapl.o 
+# CONFIG_INT340X_THERMAL processor_thermal_rfim.o 
+# CONFIG_INT340X_THERMAL processor_thermal_mbox.o 
+# CONFIG_INT3406_THERMAL int3406_thermal.o 
+# CONFIG_ACPI_THERMAL_REL acpi_thermal_rel.o 

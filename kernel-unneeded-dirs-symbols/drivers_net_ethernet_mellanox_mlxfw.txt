@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/mellanox/mlxfw/Makefile
+# CONFIG_MLXFW mlxfw.o 

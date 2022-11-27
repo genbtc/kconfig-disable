@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/iio/cdc/Makefile
+# CONFIG_AD7150 ad7150.o 

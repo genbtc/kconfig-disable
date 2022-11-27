@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/usb/chipidea/Makefile
+# CONFIG_USB_CHIPIDEA ci_hdrc.o 
+# CONFIG_USB_CHIPIDEA_GENERIC ci_hdrc_usb2.o 
+# CONFIG_USB_CHIPIDEA_MSM ci_hdrc_msm.o 
+# CONFIG_USB_CHIPIDEA_PCI ci_hdrc_pci.o 
+# CONFIG_USB_CHIPIDEA_IMX ci_hdrc_imx.o usbmisc_imx.o 
+# CONFIG_USB_CHIPIDEA_TEGRA ci_hdrc_tegra.o 

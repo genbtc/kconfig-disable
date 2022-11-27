@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/char/xillybus/Makefile
+# CONFIG_XILLYBUS_CLASS xillybus_class.o 
+# CONFIG_XILLYBUS xillybus_core.o 
+# CONFIG_XILLYBUS_PCIE xillybus_pcie.o 
+# CONFIG_XILLYBUS_OF xillybus_of.o 
+# CONFIG_XILLYUSB xillyusb.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/pci/pluto2/Makefile
+# CONFIG_DVB_PLUTO2 pluto2.o 

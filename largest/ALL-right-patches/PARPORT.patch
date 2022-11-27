@@ -1,0 +1,196 @@
+Parallel port support
+If you want to use devices connected to your machine's parallel port
+(the connector at the computer with 25 holes), e.g. printer, ZIP
+drive, PLIP link (Parallel Line Internet Protocol is mainly used to
+create a mini network by connecting the parallel ports of two local
+machines) etc., then you need to say Y here; please read
+<file:Documentation/admin-guide/parport.rst> and
+<file:drivers/parport/BUGS-parport>.
+
+For extensive information about drivers for many devices attaching
+to the parallel port see <http://www.torque.net/linux-pp.html> on
+the WWW.
+
+It is possible to share a single parallel port among several devices
+and it is safe to compile all the corresponding drivers into the
+kernel. To compile parallel port support as a module, choose M here:
+the module will be called parport.
+If you have more than one parallel port and want to specify which
+port and IRQ to be used by this driver at module load time, take a
+look at <file:Documentation/admin-guide/parport.rst>.
+
+If unsure, say Y.
+Depends: HAS_IOMEM
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:20.872610369 -0400
+@@ -1893,7 +1893,6 @@
+ CONFIG_BPQETHER=m
+ CONFIG_BAYCOM_SER_FDX=m
+ CONFIG_BAYCOM_SER_HDX=m
+-CONFIG_BAYCOM_PAR=m
+ CONFIG_YAM=m
+ # end of AX.25 network device drivers
+ 
+@@ -2485,15 +2484,7 @@
+ # CONFIG_MTD_HYPERBUS is not set
+ # CONFIG_OF is not set
+ CONFIG_ARCH_MIGHT_HAVE_PC_PARPORT=y
+-CONFIG_PARPORT=m
+-CONFIG_PARPORT_PC=m
+-CONFIG_PARPORT_SERIAL=m
+-# CONFIG_PARPORT_PC_FIFO is not set
+-# CONFIG_PARPORT_PC_SUPERIO is not set
+-CONFIG_PARPORT_PC_PCMCIA=m
+-# CONFIG_PARPORT_AX88796 is not set
+-CONFIG_PARPORT_1284=y
+-CONFIG_PARPORT_NOT_PC=y
++# CONFIG_PARPORT is not set
+ CONFIG_PNP=y
+ # CONFIG_PNP_DEBUG_MESSAGES is not set
+ 
+@@ -2506,7 +2497,6 @@
+ CONFIG_BLK_DEV_FD=m
+ # CONFIG_BLK_DEV_FD_RAWCMD is not set
+ CONFIG_CDROM=y
+-# CONFIG_PARIDE is not set
+ CONFIG_BLK_DEV_PCIESSD_MTIP32XX=m
+ CONFIG_ZRAM=m
+ CONFIG_ZRAM_DEF_COMP_LZORLE=y
+@@ -2744,8 +2734,6 @@
+ CONFIG_SCSI_IPS=m
+ CONFIG_SCSI_INITIO=m
+ CONFIG_SCSI_INIA100=m
+-# CONFIG_SCSI_PPA is not set
+-# CONFIG_SCSI_IMM is not set
+ CONFIG_SCSI_STEX=m
+ CONFIG_SCSI_SYM53C8XX_2=m
+ CONFIG_SCSI_SYM53C8XX_DMA_ADDRESSING_MODE=1
+@@ -3311,7 +3299,6 @@
+ CONFIG_NET_VENDOR_RDC=y
+ CONFIG_R6040=m
+ CONFIG_NET_VENDOR_REALTEK=y
+-CONFIG_ATP=m
+ CONFIG_8139CP=m
+ CONFIG_8139TOO=m
+ # CONFIG_8139TOO_PIO is not set
+@@ -3477,7 +3464,6 @@
+ CONFIG_PCS_XPCS=m
+ # end of PCS device drivers
+ 
+-# CONFIG_PLIP is not set
+ CONFIG_PPP=m
+ CONFIG_PPP_BSDCOMP=m
+ CONFIG_PPP_DEFLATE=m
+@@ -3979,15 +3965,11 @@
+ CONFIG_JOYSTICK_STINGER=m
+ CONFIG_JOYSTICK_TWIDJOY=m
+ CONFIG_JOYSTICK_ZHENHUA=m
+-CONFIG_JOYSTICK_DB9=m
+-CONFIG_JOYSTICK_GAMECON=m
+-CONFIG_JOYSTICK_TURBOGRAFX=m
+ # CONFIG_JOYSTICK_AS5011 is not set
+ CONFIG_JOYSTICK_JOYDUMP=m
+ CONFIG_JOYSTICK_XPAD=m
+ CONFIG_JOYSTICK_XPAD_FF=y
+ CONFIG_JOYSTICK_XPAD_LEDS=y
+-CONFIG_JOYSTICK_WALKERA0701=m
+ CONFIG_JOYSTICK_PSXPAD_SPI=m
+ CONFIG_JOYSTICK_PSXPAD_SPI_FF=y
+ CONFIG_JOYSTICK_PXRC=m
+@@ -4151,7 +4133,6 @@
+ CONFIG_SERIO_I8042=y
+ CONFIG_SERIO_SERPORT=m
+ # CONFIG_SERIO_CT82C710 is not set
+-# CONFIG_SERIO_PARKBD is not set
+ # CONFIG_SERIO_PCIPS2 is not set
+ CONFIG_SERIO_LIBPS2=y
+ CONFIG_SERIO_RAW=m
+@@ -4251,9 +4232,6 @@
+ CONFIG_HVC_XEN_FRONTEND=y
+ CONFIG_SERIAL_DEV_BUS=y
+ CONFIG_SERIAL_DEV_CTRL_TTYPORT=y
+-CONFIG_PRINTER=m
+-CONFIG_LP_CONSOLE=y
+-CONFIG_PPDEV=m
+ CONFIG_VIRTIO_CONSOLE=m
+ CONFIG_IPMI_HANDLER=m
+ CONFIG_IPMI_DMI_DECODE=y
+@@ -4404,7 +4382,6 @@
+ CONFIG_I2C_DIOLAN_U2C=m
+ CONFIG_I2C_DLN2=m
+ CONFIG_I2C_CP2615=m
+-CONFIG_I2C_PARPORT=m
+ # CONFIG_I2C_ROBOTFUZZ_OSIF is not set
+ # CONFIG_I2C_TAOS_EVM is not set
+ CONFIG_I2C_TINY_USB=m
+@@ -4439,13 +4416,11 @@
+ CONFIG_SPI_ALTERA_DFL=m
+ # CONFIG_SPI_AXI_SPI_ENGINE is not set
+ # CONFIG_SPI_BITBANG is not set
+-# CONFIG_SPI_BUTTERFLY is not set
+ # CONFIG_SPI_CADENCE is not set
+ # CONFIG_SPI_DESIGNWARE is not set
+ CONFIG_SPI_DLN2=m
+ # CONFIG_SPI_NXP_FLEXSPI is not set
+ # CONFIG_SPI_GPIO is not set
+-# CONFIG_SPI_LM70_LLP is not set
+ # CONFIG_SPI_LANTIQ_SSC is not set
+ # CONFIG_SPI_OC_TINY is not set
+ CONFIG_SPI_PXA2XX=m
+@@ -4482,7 +4457,6 @@
+ #
+ # CONFIG_PPS_CLIENT_KTIMER is not set
+ CONFIG_PPS_CLIENT_LDISC=m
+-CONFIG_PPS_CLIENT_PARPORT=m
+ CONFIG_PPS_CLIENT_GPIO=m
+ 
+ #
+@@ -6429,10 +6403,8 @@
+ CONFIG_SND_ALOOP=m
+ CONFIG_SND_VIRMIDI=m
+ CONFIG_SND_MTPAV=m
+-CONFIG_SND_MTS64=m
+ CONFIG_SND_SERIAL_U16550=m
+ CONFIG_SND_MPU401=m
+-CONFIG_SND_PORTMAN2X4=m
+ CONFIG_SND_AC97_POWER_SAVE=y
+ CONFIG_SND_AC97_POWER_SAVE_DEFAULT=0
+ CONFIG_SND_SB_COMMON=m
+@@ -7285,7 +7257,6 @@
+ #
+ # USB port drivers
+ #
+-CONFIG_USB_USS720=m
+ CONFIG_USB_SERIAL=y
+ CONFIG_USB_SERIAL_CONSOLE=y
+ CONFIG_USB_SERIAL_GENERIC=y
+@@ -7317,7 +7288,6 @@
+ CONFIG_USB_SERIAL_MCT_U232=m
+ # CONFIG_USB_SERIAL_METRO is not set
+ CONFIG_USB_SERIAL_MOS7720=m
+-CONFIG_USB_SERIAL_MOS7715_PARPORT=y
+ CONFIG_USB_SERIAL_MOS7840=m
+ # CONFIG_USB_SERIAL_MXUPORT is not set
+ CONFIG_USB_SERIAL_NAVMAN=m
+@@ -7821,20 +7791,13 @@
+ CONFIG_LINEDISP=m
+ CONFIG_HD44780_COMMON=m
+ CONFIG_HD44780=m
+-CONFIG_KS0108=m
+-CONFIG_KS0108_PORT=0x378
+-CONFIG_KS0108_DELAY=2
+-CONFIG_CFAG12864B=m
+-CONFIG_CFAG12864B_RATE=20
+ # CONFIG_IMG_ASCII_LCD is not set
+ CONFIG_HT16K33=m
+ # CONFIG_LCD2S is not set
+-# CONFIG_PARPORT_PANEL is not set
+ # CONFIG_PANEL_CHANGE_MESSAGE is not set
+ # CONFIG_CHARLCD_BL_OFF is not set
+ # CONFIG_CHARLCD_BL_ON is not set
+ CONFIG_CHARLCD_BL_FLASH=y
+-# CONFIG_PANEL is not set
+ CONFIG_UIO=m
+ # CONFIG_UIO_CIF is not set
+ # CONFIG_UIO_PDRV_GENIRQ is not set

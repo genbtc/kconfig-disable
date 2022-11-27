@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/nvidia/tegra-vde/Makefile
+# CONFIG_VIDEO_TEGRA_VDE tegra-vde.o 

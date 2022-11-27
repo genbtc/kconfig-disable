@@ -1,0 +1,13 @@
+# Reading Makefile: fs/ocfs2/dlmfs/Makefile
+# CONFIG_OCFS2_FS ocfs2_dlmfs.o 
+# Reading Makefile: fs/ocfs2/dlm/Makefile
+# CONFIG_OCFS2_FS_O2CB ocfs2_dlm.o 
+# Reading Makefile: fs/ocfs2/cluster/Makefile
+# CONFIG_OCFS2_FS ocfs2_nodemanager.o 
+# Reading Makefile: fs/ocfs2/Makefile
+# CONFIG_OCFS2_FS ocfs2.o				ocfs2_stackglue.o 
+# CONFIG_OCFS2_FS_O2CB ocfs2_stack_o2cb.o 
+# CONFIG_OCFS2_FS_USERSPACE_CLUSTER ocfs2_stack_user.o 
+# CONFIG_OCFS2_FS dlmfs/ 
+# CONFIG_OCFS2_FS cluster/ 
+# CONFIG_OCFS2_FS_O2CB dlm/ 

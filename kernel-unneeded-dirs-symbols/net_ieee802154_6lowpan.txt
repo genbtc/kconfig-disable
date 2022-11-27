@@ -1,0 +1,2 @@
+# Reading Makefile: net/ieee802154/6lowpan/Makefile
+# CONFIG_IEEE802154_6LOWPAN ieee802154_6lowpan.o 

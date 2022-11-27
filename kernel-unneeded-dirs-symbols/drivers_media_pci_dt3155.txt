@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/pci/dt3155/Makefile
+# CONFIG_VIDEO_DT3155 dt3155.o 

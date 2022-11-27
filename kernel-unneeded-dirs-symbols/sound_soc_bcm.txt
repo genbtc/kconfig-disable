@@ -1,0 +1,4 @@
+# Reading Makefile: sound/soc/bcm/Makefile
+# CONFIG_SND_BCM2835_SOC_I2S snd-soc-bcm2835-i2s.o 
+# CONFIG_SND_SOC_CYGNUS snd-soc-cygnus.o 
+# CONFIG_SND_BCM63XX_I2S_WHISTLER snd-soc-63xx.o 

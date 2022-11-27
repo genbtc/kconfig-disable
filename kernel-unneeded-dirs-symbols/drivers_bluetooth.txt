@@ -1,0 +1,25 @@
+# Reading Makefile: drivers/bluetooth/Makefile
+# CONFIG_BT_HCIVHCI hci_vhci.o 
+# CONFIG_BT_HCIUART hci_uart.o 
+# CONFIG_BT_HCIBCM203X bcm203x.o 
+# CONFIG_BT_HCIBPA10X bpa10x.o 
+# CONFIG_BT_HCIBFUSB bfusb.o 
+# CONFIG_BT_HCIDTL1 dtl1_cs.o 
+# CONFIG_BT_HCIBT3C bt3c_cs.o 
+# CONFIG_BT_HCIBLUECARD bluecard_cs.o 
+# CONFIG_BT_HCIBTUSB btusb.o 
+# CONFIG_BT_HCIBTSDIO btsdio.o 
+# CONFIG_BT_INTEL btintel.o 
+# CONFIG_BT_ATH3K ath3k.o 
+# CONFIG_BT_MRVL btmrvl.o 
+# CONFIG_BT_MRVL_SDIO btmrvl_sdio.o 
+# CONFIG_BT_MTKSDIO btmtksdio.o 
+# CONFIG_BT_MTKUART btmtkuart.o 
+# CONFIG_BT_QCOMSMD btqcomsmd.o 
+# CONFIG_BT_BCM btbcm.o 
+# CONFIG_BT_RTL btrtl.o 
+# CONFIG_BT_QCA btqca.o 
+# CONFIG_BT_MTK btmtk.o 
+# CONFIG_BT_VIRTIO virtio_bt.o 
+# CONFIG_BT_HCIUART_NOKIA hci_nokia.o 
+# CONFIG_BT_HCIRSI btrsi.o 

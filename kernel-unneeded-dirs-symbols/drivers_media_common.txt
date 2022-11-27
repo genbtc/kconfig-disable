@@ -1,0 +1,22 @@
+# Reading Makefile: drivers/media/common/videobuf2/Makefile
+# CONFIG_VIDEOBUF2_CORE videobuf2-common.o 
+# CONFIG_VIDEOBUF2_DMA_CONTIG videobuf2-dma-contig.o 
+# CONFIG_VIDEOBUF2_DMA_SG videobuf2-dma-sg.o 
+# CONFIG_VIDEOBUF2_DVB videobuf2-dvb.o 
+# CONFIG_VIDEOBUF2_MEMOPS videobuf2-memops.o 
+# CONFIG_VIDEOBUF2_V4L2 videobuf2-v4l2.o 
+# CONFIG_VIDEOBUF2_VMALLOC videobuf2-vmalloc.o 
+# Reading Makefile: drivers/media/common/v4l2-tpg/Makefile
+# CONFIG_VIDEO_V4L2_TPG v4l2-tpg.o 
+# Reading Makefile: drivers/media/common/siano/Makefile
+# CONFIG_SMS_SIANO_MDTV smsmdtv.o smsdvb.o 
+# Reading Makefile: drivers/media/common/saa7146/Makefile
+# CONFIG_VIDEO_SAA7146 saa7146.o 
+# CONFIG_VIDEO_SAA7146_VV saa7146_vv.o 
+# Reading Makefile: drivers/media/common/b2c2/Makefile
+# CONFIG_DVB_B2C2_FLEXCOP b2c2-flexcop.o 
+# Reading Makefile: drivers/media/common/Makefile
+# CONFIG_CYPRESS_FIRMWARE cypress_firmware.o 
+# CONFIG_TTPCI_EEPROM ttpci-eeprom.o 
+# CONFIG_VIDEO_CX2341X cx2341x.o 
+# CONFIG_VIDEO_TVEEPROM tveeprom.o 

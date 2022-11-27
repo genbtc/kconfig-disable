@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/message/fusion/Makefile
+# CONFIG_FUSION_SPI mptbase.o mptscsih.o mptspi.o 
+# CONFIG_FUSION_FC mptbase.o mptscsih.o mptfc.o 
+# CONFIG_FUSION_SAS mptbase.o mptscsih.o mptsas.o 
+# CONFIG_FUSION_CTL mptctl.o 
+# CONFIG_FUSION_LAN mptlan.o 

@@ -1,0 +1,26 @@
+# Reading Makefile: drivers/net/ethernet/marvell/prestera/Makefile
+# CONFIG_PRESTERA prestera.o 
+# CONFIG_PRESTERA_PCI prestera_pci.o 
+# Reading Makefile: drivers/net/ethernet/marvell/octeontx2/nic/Makefile
+# CONFIG_OCTEONTX2_PF rvu_nicpf.o otx2_ptp.o 
+# CONFIG_OCTEONTX2_VF rvu_nicvf.o otx2_ptp.o 
+# Reading Makefile: drivers/net/ethernet/marvell/octeontx2/af/Makefile
+# CONFIG_OCTEONTX2_MBOX rvu_mbox.o 
+# CONFIG_OCTEONTX2_AF rvu_af.o 
+# Reading Makefile: drivers/net/ethernet/marvell/octeontx2/Makefile
+# CONFIG_OCTEONTX2_MBOX af/ 
+# CONFIG_OCTEONTX2_AF af/ 
+# CONFIG_OCTEONTX2_PF nic/ 
+# Reading Makefile: drivers/net/ethernet/marvell/octeon_ep/Makefile
+# CONFIG_OCTEON_EP octeon_ep.o 
+# Reading Makefile: drivers/net/ethernet/marvell/mvpp2/Makefile
+# CONFIG_MVPP2 mvpp2.o 
+# Reading Makefile: drivers/net/ethernet/marvell/Makefile
+# CONFIG_MVMDIO mvmdio.o 
+# CONFIG_MV643XX_ETH mv643xx_eth.o 
+# CONFIG_MVNETA_BM mvneta_bm.o 
+# CONFIG_MVNETA mvneta.o 
+# CONFIG_MVPP2 mvpp2/ 
+# CONFIG_PXA168_ETH pxa168_eth.o 
+# CONFIG_SKGE skge.o 
+# CONFIG_SKY2 sky2.o 

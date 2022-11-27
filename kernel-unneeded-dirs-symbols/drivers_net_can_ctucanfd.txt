@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/can/ctucanfd/Makefile
+# CONFIG_CAN_CTUCANFD ctucanfd.o 
+# CONFIG_CAN_CTUCANFD_PCI ctucanfd_pci.o 
+# CONFIG_CAN_CTUCANFD_PLATFORM ctucanfd_platform.o 

@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/opp/Makefile
+# CONFIG_OF of.o 
+# CONFIG_DEBUG_FS debugfs.o 
+# CONFIG_ARM_TI_CPUFREQ ti-opp-supply.o 

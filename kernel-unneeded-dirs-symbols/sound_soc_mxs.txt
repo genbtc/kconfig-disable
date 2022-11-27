@@ -1,0 +1,3 @@
+# Reading Makefile: sound/soc/mxs/Makefile
+# CONFIG_SND_MXS_SOC snd-soc-mxs.o snd-soc-mxs-pcm.o 
+# CONFIG_SND_SOC_MXS_SGTL5000 snd-soc-mxs-sgtl5000.o 

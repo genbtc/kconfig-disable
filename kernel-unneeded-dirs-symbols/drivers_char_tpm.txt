@@ -1,0 +1,23 @@
+# Reading Makefile: drivers/char/tpm/st33zp24/Makefile
+# CONFIG_TCG_TIS_ST33ZP24 tpm_st33zp24.o 
+# CONFIG_TCG_TIS_ST33ZP24_I2C tpm_st33zp24_i2c.o 
+# CONFIG_TCG_TIS_ST33ZP24_SPI tpm_st33zp24_spi.o 
+# Reading Makefile: drivers/char/tpm/Makefile
+# CONFIG_TCG_TPM tpm.o 
+# CONFIG_TCG_TIS_CORE tpm_tis_core.o 
+# CONFIG_TCG_TIS tpm_tis.o 
+# CONFIG_TCG_TIS_SYNQUACER tpm_tis_synquacer.o 
+# CONFIG_TCG_TIS_SPI tpm_tis_spi.o 
+# CONFIG_TCG_TIS_I2C_CR50 tpm_tis_i2c_cr50.o 
+# CONFIG_TCG_TIS_I2C_ATMEL tpm_i2c_atmel.o 
+# CONFIG_TCG_TIS_I2C_INFINEON tpm_i2c_infineon.o 
+# CONFIG_TCG_TIS_I2C_NUVOTON tpm_i2c_nuvoton.o 
+# CONFIG_TCG_NSC tpm_nsc.o 
+# CONFIG_TCG_ATMEL tpm_atmel.o 
+# CONFIG_TCG_INFINEON tpm_infineon.o 
+# CONFIG_TCG_IBMVTPM tpm_ibmvtpm.o 
+# CONFIG_TCG_TIS_ST33ZP24 st33zp24/ 
+# CONFIG_TCG_XEN xen-tpmfront.o 
+# CONFIG_TCG_CRB tpm_crb.o 
+# CONFIG_TCG_VTPM_PROXY tpm_vtpm_proxy.o 
+# CONFIG_TCG_FTPM_TEE tpm_ftpm_tee.o 

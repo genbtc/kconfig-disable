@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/net/dsa/ocelot/Makefile
+# CONFIG_NET_DSA_MSCC_FELIX mscc_felix.o 
+# CONFIG_NET_DSA_MSCC_SEVILLE mscc_seville.o 

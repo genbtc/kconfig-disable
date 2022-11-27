@@ -1,0 +1,9 @@
+# Reading Makefile: drivers/media/platform/sunxi/sun8i-rotate/Makefile
+# CONFIG_VIDEO_SUN8I_ROTATE sun8i-rotate.o 
+# Reading Makefile: drivers/media/platform/sunxi/sun8i-di/Makefile
+# CONFIG_VIDEO_SUN8I_DEINTERLACE sun8i-di.o 
+# Reading Makefile: drivers/media/platform/sunxi/sun6i-csi/Makefile
+# CONFIG_VIDEO_SUN6I_CSI sun6i-csi.o 
+# Reading Makefile: drivers/media/platform/sunxi/sun4i-csi/Makefile
+# CONFIG_VIDEO_SUN4I_CSI sun4i-csi.o 
+# Reading Makefile: drivers/media/platform/sunxi/Makefile

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/usb/cpia2/Makefile
+# CONFIG_VIDEO_CPIA2 cpia2.o 

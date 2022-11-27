@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/rtl8712/Makefile
+# CONFIG_R8712U r8712u.o 

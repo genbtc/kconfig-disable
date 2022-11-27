@@ -1,0 +1,227 @@
+==> 6LOWPAN.patch <==
+6LoWPAN Support
+
+==> ACCESSIBILITY.patch <==
+Accessibility support
+
+==> ATM.patch <==
+Asynchronous Transfer Mode (ATM)
+
+==> AUXDISPLAY.patch <==
+Auxiliary Display support
+
+==> BT.patch <==
+Bluetooth subsystem support
+
+==> CAN.patch <==
+CAN bus subsystem support
+
+==> CHROME_PLATFORMS.patch <==
+Platform support for Chrome hardware
+
+==> CONFIG_ACPI_MDIO=m.patch <==
+==> CONFIG_DMA_VIRTUAL_CHANNELS=m.patch <==
+==> CONFIG_FIXED_PHY=m.patch <==
+==> CONFIG_FWNODE_MDIO=m.patch <==
+==> CONFIG_HID_NTRIG=m.patch <==
+==> CONFIG_HSU_DMA=m.patch <==
+==> CONFIG_MDIO_BUS=m.patch <==
+==> CONFIG_MDIO_DEVRES=m.patch <==
+==> CONFIG_NET_SELFTESTS=m.patch <==
+==> CONFIG_PHYLIB=m.patch <==
+==> CONFIG_PSTORE_COMPRESS_DEFAULT="lzo".patch <==
+==> CONFIG_PSTORE_LZO_COMPRESS_DEFAULT=y.patch <==
+==> CONFIG_REALTEK_PHY=m.patch <==
+==> CONFIG_SERIAL_8250_DW=m.patch <==
+==> CONFIG_SERIAL_8250_MID=m.patch <==
+==> CONFIG_SERIAL_8250=m.patch <==
+==> CONFIG_SERIAL_8250_PCI=m.patch <==
+==> CONFIG_SERIAL_8250_PERICOM=m.patch <==
+==> CONFIG_SERIAL_CORE=m.patch <==
+==> CONFIG_SERIAL_MCTRL_GPIO=m.patch <==
+==> CONFIG_USB_COMMON=m.patch <==
+==> CONFIG_USB_EHCI_HCD=m.patch <==
+==> CONFIG_USB_EHCI_PCI=m.patch <==
+==> CONFIG_USB_HID=m.patch <==
+==> CONFIG_USB_MON=m.patch <==
+==> CONFIG_USB=m.patch <==
+==> CONFIG_USB_NET_DRIVERS=m.patch <==
+==> CONFIG_USB_OHCI_HCD=m.patch <==
+==> CONFIG_USB_OHCI_HCD_PCI=m.patch <==
+==> CONFIG_USB_SERIAL=m.patch <==
+==> CONFIG_USB_UHCI_HCD=m.patch <==
+==> CONFIG_USB_XHCI_HCD=m.patch <==
+==> CONFIG_USB_XHCI_PCI=m.patch <==
+==> CONFIG_USB_XHCI_PCI_RENESAS=m.patch <==
+---
+
+==> DCB.patch <==
+Data Center Bridging support
+
+==> DMADEVICES.patch <==
+DMA Engine support
+
+==> DRM_AMDGPU.patch <==
+AMD GPU
+
+==> DRM_I915.patch <==
+Intel 8xx/9xx/G3x/G4x/HD Graphics
+
+==> DRM_NOUVEAU.patch <==
+Nouveau (NVIDIA) cards
+
+==> EDAC.patch <==
+EDAC (Error Detection And Correction) reporting
+
+==> F2FS_FS.patch <==
+F2FS filesystem support
+
+==> FIREWIRE.patch <==
+FireWire driver stack
+
+==> FPGA.patch <==
+FPGA Configuration Framework
+
+==> FSCACHE.patch <==
+General filesystem local caching manager
+
+==> GPIO_BT8XX.patch <==
+BT8XX GPIO abuser
+
+==> HAMRADIO.patch <==
+Amateur Radio support
+
+==> HID_SENSOR_HUB.patch <==
+HID Sensors framework support
+
+==> HYPERV.patch <==
+Microsoft Hyper-V client drivers
+
+==> IEEE802154.patch <==
+IEEE Std 802.15.4 Low-Rate Wireless Personal Area Networks support
+
+==> IIO.patch <==
+Industrial I/O support
+
+==> INFINIBAND.patch <==
+InfiniBand support
+
+==> INPUT_JOYSTICK.patch <==
+Joysticks/Gamepads
+
+==> INPUT_MISC.patch <==
+Miscellaneous devices
+
+==> INPUT_TOUCHSCREEN.patch <==
+Touchscreens
+
+==> IPMI_HANDLER.patch <==
+IPMI top-level message handler
+
+==> IP_VS.patch <==
+IP virtual server support
+
+==> LCD_CLASS_DEVICE.patch <==
+Lowlevel LCD controls
+
+==> MD.patch <==
+Multiple devices driver support (RAID and LVM)
+
+==> MEDIA_CEC_SUPPORT.patch <==
+HDMI CEC drivers
+
+==> MEDIA_SUPPORT.patch <==
+Multimedia support
+
+==> MEMSTICK.patch <==
+Sony MemoryStick card support
+
+==> MMC.patch <==
+MMC/SD/SDIO card support
+
+==> MTD.patch <==
+Memory Technology Device (MTD) support
+
+==> NET_DSA.patch <==
+Distributed Switch Architecture
+
+==> NET_SCHED.patch <==
+QoS and/or fair queueing
+
+==> NFC.patch <==
+NFC subsystem support
+
+==> NTB.patch <==
+Non-Transparent Bridge support
+
+==> PARPORT.patch <==
+Parallel port support
+
+==> PCCARD.patch <==
+PCCard (PCMCIA/CardBus) support
+
+==> PSTORE_DEFLATE_COMPRESS.patch <==
+DEFLATE (ZLIB) compression
+
+==> PTP_1588_CLOCK.patch <==
+PTP clock support
+
+==> PWM.patch <==
+Pulse-Width Modulation (PWM) Support
+
+==> RC_CORE.patch <==
+Remote Controller support
+
+==> RFKILL.patch <==
+RF switch subsystem support
+
+==> SOUNDWIRE.patch <==
+SoundWire support
+
+==> SPI.patch <==
+SPI support
+
+==> STAGING.patch <==
+Staging drivers
+
+==> SURFACE_PLATFORMS.patch <==
+Microsoft Surface Platform-Specific Device Drivers
+
+==> TARGET_CORE.patch <==
+Generic Target Core Mod (TCM) and ConfigFS Infrastructure
+
+==> TCP_CONG_ADVANCED.patch <==
+TCP: advanced congestion control
+
+==> TYPEC.patch <==
+USB Type-C Support
+
+==> USB_OHCI_HCD_SSB.patch <==
+OHCI support for Broadcom SSB OHCI core (DEPRECATED)
+
+==> USB_SERIAL.patch <==
+USB Serial Converter support
+
+==> USB_STORAGE.patch <==
+USB Mass Storage support
+
+==> VDPA.patch <==
+vDPA drivers
+
+==> VFIO.patch <==
+VFIO Non-Privileged userspace driver framework
+
+==> W1.patch <==
+Dallas's 1-wire support
+
+==> WATCHDOG.patch <==
+Watchdog Timer Support
+
+==> WLAN.patch <==
+Wireless LAN
+
+==> X86_INTEL_LPSS.patch <==
+Intel Low Power Subsystem Support
+
+==> XEN_BACKEND.patch <==
+Backend driver support

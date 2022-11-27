@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/samsung/s5p-g2d/Makefile
+# CONFIG_VIDEO_SAMSUNG_S5P_G2D s5p-g2d.o 

@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/thermal/qcom/Makefile
+# CONFIG_QCOM_TSENS qcom_tsens.o 
+# CONFIG_QCOM_SPMI_ADC_TM5 qcom-spmi-adc-tm5.o 
+# CONFIG_QCOM_SPMI_TEMP_ALARM qcom-spmi-temp-alarm.o 
+# CONFIG_QCOM_LMH lmh.o 

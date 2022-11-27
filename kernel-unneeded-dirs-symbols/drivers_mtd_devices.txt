@@ -1,0 +1,17 @@
+# Reading Makefile: drivers/mtd/devices/Makefile
+# CONFIG_MTD_DOCG3 docg3.o 
+# CONFIG_MTD_SLRAM slram.o 
+# CONFIG_MTD_PHRAM phram.o 
+# CONFIG_MTD_PMC551 pmc551.o 
+# CONFIG_MTD_MS02NV ms02-nv.o 
+# CONFIG_MTD_MTDRAM mtdram.o 
+# CONFIG_MTD_LART lart.o 
+# CONFIG_MTD_BLOCK2MTD block2mtd.o 
+# CONFIG_MTD_DATAFLASH mtd_dataflash.o 
+# CONFIG_MTD_MCHP23K256 mchp23k256.o 
+# CONFIG_MTD_MCHP48L640 mchp48l640.o 
+# CONFIG_MTD_SPEAR_SMI spear_smi.o 
+# CONFIG_MTD_SST25L sst25l.o 
+# CONFIG_MTD_BCM47XXSFLASH bcm47xxsflash.o 
+# CONFIG_MTD_ST_SPI_FSM st_spi_fsm.o 
+# CONFIG_MTD_POWERNV_FLASH powernv_flash.o 

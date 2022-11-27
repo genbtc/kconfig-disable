@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/pinctrl/ti/Makefile
+# CONFIG_PINCTRL_TI_IODELAY pinctrl-ti-iodelay.o 

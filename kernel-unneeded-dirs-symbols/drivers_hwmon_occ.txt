@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/hwmon/occ/Makefile
+# CONFIG_SENSORS_OCC occ-hwmon-common.o 
+# CONFIG_SENSORS_OCC_P8_I2C occ-p8-hwmon.o 
+# CONFIG_SENSORS_OCC_P9_SBE occ-p9-hwmon.o 

@@ -1,0 +1,3 @@
+# Reading Makefile: net/sctp/Makefile
+# CONFIG_IP_SCTP sctp.o 
+# CONFIG_INET_SCTP_DIAG sctp_diag.o 

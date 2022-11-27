@@ -1,0 +1,2 @@
+# Reading Makefile: fs/erofs/Makefile
+# CONFIG_EROFS_FS erofs.o 

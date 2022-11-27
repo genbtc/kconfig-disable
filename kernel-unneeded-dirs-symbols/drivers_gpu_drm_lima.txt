@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/lima/Makefile
+# CONFIG_DRM_LIMA lima.o 

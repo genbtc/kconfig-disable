@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/mtd/nand/spi/Makefile
+# CONFIG_MTD_SPI_NAND spinand.o 

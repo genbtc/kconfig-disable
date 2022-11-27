@@ -1,0 +1,12 @@
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:40.223610352 -0400
+@@ -4205,7 +4205,7 @@
+ # CONFIG_SERIAL_8250_DETECT_IRQ is not set
+ CONFIG_SERIAL_8250_RSA=y
+ CONFIG_SERIAL_8250_DWLIB=y
+-CONFIG_SERIAL_8250_DW=y
++CONFIG_SERIAL_8250_DW=m
+ CONFIG_SERIAL_8250_RT288X=y
+ CONFIG_SERIAL_8250_LPSS=m
+ CONFIG_SERIAL_8250_MID=y

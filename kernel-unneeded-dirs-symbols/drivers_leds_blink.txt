@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/leds/blink/Makefile
+# CONFIG_LEDS_LGM leds-lgm-sso.o 

@@ -1,0 +1,6 @@
+# Reading Makefile: sound/soc/stm/Makefile
+# CONFIG_SND_SOC_STM32_SAI snd-soc-stm32-sai-sub.o 
+# CONFIG_SND_SOC_STM32_SAI snd-soc-stm32-sai.o 
+# CONFIG_SND_SOC_STM32_I2S snd-soc-stm32-i2s.o 
+# CONFIG_SND_SOC_STM32_SPDIFRX snd-soc-stm32-spdifrx.o 
+# CONFIG_SND_SOC_STM32_DFSDM stm32_adfsdm.o 

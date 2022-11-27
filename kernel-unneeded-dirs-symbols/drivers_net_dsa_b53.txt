@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/net/dsa/b53/Makefile
+# CONFIG_B53 b53_common.o 
+# CONFIG_B53_SPI_DRIVER b53_spi.o 
+# CONFIG_B53_MDIO_DRIVER b53_mdio.o 
+# CONFIG_B53_MMAP_DRIVER b53_mmap.o 
+# CONFIG_B53_SRAB_DRIVER b53_srab.o 
+# CONFIG_B53_SERDES b53_serdes.o 

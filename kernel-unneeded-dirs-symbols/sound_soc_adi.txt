@@ -1,0 +1,3 @@
+# Reading Makefile: sound/soc/adi/Makefile
+# CONFIG_SND_SOC_ADI_AXI_I2S snd-soc-adi-axi-i2s.o 
+# CONFIG_SND_SOC_ADI_AXI_SPDIF snd-soc-adi-axi-spdif.o 

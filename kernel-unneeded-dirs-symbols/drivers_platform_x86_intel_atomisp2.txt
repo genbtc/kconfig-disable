@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/platform/x86/intel/atomisp2/Makefile
+# CONFIG_INTEL_ATOMISP2_LED intel_atomisp2_led.o 
+# CONFIG_INTEL_ATOMISP2_PM intel_atomisp2_pm.o 

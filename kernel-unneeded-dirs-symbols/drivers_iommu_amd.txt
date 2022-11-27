@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/iommu/amd/Makefile
+# CONFIG_AMD_IOMMU iommu.o init.o quirks.o io_pgtable.o 
+# CONFIG_AMD_IOMMU_DEBUGFS debugfs.o 
+# CONFIG_AMD_IOMMU_V2 iommu_v2.o 

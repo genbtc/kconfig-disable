@@ -1,0 +1,22 @@
+# Reading Makefile: drivers/block/paride/Makefile
+# CONFIG_PARIDE paride.o 
+# CONFIG_PARIDE_ATEN aten.o 
+# CONFIG_PARIDE_BPCK bpck.o 
+# CONFIG_PARIDE_COMM comm.o 
+# CONFIG_PARIDE_DSTR dstr.o 
+# CONFIG_PARIDE_KBIC kbic.o 
+# CONFIG_PARIDE_EPAT epat.o 
+# CONFIG_PARIDE_EPIA epia.o 
+# CONFIG_PARIDE_FRPW frpw.o 
+# CONFIG_PARIDE_FRIQ friq.o 
+# CONFIG_PARIDE_FIT2 fit2.o 
+# CONFIG_PARIDE_FIT3 fit3.o 
+# CONFIG_PARIDE_ON20 on20.o 
+# CONFIG_PARIDE_ON26 on26.o 
+# CONFIG_PARIDE_KTTI ktti.o 
+# CONFIG_PARIDE_BPCK6 bpck6.o 
+# CONFIG_PARIDE_PD pd.o 
+# CONFIG_PARIDE_PCD pcd.o 
+# CONFIG_PARIDE_PF pf.o 
+# CONFIG_PARIDE_PT pt.o 
+# CONFIG_PARIDE_PG pg.o 

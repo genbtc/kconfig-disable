@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/net/ethernet/dec/tulip/Makefile
+# CONFIG_PCMCIA_XIRCOM xircom_cb.o 
+# CONFIG_DM9102 dmfe.o 
+# CONFIG_WINBOND_840 winbond-840.o 
+# CONFIG_DE2104X de2104x.o 
+# CONFIG_TULIP tulip.o 
+# CONFIG_ULI526X uli526x.o 

@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/phy/tegra/Makefile
+# CONFIG_PHY_TEGRA_XUSB phy-tegra-xusb.o 
+# CONFIG_PHY_TEGRA194_P2U phy-tegra194-p2u.o 

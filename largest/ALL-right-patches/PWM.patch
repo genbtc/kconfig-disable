@@ -1,0 +1,103 @@
+Pulse-Width Modulation (PWM) Support
+Generic Pulse-Width Modulation (PWM) support.
+
+In Pulse-Width Modulation, a variation of the width of pulses
+in a rectangular pulse signal is used as a means to alter the
+average power of the signal. Applications include efficient
+power delivery and voltage regulation. In computer systems,
+PWMs are commonly used to control fans or the brightness of
+display backlights.
+
+This framework provides a generic interface to PWM devices
+within the Linux kernel. On the driver side it provides an API
+to register and unregister a PWM chip, an abstraction of a PWM
+controller, that supports one or more PWM devices. Client
+drivers can request PWM devices and use the generic framework
+to configure as well as enable and disable them.
+
+This generic framework replaces the legacy PWM framework which
+allows only a single driver implementing the required API. Not
+all legacy implementations have been ported to the framework
+yet. The framework provides an API that is backward compatible
+with the legacy framework so that existing client drivers
+continue to work as expected.
+
+If unsure, say no.
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:00.139610388 -0400
+@@ -4111,8 +4111,6 @@
+ CONFIG_INPUT_AXP20X_PEK=m
+ CONFIG_INPUT_UINPUT=m
+ # CONFIG_INPUT_PCF8574 is not set
+-CONFIG_INPUT_PWM_BEEPER=m
+-# CONFIG_INPUT_PWM_VIBRA is not set
+ CONFIG_INPUT_GPIO_ROTARY_ENCODER=m
+ # CONFIG_INPUT_DA7280_HAPTICS is not set
+ # CONFIG_INPUT_ADXL34X is not set
+@@ -5245,7 +5243,6 @@
+ # CONFIG_REGULATOR_PV88060 is not set
+ # CONFIG_REGULATOR_PV88080 is not set
+ # CONFIG_REGULATOR_PV88090 is not set
+-# CONFIG_REGULATOR_PWM is not set
+ CONFIG_REGULATOR_RT4801=m
+ CONFIG_REGULATOR_RT4831=m
+ CONFIG_REGULATOR_RT5190A=m
+@@ -6341,16 +6338,13 @@
+ # CONFIG_LCD_OTM3225A is not set
+ CONFIG_BACKLIGHT_CLASS_DEVICE=y
+ CONFIG_BACKLIGHT_KTD253=m
+-CONFIG_BACKLIGHT_PWM=m
+ CONFIG_BACKLIGHT_APPLE=m
+ # CONFIG_BACKLIGHT_QCOM_WLED is not set
+ CONFIG_BACKLIGHT_RT4831=m
+ # CONFIG_BACKLIGHT_SAHARA is not set
+ # CONFIG_BACKLIGHT_ADP8860 is not set
+ # CONFIG_BACKLIGHT_ADP8870 is not set
+-# CONFIG_BACKLIGHT_LM3630A is not set
+ # CONFIG_BACKLIGHT_LM3639 is not set
+-CONFIG_BACKLIGHT_LP855X=m
+ # CONFIG_BACKLIGHT_GPIO is not set
+ # CONFIG_BACKLIGHT_LV5207LP is not set
+ # CONFIG_BACKLIGHT_BD6107 is not set
+@@ -7499,7 +7493,6 @@
+ # CONFIG_LEDS_PCA955X is not set
+ # CONFIG_LEDS_PCA963X is not set
+ # CONFIG_LEDS_DAC124S085 is not set
+-# CONFIG_LEDS_PWM is not set
+ # CONFIG_LEDS_REGULATOR is not set
+ # CONFIG_LEDS_BD2802 is not set
+ CONFIG_LEDS_INTEL_SS4200=m
+@@ -7529,7 +7522,6 @@
+ #
+ # RGB LED drivers
+ #
+-CONFIG_LEDS_PWM_MULTICOLOR=m
+ 
+ #
+ # LED Triggers
+@@ -8224,7 +8216,6 @@
+ # CONFIG_COMMON_CLK_CDCE706 is not set
+ CONFIG_COMMON_CLK_TPS68470=m
+ # CONFIG_COMMON_CLK_CS2000_CP is not set
+-# CONFIG_COMMON_CLK_PWM is not set
+ CONFIG_XILINX_VCU=m
+ CONFIG_CLK_KUNIT_TEST=m
+ CONFIG_CLK_GATE_KUNIT_TEST=m
+@@ -8943,15 +8934,7 @@
+ CONFIG_NTB_PERF=m
+ CONFIG_NTB_TRANSPORT=m
+ # CONFIG_VME_BUS is not set
+-CONFIG_PWM=y
+-CONFIG_PWM_SYSFS=y
+-CONFIG_PWM_CRC=y
+-CONFIG_PWM_CROS_EC=m
+-CONFIG_PWM_DWC=m
+-CONFIG_PWM_LPSS=m
+-CONFIG_PWM_LPSS_PCI=m
+-CONFIG_PWM_LPSS_PLATFORM=m
+-# CONFIG_PWM_PCA9685 is not set
++# CONFIG_PWM is not set
+ 
+ #
+ # IRQ chip support

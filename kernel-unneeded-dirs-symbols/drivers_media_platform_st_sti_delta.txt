@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/st/sti/delta/Makefile
+# CONFIG_VIDEO_STI_DELTA_DRIVER st-delta.o 

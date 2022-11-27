@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/usb/gadget/udc/aspeed-vhub/Makefile
+# CONFIG_USB_ASPEED_VHUB aspeed-vhub.o 

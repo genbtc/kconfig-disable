@@ -1,0 +1,50 @@
+FPGA Configuration Framework
+Say Y here if you want support for configuring FPGAs from the
+kernel.  The FPGA framework adds an FPGA manager class and FPGA
+manager drivers.
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:01.105610387 -0400
+@@ -4435,8 +4435,6 @@
+ # SPI Master Controller Drivers
+ #
+ # CONFIG_SPI_ALTERA is not set
+-CONFIG_SPI_ALTERA_CORE=m
+-CONFIG_SPI_ALTERA_DFL=m
+ # CONFIG_SPI_AXI_SPI_ENGINE is not set
+ # CONFIG_SPI_BITBANG is not set
+ # CONFIG_SPI_BUTTERFLY is not set
+@@ -7846,7 +7844,6 @@
+ # CONFIG_UIO_PRUSS is not set
+ # CONFIG_UIO_MF624 is not set
+ CONFIG_UIO_HV_GENERIC=m
+-CONFIG_UIO_DFL=m
+ CONFIG_VFIO=m
+ CONFIG_VFIO_IOMMU_TYPE1=m
+ CONFIG_VFIO_VIRQFD=m
+@@ -9051,24 +9048,7 @@
+ # CONFIG_INTEL_TH_DEBUG is not set
+ # end of HW tracing support
+ 
+-CONFIG_FPGA=m
+-CONFIG_ALTERA_PR_IP_CORE=m
+-CONFIG_FPGA_MGR_ALTERA_PS_SPI=m
+-CONFIG_FPGA_MGR_ALTERA_CVP=m
+-CONFIG_FPGA_MGR_XILINX_SPI=m
+-CONFIG_FPGA_MGR_MACHXO2_SPI=m
+-CONFIG_FPGA_BRIDGE=m
+-# CONFIG_ALTERA_FREEZE_BRIDGE is not set
+-CONFIG_XILINX_PR_DECOUPLER=m
+-CONFIG_FPGA_REGION=m
+-CONFIG_FPGA_DFL=m
+-CONFIG_FPGA_DFL_FME=m
+-CONFIG_FPGA_DFL_FME_MGR=m
+-CONFIG_FPGA_DFL_FME_BRIDGE=m
+-CONFIG_FPGA_DFL_FME_REGION=m
+-CONFIG_FPGA_DFL_AFU=m
+-CONFIG_FPGA_DFL_NIOS_INTEL_PAC_N3000=m
+-CONFIG_FPGA_DFL_PCI=m
++# CONFIG_FPGA is not set
+ CONFIG_TEE=m
+ # CONFIG_AMDTEE is not set
+ CONFIG_MULTIPLEXER=m

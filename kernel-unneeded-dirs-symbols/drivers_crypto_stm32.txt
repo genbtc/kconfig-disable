@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/crypto/stm32/Makefile
+# CONFIG_CRYPTO_DEV_STM32_CRC stm32-crc32.o 
+# CONFIG_CRYPTO_DEV_STM32_HASH stm32-hash.o 
+# CONFIG_CRYPTO_DEV_STM32_CRYP stm32-cryp.o 

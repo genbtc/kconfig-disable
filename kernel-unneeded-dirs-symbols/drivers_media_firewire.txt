@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/firewire/Makefile
+# CONFIG_DVB_FIREDTV firedtv.o 

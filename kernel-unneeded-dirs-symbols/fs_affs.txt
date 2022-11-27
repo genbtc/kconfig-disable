@@ -1,0 +1,2 @@
+# Reading Makefile: fs/affs/Makefile
+# CONFIG_AFFS_FS affs.o 

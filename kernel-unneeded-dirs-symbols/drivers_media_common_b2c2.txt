@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/common/b2c2/Makefile
+# CONFIG_DVB_B2C2_FLEXCOP b2c2-flexcop.o 

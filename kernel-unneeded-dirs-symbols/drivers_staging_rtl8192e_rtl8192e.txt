@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/rtl8192e/rtl8192e/Makefile
+# CONFIG_RTL8192E r8192e_pci.o 

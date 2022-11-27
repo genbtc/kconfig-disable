@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/usb/typec/altmodes/Makefile
+# CONFIG_TYPEC_DP_ALTMODE typec_displayport.o 
+# CONFIG_TYPEC_NVIDIA_ALTMODE typec_nvidia.o 

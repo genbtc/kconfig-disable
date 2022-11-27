@@ -1,0 +1,25 @@
+# Reading Makefile: drivers/net/wireless/intel/iwlwifi/mvm/Makefile
+# CONFIG_IWLMVM iwlmvm.o 
+# Reading Makefile: drivers/net/wireless/intel/iwlwifi/mei/Makefile
+# CONFIG_IWLMEI iwlmei.o 
+# Reading Makefile: drivers/net/wireless/intel/iwlwifi/dvm/Makefile
+# CONFIG_IWLDVM iwldvm.o 
+# Reading Makefile: drivers/net/wireless/intel/iwlwifi/Makefile
+# CONFIG_IWLWIFI iwlwifi.o 
+# CONFIG_IWLDVM dvm/ 
+# CONFIG_IWLMVM mvm/ 
+# CONFIG_IWLMEI mei/ 
+# Reading Makefile: drivers/net/wireless/intel/iwlegacy/Makefile
+# CONFIG_IWLEGACY iwlegacy.o 
+# CONFIG_IWL4965 iwl4965.o 
+# CONFIG_IWL3945 iwl3945.o 
+# Reading Makefile: drivers/net/wireless/intel/ipw2x00/Makefile
+# CONFIG_IPW2100 ipw2100.o 
+# CONFIG_IPW2200 ipw2200.o 
+# CONFIG_LIBIPW libipw.o 
+# Reading Makefile: drivers/net/wireless/intel/Makefile
+# CONFIG_IPW2100 ipw2x00/ 
+# CONFIG_IPW2200 ipw2x00/ 
+# CONFIG_IWLEGACY iwlegacy/ 
+# CONFIG_IWLWIFI iwlwifi/ 
+# CONFIG_IWLMEI iwlwifi/ 

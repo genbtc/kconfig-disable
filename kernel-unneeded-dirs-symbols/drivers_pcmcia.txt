@@ -1,0 +1,24 @@
+# Reading Makefile: drivers/pcmcia/Makefile
+# CONFIG_PCCARD pcmcia_core.o 
+# CONFIG_PCMCIA pcmcia.o 
+# CONFIG_PCCARD pcmcia_rsrc.o 
+# CONFIG_YENTA yenta_socket.o 
+# CONFIG_PD6729 pd6729.o 
+# CONFIG_I82365 i82365.o 
+# CONFIG_I82092 i82092.o 
+# CONFIG_TCIC tcic.o 
+# CONFIG_PCMCIA_SOC_COMMON soc_common.o 
+# CONFIG_PCMCIA_SA11XX_BASE sa11xx_base.o 
+# CONFIG_PCMCIA_SA1100 sa1100_cs.o 
+# CONFIG_PCMCIA_SA1111 sa1111_cs.o 
+# CONFIG_PCMCIA_BCM63XX bcm63xx_pcmcia.o 
+# CONFIG_PCMCIA_VRC4171 vrc4171_card.o 
+# CONFIG_OMAP_CF omap_cf.o 
+# CONFIG_AT91_CF at91_cf.o 
+# CONFIG_ELECTRA_CF electra_cf.o 
+# CONFIG_PCMCIA_ALCHEMY_DEVBOARD db1xxx_ss.o 
+# CONFIG_PCMCIA_MAX1600 max1600.o 
+# CONFIG_MACH_MAINSTONE pxa2xx_mainstone.o 
+# CONFIG_PXA_SHARPSL pxa2xx_sharpsl.o 
+# CONFIG_PCMCIA_PXA2XX pxa2xx_base.o $(pxa2xx-obj-y) 
+# CONFIG_PCMCIA_XXS1500 xxs1500_ss.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/wireless/ath/wcn36xx/Makefile
+# CONFIG_WCN36XX wcn36xx.o 

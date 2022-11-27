@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/infiniband/sw/rxe/Makefile
+# CONFIG_RDMA_RXE rdma_rxe.o 

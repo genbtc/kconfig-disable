@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/nfc/nfcmrvl/Makefile
+# CONFIG_NFC_MRVL nfcmrvl.o 
+# CONFIG_NFC_MRVL_USB nfcmrvl_usb.o 
+# CONFIG_NFC_MRVL_UART nfcmrvl_uart.o 
+# CONFIG_NFC_MRVL_I2C nfcmrvl_i2c.o 
+# CONFIG_NFC_MRVL_SPI nfcmrvl_spi.o 

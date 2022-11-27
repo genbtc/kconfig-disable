@@ -1,0 +1,10 @@
+# Reading Makefile: drivers/net/ethernet/chelsio/inline_crypto/chtls/Makefile
+# CONFIG_CRYPTO_DEV_CHELSIO_TLS chtls.o 
+# Reading Makefile: drivers/net/ethernet/chelsio/inline_crypto/ch_ktls/Makefile
+# CONFIG_CHELSIO_TLS_DEVICE ch_ktls.o 
+# Reading Makefile: drivers/net/ethernet/chelsio/inline_crypto/ch_ipsec/Makefile
+# CONFIG_CHELSIO_IPSEC_INLINE ch_ipsec.o 
+# Reading Makefile: drivers/net/ethernet/chelsio/inline_crypto/Makefile
+# CONFIG_CRYPTO_DEV_CHELSIO_TLS chtls/ 
+# CONFIG_CHELSIO_IPSEC_INLINE ch_ipsec/ 
+# CONFIG_CHELSIO_TLS_DEVICE ch_ktls/ 

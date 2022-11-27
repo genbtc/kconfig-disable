@@ -1,0 +1,12 @@
+# Reading Makefile: sound/soc/sh/rcar/Makefile
+# CONFIG_SND_SOC_RCAR snd-soc-rcar.o 
+# Reading Makefile: sound/soc/sh/Makefile
+# CONFIG_SND_SOC_PCM_SH7760 snd-soc-dma-sh7760.o 
+# CONFIG_SND_SOC_SH4_HAC snd-soc-hac.o 
+# CONFIG_SND_SOC_SH4_SSI snd-soc-ssi.o 
+# CONFIG_SND_SOC_SH4_FSI snd-soc-fsi.o 
+# CONFIG_SND_SOC_SH4_SIU snd-soc-siu.o 
+# CONFIG_SND_SOC_RCAR rcar/ 
+# CONFIG_SND_SH7760_AC97 snd-soc-sh7760-ac97.o 
+# CONFIG_SND_SIU_MIGOR snd-soc-migor.o 
+# CONFIG_SND_SOC_RZ snd-soc-rz-ssi.o 

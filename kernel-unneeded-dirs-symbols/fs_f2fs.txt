@@ -1,0 +1,2 @@
+# Reading Makefile: fs/f2fs/Makefile
+# CONFIG_F2FS_FS f2fs.o 

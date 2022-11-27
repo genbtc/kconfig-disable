@@ -1,0 +1,9 @@
+# Reading Makefile: sound/soc/rockchip/Makefile
+# CONFIG_SND_SOC_ROCKCHIP_I2S snd-soc-rockchip-i2s.o 
+# CONFIG_SND_SOC_ROCKCHIP_PDM snd-soc-rockchip-pdm.o 
+# CONFIG_SND_SOC_ROCKCHIP_SPDIF snd-soc-rockchip-spdif.o 
+# CONFIG_SND_SOC_ROCKCHIP_I2S_TDM snd-soc-rockchip-i2s-tdm.o 
+# CONFIG_SND_SOC_ROCKCHIP_MAX98090 snd-soc-rockchip-max98090.o 
+# CONFIG_SND_SOC_ROCKCHIP_RT5645 snd-soc-rockchip-rt5645.o 
+# CONFIG_SND_SOC_RK3288_HDMI_ANALOG snd-soc-rk3288-hdmi-analog.o 
+# CONFIG_SND_SOC_RK3399_GRU_SOUND snd-soc-rk3399-gru-sound.o 

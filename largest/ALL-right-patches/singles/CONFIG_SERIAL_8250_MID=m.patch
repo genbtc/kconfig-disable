@@ -1,0 +1,30 @@
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:41.211610351 -0400
+@@ -4208,7 +4208,7 @@
+ CONFIG_SERIAL_8250_DW=y
+ CONFIG_SERIAL_8250_RT288X=y
+ CONFIG_SERIAL_8250_LPSS=m
+-CONFIG_SERIAL_8250_MID=y
++CONFIG_SERIAL_8250_MID=m
+ CONFIG_SERIAL_8250_PERICOM=y
+ 
+ #
+@@ -7770,7 +7770,7 @@
+ # DMA Devices
+ #
+ CONFIG_DMA_ENGINE=y
+-CONFIG_DMA_VIRTUAL_CHANNELS=y
++CONFIG_DMA_VIRTUAL_CHANNELS=m
+ CONFIG_DMA_ACPI=y
+ CONFIG_ALTERA_MSGDMA=m
+ CONFIG_INTEL_IDMA64=m
+@@ -7789,7 +7789,7 @@
+ CONFIG_DW_DMAC_PCI=y
+ CONFIG_DW_EDMA=m
+ CONFIG_DW_EDMA_PCIE=m
+-CONFIG_HSU_DMA=y
++CONFIG_HSU_DMA=m
+ # CONFIG_SF_PDMA is not set
+ # CONFIG_INTEL_LDMA is not set
+ 

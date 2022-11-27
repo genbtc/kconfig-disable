@@ -1,0 +1,17 @@
+# Reading Makefile: drivers/net/ethernet/cavium/thunder/Makefile
+# CONFIG_THUNDER_NIC_RGX thunder_xcv.o 
+# CONFIG_THUNDER_NIC_BGX thunder_bgx.o 
+# CONFIG_THUNDER_NIC_PF nicpf.o 
+# CONFIG_THUNDER_NIC_VF nicvf.o 
+# Reading Makefile: drivers/net/ethernet/cavium/octeon/Makefile
+# CONFIG_OCTEON_MGMT_ETHERNET octeon_mgmt.o 
+# Reading Makefile: drivers/net/ethernet/cavium/liquidio/Makefile
+# CONFIG_LIQUIDIO liquidio.o 
+# CONFIG_LIQUIDIO_VF liquidio_vf.o 
+# Reading Makefile: drivers/net/ethernet/cavium/common/Makefile
+# CONFIG_CAVIUM_PTP cavium_ptp.o 
+# Reading Makefile: drivers/net/ethernet/cavium/Makefile
+# CONFIG_NET_VENDOR_CAVIUM common/ 
+# CONFIG_NET_VENDOR_CAVIUM thunder/ 
+# CONFIG_NET_VENDOR_CAVIUM liquidio/ 
+# CONFIG_NET_VENDOR_CAVIUM octeon/ 

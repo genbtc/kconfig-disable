@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/tee/amdtee/Makefile
+# CONFIG_AMDTEE amdtee.o 

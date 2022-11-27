@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/bus/mhi/host/Makefile
+# CONFIG_MHI_BUS mhi.o 
+# CONFIG_MHI_BUS_PCI_GENERIC mhi_pci_generic.o 
+# Reading Makefile: drivers/bus/mhi/ep/Makefile
+# CONFIG_MHI_BUS_EP mhi_ep.o 
+# Reading Makefile: drivers/bus/mhi/Makefile

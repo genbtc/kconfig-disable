@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/dvb-frontends/drx39xyj/Makefile
+# CONFIG_DVB_DRX39XYJ drx39xyj.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/dma/sf-pdma/Makefile
+# CONFIG_SF_PDMA sf-pdma.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/pci/smipcie/Makefile
+# CONFIG_DVB_SMIPCIE smipcie.o 

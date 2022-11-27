@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/v3d/Makefile
+# CONFIG_DRM_V3D v3d.o 

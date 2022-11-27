@@ -1,0 +1,2 @@
+# Reading Makefile: fs/jfs/Makefile
+# CONFIG_JFS_FS jfs.o 

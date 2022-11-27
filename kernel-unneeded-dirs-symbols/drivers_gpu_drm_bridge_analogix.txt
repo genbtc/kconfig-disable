@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/gpu/drm/bridge/analogix/Makefile
+# CONFIG_DRM_ANALOGIX_ANX6345 analogix-anx6345.o 
+# CONFIG_DRM_ANALOGIX_ANX7625 anx7625.o 
+# CONFIG_DRM_ANALOGIX_ANX78XX analogix-anx78xx.o 
+# CONFIG_DRM_ANALOGIX_DP analogix_dp.o 

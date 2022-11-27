@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/infiniband/sw/rdmavt/Makefile
+# CONFIG_INFINIBAND_RDMAVT rdmavt.o 

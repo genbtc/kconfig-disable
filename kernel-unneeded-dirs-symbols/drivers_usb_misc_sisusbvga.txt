@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/usb/misc/sisusbvga/Makefile
+# CONFIG_USB_SISUSBVGA sisusbvga.o 

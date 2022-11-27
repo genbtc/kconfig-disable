@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/iio/common/scmi_sensors/Makefile
+# CONFIG_IIO_SCMI scmi_iio.o 

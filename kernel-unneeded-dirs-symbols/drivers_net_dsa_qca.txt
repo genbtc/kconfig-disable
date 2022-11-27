@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/dsa/qca/Makefile
+# CONFIG_NET_DSA_AR9331 ar9331.o 

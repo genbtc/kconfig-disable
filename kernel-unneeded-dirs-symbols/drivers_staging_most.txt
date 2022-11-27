@@ -1,0 +1,13 @@
+# Reading Makefile: drivers/staging/most/video/Makefile
+# CONFIG_MOST_VIDEO most_video.o 
+# Reading Makefile: drivers/staging/most/net/Makefile
+# CONFIG_MOST_NET most_net.o 
+# Reading Makefile: drivers/staging/most/i2c/Makefile
+# CONFIG_MOST_I2C most_i2c.o 
+# Reading Makefile: drivers/staging/most/dim2/Makefile
+# CONFIG_MOST_DIM2 most_dim2.o 
+# Reading Makefile: drivers/staging/most/Makefile
+# CONFIG_MOST_NET net/ 
+# CONFIG_MOST_VIDEO video/ 
+# CONFIG_MOST_DIM2 dim2/ 
+# CONFIG_MOST_I2C i2c/ 

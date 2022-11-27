@@ -1,0 +1,201 @@
+# Reading Makefile: drivers/mtd/ubi/Makefile
+# CONFIG_MTD_UBI ubi.o 
+# CONFIG_MTD_UBI_GLUEBI gluebi.o 
+# Reading Makefile: drivers/mtd/tests/Makefile
+# CONFIG_MTD_TESTS mtd_oobtest.o 
+# CONFIG_MTD_TESTS mtd_pagetest.o 
+# CONFIG_MTD_TESTS mtd_readtest.o 
+# CONFIG_MTD_TESTS mtd_speedtest.o 
+# CONFIG_MTD_TESTS mtd_stresstest.o 
+# CONFIG_MTD_TESTS mtd_subpagetest.o 
+# CONFIG_MTD_TESTS mtd_torturetest.o 
+# CONFIG_MTD_TESTS mtd_nandecctest.o 
+# CONFIG_MTD_TESTS mtd_nandbiterrs.o 
+# Reading Makefile: drivers/mtd/spi-nor/controllers/Makefile
+# CONFIG_SPI_HISI_SFC hisi-sfc.o 
+# CONFIG_SPI_NXP_SPIFI nxp-spifi.o 
+# Reading Makefile: drivers/mtd/spi-nor/Makefile
+# CONFIG_MTD_SPI_NOR spi-nor.o 
+# CONFIG_MTD_SPI_NOR controllers/ 
+# Reading Makefile: drivers/mtd/parsers/Makefile
+# CONFIG_MTD_AR7_PARTS ar7part.o 
+# CONFIG_MTD_BCM47XX_PARTS bcm47xxpart.o 
+# CONFIG_MTD_BCM63XX_PARTS bcm63xxpart.o 
+# CONFIG_MTD_CMDLINE_PARTS cmdlinepart.o 
+# CONFIG_MTD_OF_PARTS ofpart.o 
+# CONFIG_MTD_PARSER_IMAGETAG parser_imagetag.o 
+# CONFIG_MTD_AFS_PARTS afs.o 
+# CONFIG_MTD_PARSER_TRX parser_trx.o 
+# CONFIG_MTD_SHARPSL_PARTS sharpslpart.o 
+# CONFIG_MTD_REDBOOT_PARTS redboot.o 
+# CONFIG_MTD_QCOMSMEM_PARTS qcomsmempart.o 
+# Reading Makefile: drivers/mtd/nand/spi/Makefile
+# CONFIG_MTD_SPI_NAND spinand.o 
+# Reading Makefile: drivers/mtd/nand/raw/ingenic/Makefile
+# CONFIG_MTD_NAND_JZ4780 ingenic_nand.o 
+# CONFIG_MTD_NAND_JZ4740_ECC jz4740_ecc.o 
+# CONFIG_MTD_NAND_JZ4725B_BCH jz4725b_bch.o 
+# CONFIG_MTD_NAND_JZ4780_BCH jz4780_bch.o 
+# Reading Makefile: drivers/mtd/nand/raw/gpmi-nand/Makefile
+# CONFIG_MTD_NAND_GPMI_NAND gpmi-nand.o 
+# Reading Makefile: drivers/mtd/nand/raw/brcmnand/Makefile
+# CONFIG_MTD_NAND_BRCMNAND iproc_nand.o 
+# CONFIG_MTD_NAND_BRCMNAND bcm63138_nand.o 
+# CONFIG_MTD_NAND_BRCMNAND bcm6368_nand.o 
+# CONFIG_MTD_NAND_BRCMNAND brcmstb_nand.o 
+# CONFIG_MTD_NAND_BRCMNAND brcmnand.o 
+# CONFIG_MTD_NAND_BRCMNAND_BCMA bcma_nand.o 
+# Reading Makefile: drivers/mtd/nand/raw/bcm47xxnflash/Makefile
+# CONFIG_MTD_NAND_BCM47XXNFLASH bcm47xxnflash.o 
+# Reading Makefile: drivers/mtd/nand/raw/atmel/Makefile
+# CONFIG_MTD_NAND_ATMEL atmel-nand-controller.o atmel-pmecc.o 
+# Reading Makefile: drivers/mtd/nand/raw/Makefile
+# CONFIG_MTD_RAW_NAND nand.o 
+# CONFIG_MTD_SM_COMMON sm_common.o 
+# CONFIG_MTD_NAND_CAFE cafe_nand.o 
+# CONFIG_MTD_NAND_AMS_DELTA ams-delta.o 
+# CONFIG_MTD_NAND_DENALI denali.o 
+# CONFIG_MTD_NAND_DENALI_PCI denali_pci.o 
+# CONFIG_MTD_NAND_DENALI_DT denali_dt.o 
+# CONFIG_MTD_NAND_AU1550 au1550nd.o 
+# CONFIG_MTD_NAND_S3C2410 s3c2410.o 
+# CONFIG_MTD_NAND_DAVINCI davinci_nand.o 
+# CONFIG_MTD_NAND_DISKONCHIP diskonchip.o 
+# CONFIG_MTD_NAND_FSMC fsmc_nand.o 
+# CONFIG_MTD_NAND_SHARPSL sharpsl.o 
+# CONFIG_MTD_NAND_NANDSIM nandsim.o 
+# CONFIG_MTD_NAND_CS553X cs553x_nand.o 
+# CONFIG_MTD_NAND_NDFC ndfc.o 
+# CONFIG_MTD_NAND_ATMEL atmel/ 
+# CONFIG_MTD_NAND_GPIO gpio.o 
+# CONFIG_MTD_NAND_OMAP2 omap2_nand.o 
+# CONFIG_MTD_NAND_OMAP_BCH_BUILD omap_elm.o 
+# CONFIG_MTD_NAND_MARVELL marvell_nand.o 
+# CONFIG_MTD_NAND_TMIO tmio_nand.o 
+# CONFIG_MTD_NAND_PLATFORM plat_nand.o 
+# CONFIG_MTD_NAND_PASEMI pasemi_nand.o 
+# CONFIG_MTD_NAND_ORION orion_nand.o 
+# CONFIG_MTD_NAND_OXNAS oxnas_nand.o 
+# CONFIG_MTD_NAND_FSL_ELBC fsl_elbc_nand.o 
+# CONFIG_MTD_NAND_FSL_IFC fsl_ifc_nand.o 
+# CONFIG_MTD_NAND_FSL_UPM fsl_upm.o 
+# CONFIG_MTD_NAND_SLC_LPC32XX lpc32xx_slc.o 
+# CONFIG_MTD_NAND_MLC_LPC32XX lpc32xx_mlc.o 
+# CONFIG_MTD_NAND_SH_FLCTL sh_flctl.o 
+# CONFIG_MTD_NAND_MXC mxc_nand.o 
+# CONFIG_MTD_NAND_SOCRATES socrates_nand.o 
+# CONFIG_MTD_NAND_TXX9NDFMC txx9ndfmc.o 
+# CONFIG_MTD_NAND_MPC5121_NFC mpc5121_nfc.o 
+# CONFIG_MTD_NAND_VF610_NFC vf610_nfc.o 
+# CONFIG_MTD_NAND_RICOH r852.o 
+# CONFIG_MTD_NAND_GPMI_NAND gpmi-nand/ 
+# CONFIG_MTD_NAND_XWAY xway_nand.o 
+# CONFIG_MTD_NAND_BCM47XXNFLASH bcm47xxnflash/ 
+# CONFIG_MTD_NAND_SUNXI sunxi_nand.o 
+# CONFIG_MTD_NAND_HISI504 hisi504_nand.o 
+# CONFIG_MTD_NAND_BRCMNAND brcmnand/ 
+# CONFIG_MTD_NAND_QCOM qcom_nandc.o 
+# CONFIG_MTD_NAND_MTK mtk_nand.o 
+# CONFIG_MTD_NAND_MXIC mxic_nand.o 
+# CONFIG_MTD_NAND_TEGRA tegra_nand.o 
+# CONFIG_MTD_NAND_STM32_FMC2 stm32_fmc2_nand.o 
+# CONFIG_MTD_NAND_MESON meson_nand.o 
+# CONFIG_MTD_NAND_CADENCE cadence-nand-controller.o 
+# CONFIG_MTD_NAND_ARASAN arasan-nand-controller.o 
+# CONFIG_MTD_NAND_INTEL_LGM intel-nand-controller.o 
+# CONFIG_MTD_NAND_ROCKCHIP rockchip-nand-controller.o 
+# CONFIG_MTD_NAND_PL35X pl35x-nand-controller.o 
+# CONFIG_MTD_NAND_RENESAS renesas-nand-controller.o 
+# Reading Makefile: drivers/mtd/nand/onenand/Makefile
+# CONFIG_MTD_ONENAND onenand.o 
+# CONFIG_MTD_ONENAND_GENERIC generic.o 
+# CONFIG_MTD_ONENAND_OMAP2 onenand_omap2.o 
+# CONFIG_MTD_ONENAND_SAMSUNG onenand_samsung.o 
+# Reading Makefile: drivers/mtd/nand/Makefile
+# CONFIG_MTD_NAND_CORE nandcore.o 
+# CONFIG_MTD_NAND_ECC_MEDIATEK ecc-mtk.o 
+# Reading Makefile: drivers/mtd/maps/Makefile
+# CONFIG_MTD map_funcs.o 
+# CONFIG_MTD_CFI_FLAGADM cfi_flagadm.o 
+# CONFIG_MTD_DC21285 dc21285.o 
+# CONFIG_MTD_L440GX l440gx.o 
+# CONFIG_MTD_AMD76XROM amd76xrom.o 
+# CONFIG_MTD_ESB2ROM esb2rom.o 
+# CONFIG_MTD_ICHXROM ichxrom.o 
+# CONFIG_MTD_CK804XROM ck804xrom.o 
+# CONFIG_MTD_TSUNAMI tsunami_flash.o 
+# CONFIG_MTD_PXA2XX pxa2xx-flash.o 
+# CONFIG_MTD_PHYSMAP physmap.o 
+# CONFIG_MTD_PISMO pismo.o 
+# CONFIG_MTD_PCMCIA pcmciamtd.o 
+# CONFIG_MTD_SA1100 sa1100-flash.o 
+# CONFIG_MTD_SBC_GXX sbc_gxx.o 
+# CONFIG_MTD_SC520CDP sc520cdp.o 
+# CONFIG_MTD_NETSC520 netsc520.o 
+# CONFIG_MTD_TS5500 ts5500_flash.o 
+# CONFIG_MTD_SUN_UFLASH sun_uflash.o 
+# CONFIG_MTD_SCx200_DOCFLASH scx200_docflash.o 
+# CONFIG_MTD_SOLUTIONENGINE solutionengine.o 
+# CONFIG_MTD_PCI pci.o 
+# CONFIG_MTD_IMPA7 impa7.o 
+# CONFIG_MTD_UCLINUX uclinux.o 
+# CONFIG_MTD_NETtel nettel.o 
+# CONFIG_MTD_SCB2_FLASH scb2_flash.o 
+# CONFIG_MTD_PLATRAM plat-ram.o 
+# CONFIG_MTD_INTEL_VR_NOR intel_vr_nor.o 
+# CONFIG_MTD_VMU vmu-flash.o 
+# CONFIG_MTD_LANTIQ lantiq-flash.o 
+# Reading Makefile: drivers/mtd/lpddr/Makefile
+# CONFIG_MTD_QINFO_PROBE qinfo_probe.o 
+# CONFIG_MTD_LPDDR lpddr_cmds.o 
+# CONFIG_MTD_LPDDR2_NVM lpddr2_nvm.o 
+# Reading Makefile: drivers/mtd/hyperbus/Makefile
+# CONFIG_MTD_HYPERBUS hyperbus-core.o 
+# CONFIG_HBMC_AM654 hbmc-am654.o 
+# CONFIG_RPCIF_HYPERBUS rpc-if.o 
+# Reading Makefile: drivers/mtd/devices/Makefile
+# CONFIG_MTD_DOCG3 docg3.o 
+# CONFIG_MTD_SLRAM slram.o 
+# CONFIG_MTD_PHRAM phram.o 
+# CONFIG_MTD_PMC551 pmc551.o 
+# CONFIG_MTD_MS02NV ms02-nv.o 
+# CONFIG_MTD_MTDRAM mtdram.o 
+# CONFIG_MTD_LART lart.o 
+# CONFIG_MTD_BLOCK2MTD block2mtd.o 
+# CONFIG_MTD_DATAFLASH mtd_dataflash.o 
+# CONFIG_MTD_MCHP23K256 mchp23k256.o 
+# CONFIG_MTD_MCHP48L640 mchp48l640.o 
+# CONFIG_MTD_SPEAR_SMI spear_smi.o 
+# CONFIG_MTD_SST25L sst25l.o 
+# CONFIG_MTD_BCM47XXSFLASH bcm47xxsflash.o 
+# CONFIG_MTD_ST_SPI_FSM st_spi_fsm.o 
+# CONFIG_MTD_POWERNV_FLASH powernv_flash.o 
+# Reading Makefile: drivers/mtd/chips/Makefile
+# CONFIG_MTD chipreg.o 
+# CONFIG_MTD_CFI cfi_probe.o 
+# CONFIG_MTD_CFI_UTIL cfi_util.o 
+# CONFIG_MTD_CFI_STAA cfi_cmdset_0020.o 
+# CONFIG_MTD_CFI_AMDSTD cfi_cmdset_0002.o 
+# CONFIG_MTD_CFI_INTELEXT cfi_cmdset_0001.o 
+# CONFIG_MTD_GEN_PROBE gen_probe.o 
+# CONFIG_MTD_JEDECPROBE jedec_probe.o 
+# CONFIG_MTD_RAM map_ram.o 
+# CONFIG_MTD_ROM map_rom.o 
+# CONFIG_MTD_ABSENT map_absent.o 
+# Reading Makefile: drivers/mtd/Makefile
+# CONFIG_MTD mtd.o 
+# CONFIG_MTD_BLKDEVS mtd_blkdevs.o 
+# CONFIG_MTD_BLOCK mtdblock.o 
+# CONFIG_MTD_BLOCK_RO mtdblock_ro.o 
+# CONFIG_FTL ftl.o 
+# CONFIG_NFTL nftl.o 
+# CONFIG_INFTL inftl.o 
+# CONFIG_RFD_FTL rfd_ftl.o 
+# CONFIG_SSFDC ssfdc.o 
+# CONFIG_SM_FTL sm_ftl.o 
+# CONFIG_MTD_OOPS mtdoops.o 
+# CONFIG_MTD_PSTORE mtdpstore.o 
+# CONFIG_MTD_SWAP mtdswap.o 
+# CONFIG_MTD_SPI_NOR spi-nor/ 
+# CONFIG_MTD_UBI ubi/ 
+# CONFIG_MTD_HYPERBUS hyperbus/ 

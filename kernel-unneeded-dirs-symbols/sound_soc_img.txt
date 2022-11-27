@@ -1,0 +1,7 @@
+# Reading Makefile: sound/soc/img/Makefile
+# CONFIG_SND_SOC_IMG_I2S_IN img-i2s-in.o 
+# CONFIG_SND_SOC_IMG_I2S_OUT img-i2s-out.o 
+# CONFIG_SND_SOC_IMG_PARALLEL_OUT img-parallel-out.o 
+# CONFIG_SND_SOC_IMG_SPDIF_IN img-spdif-in.o 
+# CONFIG_SND_SOC_IMG_SPDIF_OUT img-spdif-out.o 
+# CONFIG_SND_SOC_IMG_PISTACHIO_INTERNAL_DAC pistachio-internal-dac.o 

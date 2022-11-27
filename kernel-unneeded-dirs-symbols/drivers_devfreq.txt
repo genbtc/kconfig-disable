@@ -1,0 +1,19 @@
+# Reading Makefile: drivers/devfreq/event/Makefile
+# CONFIG_DEVFREQ_EVENT_EXYNOS_NOCP exynos-nocp.o 
+# CONFIG_DEVFREQ_EVENT_EXYNOS_PPMU exynos-ppmu.o 
+# CONFIG_DEVFREQ_EVENT_ROCKCHIP_DFI rockchip-dfi.o 
+# Reading Makefile: drivers/devfreq/Makefile
+# CONFIG_PM_DEVFREQ devfreq.o 
+# CONFIG_PM_DEVFREQ_EVENT devfreq-event.o 
+# CONFIG_DEVFREQ_GOV_SIMPLE_ONDEMAND governor_simpleondemand.o 
+# CONFIG_DEVFREQ_GOV_PERFORMANCE governor_performance.o 
+# CONFIG_DEVFREQ_GOV_POWERSAVE governor_powersave.o 
+# CONFIG_DEVFREQ_GOV_USERSPACE governor_userspace.o 
+# CONFIG_DEVFREQ_GOV_PASSIVE governor_passive.o 
+# CONFIG_ARM_EXYNOS_BUS_DEVFREQ exynos-bus.o 
+# CONFIG_ARM_IMX_BUS_DEVFREQ imx-bus.o 
+# CONFIG_ARM_IMX8M_DDRC_DEVFREQ imx8m-ddrc.o 
+# CONFIG_ARM_RK3399_DMC_DEVFREQ rk3399_dmc.o 
+# CONFIG_ARM_SUN8I_A33_MBUS_DEVFREQ sun8i-a33-mbus.o 
+# CONFIG_ARM_TEGRA_DEVFREQ tegra30-devfreq.o 
+# CONFIG_PM_DEVFREQ_EVENT event/ 

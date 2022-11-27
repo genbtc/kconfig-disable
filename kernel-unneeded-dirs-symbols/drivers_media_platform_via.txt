@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/via/Makefile
+# CONFIG_VIDEO_VIA_CAMERA via-camera.o 

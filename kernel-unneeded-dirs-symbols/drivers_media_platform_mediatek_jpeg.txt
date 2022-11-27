@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/mediatek/jpeg/Makefile
+# CONFIG_VIDEO_MEDIATEK_JPEG mtk_jpeg.o 

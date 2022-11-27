@@ -1,0 +1,32 @@
+# Reading Makefile: drivers/usb/misc/sisusbvga/Makefile
+# CONFIG_USB_SISUSBVGA sisusbvga.o 
+# Reading Makefile: drivers/usb/misc/Makefile
+# CONFIG_USB_ADUTUX adutux.o 
+# CONFIG_USB_APPLEDISPLAY appledisplay.o 
+# CONFIG_USB_CYPRESS_CY7C63 cypress_cy7c63.o 
+# CONFIG_USB_CYTHERM cytherm.o 
+# CONFIG_USB_EMI26 emi26.o 
+# CONFIG_USB_EMI62 emi62.o 
+# CONFIG_USB_EZUSB_FX2 ezusb.o 
+# CONFIG_USB_FTDI_ELAN ftdi-elan.o 
+# CONFIG_APPLE_MFI_FASTCHARGE apple-mfi-fastcharge.o 
+# CONFIG_USB_IDMOUSE idmouse.o 
+# CONFIG_USB_IOWARRIOR iowarrior.o 
+# CONFIG_USB_ISIGHTFW isight_firmware.o 
+# CONFIG_USB_LCD usblcd.o 
+# CONFIG_USB_LD ldusb.o 
+# CONFIG_USB_LEGOTOWER legousbtower.o 
+# CONFIG_USB_QCOM_EUD qcom_eud.o 
+# CONFIG_USB_TEST usbtest.o 
+# CONFIG_USB_EHSET_TEST_FIXTURE ehset.o 
+# CONFIG_USB_TRANCEVIBRATOR trancevibrator.o 
+# CONFIG_USB_USS720 uss720.o 
+# CONFIG_USB_SEVSEG usbsevseg.o 
+# CONFIG_USB_YUREX yurex.o 
+# CONFIG_USB_HUB_USB251XB usb251xb.o 
+# CONFIG_USB_HSIC_USB3503 usb3503.o 
+# CONFIG_USB_HSIC_USB4604 usb4604.o 
+# CONFIG_USB_CHAOSKEY chaoskey.o 
+# CONFIG_USB_SISUSBVGA sisusbvga/ 
+# CONFIG_USB_LINK_LAYER_TEST lvstest.o 
+# CONFIG_BRCM_USB_PINMAP brcmstb-usb-pinmap.o 

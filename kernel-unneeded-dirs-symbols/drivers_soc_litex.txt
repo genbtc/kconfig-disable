@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/soc/litex/Makefile
+# CONFIG_LITEX_SOC_CONTROLLER litex_soc_ctrl.o 

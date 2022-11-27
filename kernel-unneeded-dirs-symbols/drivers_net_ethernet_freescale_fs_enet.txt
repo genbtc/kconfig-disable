@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/freescale/fs_enet/Makefile
+# CONFIG_FS_ENET fs_enet.o 
+# CONFIG_FS_ENET_MDIO_FEC mii-fec.o 
+# CONFIG_FS_ENET_MDIO_FCC mii-bitbang.o 

@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/scsi/cxgbi/cxgb4i/Kbuild
+# CONFIG_SCSI_CXGB4_ISCSI cxgb4i.o 
+# Reading Makefile: drivers/scsi/cxgbi/cxgb3i/Kbuild
+# CONFIG_SCSI_CXGB3_ISCSI cxgb3i.o 
+# Reading Makefile: drivers/scsi/cxgbi/Makefile
+# CONFIG_SCSI_CXGB3_ISCSI libcxgbi.o cxgb3i/ 
+# CONFIG_SCSI_CXGB4_ISCSI libcxgbi.o cxgb4i/ 

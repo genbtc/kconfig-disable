@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/pci/tw68/Makefile
+# CONFIG_VIDEO_TW68 tw68.o 

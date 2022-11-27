@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/isdn/capi/Makefile
+# CONFIG_BT_CMTP kernelcapi.o 

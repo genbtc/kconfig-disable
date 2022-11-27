@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/net/wireless/marvell/libertas_tf/Makefile
+# CONFIG_LIBERTAS_THINFIRM libertas_tf.o 
+# CONFIG_LIBERTAS_THINFIRM_USB libertas_tf_usb.o 

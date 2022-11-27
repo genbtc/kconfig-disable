@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/input/joystick/iforce/Makefile
+# CONFIG_JOYSTICK_IFORCE iforce.o 
+# CONFIG_JOYSTICK_IFORCE_232 iforce-serio.o 
+# CONFIG_JOYSTICK_IFORCE_USB iforce-usb.o 

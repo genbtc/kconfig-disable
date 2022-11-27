@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/platform/x86/intel/pmc/Makefile
+# CONFIG_INTEL_PMC_CORE intel_pmc_core.o 
+# CONFIG_INTEL_PMC_CORE intel_pmc_core_pltdrv.o 

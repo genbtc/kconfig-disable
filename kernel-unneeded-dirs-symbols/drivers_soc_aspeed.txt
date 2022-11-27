@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/soc/aspeed/Makefile
+# CONFIG_ASPEED_LPC_CTRL aspeed-lpc-ctrl.o 
+# CONFIG_ASPEED_LPC_SNOOP aspeed-lpc-snoop.o 
+# CONFIG_ASPEED_UART_ROUTING aspeed-uart-routing.o 
+# CONFIG_ASPEED_P2A_CTRL aspeed-p2a-ctrl.o 
+# CONFIG_ASPEED_SOCINFO aspeed-socinfo.o 

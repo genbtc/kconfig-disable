@@ -1,0 +1,8 @@
+# Reading Makefile: drivers/hwtracing/stm/Makefile
+# CONFIG_STM stm_core.o 
+# CONFIG_STM_PROTO_BASIC stm_p_basic.o 
+# CONFIG_STM_PROTO_SYS_T stm_p_sys-t.o 
+# CONFIG_STM_DUMMY dummy_stm.o 
+# CONFIG_STM_SOURCE_CONSOLE stm_console.o 
+# CONFIG_STM_SOURCE_HEARTBEAT stm_heartbeat.o 
+# CONFIG_STM_SOURCE_FTRACE stm_ftrace.o 

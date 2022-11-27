@@ -1,0 +1,15 @@
+# Reading Makefile: drivers/ufs/host/Makefile
+# CONFIG_SCSI_UFS_DWC_TC_PCI tc-dwc-g210-pci.o ufshcd-dwc.o tc-dwc-g210.o 
+# CONFIG_SCSI_UFS_DWC_TC_PLATFORM tc-dwc-g210-pltfrm.o ufshcd-dwc.o tc-dwc-g210.o 
+# CONFIG_SCSI_UFS_CDNS_PLATFORM cdns-pltfrm.o 
+# CONFIG_SCSI_UFS_QCOM ufs_qcom.o 
+# CONFIG_SCSI_UFS_EXYNOS ufs-exynos.o 
+# CONFIG_SCSI_UFSHCD_PCI ufshcd-pci.o 
+# CONFIG_SCSI_UFSHCD_PLATFORM ufshcd-pltfrm.o 
+# CONFIG_SCSI_UFS_HISI ufs-hisi.o 
+# CONFIG_SCSI_UFS_MEDIATEK ufs-mediatek.o 
+# CONFIG_SCSI_UFS_TI_J721E ti-j721e-ufs.o 
+# Reading Makefile: drivers/ufs/core/Makefile
+# CONFIG_SCSI_UFSHCD ufshcd-core.o 
+# Reading Makefile: drivers/ufs/Makefile
+# CONFIG_SCSI_UFSHCD core/ host/ 

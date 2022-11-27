@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/hid/amd-sfh-hid/Makefile
+# CONFIG_AMD_SFH_HID amd_sfh.o 

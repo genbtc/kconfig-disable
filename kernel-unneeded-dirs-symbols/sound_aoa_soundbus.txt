@@ -1,0 +1,5 @@
+# Reading Makefile: sound/aoa/soundbus/i2sbus/Makefile
+# CONFIG_SND_AOA_SOUNDBUS_I2S snd-aoa-i2sbus.o 
+# Reading Makefile: sound/aoa/soundbus/Makefile
+# CONFIG_SND_AOA_SOUNDBUS snd-aoa-soundbus.o 
+# CONFIG_SND_AOA_SOUNDBUS_I2S i2sbus/ 

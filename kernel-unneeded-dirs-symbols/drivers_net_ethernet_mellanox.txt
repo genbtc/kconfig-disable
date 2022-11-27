@@ -1,0 +1,23 @@
+# Reading Makefile: drivers/net/ethernet/mellanox/mlxsw/Makefile
+# CONFIG_MLXSW_CORE mlxsw_core.o 
+# CONFIG_MLXSW_PCI mlxsw_pci.o 
+# CONFIG_MLXSW_I2C mlxsw_i2c.o 
+# CONFIG_MLXSW_SPECTRUM mlxsw_spectrum.o 
+# CONFIG_MLXSW_MINIMAL mlxsw_minimal.o 
+# Reading Makefile: drivers/net/ethernet/mellanox/mlxfw/Makefile
+# CONFIG_MLXFW mlxfw.o 
+# Reading Makefile: drivers/net/ethernet/mellanox/mlxbf_gige/Makefile
+# CONFIG_MLXBF_GIGE mlxbf_gige.o 
+# Reading Makefile: drivers/net/ethernet/mellanox/mlx5/core/steering/Makefile
+# Reading Makefile: drivers/net/ethernet/mellanox/mlx5/core/esw/Makefile
+# Reading Makefile: drivers/net/ethernet/mellanox/mlx5/core/Makefile
+# CONFIG_MLX5_CORE mlx5_core.o 
+# Reading Makefile: drivers/net/ethernet/mellanox/mlx4/Makefile
+# CONFIG_MLX4_CORE mlx4_core.o 
+# CONFIG_MLX4_EN mlx4_en.o 
+# Reading Makefile: drivers/net/ethernet/mellanox/Makefile
+# CONFIG_MLX4_CORE mlx4/ 
+# CONFIG_MLX5_CORE mlx5/core/ 
+# CONFIG_MLXSW_CORE mlxsw/ 
+# CONFIG_MLXFW mlxfw/ 
+# CONFIG_MLXBF_GIGE mlxbf_gige/ 

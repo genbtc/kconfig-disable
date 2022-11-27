@@ -1,0 +1,86 @@
+# Reading Makefile: drivers/infiniband/ulp/srpt/Makefile
+# CONFIG_INFINIBAND_SRPT ib_srpt.o 
+# Reading Makefile: drivers/infiniband/ulp/srp/Kbuild
+# CONFIG_INFINIBAND_SRP ib_srp.o 
+# Reading Makefile: drivers/infiniband/ulp/rtrs/Makefile
+# CONFIG_INFINIBAND_RTRS rtrs-core.o 
+# CONFIG_INFINIBAND_RTRS_CLIENT rtrs-client.o 
+# CONFIG_INFINIBAND_RTRS_SERVER rtrs-server.o 
+# Reading Makefile: drivers/infiniband/ulp/opa_vnic/Makefile
+# CONFIG_INFINIBAND_OPA_VNIC opa_vnic.o 
+# Reading Makefile: drivers/infiniband/ulp/isert/Makefile
+# CONFIG_INFINIBAND_ISERT ib_isert.o 
+# Reading Makefile: drivers/infiniband/ulp/iser/Makefile
+# CONFIG_INFINIBAND_ISER ib_iser.o 
+# Reading Makefile: drivers/infiniband/ulp/ipoib/Makefile
+# CONFIG_INFINIBAND_IPOIB ib_ipoib.o 
+# Reading Makefile: drivers/infiniband/ulp/Makefile
+# CONFIG_INFINIBAND_IPOIB ipoib/ 
+# CONFIG_INFINIBAND_SRP srp/ 
+# CONFIG_INFINIBAND_SRPT srpt/ 
+# CONFIG_INFINIBAND_ISER iser/ 
+# CONFIG_INFINIBAND_ISERT isert/ 
+# CONFIG_INFINIBAND_OPA_VNIC opa_vnic/ 
+# CONFIG_INFINIBAND_RTRS rtrs/ 
+# Reading Makefile: drivers/infiniband/sw/siw/Makefile
+# CONFIG_RDMA_SIW siw.o 
+# Reading Makefile: drivers/infiniband/sw/rxe/Makefile
+# CONFIG_RDMA_RXE rdma_rxe.o 
+# Reading Makefile: drivers/infiniband/sw/rdmavt/Makefile
+# CONFIG_INFINIBAND_RDMAVT rdmavt.o 
+# Reading Makefile: drivers/infiniband/sw/Makefile
+# CONFIG_INFINIBAND_RDMAVT rdmavt/ 
+# CONFIG_RDMA_RXE rxe/ 
+# CONFIG_RDMA_SIW siw/ 
+# Reading Makefile: drivers/infiniband/hw/vmw_pvrdma/Makefile
+# CONFIG_INFINIBAND_VMWARE_PVRDMA vmw_pvrdma.o 
+# Reading Makefile: drivers/infiniband/hw/usnic/Makefile
+# CONFIG_INFINIBAND_USNIC usnic_verbs.o 
+# Reading Makefile: drivers/infiniband/hw/qib/Makefile
+# CONFIG_INFINIBAND_QIB ib_qib.o 
+# Reading Makefile: drivers/infiniband/hw/qedr/Makefile
+# CONFIG_INFINIBAND_QEDR qedr.o 
+# Reading Makefile: drivers/infiniband/hw/ocrdma/Makefile
+# CONFIG_INFINIBAND_OCRDMA ocrdma.o 
+# Reading Makefile: drivers/infiniband/hw/mthca/Makefile
+# CONFIG_INFINIBAND_MTHCA ib_mthca.o 
+# Reading Makefile: drivers/infiniband/hw/mlx5/Makefile
+# CONFIG_MLX5_INFINIBAND mlx5_ib.o 
+# Reading Makefile: drivers/infiniband/hw/mlx4/Makefile
+# CONFIG_MLX4_INFINIBAND mlx4_ib.o 
+# Reading Makefile: drivers/infiniband/hw/irdma/Makefile
+# CONFIG_INFINIBAND_IRDMA irdma.o 
+# Reading Makefile: drivers/infiniband/hw/hns/Makefile
+# CONFIG_INFINIBAND_HNS hns-roce-hw-v2.o 
+# Reading Makefile: drivers/infiniband/hw/hfi1/Makefile
+# CONFIG_INFINIBAND_HFI1 hfi1.o 
+# Reading Makefile: drivers/infiniband/hw/efa/Makefile
+# CONFIG_INFINIBAND_EFA efa.o 
+# Reading Makefile: drivers/infiniband/hw/cxgb4/Makefile
+# CONFIG_INFINIBAND_CXGB4 iw_cxgb4.o 
+# Reading Makefile: drivers/infiniband/hw/bnxt_re/Makefile
+# CONFIG_INFINIBAND_BNXT_RE bnxt_re.o 
+# Reading Makefile: drivers/infiniband/hw/Makefile
+# CONFIG_INFINIBAND_MTHCA mthca/ 
+# CONFIG_INFINIBAND_QIB qib/ 
+# CONFIG_INFINIBAND_CXGB4 cxgb4/ 
+# CONFIG_INFINIBAND_EFA efa/ 
+# CONFIG_INFINIBAND_IRDMA irdma/ 
+# CONFIG_MLX4_INFINIBAND mlx4/ 
+# CONFIG_MLX5_INFINIBAND mlx5/ 
+# CONFIG_INFINIBAND_OCRDMA ocrdma/ 
+# CONFIG_INFINIBAND_VMWARE_PVRDMA vmw_pvrdma/ 
+# CONFIG_INFINIBAND_USNIC usnic/ 
+# CONFIG_INFINIBAND_HFI1 hfi1/ 
+# CONFIG_INFINIBAND_HNS hns/ 
+# CONFIG_INFINIBAND_QEDR qedr/ 
+# CONFIG_INFINIBAND_BNXT_RE bnxt_re/ 
+# Reading Makefile: drivers/infiniband/core/Makefile
+# CONFIG_INFINIBAND ib_core.o ib_cm.o iw_cm.o 					$(infiniband-y) 
+# CONFIG_INFINIBAND_USER_MAD ib_umad.o 
+# CONFIG_INFINIBAND_USER_ACCESS ib_uverbs.o $(user_access-y) 
+# Reading Makefile: drivers/infiniband/Makefile
+# CONFIG_INFINIBAND core/ 
+# CONFIG_INFINIBAND hw/ 
+# CONFIG_INFINIBAND ulp/ 
+# CONFIG_INFINIBAND sw/ 

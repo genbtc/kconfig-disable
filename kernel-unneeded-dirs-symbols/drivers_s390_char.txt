@@ -1,0 +1,21 @@
+# Reading Makefile: drivers/s390/char/Makefile
+# CONFIG_TN3270 raw3270.o 
+# CONFIG_TN3270_CONSOLE con3270.o 
+# CONFIG_TN3270_TTY tty3270.o 
+# CONFIG_TN3270_FS fs3270.o 
+# CONFIG_TN3215 con3215.o 
+# CONFIG_SCLP_TTY sclp_tty.o 
+# CONFIG_SCLP_CONSOLE sclp_con.o 
+# CONFIG_SCLP_VT220_TTY sclp_vt220.o 
+# CONFIG_PCI sclp_pci.o 
+# CONFIG_VMLOGRDR vmlogrdr.o 
+# CONFIG_VMCP vmcp.o 
+# CONFIG_S390_TAPE tape.o tape_class.o 
+# CONFIG_S390_TAPE_34XX tape_34xx.o 
+# CONFIG_S390_TAPE_3590 tape_3590.o 
+# CONFIG_MONREADER monreader.o 
+# CONFIG_MONWRITER monwriter.o 
+# CONFIG_S390_VMUR vmur.o 
+# CONFIG_CRASH_DUMP sclp_sdias.o zcore.o 
+# CONFIG_S390_UV_UAPI uvdevice.o 
+# CONFIG_HMC_DRV hmcdrv.o 

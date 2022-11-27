@@ -1,0 +1,2 @@
+# Reading Makefile: fs/qnx4/Makefile
+# CONFIG_QNX4FS_FS qnx4.o 

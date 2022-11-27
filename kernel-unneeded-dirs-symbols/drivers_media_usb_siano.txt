@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/usb/siano/Makefile
+# CONFIG_SMS_USB_DRV smsusb.o 

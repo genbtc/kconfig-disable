@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/media/hantro/Makefile
+# CONFIG_VIDEO_HANTRO hantro-vpu.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/scsi/be2iscsi/Makefile
+# CONFIG_BE2ISCSI be2iscsi.o 

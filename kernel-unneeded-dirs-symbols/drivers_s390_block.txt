@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/s390/block/Makefile
+# CONFIG_DASD dasd_mod.o 
+# CONFIG_DASD_DIAG dasd_diag_mod.o 
+# CONFIG_DASD_ECKD dasd_eckd_mod.o 
+# CONFIG_DASD_FBA dasd_fba_mod.o 
+# CONFIG_DCSSBLK dcssblk.o 
+# CONFIG_SCM_BLOCK scm_block.o 

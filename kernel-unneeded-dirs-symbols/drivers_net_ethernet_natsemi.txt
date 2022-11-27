@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/net/ethernet/natsemi/Makefile
+# CONFIG_MACSONIC macsonic.o 
+# CONFIG_MIPS_JAZZ_SONIC jazzsonic.o 
+# CONFIG_NATSEMI natsemi.o 
+# CONFIG_NS83820 ns83820.o 
+# CONFIG_XTENSA_XT2000_SONIC xtsonic.o 

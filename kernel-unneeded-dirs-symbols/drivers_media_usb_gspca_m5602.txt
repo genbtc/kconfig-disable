@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/usb/gspca/m5602/Makefile
+# CONFIG_USB_M5602 gspca_m5602.o 

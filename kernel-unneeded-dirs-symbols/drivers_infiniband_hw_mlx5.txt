@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/infiniband/hw/mlx5/Makefile
+# CONFIG_MLX5_INFINIBAND mlx5_ib.o 

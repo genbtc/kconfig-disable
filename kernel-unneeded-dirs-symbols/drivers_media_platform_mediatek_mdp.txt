@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/mediatek/mdp/Makefile
+# CONFIG_VIDEO_MEDIATEK_MDP mtk-mdp.o 

@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/bus/fsl-mc/Makefile
+# CONFIG_FSL_MC_BUS mc-bus-driver.o 
+# CONFIG_FSL_MC_UAPI_SUPPORT fsl-mc-uapi.o 

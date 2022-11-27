@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/infiniband/ulp/srpt/Makefile
+# CONFIG_INFINIBAND_SRPT ib_srpt.o 

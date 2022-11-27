@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/ufs/core/Makefile
+# CONFIG_SCSI_UFSHCD ufshcd-core.o 

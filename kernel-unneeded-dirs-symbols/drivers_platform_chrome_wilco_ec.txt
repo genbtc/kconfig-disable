@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/platform/chrome/wilco_ec/Makefile
+# CONFIG_WILCO_EC wilco_ec.o 
+# CONFIG_WILCO_EC_DEBUGFS wilco_ec_debugfs.o 
+# CONFIG_WILCO_EC_EVENTS wilco_ec_events.o 
+# CONFIG_WILCO_EC_TELEMETRY wilco_ec_telem.o 

@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/pps/clients/Makefile
+# CONFIG_PPS_CLIENT_KTIMER pps-ktimer.o 
+# CONFIG_PPS_CLIENT_LDISC pps-ldisc.o 
+# CONFIG_PPS_CLIENT_PARPORT pps_parport.o 
+# CONFIG_PPS_CLIENT_GPIO pps-gpio.o 

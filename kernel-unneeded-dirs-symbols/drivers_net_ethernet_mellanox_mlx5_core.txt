@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/mellanox/mlx5/core/steering/Makefile
+# Reading Makefile: drivers/net/ethernet/mellanox/mlx5/core/esw/Makefile
+# Reading Makefile: drivers/net/ethernet/mellanox/mlx5/core/Makefile
+# CONFIG_MLX5_CORE mlx5_core.o 

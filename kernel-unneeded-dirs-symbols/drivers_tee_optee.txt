@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/tee/optee/Makefile
+# CONFIG_OPTEE optee.o 

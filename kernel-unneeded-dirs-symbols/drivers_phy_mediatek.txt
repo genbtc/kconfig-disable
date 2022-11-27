@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/phy/mediatek/Makefile
+# CONFIG_PHY_MTK_TPHY phy-mtk-tphy.o 
+# CONFIG_PHY_MTK_UFS phy-mtk-ufs.o 
+# CONFIG_PHY_MTK_XSPHY phy-mtk-xsphy.o 
+# CONFIG_PHY_MTK_HDMI phy-mtk-hdmi-drv.o 
+# CONFIG_PHY_MTK_MIPI_DSI phy-mtk-mipi-dsi-drv.o 

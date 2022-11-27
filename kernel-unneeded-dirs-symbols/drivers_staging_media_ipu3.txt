@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/media/ipu3/Makefile
+# CONFIG_VIDEO_IPU3_IMGU ipu3-imgu.o 

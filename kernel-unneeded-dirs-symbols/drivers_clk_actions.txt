@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/clk/actions/Makefile
+# CONFIG_CLK_ACTIONS clk-owl.o 
+# CONFIG_CLK_OWL_S500 owl-s500.o 
+# CONFIG_CLK_OWL_S700 owl-s700.o 
+# CONFIG_CLK_OWL_S900 owl-s900.o 

@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/dma/sh/Makefile
+# CONFIG_SH_DMAE_BASE shdma-base.o 
+# CONFIG_SH_DMAE shdma.o 
+# CONFIG_RCAR_DMAC rcar-dmac.o 
+# CONFIG_RENESAS_USB_DMAC usb-dmac.o 
+# CONFIG_RZ_DMAC rz-dmac.o 

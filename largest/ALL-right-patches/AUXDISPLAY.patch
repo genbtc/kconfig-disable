@@ -1,0 +1,42 @@
+Auxiliary Display support
+Say Y here to get to see options for auxiliary display drivers.
+This option alone does not add any kernel code.
+
+If you say N, all options in this submenu will be skipped and disabled.
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:20:30.617610306 -0400
+@@ -6267,7 +6267,6 @@
+ # CONFIG_FB_FOREIGN_ENDIAN is not set
+ CONFIG_FB_SYS_FOPS=y
+ CONFIG_FB_DEFERRED_IO=y
+-CONFIG_FB_BACKLIGHT=m
+ # CONFIG_FB_MODE_HELPERS is not set
+ CONFIG_FB_TILEBLITTING=y
+ 
+@@ -7816,24 +7815,7 @@
+ # end of DMABUF options
+ 
+ CONFIG_DCA=m
+-CONFIG_AUXDISPLAY=y
+-CONFIG_CHARLCD=m
+-CONFIG_LINEDISP=m
+-CONFIG_HD44780_COMMON=m
+-CONFIG_HD44780=m
+-CONFIG_KS0108=m
+-CONFIG_KS0108_PORT=0x378
+-CONFIG_KS0108_DELAY=2
+-CONFIG_CFAG12864B=m
+-CONFIG_CFAG12864B_RATE=20
+-# CONFIG_IMG_ASCII_LCD is not set
+-CONFIG_HT16K33=m
+-# CONFIG_LCD2S is not set
+-# CONFIG_PARPORT_PANEL is not set
+-# CONFIG_PANEL_CHANGE_MESSAGE is not set
+-# CONFIG_CHARLCD_BL_OFF is not set
+-# CONFIG_CHARLCD_BL_ON is not set
+-CONFIG_CHARLCD_BL_FLASH=y
++# CONFIG_AUXDISPLAY is not set
+ # CONFIG_PANEL is not set
+ CONFIG_UIO=m
+ # CONFIG_UIO_CIF is not set

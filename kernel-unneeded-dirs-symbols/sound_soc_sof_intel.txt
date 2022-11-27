@@ -1,0 +1,11 @@
+# Reading Makefile: sound/soc/sof/intel/Makefile
+# CONFIG_SND_SOC_SOF_INTEL_ATOM_HIFI_EP snd-sof-intel-atom.o 
+# CONFIG_SND_SOC_SOF_BAYTRAIL snd-sof-acpi-intel-byt.o 
+# CONFIG_SND_SOC_SOF_BROADWELL snd-sof-acpi-intel-bdw.o 
+# CONFIG_SND_SOC_SOF_HDA_COMMON snd-sof-intel-hda-common.o 
+# CONFIG_SND_SOC_SOF_HDA snd-sof-intel-hda.o 
+# CONFIG_SND_SOC_SOF_MERRIFIELD snd-sof-pci-intel-tng.o 
+# CONFIG_SND_SOC_SOF_INTEL_APL snd-sof-pci-intel-apl.o 
+# CONFIG_SND_SOC_SOF_INTEL_CNL snd-sof-pci-intel-cnl.o 
+# CONFIG_SND_SOC_SOF_INTEL_ICL snd-sof-pci-intel-icl.o 
+# CONFIG_SND_SOC_SOF_INTEL_TGL snd-sof-pci-intel-tgl.o 

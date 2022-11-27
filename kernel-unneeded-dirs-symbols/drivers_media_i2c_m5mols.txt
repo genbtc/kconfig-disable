@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/i2c/m5mols/Makefile
+# CONFIG_VIDEO_M5MOLS m5mols.o 

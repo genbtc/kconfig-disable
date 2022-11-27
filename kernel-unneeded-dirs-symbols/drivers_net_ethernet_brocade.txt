@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/brocade/bna/Makefile
+# CONFIG_BNA bna.o 
+# Reading Makefile: drivers/net/ethernet/brocade/Makefile
+# CONFIG_BNA bna/ 

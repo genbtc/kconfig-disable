@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/samsung/s3c-camif/Makefile
+# CONFIG_VIDEO_S3C_CAMIF s3c-camif.o 

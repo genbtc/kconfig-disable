@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/dsa/mv88e6xxx/Makefile
+# CONFIG_NET_DSA_MV88E6XXX mv88e6xxx.o 

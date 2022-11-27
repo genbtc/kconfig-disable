@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/usb/au0828/Makefile
+# CONFIG_VIDEO_AU0828 au0828.o 

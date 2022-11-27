@@ -1,0 +1,18 @@
+# Reading Makefile: sound/aoa/soundbus/i2sbus/Makefile
+# CONFIG_SND_AOA_SOUNDBUS_I2S snd-aoa-i2sbus.o 
+# Reading Makefile: sound/aoa/soundbus/Makefile
+# CONFIG_SND_AOA_SOUNDBUS snd-aoa-soundbus.o 
+# CONFIG_SND_AOA_SOUNDBUS_I2S i2sbus/ 
+# Reading Makefile: sound/aoa/fabrics/Makefile
+# CONFIG_SND_AOA_FABRIC_LAYOUT snd-aoa-fabric-layout.o 
+# Reading Makefile: sound/aoa/core/Makefile
+# CONFIG_SND_AOA snd-aoa.o 
+# Reading Makefile: sound/aoa/codecs/Makefile
+# CONFIG_SND_AOA_ONYX snd-aoa-codec-onyx.o 
+# CONFIG_SND_AOA_TAS snd-aoa-codec-tas.o 
+# CONFIG_SND_AOA_TOONIE snd-aoa-codec-toonie.o 
+# Reading Makefile: sound/aoa/Makefile
+# CONFIG_SND_AOA core/ 
+# CONFIG_SND_AOA_SOUNDBUS soundbus/ 
+# CONFIG_SND_AOA fabrics/ 
+# CONFIG_SND_AOA codecs/ 

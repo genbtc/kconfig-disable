@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/tegra/Makefile
+# CONFIG_DRM_TEGRA tegra-drm.o 

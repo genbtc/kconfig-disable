@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/iio/common/ms_sensors/Makefile
+# CONFIG_IIO_MS_SENSORS_I2C ms_sensors_i2c.o 

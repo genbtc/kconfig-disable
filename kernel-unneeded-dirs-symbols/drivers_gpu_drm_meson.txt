@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/gpu/drm/meson/Makefile
+# CONFIG_DRM_MESON meson-drm.o 
+# CONFIG_DRM_MESON_DW_HDMI meson_dw_hdmi.o 

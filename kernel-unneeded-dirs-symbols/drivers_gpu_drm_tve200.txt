@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/tve200/Makefile
+# CONFIG_DRM_TVE200 tve200_drm.o 

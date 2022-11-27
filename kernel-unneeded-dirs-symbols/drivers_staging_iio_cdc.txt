@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/iio/cdc/Makefile
+# CONFIG_AD7746 ad7746.o 

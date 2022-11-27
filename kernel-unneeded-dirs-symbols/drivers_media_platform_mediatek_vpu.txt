@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/mediatek/vpu/Makefile
+# CONFIG_VIDEO_MEDIATEK_VPU mtk-vpu.o 

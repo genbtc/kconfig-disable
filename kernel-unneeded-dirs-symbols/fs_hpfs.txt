@@ -1,0 +1,2 @@
+# Reading Makefile: fs/hpfs/Makefile
+# CONFIG_HPFS_FS hpfs.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/mellanox/mlxbf_gige/Makefile
+# CONFIG_MLXBF_GIGE mlxbf_gige.o 

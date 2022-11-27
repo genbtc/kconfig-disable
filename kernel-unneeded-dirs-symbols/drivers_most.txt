@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/most/Makefile
+# CONFIG_MOST most_core.o 
+# CONFIG_MOST_USB_HDM most_usb.o 
+# CONFIG_MOST_CDEV most_cdev.o 
+# CONFIG_MOST_SND most_snd.o 

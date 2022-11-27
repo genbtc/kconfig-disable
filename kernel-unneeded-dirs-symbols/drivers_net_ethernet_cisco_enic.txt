@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/cisco/enic/Makefile
+# CONFIG_ENIC enic.o 

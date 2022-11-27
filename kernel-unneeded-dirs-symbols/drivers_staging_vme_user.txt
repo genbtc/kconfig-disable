@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/vme_user/Makefile
+# CONFIG_VME_USER vme_user.o 

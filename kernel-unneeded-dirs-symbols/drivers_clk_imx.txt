@@ -1,0 +1,24 @@
+# Reading Makefile: drivers/clk/imx/Makefile
+# CONFIG_MXC_CLK mxc-clk.o 
+# CONFIG_CLK_IMX8MM clk-imx8mm.o 
+# CONFIG_CLK_IMX8MN clk-imx8mn.o 
+# CONFIG_CLK_IMX8MP clk-imx8mp.o 
+# CONFIG_CLK_IMX8MQ clk-imx8mq.o 
+# CONFIG_CLK_IMX93 clk-imx93.o 
+# CONFIG_MXC_CLK_SCU clk-imx-scu.o clk-imx-lpcg-scu.o 
+# CONFIG_CLK_IMX8ULP clk-imx8ulp.o 
+# CONFIG_CLK_IMX1 clk-imx1.o 
+# CONFIG_CLK_IMX25 clk-imx25.o 
+# CONFIG_CLK_IMX27 clk-imx27.o 
+# CONFIG_CLK_IMX31 clk-imx31.o 
+# CONFIG_CLK_IMX35 clk-imx35.o 
+# CONFIG_CLK_IMX5 clk-imx5.o 
+# CONFIG_CLK_IMX6Q clk-imx6q.o 
+# CONFIG_CLK_IMX6SL clk-imx6sl.o 
+# CONFIG_CLK_IMX6SLL clk-imx6sll.o 
+# CONFIG_CLK_IMX6SX clk-imx6sx.o 
+# CONFIG_CLK_IMX6UL clk-imx6ul.o 
+# CONFIG_CLK_IMX7D clk-imx7d.o 
+# CONFIG_CLK_IMX7ULP clk-imx7ulp.o 
+# CONFIG_CLK_IMXRT1050 clk-imxrt1050.o 
+# CONFIG_CLK_VF610 clk-vf610.o 

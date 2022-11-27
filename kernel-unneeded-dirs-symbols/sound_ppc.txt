@@ -1,0 +1,3 @@
+# Reading Makefile: sound/ppc/Makefile
+# CONFIG_SND_POWERMAC snd-powermac.o 
+# CONFIG_SND_PS3 snd_ps3.o 

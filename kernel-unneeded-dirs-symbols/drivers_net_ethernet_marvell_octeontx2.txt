@@ -1,0 +1,10 @@
+# Reading Makefile: drivers/net/ethernet/marvell/octeontx2/nic/Makefile
+# CONFIG_OCTEONTX2_PF rvu_nicpf.o otx2_ptp.o 
+# CONFIG_OCTEONTX2_VF rvu_nicvf.o otx2_ptp.o 
+# Reading Makefile: drivers/net/ethernet/marvell/octeontx2/af/Makefile
+# CONFIG_OCTEONTX2_MBOX rvu_mbox.o 
+# CONFIG_OCTEONTX2_AF rvu_af.o 
+# Reading Makefile: drivers/net/ethernet/marvell/octeontx2/Makefile
+# CONFIG_OCTEONTX2_MBOX af/ 
+# CONFIG_OCTEONTX2_AF af/ 
+# CONFIG_OCTEONTX2_PF nic/ 

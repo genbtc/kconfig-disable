@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/acpi/arm64/Makefile
+# CONFIG_ACPI_AGDI agdi.o 
+# CONFIG_ACPI_IORT iort.o 
+# CONFIG_ACPI_GTDT gtdt.o 

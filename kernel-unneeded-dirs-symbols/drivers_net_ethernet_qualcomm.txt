@@ -1,0 +1,9 @@
+# Reading Makefile: drivers/net/ethernet/qualcomm/rmnet/Makefile
+# CONFIG_RMNET rmnet.o 
+# Reading Makefile: drivers/net/ethernet/qualcomm/emac/Makefile
+# CONFIG_QCOM_EMAC qcom-emac.o 
+# Reading Makefile: drivers/net/ethernet/qualcomm/Makefile
+# CONFIG_QCA7000 qca_7k_common.o 
+# CONFIG_QCA7000_SPI qcaspi.o 
+# CONFIG_QCA7000_UART qcauart.o 
+# CONFIG_RMNET rmnet/ 

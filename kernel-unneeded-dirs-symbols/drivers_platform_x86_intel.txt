@@ -1,0 +1,58 @@
+# Reading Makefile: drivers/platform/x86/intel/wmi/Makefile
+# CONFIG_INTEL_WMI_SBL_FW_UPDATE intel-wmi-sbl-fw-update.o 
+# CONFIG_INTEL_WMI_THUNDERBOLT intel-wmi-thunderbolt.o 
+# Reading Makefile: drivers/platform/x86/intel/uncore-frequency/Makefile
+# CONFIG_INTEL_UNCORE_FREQ_CONTROL intel-uncore-frequency.o 
+# CONFIG_INTEL_UNCORE_FREQ_CONTROL intel-uncore-frequency-common.o 
+# Reading Makefile: drivers/platform/x86/intel/telemetry/Makefile
+# CONFIG_INTEL_TELEMETRY intel_telemetry_core.o 
+# CONFIG_INTEL_TELEMETRY intel_telemetry_pltdrv.o 
+# CONFIG_INTEL_TELEMETRY intel_telemetry_debugfs.o 
+# Reading Makefile: drivers/platform/x86/intel/speed_select_if/Makefile
+# CONFIG_INTEL_SPEED_SELECT_INTERFACE isst_if_common.o 
+# CONFIG_INTEL_SPEED_SELECT_INTERFACE isst_if_mmio.o 
+# CONFIG_INTEL_SPEED_SELECT_INTERFACE isst_if_mbox_pci.o 
+# CONFIG_INTEL_SPEED_SELECT_INTERFACE isst_if_mbox_msr.o 
+# Reading Makefile: drivers/platform/x86/intel/pmt/Makefile
+# CONFIG_INTEL_PMT_CLASS pmt_class.o 
+# CONFIG_INTEL_PMT_TELEMETRY pmt_telemetry.o 
+# CONFIG_INTEL_PMT_CRASHLOG pmt_crashlog.o 
+# Reading Makefile: drivers/platform/x86/intel/pmc/Makefile
+# CONFIG_INTEL_PMC_CORE intel_pmc_core.o 
+# CONFIG_INTEL_PMC_CORE intel_pmc_core_pltdrv.o 
+# Reading Makefile: drivers/platform/x86/intel/int3472/Makefile
+# CONFIG_INTEL_SKL_INT3472 intel_skl_int3472_discrete.o 					   intel_skl_int3472_tps68470.o 
+# Reading Makefile: drivers/platform/x86/intel/int1092/Makefile
+# CONFIG_INTEL_SAR_INT1092 intel_sar.o 
+# Reading Makefile: drivers/platform/x86/intel/ifs/Makefile
+# CONFIG_INTEL_IFS intel_ifs.o 
+# Reading Makefile: drivers/platform/x86/intel/atomisp2/Makefile
+# CONFIG_INTEL_ATOMISP2_LED intel_atomisp2_led.o 
+# CONFIG_INTEL_ATOMISP2_PM intel_atomisp2_pm.o 
+# Reading Makefile: drivers/platform/x86/intel/Makefile
+# CONFIG_INTEL_ATOMISP2_PDX86 atomisp2/ 
+# CONFIG_INTEL_IFS ifs/ 
+# CONFIG_INTEL_SAR_INT1092 int1092/ 
+# CONFIG_INTEL_SKL_INT3472 int3472/ 
+# CONFIG_INTEL_PMC_CORE pmc/ 
+# CONFIG_INTEL_PMT_CLASS pmt/ 
+# CONFIG_INTEL_SPEED_SELECT_INTERFACE speed_select_if/ 
+# CONFIG_INTEL_TELEMETRY telemetry/ 
+# CONFIG_INTEL_WMI wmi/ 
+# CONFIG_INTEL_UNCORE_FREQ_CONTROL uncore-frequency/ 
+# CONFIG_INTEL_HID_EVENT intel-hid.o 
+# CONFIG_INTEL_VBTN intel-vbtn.o 
+# CONFIG_INTEL_ISHTP_ECLITE ishtp_eclite.o 
+# CONFIG_INTEL_INT0002_VGPIO intel_int0002_vgpio.o 
+# CONFIG_INTEL_OAKTRAIL intel_oaktrail.o 
+# CONFIG_INTEL_SDSI intel_sdsi.o 
+# CONFIG_INTEL_VSEC intel_vsec.o 
+# CONFIG_INTEL_BXTWC_PMIC_TMU intel_bxtwc_tmu.o 
+# CONFIG_X86_ANDROID_TABLETS intel_crystal_cove_charger.o 
+# CONFIG_INTEL_CHTDC_TI_PWRBTN intel_chtdc_ti_pwrbtn.o 
+# CONFIG_INTEL_CHTWC_INT33FE intel_chtwc_int33fe.o 
+# CONFIG_INTEL_MRFLD_PWRBTN intel_mrfld_pwrbtn.o 
+# CONFIG_INTEL_PUNIT_IPC intel_punit_ipc.o 
+# CONFIG_INTEL_RST intel-rst.o 
+# CONFIG_INTEL_SMARTCONNECT intel-smartconnect.o 
+# CONFIG_INTEL_TURBO_MAX_3 intel_turbo_max_3.o 

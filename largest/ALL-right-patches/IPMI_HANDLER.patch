@@ -1,0 +1,49 @@
+IPMI top-level message handler
+This enables the central IPMI message handler, required for IPMI
+to work.
+
+IPMI is a standard for managing sensors (temperature,
+voltage, etc.) in a system.
+
+See <file:Documentation/driver-api/ipmi.rst> for more details on the driver.
+
+If unsure, say N.
+Depends: HAS_IOMEM
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:48.675610344 -0400
+@@ -605,7 +605,6 @@
+ CONFIG_ACPI_PROCESSOR_IDLE=y
+ CONFIG_ACPI_CPPC_LIB=y
+ CONFIG_ACPI_PROCESSOR=y
+-CONFIG_ACPI_IPMI=m
+ CONFIG_ACPI_HOTPLUG_CPU=y
+ CONFIG_ACPI_PROCESSOR_AGGREGATOR=m
+ CONFIG_ACPI_THERMAL=y
+@@ -4255,16 +4254,7 @@
+ CONFIG_LP_CONSOLE=y
+ CONFIG_PPDEV=m
+ CONFIG_VIRTIO_CONSOLE=m
+-CONFIG_IPMI_HANDLER=m
+-CONFIG_IPMI_DMI_DECODE=y
+-CONFIG_IPMI_PLAT_DATA=y
+-# CONFIG_IPMI_PANIC_EVENT is not set
+-CONFIG_IPMI_DEVICE_INTERFACE=m
+-CONFIG_IPMI_SI=m
+-CONFIG_IPMI_SSIF=m
+-CONFIG_IPMI_IPMB=m
+-CONFIG_IPMI_WATCHDOG=m
+-CONFIG_IPMI_POWEROFF=m
++# CONFIG_IPMI_HANDLER is not set
+ # CONFIG_IPMB_DEVICE_INTERFACE is not set
+ CONFIG_HW_RANDOM=y
+ CONFIG_HW_RANDOM_TIMERIOMEM=m
+@@ -4779,8 +4769,6 @@
+ CONFIG_SENSORS_G760A=m
+ CONFIG_SENSORS_G762=m
+ # CONFIG_SENSORS_HIH6130 is not set
+-CONFIG_SENSORS_IBMAEM=m
+-CONFIG_SENSORS_IBMPEX=m
+ # CONFIG_SENSORS_IIO_HWMON is not set
+ CONFIG_SENSORS_I5500=m
+ CONFIG_SENSORS_CORETEMP=m

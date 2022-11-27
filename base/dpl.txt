@@ -1,0 +1,3 @@
+CONFIG_ACPI depends on CONFIG_PNP
+CONFIG_I2C depends on CONFIG_DRM
+

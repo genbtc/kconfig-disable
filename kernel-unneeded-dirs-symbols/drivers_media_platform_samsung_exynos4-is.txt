@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/media/platform/samsung/exynos4-is/Makefile
+# CONFIG_VIDEO_S5P_MIPI_CSIS s5p-csis.o 
+# CONFIG_VIDEO_EXYNOS_FIMC_LITE exynos-fimc-lite.o 
+# CONFIG_VIDEO_EXYNOS4_FIMC_IS exynos-fimc-is.o 
+# CONFIG_VIDEO_S5P_FIMC s5p-fimc.o 
+# CONFIG_VIDEO_EXYNOS4_IS_COMMON exynos4-is-common.o 

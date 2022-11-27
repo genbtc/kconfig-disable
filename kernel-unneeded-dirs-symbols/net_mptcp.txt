@@ -1,0 +1,6 @@
+# Reading Makefile: net/mptcp/Makefile
+# CONFIG_MPTCP mptcp.o 
+# CONFIG_SYN_COOKIES syncookies.o 
+# CONFIG_INET_MPTCP_DIAG mptcp_diag.o 
+# CONFIG_MPTCP_KUNIT_TEST mptcp_crypto_test.o mptcp_token_test.o 
+# CONFIG_BPF_SYSCALL bpf.o 

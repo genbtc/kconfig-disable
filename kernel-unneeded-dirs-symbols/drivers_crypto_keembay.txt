@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/crypto/keembay/Makefile
+# CONFIG_CRYPTO_DEV_KEEMBAY_OCS_AES_SM4 keembay-ocs-aes.o 
+# CONFIG_CRYPTO_DEV_KEEMBAY_OCS_ECC keembay-ocs-ecc.o 
+# CONFIG_CRYPTO_DEV_KEEMBAY_OCS_HCU keembay-ocs-hcu.o 

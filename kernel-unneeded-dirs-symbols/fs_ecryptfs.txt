@@ -1,0 +1,2 @@
+# Reading Makefile: fs/ecryptfs/Makefile
+# CONFIG_ECRYPT_FS ecryptfs.o 

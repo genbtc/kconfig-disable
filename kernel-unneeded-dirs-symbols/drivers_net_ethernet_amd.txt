@@ -1,0 +1,17 @@
+# Reading Makefile: drivers/net/ethernet/amd/xgbe/Makefile
+# CONFIG_AMD_XGBE amd-xgbe.o 
+# Reading Makefile: drivers/net/ethernet/amd/Makefile
+# CONFIG_A2065 a2065.o 
+# CONFIG_AMD8111_ETH amd8111e.o 
+# CONFIG_ARIADNE ariadne.o 
+# CONFIG_ATARILANCE atarilance.o 
+# CONFIG_DECLANCE declance.o 
+# CONFIG_HPLANCE hplance.o 7990.o 
+# CONFIG_LANCE lance.o 
+# CONFIG_MIPS_AU1X00_ENET au1000_eth.o 
+# CONFIG_MVME147_NET mvme147.o 7990.o 
+# CONFIG_PCMCIA_NMCLAN nmclan_cs.o 
+# CONFIG_PCNET32 pcnet32.o 
+# CONFIG_SUN3LANCE sun3lance.o 
+# CONFIG_SUNLANCE sunlance.o 
+# CONFIG_AMD_XGBE xgbe/ 

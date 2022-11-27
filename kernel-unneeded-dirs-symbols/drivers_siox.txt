@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/siox/Makefile
+# CONFIG_SIOX siox-core.o 
+# CONFIG_SIOX_BUS_GPIO siox-bus-gpio.o 

@@ -1,0 +1,12 @@
+# Reading Makefile: drivers/net/wwan/t7xx/Makefile
+# Reading Makefile: drivers/net/wwan/iosm/Makefile
+# CONFIG_IOSM iosm.o 
+# Reading Makefile: drivers/net/wwan/Makefile
+# CONFIG_WWAN wwan.o 
+# CONFIG_WWAN_HWSIM wwan_hwsim.o 
+# CONFIG_MHI_WWAN_CTRL mhi_wwan_ctrl.o 
+# CONFIG_MHI_WWAN_MBIM mhi_wwan_mbim.o 
+# CONFIG_QCOM_BAM_DMUX qcom_bam_dmux.o 
+# CONFIG_RPMSG_WWAN_CTRL rpmsg_wwan_ctrl.o 
+# CONFIG_IOSM iosm/ 
+# CONFIG_MTK_T7XX t7xx/ 

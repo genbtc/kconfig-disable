@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/wireless/intel/ipw2x00/Makefile
+# CONFIG_IPW2100 ipw2100.o 
+# CONFIG_IPW2200 ipw2200.o 
+# CONFIG_LIBIPW libipw.o 

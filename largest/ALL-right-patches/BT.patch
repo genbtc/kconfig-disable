@@ -1,0 +1,106 @@
+Bluetooth subsystem support
+Bluetooth is low-cost, low-power, short-range wireless technology.
+It was designed as a replacement for cables and other short-range
+technologies like IrDA.  Bluetooth operates in personal area range
+that typically extends up to 10 meters.  More information about
+Bluetooth can be found at <https://www.bluetooth.com/>.
+
+Linux Bluetooth subsystem consist of several layers:
+Bluetooth Core
+HCI device and connection manager, scheduler
+SCO audio links
+L2CAP (Logical Link Control and Adaptation Protocol)
+SMP (Security Manager Protocol) on LE (Low Energy) links
+HCI Device drivers (Interface to the hardware)
+RFCOMM Module (RFCOMM Protocol)
+BNEP Module (Bluetooth Network Encapsulation Protocol)
+CMTP Module (CAPI Message Transport Protocol)
+HIDP Module (Human Interface Device Protocol)
+
+Say Y here to compile Bluetooth support into the kernel or say M to
+compile it as module (bluetooth).
+
+To use Linux Bluetooth subsystem, you will need several user-space
+utilities like hciconfig and bluetoothd.  These utilities and updates
+to Bluetooth kernel modules are provided in the BlueZ packages.  For
+more information, see <http://www.bluez.org/>.
+Depends: (!S390)  &&  (RFKILL || !RFKILL)
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:16.126610373 -0400
+@@ -1952,66 +1952,7 @@
+ # CONFIG_CAN_DEBUG_DEVICES is not set
+ # end of CAN Device Drivers
+ 
+-CONFIG_BT=m
+-CONFIG_BT_BREDR=y
+-CONFIG_BT_RFCOMM=m
+-CONFIG_BT_RFCOMM_TTY=y
+-CONFIG_BT_BNEP=m
+-CONFIG_BT_BNEP_MC_FILTER=y
+-CONFIG_BT_BNEP_PROTO_FILTER=y
+-CONFIG_BT_HIDP=m
+-# CONFIG_BT_HS is not set
+-CONFIG_BT_LE=y
+-CONFIG_BT_6LOWPAN=m
+-CONFIG_BT_LEDS=y
+-CONFIG_BT_MSFTEXT=y
+-# CONFIG_BT_AOSPEXT is not set
+-# CONFIG_BT_DEBUGFS is not set
+-
+-#
+-# Bluetooth device drivers
+-#
+-CONFIG_BT_INTEL=m
+-CONFIG_BT_BCM=m
+-CONFIG_BT_RTL=m
+-CONFIG_BT_QCA=m
+-CONFIG_BT_MTK=m
+-CONFIG_BT_HCIBTUSB=m
+-CONFIG_BT_HCIBTUSB_AUTOSUSPEND=y
+-CONFIG_BT_HCIBTUSB_BCM=y
+-CONFIG_BT_HCIBTUSB_MTK=y
+-CONFIG_BT_HCIBTUSB_RTL=y
+-CONFIG_BT_HCIBTSDIO=m
+-CONFIG_BT_HCIUART=m
+-CONFIG_BT_HCIUART_SERDEV=y
+-CONFIG_BT_HCIUART_H4=y
+-CONFIG_BT_HCIUART_NOKIA=m
+-CONFIG_BT_HCIUART_BCSP=y
+-CONFIG_BT_HCIUART_ATH3K=y
+-CONFIG_BT_HCIUART_LL=y
+-CONFIG_BT_HCIUART_3WIRE=y
+-CONFIG_BT_HCIUART_INTEL=y
+-CONFIG_BT_HCIUART_BCM=y
+-CONFIG_BT_HCIUART_RTL=y
+-CONFIG_BT_HCIUART_QCA=y
+-CONFIG_BT_HCIUART_AG6XX=y
+-CONFIG_BT_HCIUART_MRVL=y
+-CONFIG_BT_HCIBCM203X=m
+-CONFIG_BT_HCIBPA10X=m
+-CONFIG_BT_HCIBFUSB=m
+-CONFIG_BT_HCIDTL1=m
+-CONFIG_BT_HCIBT3C=m
+-CONFIG_BT_HCIBLUECARD=m
+-CONFIG_BT_HCIVHCI=m
+-CONFIG_BT_MRVL=m
+-CONFIG_BT_MRVL_SDIO=m
+-CONFIG_BT_ATH3K=m
+-CONFIG_BT_MTKSDIO=m
+-CONFIG_BT_MTKUART=m
+-CONFIG_BT_HCIRSI=m
+-CONFIG_BT_VIRTIO=m
+-# end of Bluetooth device drivers
+-
++# CONFIG_BT is not set
+ CONFIG_AF_RXRPC=m
+ CONFIG_AF_RXRPC_IPV6=y
+ # CONFIG_AF_RXRPC_INJECT_LOSS is not set
+@@ -3812,7 +3753,6 @@
+ CONFIG_RSI_DEBUGFS=y
+ CONFIG_RSI_SDIO=m
+ CONFIG_RSI_USB=m
+-CONFIG_RSI_COEX=y
+ # CONFIG_WLAN_VENDOR_SILABS is not set
+ CONFIG_WLAN_VENDOR_ST=y
+ CONFIG_CW1200=m

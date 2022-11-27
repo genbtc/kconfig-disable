@@ -1,0 +1,14 @@
+# Reading Makefile: drivers/usb/dwc3/Makefile
+# CONFIG_USB_DWC3 dwc3.o 
+# CONFIG_USB_DWC3_AM62 dwc3-am62.o 
+# CONFIG_USB_DWC3_OMAP dwc3-omap.o 
+# CONFIG_USB_DWC3_EXYNOS dwc3-exynos.o 
+# CONFIG_USB_DWC3_PCI dwc3-pci.o 
+# CONFIG_USB_DWC3_HAPS dwc3-haps.o 
+# CONFIG_USB_DWC3_KEYSTONE dwc3-keystone.o 
+# CONFIG_USB_DWC3_MESON_G12A dwc3-meson-g12a.o 
+# CONFIG_USB_DWC3_OF_SIMPLE dwc3-of-simple.o 
+# CONFIG_USB_DWC3_ST dwc3-st.o 
+# CONFIG_USB_DWC3_QCOM dwc3-qcom.o 
+# CONFIG_USB_DWC3_IMX8MP dwc3-imx8mp.o 
+# CONFIG_USB_DWC3_XILINX dwc3-xilinx.o 

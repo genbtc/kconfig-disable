@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/net/ethernet/3com/Makefile
+# CONFIG_EL3 3c509.o 
+# CONFIG_3C515 3c515.o 
+# CONFIG_PCMCIA_3C589 3c589_cs.o 
+# CONFIG_PCMCIA_3C574 3c574_cs.o 
+# CONFIG_VORTEX 3c59x.o 
+# CONFIG_TYPHOON typhoon.o 

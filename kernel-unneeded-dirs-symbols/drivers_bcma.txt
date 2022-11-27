@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/bcma/Makefile
+# CONFIG_BCMA bcma.o 

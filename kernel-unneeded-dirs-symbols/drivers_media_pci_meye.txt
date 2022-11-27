@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/pci/meye/Makefile
+# CONFIG_VIDEO_MEYE meye.o 

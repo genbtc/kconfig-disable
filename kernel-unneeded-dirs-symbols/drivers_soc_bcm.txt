@@ -1,0 +1,12 @@
+# Reading Makefile: drivers/soc/bcm/brcmstb/pm/Makefile
+# CONFIG_ARM s2-arm.o pm-arm.o 
+# CONFIG_BMIPS_GENERIC s2-mips.o s3-mips.o pm-mips.o 
+# Reading Makefile: drivers/soc/bcm/brcmstb/Makefile
+# CONFIG_BRCMSTB_PM pm/ 
+# Reading Makefile: drivers/soc/bcm/bcm63xx/Makefile
+# CONFIG_BCM63XX_POWER bcm63xx-power.o 
+# CONFIG_BCM_PMB bcm-pmb.o 
+# Reading Makefile: drivers/soc/bcm/Makefile
+# CONFIG_BCM2835_POWER bcm2835-power.o 
+# CONFIG_RASPBERRYPI_POWER raspberrypi-power.o 
+# CONFIG_SOC_BRCMSTB brcmstb/ 

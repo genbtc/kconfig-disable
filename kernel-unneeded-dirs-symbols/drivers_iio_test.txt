@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/iio/test/Makefile
+# CONFIG_IIO_RESCALE_KUNIT_TEST iio-test-rescale.o 
+# CONFIG_IIO_TEST_FORMAT iio-test-format.o 

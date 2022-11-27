@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/r8188eu/Makefile
+# CONFIG_R8188EU r8188eu.o 

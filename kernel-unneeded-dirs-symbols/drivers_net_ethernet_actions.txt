@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/actions/Makefile
+# CONFIG_OWL_EMAC owl-emac.o 

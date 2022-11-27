@@ -1,0 +1,3 @@
+# Reading Makefile: sound/sh/Makefile
+# CONFIG_SND_AICA snd-aica.o 
+# CONFIG_SND_SH_DAC_AUDIO snd-sh_dac_audio.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/rtl8192u/Makefile
+# CONFIG_RTL8192U r8192u_usb.o 

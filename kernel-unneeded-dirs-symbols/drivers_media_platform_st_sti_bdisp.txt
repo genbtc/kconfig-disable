@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/st/sti/bdisp/Makefile
+# CONFIG_VIDEO_STI_BDISP bdisp.o 

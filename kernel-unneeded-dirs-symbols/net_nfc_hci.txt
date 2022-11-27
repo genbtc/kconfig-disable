@@ -1,0 +1,2 @@
+# Reading Makefile: net/nfc/hci/Makefile
+# CONFIG_NFC_HCI hci.o 

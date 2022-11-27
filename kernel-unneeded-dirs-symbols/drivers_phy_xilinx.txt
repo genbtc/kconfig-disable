@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/phy/xilinx/Makefile
+# CONFIG_PHY_XILINX_ZYNQMP phy-zynqmp.o 

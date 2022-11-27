@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/platform/mips/Makefile
+# CONFIG_CPU_HWMON cpu_hwmon.o 
+# CONFIG_RS780E_ACPI rs780e-acpi.o 
+# CONFIG_LS2K_RESET ls2k-reset.o 

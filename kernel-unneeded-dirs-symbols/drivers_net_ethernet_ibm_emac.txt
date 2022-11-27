@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/ibm/emac/Makefile
+# CONFIG_IBM_EMAC ibm_emac.o 

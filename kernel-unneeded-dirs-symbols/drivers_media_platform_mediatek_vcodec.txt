@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/mediatek/vcodec/Makefile
+# CONFIG_VIDEO_MEDIATEK_VCODEC mtk-vcodec-dec.o 				       mtk-vcodec-enc.o 				       mtk-vcodec-common.o 				       mtk-vcodec-dec-hw.o 

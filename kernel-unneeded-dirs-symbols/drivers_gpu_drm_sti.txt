@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/sti/Makefile
+# CONFIG_DRM_STI sti-drm.o 

@@ -1,0 +1,10 @@
+# Reading Makefile: drivers/net/wireless/broadcom/brcm80211/brcmutil/Makefile
+# CONFIG_BRCMUTIL brcmutil.o 
+# Reading Makefile: drivers/net/wireless/broadcom/brcm80211/brcmsmac/Makefile
+# CONFIG_BRCMSMAC brcmsmac.o 
+# Reading Makefile: drivers/net/wireless/broadcom/brcm80211/brcmfmac/Makefile
+# CONFIG_BRCMFMAC brcmfmac.o 
+# Reading Makefile: drivers/net/wireless/broadcom/brcm80211/Makefile
+# CONFIG_BRCMUTIL brcmutil/ 
+# CONFIG_BRCMFMAC brcmfmac/ 
+# CONFIG_BRCMSMAC brcmsmac/ 

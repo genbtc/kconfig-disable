@@ -1,0 +1,2 @@
+# Reading Makefile: fs/freevxfs/Makefile
+# CONFIG_VXFS_FS freevxfs.o 

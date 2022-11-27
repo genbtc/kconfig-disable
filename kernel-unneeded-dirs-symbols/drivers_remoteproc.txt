@@ -1,0 +1,28 @@
+# Reading Makefile: drivers/remoteproc/Makefile
+# CONFIG_REMOTEPROC remoteproc.o 
+# CONFIG_REMOTEPROC_CDEV remoteproc_cdev.o 
+# CONFIG_IMX_REMOTEPROC imx_rproc.o 
+# CONFIG_IMX_DSP_REMOTEPROC imx_dsp_rproc.o 
+# CONFIG_INGENIC_VPU_RPROC ingenic_rproc.o 
+# CONFIG_MTK_SCP mtk_scp.o mtk_scp_ipi.o 
+# CONFIG_OMAP_REMOTEPROC omap_remoteproc.o 
+# CONFIG_WKUP_M3_RPROC wkup_m3_rproc.o 
+# CONFIG_DA8XX_REMOTEPROC da8xx_remoteproc.o 
+# CONFIG_KEYSTONE_REMOTEPROC keystone_remoteproc.o 
+# CONFIG_MESON_MX_AO_ARC_REMOTEPROC meson_mx_ao_arc.o 
+# CONFIG_PRU_REMOTEPROC pru_rproc.o 
+# CONFIG_QCOM_PIL_INFO qcom_pil_info.o 
+# CONFIG_QCOM_RPROC_COMMON qcom_common.o 
+# CONFIG_QCOM_Q6V5_COMMON qcom_q6v5.o 
+# CONFIG_QCOM_Q6V5_ADSP qcom_q6v5_adsp.o 
+# CONFIG_QCOM_Q6V5_MSS qcom_q6v5_mss.o 
+# CONFIG_QCOM_Q6V5_PAS qcom_q6v5_pas.o 
+# CONFIG_QCOM_Q6V5_WCSS qcom_q6v5_wcss.o 
+# CONFIG_QCOM_SYSMON qcom_sysmon.o 
+# CONFIG_QCOM_WCNSS_PIL qcom_wcnss_pil.o 
+# CONFIG_RCAR_REMOTEPROC rcar_rproc.o 
+# CONFIG_ST_REMOTEPROC st_remoteproc.o 
+# CONFIG_ST_SLIM_REMOTEPROC st_slim_rproc.o 
+# CONFIG_STM32_RPROC stm32_rproc.o 
+# CONFIG_TI_K3_DSP_REMOTEPROC ti_k3_dsp_remoteproc.o 
+# CONFIG_TI_K3_R5_REMOTEPROC ti_k3_r5_remoteproc.o 

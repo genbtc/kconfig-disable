@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/sunplus/Makefile
+# CONFIG_SP7021_EMAC sp7021_emac.o 

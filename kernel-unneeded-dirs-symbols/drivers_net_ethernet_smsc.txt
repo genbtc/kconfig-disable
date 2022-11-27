@@ -1,0 +1,8 @@
+# Reading Makefile: drivers/net/ethernet/smsc/Makefile
+# CONFIG_SMC9194 smc9194.o 
+# CONFIG_SMC91X smc91x.o 
+# CONFIG_PCMCIA_SMC91C92 smc91c92_cs.o 
+# CONFIG_EPIC100 epic100.o 
+# CONFIG_SMSC9420 smsc9420.o 
+# CONFIG_SMC911X smc911x.o 
+# CONFIG_SMSC911X smsc911x.o 

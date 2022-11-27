@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/wireless/ti/wlcore/Makefile
+# CONFIG_WLCORE wlcore.o 
+# CONFIG_WLCORE_SPI wlcore_spi.o 
+# CONFIG_WLCORE_SDIO wlcore_sdio.o 

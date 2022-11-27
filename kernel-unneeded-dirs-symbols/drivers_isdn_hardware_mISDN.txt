@@ -1,0 +1,12 @@
+# Reading Makefile: drivers/isdn/hardware/mISDN/Makefile
+# CONFIG_MISDN_HFCPCI hfcpci.o 
+# CONFIG_MISDN_HFCMULTI hfcmulti.o 
+# CONFIG_MISDN_HFCUSB hfcsusb.o 
+# CONFIG_MISDN_AVMFRITZ avmfritz.o 
+# CONFIG_MISDN_SPEEDFAX speedfax.o 
+# CONFIG_MISDN_INFINEON mISDNinfineon.o 
+# CONFIG_MISDN_W6692 w6692.o 
+# CONFIG_MISDN_NETJET netjet.o 
+# CONFIG_MISDN_IPAC mISDNipac.o 
+# CONFIG_MISDN_ISAR mISDNisar.o 
+# CONFIG_MISDN_HDLC isdnhdlc.o 

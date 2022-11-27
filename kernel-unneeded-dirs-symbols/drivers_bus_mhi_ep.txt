@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/bus/mhi/ep/Makefile
+# CONFIG_MHI_BUS_EP mhi_ep.o 

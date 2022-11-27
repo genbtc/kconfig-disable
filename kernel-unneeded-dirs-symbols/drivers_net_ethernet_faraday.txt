@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/net/ethernet/faraday/Makefile
+# CONFIG_FTGMAC100 ftgmac100.o 
+# CONFIG_FTMAC100 ftmac100.o 

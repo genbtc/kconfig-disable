@@ -1,0 +1,12 @@
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:20:04.329610330 -0400
+@@ -3495,7 +3495,7 @@
+ CONFIG_SLIP_COMPRESSED=y
+ CONFIG_SLIP_SMART=y
+ # CONFIG_SLIP_MODE_SLIP6 is not set
+-CONFIG_USB_NET_DRIVERS=y
++CONFIG_USB_NET_DRIVERS=m
+ CONFIG_USB_CATC=m
+ CONFIG_USB_KAWETH=m
+ CONFIG_USB_PEGASUS=m

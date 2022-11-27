@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/net/ethernet/socionext/Makefile
+# CONFIG_SNI_AVE sni_ave.o 
+# CONFIG_SNI_NETSEC netsec.o 

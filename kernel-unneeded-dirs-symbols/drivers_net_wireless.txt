@@ -1,0 +1,348 @@
+# Reading Makefile: drivers/net/wireless/zydas/zd1211rw/Makefile
+# CONFIG_ZD1211RW zd1211rw.o 
+# Reading Makefile: drivers/net/wireless/zydas/Makefile
+# CONFIG_ZD1211RW zd1211rw/ 
+# CONFIG_USB_ZD1201 zd1201.o 
+# Reading Makefile: drivers/net/wireless/ti/wlcore/Makefile
+# CONFIG_WLCORE wlcore.o 
+# CONFIG_WLCORE_SPI wlcore_spi.o 
+# CONFIG_WLCORE_SDIO wlcore_sdio.o 
+# Reading Makefile: drivers/net/wireless/ti/wl18xx/Makefile
+# CONFIG_WL18XX wl18xx.o 
+# Reading Makefile: drivers/net/wireless/ti/wl12xx/Makefile
+# CONFIG_WL12XX wl12xx.o 
+# Reading Makefile: drivers/net/wireless/ti/wl1251/Makefile
+# CONFIG_WL1251 wl1251.o 
+# CONFIG_WL1251_SPI wl1251_spi.o 
+# CONFIG_WL1251_SDIO wl1251_sdio.o 
+# Reading Makefile: drivers/net/wireless/ti/Makefile
+# CONFIG_WLCORE wlcore/ 
+# CONFIG_WL12XX wl12xx/ 
+# CONFIG_WL1251 wl1251/ 
+# CONFIG_WL18XX wl18xx/ 
+# CONFIG_WILINK_PLATFORM_DATA wilink_platform_data.o 
+# Reading Makefile: drivers/net/wireless/st/cw1200/Makefile
+# CONFIG_CW1200 cw1200_core.o 
+# CONFIG_CW1200_WLAN_SDIO cw1200_wlan_sdio.o 
+# CONFIG_CW1200_WLAN_SPI cw1200_wlan_spi.o 
+# Reading Makefile: drivers/net/wireless/st/Makefile
+# CONFIG_CW1200 cw1200/ 
+# Reading Makefile: drivers/net/wireless/silabs/wfx/Makefile
+# CONFIG_WFX wfx.o 
+# Reading Makefile: drivers/net/wireless/silabs/Makefile
+# CONFIG_WFX wfx/ 
+# Reading Makefile: drivers/net/wireless/rsi/Makefile
+# CONFIG_RSI_91X rsi_91x.o 
+# CONFIG_RSI_SDIO rsi_sdio.o 
+# CONFIG_RSI_USB rsi_usb.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtw89/Makefile
+# CONFIG_RTW89_CORE rtw89_core.o 
+# CONFIG_RTW89_8852A rtw89_8852a.o 
+# CONFIG_RTW89_8852AE rtw89_8852ae.o 
+# CONFIG_RTW89_8852C rtw89_8852c.o 
+# CONFIG_RTW89_8852CE rtw89_8852ce.o 
+# CONFIG_RTW89_PCI rtw89_pci.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtw88/Makefile
+# CONFIG_RTW88_CORE rtw88_core.o 
+# CONFIG_RTW88_8822B rtw88_8822b.o 
+# CONFIG_RTW88_8822BE rtw88_8822be.o 
+# CONFIG_RTW88_8822C rtw88_8822c.o 
+# CONFIG_RTW88_8822CE rtw88_8822ce.o 
+# CONFIG_RTW88_8723D rtw88_8723d.o 
+# CONFIG_RTW88_8723DE rtw88_8723de.o 
+# CONFIG_RTW88_8821C rtw88_8821c.o 
+# CONFIG_RTW88_8821CE rtw88_8821ce.o 
+# CONFIG_RTW88_PCI rtw88_pci.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8821ae/Makefile
+# CONFIG_RTL8821AE rtl8821ae.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8723com/Makefile
+# CONFIG_RTL8723_COMMON rtl8723-common.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8723be/Makefile
+# CONFIG_RTL8723BE rtl8723be.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8723ae/Makefile
+# CONFIG_RTL8723AE rtl8723ae.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8192se/Makefile
+# CONFIG_RTL8192SE rtl8192se.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8192ee/Makefile
+# CONFIG_RTL8192EE rtl8192ee.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8192de/Makefile
+# CONFIG_RTL8192DE rtl8192de.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8192cu/Makefile
+# CONFIG_RTL8192CU rtl8192cu.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8192ce/Makefile
+# CONFIG_RTL8192CE rtl8192ce.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8192c/Makefile
+# CONFIG_RTL8192C_COMMON rtl8192c-common.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8188ee/Makefile
+# CONFIG_RTL8188EE rtl8188ee.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/btcoexist/Makefile
+# CONFIG_RTLBTCOEXIST btcoexist.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/Makefile
+# CONFIG_RTLWIFI rtlwifi.o 
+# CONFIG_RTLWIFI_PCI rtl_pci.o 
+# CONFIG_RTLWIFI_USB rtl_usb.o 
+# CONFIG_RTL8192C_COMMON rtl8192c/ 
+# CONFIG_RTL8192CE rtl8192ce/ 
+# CONFIG_RTL8192CU rtl8192cu/ 
+# CONFIG_RTL8192SE rtl8192se/ 
+# CONFIG_RTL8192DE rtl8192de/ 
+# CONFIG_RTL8723AE rtl8723ae/ 
+# CONFIG_RTL8723BE rtl8723be/ 
+# CONFIG_RTL8188EE rtl8188ee/ 
+# CONFIG_RTLBTCOEXIST btcoexist/ 
+# CONFIG_RTL8723_COMMON rtl8723com/ 
+# CONFIG_RTL8821AE rtl8821ae/ 
+# CONFIG_RTL8192EE rtl8192ee/ 
+# Reading Makefile: drivers/net/wireless/realtek/rtl8xxxu/Makefile
+# CONFIG_RTL8XXXU rtl8xxxu.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtl818x/rtl8187/Makefile
+# CONFIG_RTL8187 rtl8187.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtl818x/rtl8180/Makefile
+# CONFIG_RTL8180 rtl818x_pci.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtl818x/Makefile
+# CONFIG_RTL8180 rtl8180/ 
+# CONFIG_RTL8187 rtl8187/ 
+# Reading Makefile: drivers/net/wireless/realtek/Makefile
+# CONFIG_RTL8180 rtl818x/ 
+# CONFIG_RTL8187 rtl818x/ 
+# CONFIG_RTLWIFI rtlwifi/ 
+# CONFIG_RTL8XXXU rtl8xxxu/ 
+# CONFIG_RTW88 rtw88/ 
+# CONFIG_RTW89 rtw89/ 
+# Reading Makefile: drivers/net/wireless/ralink/rt2x00/Makefile
+# CONFIG_RT2X00_LIB rt2x00lib.o 
+# CONFIG_RT2X00_LIB_MMIO rt2x00mmio.o 
+# CONFIG_RT2X00_LIB_PCI rt2x00pci.o 
+# CONFIG_RT2X00_LIB_SOC rt2x00soc.o 
+# CONFIG_RT2X00_LIB_USB rt2x00usb.o 
+# CONFIG_RT2800_LIB rt2800lib.o 
+# CONFIG_RT2800_LIB_MMIO rt2800mmio.o 
+# CONFIG_RT2400PCI rt2400pci.o 
+# CONFIG_RT2500PCI rt2500pci.o 
+# CONFIG_RT61PCI rt61pci.o 
+# CONFIG_RT2800PCI rt2800pci.o 
+# CONFIG_RT2500USB rt2500usb.o 
+# CONFIG_RT73USB rt73usb.o 
+# CONFIG_RT2800USB rt2800usb.o 
+# CONFIG_RT2800SOC rt2800soc.o 
+# Reading Makefile: drivers/net/wireless/ralink/Makefile
+# CONFIG_RT2X00 rt2x00/ 
+# Reading Makefile: drivers/net/wireless/quantenna/qtnfmac/Makefile
+# CONFIG_QTNFMAC qtnfmac.o 
+# CONFIG_QTNFMAC_PCIE qtnfmac_pcie.o 
+# Reading Makefile: drivers/net/wireless/quantenna/Makefile
+# CONFIG_QTNFMAC qtnfmac/ 
+# Reading Makefile: drivers/net/wireless/purelifi/plfxlc/Makefile
+# CONFIG_PLFXLC plfxlc.o 
+# Reading Makefile: drivers/net/wireless/purelifi/Makefile
+# CONFIG_PLFXLC plfxlc/ 
+# Reading Makefile: drivers/net/wireless/microchip/wilc1000/Makefile
+# CONFIG_WILC1000 wilc1000.o 
+# CONFIG_WILC1000_SDIO wilc1000-sdio.o 
+# CONFIG_WILC1000_SPI wilc1000-spi.o 
+# Reading Makefile: drivers/net/wireless/microchip/Makefile
+# CONFIG_WILC1000 wilc1000/ 
+# Reading Makefile: drivers/net/wireless/mediatek/mt7601u/Makefile
+# CONFIG_MT7601U mt7601u.o 
+# Reading Makefile: drivers/net/wireless/mediatek/mt76/mt7921/Makefile
+# CONFIG_MT7921_COMMON mt7921-common.o 
+# CONFIG_MT7921E mt7921e.o 
+# CONFIG_MT7921S mt7921s.o 
+# CONFIG_MT7921U mt7921u.o 
+# Reading Makefile: drivers/net/wireless/mediatek/mt76/mt7915/Makefile
+# CONFIG_MT7915E mt7915e.o 
+# Reading Makefile: drivers/net/wireless/mediatek/mt76/mt76x2/Makefile
+# CONFIG_MT76x2_COMMON mt76x2-common.o 
+# CONFIG_MT76x2E mt76x2e.o 
+# CONFIG_MT76x2U mt76x2u.o 
+# Reading Makefile: drivers/net/wireless/mediatek/mt76/mt76x0/Makefile
+# CONFIG_MT76x0U mt76x0u.o 
+# CONFIG_MT76x0E mt76x0e.o 
+# CONFIG_MT76x0_COMMON mt76x0-common.o 
+# Reading Makefile: drivers/net/wireless/mediatek/mt76/mt7615/Makefile
+# CONFIG_MT7615_COMMON mt7615-common.o 
+# CONFIG_MT7615E mt7615e.o 
+# CONFIG_MT7663_USB_SDIO_COMMON mt7663-usb-sdio-common.o 
+# CONFIG_MT7663U mt7663u.o 
+# CONFIG_MT7663S mt7663s.o 
+# Reading Makefile: drivers/net/wireless/mediatek/mt76/mt7603/Makefile
+# CONFIG_MT7603E mt7603e.o 
+# Reading Makefile: drivers/net/wireless/mediatek/mt76/Makefile
+# CONFIG_MT76_CORE mt76.o 
+# CONFIG_MT76_USB mt76-usb.o 
+# CONFIG_MT76_SDIO mt76-sdio.o 
+# CONFIG_MT76x02_LIB mt76x02-lib.o 
+# CONFIG_MT76x02_USB mt76x02-usb.o 
+# CONFIG_MT76_CONNAC_LIB mt76-connac-lib.o 
+# CONFIG_MT76x0_COMMON mt76x0/ 
+# CONFIG_MT76x2_COMMON mt76x2/ 
+# CONFIG_MT7603E mt7603/ 
+# CONFIG_MT7615_COMMON mt7615/ 
+# CONFIG_MT7915E mt7915/ 
+# CONFIG_MT7921_COMMON mt7921/ 
+# Reading Makefile: drivers/net/wireless/mediatek/Makefile
+# CONFIG_MT7601U mt7601u/ 
+# CONFIG_MT76_CORE mt76/ 
+# Reading Makefile: drivers/net/wireless/marvell/mwifiex/Makefile
+# CONFIG_MWIFIEX mwifiex.o 
+# CONFIG_MWIFIEX_SDIO mwifiex_sdio.o 
+# CONFIG_MWIFIEX_PCIE mwifiex_pcie.o 
+# CONFIG_MWIFIEX_USB mwifiex_usb.o 
+# Reading Makefile: drivers/net/wireless/marvell/libertas_tf/Makefile
+# CONFIG_LIBERTAS_THINFIRM libertas_tf.o 
+# CONFIG_LIBERTAS_THINFIRM_USB libertas_tf_usb.o 
+# Reading Makefile: drivers/net/wireless/marvell/libertas/Makefile
+# CONFIG_LIBERTAS libertas.o 
+# CONFIG_LIBERTAS_USB usb8xxx.o 
+# CONFIG_LIBERTAS_CS libertas_cs.o 
+# CONFIG_LIBERTAS_SDIO libertas_sdio.o 
+# CONFIG_LIBERTAS_SPI libertas_spi.o 
+# Reading Makefile: drivers/net/wireless/marvell/Makefile
+# CONFIG_LIBERTAS libertas/ 
+# CONFIG_LIBERTAS_THINFIRM libertas_tf/ 
+# CONFIG_MWIFIEX mwifiex/ 
+# CONFIG_MWL8K mwl8k.o 
+# Reading Makefile: drivers/net/wireless/intersil/p54/Makefile
+# CONFIG_P54_COMMON p54common.o 
+# CONFIG_P54_USB p54usb.o 
+# CONFIG_P54_PCI p54pci.o 
+# CONFIG_P54_SPI p54spi.o 
+# Reading Makefile: drivers/net/wireless/intersil/orinoco/Makefile
+# CONFIG_HERMES orinoco.o 
+# CONFIG_PCMCIA_HERMES orinoco_cs.o 
+# CONFIG_APPLE_AIRPORT airport.o 
+# CONFIG_PLX_HERMES orinoco_plx.o 
+# CONFIG_PCI_HERMES orinoco_pci.o 
+# CONFIG_TMD_HERMES orinoco_tmd.o 
+# CONFIG_NORTEL_HERMES orinoco_nortel.o 
+# CONFIG_PCMCIA_SPECTRUM spectrum_cs.o 
+# CONFIG_ORINOCO_USB orinoco_usb.o 
+# Reading Makefile: drivers/net/wireless/intersil/hostap/Makefile
+# CONFIG_HOSTAP hostap.o 
+# CONFIG_HOSTAP_CS hostap_cs.o 
+# CONFIG_HOSTAP_PLX hostap_plx.o 
+# CONFIG_HOSTAP_PCI hostap_pci.o 
+# Reading Makefile: drivers/net/wireless/intersil/Makefile
+# CONFIG_HOSTAP hostap/ 
+# CONFIG_HERMES orinoco/ 
+# CONFIG_P54_COMMON p54/ 
+# Reading Makefile: drivers/net/wireless/intel/iwlwifi/mvm/Makefile
+# CONFIG_IWLMVM iwlmvm.o 
+# Reading Makefile: drivers/net/wireless/intel/iwlwifi/mei/Makefile
+# CONFIG_IWLMEI iwlmei.o 
+# Reading Makefile: drivers/net/wireless/intel/iwlwifi/dvm/Makefile
+# CONFIG_IWLDVM iwldvm.o 
+# Reading Makefile: drivers/net/wireless/intel/iwlwifi/Makefile
+# CONFIG_IWLWIFI iwlwifi.o 
+# CONFIG_IWLDVM dvm/ 
+# CONFIG_IWLMVM mvm/ 
+# CONFIG_IWLMEI mei/ 
+# Reading Makefile: drivers/net/wireless/intel/iwlegacy/Makefile
+# CONFIG_IWLEGACY iwlegacy.o 
+# CONFIG_IWL4965 iwl4965.o 
+# CONFIG_IWL3945 iwl3945.o 
+# Reading Makefile: drivers/net/wireless/intel/ipw2x00/Makefile
+# CONFIG_IPW2100 ipw2100.o 
+# CONFIG_IPW2200 ipw2200.o 
+# CONFIG_LIBIPW libipw.o 
+# Reading Makefile: drivers/net/wireless/intel/Makefile
+# CONFIG_IPW2100 ipw2x00/ 
+# CONFIG_IPW2200 ipw2x00/ 
+# CONFIG_IWLEGACY iwlegacy/ 
+# CONFIG_IWLWIFI iwlwifi/ 
+# CONFIG_IWLMEI iwlwifi/ 
+# Reading Makefile: drivers/net/wireless/cisco/Makefile
+# CONFIG_AIRO airo.o 
+# CONFIG_AIRO_CS airo_cs.o airo.o 
+# Reading Makefile: drivers/net/wireless/broadcom/brcm80211/brcmutil/Makefile
+# CONFIG_BRCMUTIL brcmutil.o 
+# Reading Makefile: drivers/net/wireless/broadcom/brcm80211/brcmsmac/Makefile
+# CONFIG_BRCMSMAC brcmsmac.o 
+# Reading Makefile: drivers/net/wireless/broadcom/brcm80211/brcmfmac/Makefile
+# CONFIG_BRCMFMAC brcmfmac.o 
+# Reading Makefile: drivers/net/wireless/broadcom/brcm80211/Makefile
+# CONFIG_BRCMUTIL brcmutil/ 
+# CONFIG_BRCMFMAC brcmfmac/ 
+# CONFIG_BRCMSMAC brcmsmac/ 
+# Reading Makefile: drivers/net/wireless/broadcom/b43legacy/Makefile
+# CONFIG_B43LEGACY b43legacy.o 
+# Reading Makefile: drivers/net/wireless/broadcom/b43/Makefile
+# CONFIG_B43 b43.o 
+# Reading Makefile: drivers/net/wireless/broadcom/Makefile
+# CONFIG_B43 b43/ 
+# CONFIG_B43LEGACY b43legacy/ 
+# CONFIG_BRCMFMAC brcm80211/ 
+# CONFIG_BRCMSMAC brcm80211/ 
+# Reading Makefile: drivers/net/wireless/atmel/Makefile
+# CONFIG_ATMEL atmel.o 
+# CONFIG_PCI_ATMEL atmel_pci.o  
+# CONFIG_PCMCIA_ATMEL atmel_cs.o 
+# CONFIG_AT76C50X_USB at76c50x-usb.o 
+# Reading Makefile: drivers/net/wireless/ath/wil6210/Makefile
+# CONFIG_WIL6210 wil6210.o 
+# Reading Makefile: drivers/net/wireless/ath/wcn36xx/Makefile
+# CONFIG_WCN36XX wcn36xx.o 
+# Reading Makefile: drivers/net/wireless/ath/carl9170/Makefile
+# CONFIG_CARL9170 carl9170.o 
+# Reading Makefile: drivers/net/wireless/ath/ath9k/Makefile
+# CONFIG_ATH9K ath9k.o 
+# CONFIG_ATH9K_HW ath9k_hw.o 
+# CONFIG_ATH9K_COMMON ath9k_common.o 
+# CONFIG_ATH9K_HTC ath9k_htc.o 
+# CONFIG_ATH9K_PCI_NO_EEPROM ath9k_pci_owl_loader.o 
+# Reading Makefile: drivers/net/wireless/ath/ath6kl/Makefile
+# CONFIG_ATH6KL ath6kl_core.o 
+# CONFIG_ATH6KL_SDIO ath6kl_sdio.o 
+# CONFIG_ATH6KL_USB ath6kl_usb.o 
+# Reading Makefile: drivers/net/wireless/ath/ath5k/Makefile
+# CONFIG_ATH5K ath5k.o 
+# Reading Makefile: drivers/net/wireless/ath/ath11k/Makefile
+# CONFIG_ATH11K ath11k.o 
+# CONFIG_ATH11K_AHB ath11k_ahb.o 
+# CONFIG_ATH11K_PCI ath11k_pci.o 
+# Reading Makefile: drivers/net/wireless/ath/ath10k/Makefile
+# CONFIG_ATH10K ath10k_core.o 
+# CONFIG_ATH10K_PCI ath10k_pci.o 
+# CONFIG_ATH10K_SDIO ath10k_sdio.o 
+# CONFIG_ATH10K_USB ath10k_usb.o 
+# CONFIG_ATH10K_SNOC ath10k_snoc.o 
+# Reading Makefile: drivers/net/wireless/ath/ar5523/Makefile
+# CONFIG_AR5523 ar5523.o 
+# Reading Makefile: drivers/net/wireless/ath/Makefile
+# CONFIG_ATH5K ath5k/ 
+# CONFIG_ATH9K_HW ath9k/ 
+# CONFIG_CARL9170 carl9170/ 
+# CONFIG_ATH6KL ath6kl/ 
+# CONFIG_AR5523 ar5523/ 
+# CONFIG_WIL6210 wil6210/ 
+# CONFIG_ATH10K ath10k/ 
+# CONFIG_WCN36XX wcn36xx/ 
+# CONFIG_ATH11K ath11k/ 
+# CONFIG_ATH_COMMON ath.o 
+# Reading Makefile: drivers/net/wireless/admtek/Makefile
+# CONFIG_ADM8211 adm8211.o 
+# Reading Makefile: drivers/net/wireless/Makefile
+# CONFIG_WLAN_VENDOR_ADMTEK admtek/ 
+# CONFIG_WLAN_VENDOR_ATH ath/ 
+# CONFIG_WLAN_VENDOR_ATMEL atmel/ 
+# CONFIG_WLAN_VENDOR_BROADCOM broadcom/ 
+# CONFIG_WLAN_VENDOR_CISCO cisco/ 
+# CONFIG_WLAN_VENDOR_INTEL intel/ 
+# CONFIG_WLAN_VENDOR_INTERSIL intersil/ 
+# CONFIG_WLAN_VENDOR_MARVELL marvell/ 
+# CONFIG_WLAN_VENDOR_MEDIATEK mediatek/ 
+# CONFIG_WLAN_VENDOR_MICROCHIP microchip/ 
+# CONFIG_WLAN_VENDOR_PURELIFI purelifi/ 
+# CONFIG_WLAN_VENDOR_QUANTENNA quantenna/ 
+# CONFIG_WLAN_VENDOR_RALINK ralink/ 
+# CONFIG_WLAN_VENDOR_REALTEK realtek/ 
+# CONFIG_WLAN_VENDOR_RSI rsi/ 
+# CONFIG_WLAN_VENDOR_SILABS silabs/ 
+# CONFIG_WLAN_VENDOR_ST st/ 
+# CONFIG_WLAN_VENDOR_TI ti/ 
+# CONFIG_WLAN_VENDOR_ZYDAS zydas/ 
+# CONFIG_PCMCIA_RAYCS ray_cs.o 
+# CONFIG_PCMCIA_WL3501 wl3501_cs.o 
+# CONFIG_USB_NET_RNDIS_WLAN rndis_wlan.o 
+# CONFIG_MAC80211_HWSIM mac80211_hwsim.o 
+# CONFIG_VIRT_WIFI virt_wifi.o 

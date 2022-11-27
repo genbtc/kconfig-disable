@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/wlan-ng/Makefile
+# CONFIG_PRISM2_USB prism2_usb.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/infiniband/hw/mlx4/Makefile
+# CONFIG_MLX4_INFINIBAND mlx4_ib.o 

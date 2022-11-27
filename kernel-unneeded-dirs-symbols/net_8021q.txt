@@ -1,0 +1,2 @@
+# Reading Makefile: net/8021q/Makefile
+# CONFIG_VLAN_8021Q 8021q.o 

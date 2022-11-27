@@ -1,0 +1,12 @@
+# Reading Makefile: drivers/gpu/drm/sun4i/Makefile
+# CONFIG_DRM_SUN4I sun4i-drm.o 
+# CONFIG_DRM_SUN4I sun4i-tcon.o 
+# CONFIG_DRM_SUN4I sun4i_tv.o 
+# CONFIG_DRM_SUN4I sun6i_drc.o 
+# CONFIG_DRM_SUN4I_BACKEND sun4i-backend.o 
+# CONFIG_DRM_SUN4I sun4i-frontend.o 
+# CONFIG_DRM_SUN4I_HDMI sun4i-drm-hdmi.o 
+# CONFIG_DRM_SUN6I_DSI sun6i_mipi_dsi.o 
+# CONFIG_DRM_SUN8I_DW_HDMI sun8i-drm-hdmi.o 
+# CONFIG_DRM_SUN8I_MIXER sun8i-mixer.o 
+# CONFIG_DRM_SUN8I_TCON_TOP sun8i_tcon_top.o 

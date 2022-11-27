@@ -1,0 +1,8 @@
+# Reading Makefile: sound/soc/sof/mediatek/mt8195/Makefile
+# CONFIG_SND_SOC_SOF_MT8195 snd-sof-mt8195.o 
+# Reading Makefile: sound/soc/sof/mediatek/mt8186/Makefile
+# CONFIG_SND_SOC_SOF_MT8186 snd-sof-mt8186.o 
+# Reading Makefile: sound/soc/sof/mediatek/Makefile
+# CONFIG_SND_SOC_SOF_MTK_COMMON mtk-adsp-common.o 
+# CONFIG_SND_SOC_SOF_MT8195 mt8195/ 
+# CONFIG_SND_SOC_SOF_MT8186 mt8186/ 

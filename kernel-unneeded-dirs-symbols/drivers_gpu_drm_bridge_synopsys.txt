@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/gpu/drm/bridge/synopsys/Makefile
+# CONFIG_DRM_DW_HDMI dw-hdmi.o 
+# CONFIG_DRM_DW_HDMI_AHB_AUDIO dw-hdmi-ahb-audio.o 
+# CONFIG_DRM_DW_HDMI_GP_AUDIO dw-hdmi-gp-audio.o 
+# CONFIG_DRM_DW_HDMI_I2S_AUDIO dw-hdmi-i2s-audio.o 
+# CONFIG_DRM_DW_HDMI_CEC dw-hdmi-cec.o 
+# CONFIG_DRM_DW_MIPI_DSI dw-mipi-dsi.o 

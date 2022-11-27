@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/misc/genwqe/Makefile
+# CONFIG_GENWQE genwqe_card.o 

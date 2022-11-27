@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/sunxi/sun8i-rotate/Makefile
+# CONFIG_VIDEO_SUN8I_ROTATE sun8i-rotate.o 

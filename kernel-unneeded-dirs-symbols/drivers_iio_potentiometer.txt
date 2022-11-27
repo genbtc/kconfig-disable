@@ -1,0 +1,12 @@
+# Reading Makefile: drivers/iio/potentiometer/Makefile
+# CONFIG_AD5110 ad5110.o 
+# CONFIG_AD5272 ad5272.o 
+# CONFIG_DS1803 ds1803.o 
+# CONFIG_MAX5432 max5432.o 
+# CONFIG_MAX5481 max5481.o 
+# CONFIG_MAX5487 max5487.o 
+# CONFIG_MCP4018 mcp4018.o 
+# CONFIG_MCP4131 mcp4131.o 
+# CONFIG_MCP4531 mcp4531.o 
+# CONFIG_MCP41010 mcp41010.o 
+# CONFIG_TPL0102 tpl0102.o 

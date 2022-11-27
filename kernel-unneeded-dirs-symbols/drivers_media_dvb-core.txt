@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/dvb-core/Makefile
+# CONFIG_DVB_CORE dvb-core.o 

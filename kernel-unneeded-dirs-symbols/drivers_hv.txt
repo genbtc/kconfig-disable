@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/hv/Makefile
+# CONFIG_HYPERV hv_vmbus.o 
+# CONFIG_HYPERV_UTILS hv_utils.o 
+# CONFIG_HYPERV_BALLOON hv_balloon.o 

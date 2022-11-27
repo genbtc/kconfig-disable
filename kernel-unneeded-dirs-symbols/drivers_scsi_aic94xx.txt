@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/scsi/aic94xx/Makefile
+# CONFIG_SCSI_AIC94XX aic94xx.o 

@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/net/dsa/realtek/Makefile
+# CONFIG_NET_DSA_REALTEK_MDIO realtek-mdio.o 
+# CONFIG_NET_DSA_REALTEK_SMI realtek-smi.o 
+# CONFIG_NET_DSA_REALTEK_RTL8366RB rtl8366.o 
+# CONFIG_NET_DSA_REALTEK_RTL8365MB rtl8365mb.o 

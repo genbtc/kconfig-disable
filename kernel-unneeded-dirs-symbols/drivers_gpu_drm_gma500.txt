@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/gma500/Makefile
+# CONFIG_DRM_GMA500 gma500_gfx.o 

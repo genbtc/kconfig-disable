@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/net/wireless/quantenna/qtnfmac/Makefile
+# CONFIG_QTNFMAC qtnfmac.o 
+# CONFIG_QTNFMAC_PCIE qtnfmac_pcie.o 

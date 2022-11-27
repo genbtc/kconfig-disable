@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/wireless/ath/carl9170/Makefile
+# CONFIG_CARL9170 carl9170.o 

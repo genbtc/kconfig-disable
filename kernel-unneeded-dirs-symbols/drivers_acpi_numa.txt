@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/acpi/numa/Makefile
+# CONFIG_ACPI_NUMA srat.o 
+# CONFIG_ACPI_HMAT hmat.o 

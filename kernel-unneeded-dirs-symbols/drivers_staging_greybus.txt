@@ -1,0 +1,26 @@
+# Reading Makefile: drivers/staging/greybus/tools/Makefile
+# Reading Makefile: drivers/staging/greybus/Makefile
+# CONFIG_GREYBUS_BOOTROM gb-bootrom.o 
+# CONFIG_GREYBUS_CAMERA gb-camera.o 
+# CONFIG_GREYBUS_FIRMWARE gb-firmware.o gb-spilib.o 
+# CONFIG_GREYBUS_HID gb-hid.o 
+# CONFIG_GREYBUS_LIGHT gb-light.o 
+# CONFIG_GREYBUS_LOG gb-log.o 
+# CONFIG_GREYBUS_LOOPBACK gb-loopback.o 
+# CONFIG_GREYBUS_POWER gb-power-supply.o 
+# CONFIG_GREYBUS_RAW gb-raw.o 
+# CONFIG_GREYBUS_VIBRATOR gb-vibrator.o 
+# CONFIG_GREYBUS_AUDIO_APB_CODEC gb-audio-codec.o 
+# CONFIG_GREYBUS_AUDIO_APB_CODEC gb-audio-module.o 
+# CONFIG_GREYBUS_AUDIO gb-audio-gb.o 
+# CONFIG_GREYBUS_AUDIO gb-audio-apbridgea.o 
+# CONFIG_GREYBUS_AUDIO gb-audio-manager.o 
+# CONFIG_GREYBUS_BRIDGED_PHY gb-gbphy.o 
+# CONFIG_GREYBUS_GPIO gb-gpio.o 
+# CONFIG_GREYBUS_I2C gb-i2c.o 
+# CONFIG_GREYBUS_PWM gb-pwm.o 
+# CONFIG_GREYBUS_SDIO gb-sdio.o 
+# CONFIG_GREYBUS_SPI gb-spi.o gb-spilib.o 
+# CONFIG_GREYBUS_UART gb-uart.o 
+# CONFIG_GREYBUS_USB gb-usb.o 
+# CONFIG_GREYBUS_ARCHE gb-arche.o 

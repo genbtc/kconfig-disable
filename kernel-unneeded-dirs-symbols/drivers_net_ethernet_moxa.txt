@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/moxa/Makefile
+# CONFIG_ARM_MOXART_ETHER moxart_ether.o 

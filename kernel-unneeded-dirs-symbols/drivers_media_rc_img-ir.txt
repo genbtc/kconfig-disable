@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/rc/img-ir/Makefile
+# CONFIG_IR_IMG img-ir.o 

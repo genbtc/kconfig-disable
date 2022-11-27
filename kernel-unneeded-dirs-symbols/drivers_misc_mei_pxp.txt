@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/misc/mei/pxp/Makefile
+# CONFIG_INTEL_MEI_PXP mei_pxp.o 

@@ -1,0 +1,109 @@
+Data Center Bridging support
+This enables support for configuring Data Center Bridging (DCB)
+features on DCB capable Ethernet adapters via rtnetlink.  Say 'Y'
+if you have a DCB capable Ethernet adapter which supports this
+interface and you are connected to a DCB capable switch.
+
+DCB is a collection of Ethernet enhancements which allow DCB capable
+NICs and switches to support network traffic with differing
+requirements (highly reliable, no drops vs. best effort vs. low
+latency) to co-exist on Ethernet.
+
+DCB features include:
+Enhanced Transmission Selection (aka Priority Grouping) - provides a
+framework for assigning bandwidth guarantees to traffic classes.
+Priority-based Flow Control (PFC) - a MAC control pause frame which
+works at the granularity of the 802.1p priority instead of the
+link (802.3x).
+
+If unsure, say N.
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:12.931610376 -0400
+@@ -1819,7 +1819,7 @@
+ CONFIG_NET_IFE_SKBTCINDEX=m
+ CONFIG_NET_TC_SKB_EXT=y
+ CONFIG_NET_SCH_FIFO=y
+-CONFIG_DCB=y
++# CONFIG_DCB is not set
+ CONFIG_DNS_RESOLVER=m
+ CONFIG_BATMAN_ADV=m
+ CONFIG_BATMAN_ADV_BATMAN_V=y
+@@ -3089,7 +3089,6 @@
+ CONFIG_PCNET32=m
+ CONFIG_PCMCIA_NMCLAN=m
+ CONFIG_AMD_XGBE=m
+-CONFIG_AMD_XGBE_DCB=y
+ CONFIG_AMD_XGBE_HAVE_ECC=y
+ CONFIG_NET_VENDOR_AQUANTIA=y
+ CONFIG_AQTION=m
+@@ -3120,7 +3119,6 @@
+ CONFIG_BNXT=m
+ CONFIG_BNXT_SRIOV=y
+ CONFIG_BNXT_FLOWER_OFFLOAD=y
+-CONFIG_BNXT_DCB=y
+ CONFIG_BNXT_HWMON=y
+ CONFIG_NET_VENDOR_CADENCE=y
+ CONFIG_MACB=m
+@@ -3132,8 +3130,6 @@
+ CONFIG_CHELSIO_T1_1G=y
+ CONFIG_CHELSIO_T3=m
+ CONFIG_CHELSIO_T4=m
+-CONFIG_CHELSIO_T4_DCB=y
+-# CONFIG_CHELSIO_T4_FCOE is not set
+ CONFIG_CHELSIO_T4VF=m
+ CONFIG_CHELSIO_LIB=m
+ CONFIG_CHELSIO_INLINE_CRYPTO=y
+@@ -3193,12 +3189,10 @@
+ CONFIG_IXGBE=m
+ CONFIG_IXGBE_HWMON=y
+ CONFIG_IXGBE_DCA=y
+-CONFIG_IXGBE_DCB=y
+ CONFIG_IXGBE_IPSEC=y
+ CONFIG_IXGBEVF=m
+ CONFIG_IXGBEVF_IPSEC=y
+ CONFIG_I40E=m
+-# CONFIG_I40E_DCB is not set
+ CONFIG_IAVF=m
+ CONFIG_I40EVF=m
+ CONFIG_ICE=m
+@@ -3220,7 +3214,6 @@
+ CONFIG_PRESTERA_PCI=m
+ CONFIG_NET_VENDOR_MELLANOX=y
+ CONFIG_MLX4_EN=m
+-CONFIG_MLX4_EN_DCB=y
+ CONFIG_MLX4_CORE=m
+ CONFIG_MLX4_DEBUG=y
+ CONFIG_MLX4_CORE_GEN2=y
+@@ -3235,7 +3228,6 @@
+ CONFIG_MLX5_CLS_ACT=y
+ CONFIG_MLX5_TC_CT=y
+ CONFIG_MLX5_TC_SAMPLE=y
+-CONFIG_MLX5_CORE_EN_DCB=y
+ CONFIG_MLX5_CORE_IPOIB=y
+ CONFIG_MLX5_EN_IPSEC=y
+ CONFIG_MLX5_EN_TLS=y
+@@ -3248,7 +3240,6 @@
+ CONFIG_MLXSW_PCI=m
+ CONFIG_MLXSW_I2C=m
+ CONFIG_MLXSW_SPECTRUM=m
+-CONFIG_MLXSW_SPECTRUM_DCB=y
+ CONFIG_MLXSW_MINIMAL=m
+ CONFIG_MLXFW=m
+ CONFIG_NET_VENDOR_MICREL=y
+@@ -3294,7 +3285,6 @@
+ CONFIG_QLA3XXX=m
+ CONFIG_QLCNIC=m
+ CONFIG_QLCNIC_SRIOV=y
+-CONFIG_QLCNIC_DCB=y
+ CONFIG_QLCNIC_HWMON=y
+ CONFIG_NETXEN_NIC=m
+ CONFIG_QED=m
+@@ -7600,7 +7590,6 @@
+ CONFIG_INFINIBAND_OCRDMA=m
+ # CONFIG_INFINIBAND_VMWARE_PVRDMA is not set
+ CONFIG_INFINIBAND_USNIC=m
+-CONFIG_INFINIBAND_BNXT_RE=m
+ CONFIG_INFINIBAND_HFI1=m
+ # CONFIG_HFI1_DEBUG_SDMA_ORDER is not set
+ # CONFIG_SDMA_VERBOSITY is not set

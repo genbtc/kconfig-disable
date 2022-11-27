@@ -1,0 +1,37 @@
+# Reading Makefile: drivers/memory/tegra/Makefile
+# CONFIG_TEGRA_MC tegra-mc.o 
+# CONFIG_TEGRA20_EMC tegra20-emc.o 
+# CONFIG_TEGRA30_EMC tegra30-emc.o 
+# CONFIG_TEGRA124_EMC tegra124-emc.o 
+# CONFIG_TEGRA210_EMC_TABLE tegra210-emc-table.o 
+# CONFIG_TEGRA210_EMC tegra210-emc.o 
+# CONFIG_ARCH_TEGRA_186_SOC tegra186-emc.o 
+# CONFIG_ARCH_TEGRA_194_SOC tegra186-emc.o 
+# CONFIG_ARCH_TEGRA_234_SOC tegra186-emc.o 
+# Reading Makefile: drivers/memory/samsung/Makefile
+# CONFIG_EXYNOS5422_DMC exynos5422-dmc.o 
+# CONFIG_EXYNOS_SROM exynos-srom.o 
+# Reading Makefile: drivers/memory/Makefile
+# CONFIG_DDR jedec_ddr_data.o 
+# CONFIG_OF of_memory.o 
+# CONFIG_ARM_PL172_MPMC pl172.o 
+# CONFIG_ATMEL_SDRAMC atmel-sdramc.o 
+# CONFIG_ATMEL_EBI atmel-ebi.o 
+# CONFIG_BRCMSTB_DPFE brcmstb_dpfe.o 
+# CONFIG_BT1_L2_CTL bt1-l2-ctl.o 
+# CONFIG_TI_AEMIF ti-aemif.o 
+# CONFIG_TI_EMIF emif.o 
+# CONFIG_OMAP_GPMC omap-gpmc.o 
+# CONFIG_FSL_CORENET_CF fsl-corenet-cf.o 
+# CONFIG_FSL_IFC fsl_ifc.o 
+# CONFIG_MVEBU_DEVBUS mvebu-devbus.o 
+# CONFIG_JZ4780_NEMC jz4780-nemc.o 
+# CONFIG_MTK_SMI mtk-smi.o 
+# CONFIG_DA8XX_DDRCTL da8xx-ddrctl.o 
+# CONFIG_PL353_SMC pl353-smc.o 
+# CONFIG_RENESAS_RPCIF renesas-rpc-if.o 
+# CONFIG_STM32_FMC2_EBI stm32-fmc2-ebi.o 
+# CONFIG_SAMSUNG_MC samsung/ 
+# CONFIG_TEGRA_MC tegra/ 
+# CONFIG_TI_EMIF_SRAM ti-emif-sram.o 
+# CONFIG_FPGA_DFL_EMIF dfl-emif.o 

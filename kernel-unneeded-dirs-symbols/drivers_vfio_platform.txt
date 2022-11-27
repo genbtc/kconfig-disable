@@ -1,0 +1,11 @@
+# Reading Makefile: drivers/vfio/platform/reset/Makefile
+# CONFIG_VFIO_PLATFORM_CALXEDAXGMAC_RESET vfio-platform-calxedaxgmac.o 
+# CONFIG_VFIO_PLATFORM_AMDXGBE_RESET vfio-platform-amdxgbe.o 
+# CONFIG_VFIO_PLATFORM_BCMFLEXRM_RESET vfio_platform_bcmflexrm.o 
+# Reading Makefile: drivers/vfio/platform/Makefile
+# CONFIG_VFIO_PLATFORM vfio-platform.o 
+# CONFIG_VFIO_PLATFORM vfio-platform-base.o 
+# CONFIG_VFIO_PLATFORM reset/ 
+# CONFIG_VFIO_AMBA vfio-amba.o 
+# CONFIG_VFIO_AMBA vfio-platform-base.o 
+# CONFIG_VFIO_AMBA reset/ 

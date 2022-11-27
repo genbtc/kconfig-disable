@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/vfio/pci/hisilicon/Makefile
+# CONFIG_HISI_ACC_VFIO_PCI hisi-acc-vfio-pci.o 

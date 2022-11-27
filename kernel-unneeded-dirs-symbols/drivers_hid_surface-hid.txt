@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/hid/surface-hid/Makefile
+# CONFIG_SURFACE_HID_CORE surface_hid_core.o 
+# CONFIG_SURFACE_HID surface_hid.o 
+# CONFIG_SURFACE_KBD surface_kbd.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/iio/potentiostat/Makefile
+# CONFIG_LMP91000 lmp91000.o 

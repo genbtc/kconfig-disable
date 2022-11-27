@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/pci/ddbridge/Makefile
+# CONFIG_DVB_DDBRIDGE ddbridge.o ddbridge-dummy-fe.o 

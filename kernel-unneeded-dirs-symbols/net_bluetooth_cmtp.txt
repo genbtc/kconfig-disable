@@ -1,0 +1,2 @@
+# Reading Makefile: net/bluetooth/cmtp/Makefile
+# CONFIG_BT_CMTP cmtp.o 

@@ -1,0 +1,13 @@
+# Reading Makefile: drivers/rapidio/switches/Makefile
+# CONFIG_RAPIDIO_CPS_XX idtcps.o 
+# CONFIG_RAPIDIO_CPS_GEN2 idt_gen2.o 
+# CONFIG_RAPIDIO_RXS_GEN3 idt_gen3.o 
+# Reading Makefile: drivers/rapidio/devices/Makefile
+# CONFIG_RAPIDIO_TSI721 tsi721_mport.o 
+# CONFIG_RAPIDIO_MPORT_CDEV rio_mport_cdev.o 
+# Reading Makefile: drivers/rapidio/Makefile
+# CONFIG_RAPIDIO rapidio.o 
+# CONFIG_RAPIDIO_ENUM_BASIC rio-scan.o 
+# CONFIG_RAPIDIO_CHMAN rio_cm.o 
+# CONFIG_RAPIDIO switches/ 
+# CONFIG_RAPIDIO devices/ 

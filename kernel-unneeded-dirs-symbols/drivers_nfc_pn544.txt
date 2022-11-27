@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/nfc/pn544/Makefile
+# CONFIG_NFC_PN544 pn544.o 
+# CONFIG_NFC_PN544_I2C pn544_i2c.o 
+# CONFIG_NFC_PN544_MEI pn544_mei.o 

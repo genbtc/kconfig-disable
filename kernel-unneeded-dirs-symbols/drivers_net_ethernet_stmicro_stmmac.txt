@@ -1,0 +1,25 @@
+# Reading Makefile: drivers/net/ethernet/stmicro/stmmac/Makefile
+# CONFIG_STMMAC_ETH stmmac.o 
+# CONFIG_STMMAC_PLATFORM stmmac-platform.o 
+# CONFIG_DWMAC_ANARION dwmac-anarion.o 
+# CONFIG_DWMAC_INGENIC dwmac-ingenic.o 
+# CONFIG_DWMAC_IPQ806X dwmac-ipq806x.o 
+# CONFIG_DWMAC_LPC18XX dwmac-lpc18xx.o 
+# CONFIG_DWMAC_MEDIATEK dwmac-mediatek.o 
+# CONFIG_DWMAC_MESON dwmac-meson.o dwmac-meson8b.o 
+# CONFIG_DWMAC_OXNAS dwmac-oxnas.o 
+# CONFIG_DWMAC_QCOM_ETHQOS dwmac-qcom-ethqos.o 
+# CONFIG_DWMAC_ROCKCHIP dwmac-rk.o 
+# CONFIG_DWMAC_SOCFPGA dwmac-altr-socfpga.o 
+# CONFIG_DWMAC_STI dwmac-sti.o 
+# CONFIG_DWMAC_STM32 dwmac-stm32.o 
+# CONFIG_DWMAC_SUNXI dwmac-sunxi.o 
+# CONFIG_DWMAC_SUN8I dwmac-sun8i.o 
+# CONFIG_DWMAC_DWC_QOS_ETH dwmac-dwc-qos-eth.o 
+# CONFIG_DWMAC_INTEL_PLAT dwmac-intel-plat.o 
+# CONFIG_DWMAC_GENERIC dwmac-generic.o 
+# CONFIG_DWMAC_IMX8 dwmac-imx.o 
+# CONFIG_DWMAC_VISCONTI dwmac-visconti.o 
+# CONFIG_STMMAC_PCI stmmac-pci.o 
+# CONFIG_DWMAC_INTEL dwmac-intel.o 
+# CONFIG_DWMAC_LOONGSON dwmac-loongson.o 

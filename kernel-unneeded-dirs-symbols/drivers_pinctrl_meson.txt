@@ -1,0 +1,12 @@
+# Reading Makefile: drivers/pinctrl/meson/Makefile
+# CONFIG_PINCTRL_MESON pinctrl-meson.o 
+# CONFIG_PINCTRL_MESON8_PMX pinctrl-meson8-pmx.o 
+# CONFIG_PINCTRL_MESON8 pinctrl-meson8.o 
+# CONFIG_PINCTRL_MESON8B pinctrl-meson8b.o 
+# CONFIG_PINCTRL_MESON_GXBB pinctrl-meson-gxbb.o 
+# CONFIG_PINCTRL_MESON_GXL pinctrl-meson-gxl.o 
+# CONFIG_PINCTRL_MESON_AXG_PMX pinctrl-meson-axg-pmx.o 
+# CONFIG_PINCTRL_MESON_AXG pinctrl-meson-axg.o 
+# CONFIG_PINCTRL_MESON_G12A pinctrl-meson-g12a.o 
+# CONFIG_PINCTRL_MESON_A1 pinctrl-meson-a1.o 
+# CONFIG_PINCTRL_MESON_S4 pinctrl-meson-s4.o 

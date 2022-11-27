@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/firewire/Makefile
+# CONFIG_FIREWIRE firewire-core.o 
+# CONFIG_FIREWIRE_OHCI firewire-ohci.o 
+# CONFIG_FIREWIRE_SBP2 firewire-sbp2.o 
+# CONFIG_FIREWIRE_NET firewire-net.o 
+# CONFIG_FIREWIRE_NOSY nosy.o 
+# CONFIG_PROVIDE_OHCI1394_DMA_INIT init_ohci1394_dma.o 

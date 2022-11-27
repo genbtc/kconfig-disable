@@ -1,0 +1,37 @@
+# Reading Makefile: drivers/bus/mhi/host/Makefile
+# CONFIG_MHI_BUS mhi.o 
+# CONFIG_MHI_BUS_PCI_GENERIC mhi_pci_generic.o 
+# Reading Makefile: drivers/bus/mhi/ep/Makefile
+# CONFIG_MHI_BUS_EP mhi_ep.o 
+# Reading Makefile: drivers/bus/mhi/Makefile
+# Reading Makefile: drivers/bus/fsl-mc/Makefile
+# CONFIG_FSL_MC_BUS mc-bus-driver.o 
+# CONFIG_FSL_MC_UAPI_SUPPORT fsl-mc-uapi.o 
+# Reading Makefile: drivers/bus/Makefile
+# CONFIG_ARM_CCI arm-cci.o 
+# CONFIG_ARM_INTEGRATOR_LM arm-integrator-lm.o 
+# CONFIG_HISILICON_LPC hisi_lpc.o 
+# CONFIG_BRCMSTB_GISB_ARB brcmstb_gisb.o 
+# CONFIG_MOXTET moxtet.o 
+# CONFIG_FSL_MC_BUS fsl-mc/ 
+# CONFIG_BT1_APB bt1-apb.o 
+# CONFIG_BT1_AXI bt1-axi.o 
+# CONFIG_IMX_WEIM imx-weim.o 
+# CONFIG_INTEL_IXP4XX_EB intel-ixp4xx-eb.o 
+# CONFIG_MIPS_CDMM mips_cdmm.o 
+# CONFIG_MVEBU_MBUS mvebu-mbus.o 
+# CONFIG_OMAP_INTERCONNECT omap_l3_smx.o omap_l3_noc.o 
+# CONFIG_OMAP_OCP2SCP omap-ocp2scp.o 
+# CONFIG_QCOM_EBI2 qcom-ebi2.o 
+# CONFIG_QCOM_SSC_BLOCK_BUS qcom-ssc-block-bus.o 
+# CONFIG_SUN50I_DE2_BUS sun50i-de2.o 
+# CONFIG_SUNXI_RSB sunxi-rsb.o 
+# CONFIG_OF simple-pm-bus.o 
+# CONFIG_TEGRA_ACONNECT tegra-aconnect.o 
+# CONFIG_TEGRA_GMI tegra-gmi.o 
+# CONFIG_TI_PWMSS ti-pwmss.o 
+# CONFIG_TI_SYSC ti-sysc.o 
+# CONFIG_TS_NBUS ts-nbus.o 
+# CONFIG_UNIPHIER_SYSTEM_BUS uniphier-system-bus.o 
+# CONFIG_VEXPRESS_CONFIG vexpress-config.o 
+# CONFIG_DA8XX_MSTPRI da8xx-mstpri.o 

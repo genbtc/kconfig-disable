@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/infiniband/ulp/srp/Kbuild
+# CONFIG_INFINIBAND_SRP ib_srp.o 

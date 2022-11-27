@@ -1,0 +1,16 @@
+# Reading Makefile: drivers/clk/meson/Makefile
+# CONFIG_COMMON_CLK_MESON_AO_CLKC meson-aoclk.o 
+# CONFIG_COMMON_CLK_MESON_CPU_DYNDIV clk-cpu-dyndiv.o 
+# CONFIG_COMMON_CLK_MESON_DUALDIV clk-dualdiv.o 
+# CONFIG_COMMON_CLK_MESON_EE_CLKC meson-eeclk.o 
+# CONFIG_COMMON_CLK_MESON_MPLL clk-mpll.o 
+# CONFIG_COMMON_CLK_MESON_PHASE clk-phase.o 
+# CONFIG_COMMON_CLK_MESON_PLL clk-pll.o 
+# CONFIG_COMMON_CLK_MESON_REGMAP clk-regmap.o 
+# CONFIG_COMMON_CLK_MESON_SCLK_DIV sclk-div.o 
+# CONFIG_COMMON_CLK_MESON_VID_PLL_DIV vid-pll-div.o 
+# CONFIG_COMMON_CLK_AXG axg.o axg-aoclk.o 
+# CONFIG_COMMON_CLK_AXG_AUDIO axg-audio.o 
+# CONFIG_COMMON_CLK_GXBB gxbb.o gxbb-aoclk.o 
+# CONFIG_COMMON_CLK_G12A g12a.o g12a-aoclk.o 
+# CONFIG_COMMON_CLK_MESON8B meson8b.o meson8-ddr.o 

@@ -1,0 +1,43 @@
+IEEE Std 802.15.4 Low-Rate Wireless Personal Area Networks support
+IEEE Std 802.15.4 defines a low data rate, low power and low
+complexity short range wireless personal area networks. It was
+designed to organise networks of sensors, switches, etc automation
+devices. Maximum allowed data rate is 250 kb/s and typical personal
+operating space around 10m.
+
+Say Y here to compile LR-WPAN support into the kernel or say M to
+compile it as modules.
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:10.908610378 -0400
+@@ -1720,11 +1720,7 @@
+ CONFIG_6LOWPAN_GHC_EXT_HDR_DEST=m
+ CONFIG_6LOWPAN_GHC_EXT_HDR_FRAG=m
+ CONFIG_6LOWPAN_GHC_EXT_HDR_ROUTE=m
+-CONFIG_IEEE802154=m
+-# CONFIG_IEEE802154_NL802154_EXPERIMENTAL is not set
+-CONFIG_IEEE802154_SOCKET=m
+-CONFIG_IEEE802154_6LOWPAN=m
+-CONFIG_MAC802154=m
++# CONFIG_IEEE802154 is not set
+ CONFIG_NET_SCHED=y
+ 
+ #
+@@ -3840,17 +3836,6 @@
+ CONFIG_USB_NET_RNDIS_WLAN=m
+ CONFIG_VIRT_WIFI=m
+ # CONFIG_WAN is not set
+-CONFIG_IEEE802154_DRIVERS=m
+-CONFIG_IEEE802154_FAKELB=m
+-CONFIG_IEEE802154_AT86RF230=m
+-CONFIG_IEEE802154_MRF24J40=m
+-CONFIG_IEEE802154_CC2520=m
+-CONFIG_IEEE802154_ATUSB=m
+-CONFIG_IEEE802154_ADF7242=m
+-CONFIG_IEEE802154_CA8210=m
+-# CONFIG_IEEE802154_CA8210_DEBUGFS is not set
+-CONFIG_IEEE802154_MCR20A=m
+-# CONFIG_IEEE802154_HWSIM is not set
+ 
+ #
+ # Wireless WAN

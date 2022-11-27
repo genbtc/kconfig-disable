@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/phy/cadence/Makefile
+# CONFIG_PHY_CADENCE_TORRENT phy-cadence-torrent.o 
+# CONFIG_PHY_CADENCE_DPHY cdns-dphy.o 
+# CONFIG_PHY_CADENCE_DPHY_RX cdns-dphy-rx.o 
+# CONFIG_PHY_CADENCE_SIERRA phy-cadence-sierra.o 
+# CONFIG_PHY_CADENCE_SALVO phy-cadence-salvo.o 

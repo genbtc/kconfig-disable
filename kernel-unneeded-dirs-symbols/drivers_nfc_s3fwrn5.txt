@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/nfc/s3fwrn5/Makefile
+# CONFIG_NFC_S3FWRN5 s3fwrn5.o 
+# CONFIG_NFC_S3FWRN5_I2C s3fwrn5_i2c.o 
+# CONFIG_NFC_S3FWRN82_UART s3fwrn82_uart.o 

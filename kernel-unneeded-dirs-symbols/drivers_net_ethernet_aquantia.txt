@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/aquantia/atlantic/Makefile
+# CONFIG_AQTION atlantic.o 
+# Reading Makefile: drivers/net/ethernet/aquantia/Makefile
+# CONFIG_AQTION atlantic/ 

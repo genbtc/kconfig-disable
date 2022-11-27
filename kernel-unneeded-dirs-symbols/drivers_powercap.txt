@@ -1,0 +1,8 @@
+# Reading Makefile: drivers/powercap/Makefile
+# CONFIG_DTPM dtpm.o 
+# CONFIG_DTPM_CPU dtpm_cpu.o 
+# CONFIG_DTPM_DEVFREQ dtpm_devfreq.o 
+# CONFIG_POWERCAP powercap_sys.o 
+# CONFIG_INTEL_RAPL_CORE intel_rapl_common.o 
+# CONFIG_INTEL_RAPL intel_rapl_msr.o 
+# CONFIG_IDLE_INJECT idle_inject.o 

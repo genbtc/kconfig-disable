@@ -1,0 +1,102 @@
+Intel 8xx/9xx/G3x/G4x/HD Graphics
+Choose this option if you have a system that has "Intel Graphics
+Media Accelerator" or "HD Graphics" integrated graphics,
+including 830M, 845G, 852GM, 855GM, 865G, 915G, 945G, 965G,
+G35, G41, G43, G45 chipsets and Celeron, Pentium, Core i3,
+Core i5, Core i7 as well as Atom CPUs with integrated graphics.
+
+This driver is used by the Intel driver in X.org 6.8 and
+XFree86 4.4 and above. It replaces the older i830 module that
+supported a subset of the hardware in older X.org releases.
+
+Note that the older i810/i815 chipsets require the use of the
+i810 driver instead, and the Atom z5xx series has an entirely
+different implementation.
+
+If "M" is selected, the module will be called i915.
+Depends: (DRM)  &&  (X86 && PCI)  &&  (!PREEMPT_RT)
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:20:01.024610333 -0400
+@@ -751,7 +751,6 @@
+ CONFIG_KVM_AMD=m
+ CONFIG_KVM_AMD_SEV=y
+ CONFIG_KVM_XEN=y
+-CONFIG_KVM_EXTERNAL_WRITE_TRACKING=y
+ CONFIG_AS_AVX512=y
+ CONFIG_AS_SHA1_NI=y
+ CONFIG_AS_SHA256_NI=y
+@@ -2621,9 +2620,6 @@
+ CONFIG_INTEL_MEI=m
+ CONFIG_INTEL_MEI_ME=m
+ CONFIG_INTEL_MEI_TXE=m
+-CONFIG_INTEL_MEI_GSC=m
+-CONFIG_INTEL_MEI_HDCP=m
+-CONFIG_INTEL_MEI_PXP=m
+ CONFIG_VMWARE_VMCI=m
+ # CONFIG_GENWQE is not set
+ CONFIG_ECHO=m
+@@ -6111,7 +6107,6 @@
+ CONFIG_VGA_SWITCHEROO=y
+ CONFIG_DRM=y
+ CONFIG_DRM_MIPI_DBI=m
+-CONFIG_DRM_MIPI_DSI=y
+ # CONFIG_DRM_DEBUG_MM is not set
+ CONFIG_DRM_KMS_HELPER=m
+ CONFIG_DRM_FBDEV_EMULATION=y
+@@ -6124,7 +6119,6 @@
+ CONFIG_DRM_DP_AUX_CHARDEV=y
+ CONFIG_DRM_DP_CEC=y
+ CONFIG_DRM_TTM=m
+-CONFIG_DRM_BUDDY=m
+ CONFIG_DRM_VRAM_HELPER=m
+ CONFIG_DRM_TTM_HELPER=m
+ CONFIG_DRM_GEM_CMA_HELPER=m
+@@ -6178,22 +6172,7 @@
+ # CONFIG_NOUVEAU_DEBUG_PUSH is not set
+ CONFIG_DRM_NOUVEAU_BACKLIGHT=y
+ # CONFIG_DRM_NOUVEAU_SVM is not set
+-CONFIG_DRM_I915=m
+-CONFIG_DRM_I915_FORCE_PROBE=""
+-CONFIG_DRM_I915_CAPTURE_ERROR=y
+-CONFIG_DRM_I915_COMPRESS_ERROR=y
+-CONFIG_DRM_I915_USERPTR=y
+-CONFIG_DRM_I915_GVT=y
+-CONFIG_DRM_I915_GVT_KVMGT=m
+-CONFIG_DRM_I915_PXP=y
+-CONFIG_DRM_I915_REQUEST_TIMEOUT=20000
+-CONFIG_DRM_I915_FENCE_TIMEOUT=10000
+-CONFIG_DRM_I915_USERFAULT_AUTOSUSPEND=250
+-CONFIG_DRM_I915_HEARTBEAT_INTERVAL=2500
+-CONFIG_DRM_I915_PREEMPT_TIMEOUT=640
+-CONFIG_DRM_I915_MAX_REQUEST_BUSYWAIT=8000
+-CONFIG_DRM_I915_STOP_TIMEOUT=100
+-CONFIG_DRM_I915_TIMESLICE_DURATION=1
++# CONFIG_DRM_I915 is not set
+ CONFIG_DRM_VGEM=m
+ CONFIG_DRM_VKMS=m
+ CONFIG_DRM_VMWGFX=m
+@@ -6210,7 +6189,6 @@
+ #
+ # Display Panels
+ #
+-# CONFIG_DRM_PANEL_RASPBERRYPI_TOUCHSCREEN is not set
+ CONFIG_DRM_PANEL_WIDECHIPS_WS2401=m
+ # end of Display Panels
+ 
+@@ -6545,7 +6523,6 @@
+ CONFIG_SND_HDA_CORE=m
+ CONFIG_SND_HDA_DSP_LOADER=y
+ CONFIG_SND_HDA_COMPONENT=y
+-CONFIG_SND_HDA_I915=y
+ CONFIG_SND_HDA_EXT_CORE=m
+ CONFIG_SND_HDA_PREALLOC_SIZE=0
+ CONFIG_SND_INTEL_NHLT=y
+@@ -6989,7 +6966,6 @@
+ CONFIG_SND_SIMPLE_CARD_UTILS=m
+ CONFIG_SND_SIMPLE_CARD=m
+ CONFIG_SND_X86=y
+-CONFIG_HDMI_LPE_AUDIO=m
+ CONFIG_SND_SYNTH_EMUX=m
+ CONFIG_SND_XEN_FRONTEND=m
+ CONFIG_SND_VIRTIO=m

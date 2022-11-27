@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/infiniband/hw/hfi1/Makefile
+# CONFIG_INFINIBAND_HFI1 hfi1.o 

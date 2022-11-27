@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/mtd/hyperbus/Makefile
+# CONFIG_MTD_HYPERBUS hyperbus-core.o 
+# CONFIG_HBMC_AM654 hbmc-am654.o 
+# CONFIG_RPCIF_HYPERBUS rpc-if.o 

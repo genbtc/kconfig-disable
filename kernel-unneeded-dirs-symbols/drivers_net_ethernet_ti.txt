@@ -1,0 +1,16 @@
+# Reading Makefile: drivers/net/ethernet/ti/Makefile
+# CONFIG_TI_CPSW cpsw-common.o 
+# CONFIG_TI_DAVINCI_EMAC cpsw-common.o 
+# CONFIG_TI_CPSW_SWITCHDEV cpsw-common.o 
+# CONFIG_TLAN tlan.o 
+# CONFIG_CPMAC cpmac.o 
+# CONFIG_TI_DAVINCI_EMAC ti_davinci_emac.o 
+# CONFIG_TI_DAVINCI_MDIO davinci_mdio.o 
+# CONFIG_TI_CPSW_PHY_SEL cpsw-phy-sel.o 
+# CONFIG_TI_CPTS cpts.o 
+# CONFIG_TI_CPSW ti_cpsw.o 
+# CONFIG_TI_CPSW_SWITCHDEV ti_cpsw_new.o 
+# CONFIG_TI_KEYSTONE_NETCP keystone_netcp.o 
+# CONFIG_TI_KEYSTONE_NETCP_ETHSS keystone_netcp_ethss.o 
+# CONFIG_TI_K3_AM65_CPSW_NUSS ti-am65-cpsw-nuss.o 
+# CONFIG_TI_K3_AM65_CPTS am65-cpts.o 

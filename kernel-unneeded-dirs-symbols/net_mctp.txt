@@ -1,0 +1,3 @@
+# Reading Makefile: net/mctp/Makefile
+# CONFIG_MCTP mctp.o 
+# CONFIG_MCTP_TEST test/utils.o 

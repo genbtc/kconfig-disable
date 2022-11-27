@@ -1,0 +1,14 @@
+# Reading Makefile: drivers/iio/temperature/Makefile
+# CONFIG_IQS620AT_TEMP iqs620at-temp.o 
+# CONFIG_LTC2983 ltc2983.o 
+# CONFIG_HID_SENSOR_TEMP hid-sensor-temperature.o 
+# CONFIG_MAXIM_THERMOCOUPLE maxim_thermocouple.o 
+# CONFIG_MAX31856 max31856.o 
+# CONFIG_MAX31865 max31865.o 
+# CONFIG_MLX90614 mlx90614.o 
+# CONFIG_MLX90632 mlx90632.o 
+# CONFIG_TMP006 tmp006.o 
+# CONFIG_TMP007 tmp007.o 
+# CONFIG_TMP117 tmp117.o 
+# CONFIG_TSYS01 tsys01.o 
+# CONFIG_TSYS02D tsys02d.o 

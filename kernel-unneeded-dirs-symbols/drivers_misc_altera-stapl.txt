@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/misc/altera-stapl/Makefile
+# CONFIG_ALTERA_STAPL altera-stapl.o 

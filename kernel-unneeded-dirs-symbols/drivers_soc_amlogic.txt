@@ -1,0 +1,8 @@
+# Reading Makefile: drivers/soc/amlogic/Makefile
+# CONFIG_MESON_CANVAS meson-canvas.o 
+# CONFIG_MESON_CLK_MEASURE meson-clk-measure.o 
+# CONFIG_MESON_GX_SOCINFO meson-gx-socinfo.o 
+# CONFIG_MESON_GX_PM_DOMAINS meson-gx-pwrc-vpu.o 
+# CONFIG_MESON_MX_SOCINFO meson-mx-socinfo.o 
+# CONFIG_MESON_EE_PM_DOMAINS meson-ee-pwrc.o 
+# CONFIG_MESON_SECURE_PM_DOMAINS meson-secure-pwrc.o 

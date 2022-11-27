@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/usb/typec/ucsi/Makefile
+# CONFIG_TYPEC_UCSI typec_ucsi.o 
+# CONFIG_UCSI_ACPI ucsi_acpi.o 
+# CONFIG_UCSI_CCG ucsi_ccg.o 

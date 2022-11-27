@@ -1,0 +1,24 @@
+# Reading Makefile: drivers/net/wireless/intersil/p54/Makefile
+# CONFIG_P54_COMMON p54common.o 
+# CONFIG_P54_USB p54usb.o 
+# CONFIG_P54_PCI p54pci.o 
+# CONFIG_P54_SPI p54spi.o 
+# Reading Makefile: drivers/net/wireless/intersil/orinoco/Makefile
+# CONFIG_HERMES orinoco.o 
+# CONFIG_PCMCIA_HERMES orinoco_cs.o 
+# CONFIG_APPLE_AIRPORT airport.o 
+# CONFIG_PLX_HERMES orinoco_plx.o 
+# CONFIG_PCI_HERMES orinoco_pci.o 
+# CONFIG_TMD_HERMES orinoco_tmd.o 
+# CONFIG_NORTEL_HERMES orinoco_nortel.o 
+# CONFIG_PCMCIA_SPECTRUM spectrum_cs.o 
+# CONFIG_ORINOCO_USB orinoco_usb.o 
+# Reading Makefile: drivers/net/wireless/intersil/hostap/Makefile
+# CONFIG_HOSTAP hostap.o 
+# CONFIG_HOSTAP_CS hostap_cs.o 
+# CONFIG_HOSTAP_PLX hostap_plx.o 
+# CONFIG_HOSTAP_PCI hostap_pci.o 
+# Reading Makefile: drivers/net/wireless/intersil/Makefile
+# CONFIG_HOSTAP hostap/ 
+# CONFIG_HERMES orinoco/ 
+# CONFIG_P54_COMMON p54/ 

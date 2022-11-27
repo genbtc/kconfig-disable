@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/media/sunxi/cedrus/Makefile
+# CONFIG_VIDEO_SUNXI_CEDRUS sunxi-cedrus.o 

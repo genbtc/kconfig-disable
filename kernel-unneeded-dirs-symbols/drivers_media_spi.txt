@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/media/spi/Makefile
+# CONFIG_CXD2880_SPI_DRV cxd2880-spi.o 
+# CONFIG_VIDEO_GS1662 gs1662.o 

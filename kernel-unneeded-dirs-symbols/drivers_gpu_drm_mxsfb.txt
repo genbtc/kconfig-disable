@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/mxsfb/Makefile
+# CONFIG_DRM_MXSFB mxsfb.o 

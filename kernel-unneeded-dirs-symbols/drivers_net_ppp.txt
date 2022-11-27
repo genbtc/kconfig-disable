@@ -1,0 +1,10 @@
+# Reading Makefile: drivers/net/ppp/Makefile
+# CONFIG_PPP ppp_generic.o 
+# CONFIG_PPP_ASYNC ppp_async.o 
+# CONFIG_PPP_BSDCOMP bsd_comp.o 
+# CONFIG_PPP_DEFLATE ppp_deflate.o 
+# CONFIG_PPP_MPPE ppp_mppe.o 
+# CONFIG_PPP_SYNC_TTY ppp_synctty.o 
+# CONFIG_PPPOE pppox.o pppoe.o 
+# CONFIG_PPPOL2TP pppox.o 
+# CONFIG_PPTP pppox.o pptp.o 

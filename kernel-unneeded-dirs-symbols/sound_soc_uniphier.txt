@@ -1,0 +1,5 @@
+# Reading Makefile: sound/soc/uniphier/Makefile
+# CONFIG_SND_SOC_UNIPHIER_AIO snd-soc-uniphier-aio-cpu.o 
+# CONFIG_SND_SOC_UNIPHIER_LD11 snd-soc-uniphier-aio-ld11.o 
+# CONFIG_SND_SOC_UNIPHIER_PXS2 snd-soc-uniphier-aio-pxs2.o 
+# CONFIG_SND_SOC_UNIPHIER_EVEA_CODEC snd-soc-uniphier-evea.o 

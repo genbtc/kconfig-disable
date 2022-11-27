@@ -1,0 +1,31 @@
+# Reading Makefile: drivers/iio/imu/st_lsm9ds0/Makefile
+# CONFIG_IIO_ST_LSM9DS0 st_lsm9ds0.o 
+# CONFIG_IIO_ST_LSM9DS0_I2C st_lsm9ds0_i2c.o 
+# CONFIG_IIO_ST_LSM9DS0_SPI st_lsm9ds0_spi.o 
+# Reading Makefile: drivers/iio/imu/st_lsm6dsx/Makefile
+# CONFIG_IIO_ST_LSM6DSX st_lsm6dsx.o 
+# CONFIG_IIO_ST_LSM6DSX_I2C st_lsm6dsx_i2c.o 
+# CONFIG_IIO_ST_LSM6DSX_SPI st_lsm6dsx_spi.o 
+# CONFIG_IIO_ST_LSM6DSX_I3C st_lsm6dsx_i3c.o 
+# Reading Makefile: drivers/iio/imu/inv_mpu6050/Makefile
+# CONFIG_INV_MPU6050_IIO inv-mpu6050.o 
+# CONFIG_INV_MPU6050_I2C inv-mpu6050-i2c.o 
+# CONFIG_INV_MPU6050_SPI inv-mpu6050-spi.o 
+# Reading Makefile: drivers/iio/imu/inv_icm42600/Makefile
+# CONFIG_INV_ICM42600 inv-icm42600.o 
+# CONFIG_INV_ICM42600_I2C inv-icm42600-i2c.o 
+# CONFIG_INV_ICM42600_SPI inv-icm42600-spi.o 
+# Reading Makefile: drivers/iio/imu/bmi160/Makefile
+# CONFIG_BMI160 bmi160_core.o 
+# CONFIG_BMI160_I2C bmi160_i2c.o 
+# CONFIG_BMI160_SPI bmi160_spi.o 
+# Reading Makefile: drivers/iio/imu/Makefile
+# CONFIG_ADIS16400 adis16400.o 
+# CONFIG_ADIS16460 adis16460.o 
+# CONFIG_ADIS16475 adis16475.o 
+# CONFIG_ADIS16480 adis16480.o 
+# CONFIG_IIO_ADIS_LIB adis_lib.o 
+# CONFIG_FXOS8700 fxos8700_core.o 
+# CONFIG_FXOS8700_I2C fxos8700_i2c.o 
+# CONFIG_FXOS8700_SPI fxos8700_spi.o 
+# CONFIG_KMX61 kmx61.o 

@@ -1,0 +1,3 @@
+# Reading Makefile: net/iucv/Makefile
+# CONFIG_IUCV iucv.o 
+# CONFIG_AFIUCV af_iucv.o 

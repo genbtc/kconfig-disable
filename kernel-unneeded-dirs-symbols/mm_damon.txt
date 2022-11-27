@@ -1,0 +1,6 @@
+# Reading Makefile: mm/damon/Makefile
+# CONFIG_DAMON_VADDR ops-common.o vaddr.o 
+# CONFIG_DAMON_PADDR ops-common.o paddr.o 
+# CONFIG_DAMON_SYSFS sysfs.o 
+# CONFIG_DAMON_DBGFS dbgfs.o 
+# CONFIG_DAMON_RECLAIM reclaim.o 

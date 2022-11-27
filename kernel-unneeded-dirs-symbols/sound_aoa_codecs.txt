@@ -1,0 +1,4 @@
+# Reading Makefile: sound/aoa/codecs/Makefile
+# CONFIG_SND_AOA_ONYX snd-aoa-codec-onyx.o 
+# CONFIG_SND_AOA_TAS snd-aoa-codec-tas.o 
+# CONFIG_SND_AOA_TOONIE snd-aoa-codec-toonie.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/pps/generators/Makefile
+# CONFIG_PPS_GENERATOR_PARPORT pps_gen_parport.o 

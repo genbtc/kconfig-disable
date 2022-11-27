@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/platform/x86/intel/ifs/Makefile
+# CONFIG_INTEL_IFS intel_ifs.o 

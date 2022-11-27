@@ -1,0 +1,163 @@
+# Reading Makefile: drivers/phy/xilinx/Makefile
+# CONFIG_PHY_XILINX_ZYNQMP phy-zynqmp.o 
+# Reading Makefile: drivers/phy/ti/Makefile
+# CONFIG_PHY_DA8XX_USB phy-da8xx-usb.o 
+# CONFIG_PHY_DM816X_USB phy-dm816x-usb.o 
+# CONFIG_OMAP_CONTROL_PHY phy-omap-control.o 
+# CONFIG_OMAP_USB2 phy-omap-usb2.o 
+# CONFIG_TI_PIPE3 phy-ti-pipe3.o 
+# CONFIG_PHY_TUSB1210 phy-tusb1210.o 
+# CONFIG_TWL4030_USB phy-twl4030-usb.o 
+# CONFIG_PHY_AM654_SERDES phy-am654-serdes.o 
+# CONFIG_PHY_TI_GMII_SEL phy-gmii-sel.o 
+# CONFIG_PHY_J721E_WIZ phy-j721e-wiz.o 
+# Reading Makefile: drivers/phy/tegra/Makefile
+# CONFIG_PHY_TEGRA_XUSB phy-tegra-xusb.o 
+# CONFIG_PHY_TEGRA194_P2U phy-tegra194-p2u.o 
+# Reading Makefile: drivers/phy/st/Makefile
+# CONFIG_PHY_MIPHY28LP phy-miphy28lp.o 
+# CONFIG_PHY_ST_SPEAR1310_MIPHY phy-spear1310-miphy.o 
+# CONFIG_PHY_ST_SPEAR1340_MIPHY phy-spear1340-miphy.o 
+# CONFIG_PHY_STIH407_USB phy-stih407-usb.o 
+# CONFIG_PHY_STM32_USBPHYC phy-stm32-usbphyc.o 
+# Reading Makefile: drivers/phy/socionext/Makefile
+# CONFIG_PHY_UNIPHIER_USB2 phy-uniphier-usb2.o 
+# CONFIG_PHY_UNIPHIER_USB3 phy-uniphier-usb3hs.o phy-uniphier-usb3ss.o 
+# CONFIG_PHY_UNIPHIER_PCIE phy-uniphier-pcie.o 
+# CONFIG_PHY_UNIPHIER_AHCI phy-uniphier-ahci.o 
+# Reading Makefile: drivers/phy/samsung/Makefile
+# CONFIG_PHY_EXYNOS_DP_VIDEO phy-exynos-dp-video.o 
+# CONFIG_PHY_EXYNOS_MIPI_VIDEO phy-exynos-mipi-video.o 
+# CONFIG_PHY_EXYNOS_PCIE phy-exynos-pcie.o 
+# CONFIG_PHY_SAMSUNG_UFS phy-exynos-ufs.o 
+# CONFIG_PHY_SAMSUNG_USB2 phy-exynos-usb2.o 
+# CONFIG_PHY_EXYNOS5_USBDRD phy-exynos5-usbdrd.o 
+# CONFIG_PHY_EXYNOS5250_SATA phy-exynos5250-sata.o 
+# Reading Makefile: drivers/phy/rockchip/Makefile
+# CONFIG_PHY_ROCKCHIP_DP phy-rockchip-dp.o 
+# CONFIG_PHY_ROCKCHIP_DPHY_RX0 phy-rockchip-dphy-rx0.o 
+# CONFIG_PHY_ROCKCHIP_EMMC phy-rockchip-emmc.o 
+# CONFIG_PHY_ROCKCHIP_INNO_CSIDPHY phy-rockchip-inno-csidphy.o 
+# CONFIG_PHY_ROCKCHIP_INNO_DSIDPHY phy-rockchip-inno-dsidphy.o 
+# CONFIG_PHY_ROCKCHIP_INNO_HDMI phy-rockchip-inno-hdmi.o 
+# CONFIG_PHY_ROCKCHIP_INNO_USB2 phy-rockchip-inno-usb2.o 
+# CONFIG_PHY_ROCKCHIP_NANENG_COMBO_PHY phy-rockchip-naneng-combphy.o 
+# CONFIG_PHY_ROCKCHIP_PCIE phy-rockchip-pcie.o 
+# CONFIG_PHY_ROCKCHIP_TYPEC phy-rockchip-typec.o 
+# CONFIG_PHY_ROCKCHIP_USB phy-rockchip-usb.o 
+# Reading Makefile: drivers/phy/renesas/Makefile
+# CONFIG_PHY_RCAR_GEN2 phy-rcar-gen2.o 
+# CONFIG_PHY_RCAR_GEN3_PCIE phy-rcar-gen3-pcie.o 
+# CONFIG_PHY_RCAR_GEN3_USB2 phy-rcar-gen3-usb2.o 
+# CONFIG_PHY_RCAR_GEN3_USB3 phy-rcar-gen3-usb3.o 
+# Reading Makefile: drivers/phy/ralink/Makefile
+# CONFIG_PHY_MT7621_PCI phy-mt7621-pci.o 
+# CONFIG_PHY_RALINK_USB phy-ralink-usb.o 
+# Reading Makefile: drivers/phy/qualcomm/Makefile
+# CONFIG_PHY_ATH79_USB phy-ath79-usb.o 
+# CONFIG_PHY_QCOM_APQ8064_SATA phy-qcom-apq8064-sata.o 
+# CONFIG_PHY_QCOM_EDP phy-qcom-edp.o 
+# CONFIG_PHY_QCOM_IPQ4019_USB phy-qcom-ipq4019-usb.o 
+# CONFIG_PHY_QCOM_IPQ806X_SATA phy-qcom-ipq806x-sata.o 
+# CONFIG_PHY_QCOM_PCIE2 phy-qcom-pcie2.o 
+# CONFIG_PHY_QCOM_QMP phy-qcom-qmp.o 
+# CONFIG_PHY_QCOM_QUSB2 phy-qcom-qusb2.o 
+# CONFIG_PHY_QCOM_USB_HS phy-qcom-usb-hs.o 
+# CONFIG_PHY_QCOM_USB_HSIC phy-qcom-usb-hsic.o 
+# CONFIG_PHY_QCOM_USB_HS_28NM phy-qcom-usb-hs-28nm.o 
+# CONFIG_PHY_QCOM_USB_SS phy-qcom-usb-ss.o 
+# CONFIG_PHY_QCOM_USB_SNPS_FEMTO_V2 phy-qcom-snps-femto-v2.o 
+# CONFIG_PHY_QCOM_IPQ806X_USB phy-qcom-ipq806x-usb.o 
+# Reading Makefile: drivers/phy/mscc/Makefile
+# CONFIG_PHY_OCELOT_SERDES phy-ocelot-serdes.o 
+# Reading Makefile: drivers/phy/motorola/Makefile
+# CONFIG_PHY_CPCAP_USB phy-cpcap-usb.o 
+# CONFIG_PHY_MAPPHONE_MDM6600 phy-mapphone-mdm6600.o 
+# Reading Makefile: drivers/phy/microchip/Makefile
+# CONFIG_PHY_SPARX5_SERDES sparx5_serdes.o 
+# CONFIG_PHY_LAN966X_SERDES lan966x_serdes.o 
+# Reading Makefile: drivers/phy/mediatek/Makefile
+# CONFIG_PHY_MTK_TPHY phy-mtk-tphy.o 
+# CONFIG_PHY_MTK_UFS phy-mtk-ufs.o 
+# CONFIG_PHY_MTK_XSPHY phy-mtk-xsphy.o 
+# CONFIG_PHY_MTK_HDMI phy-mtk-hdmi-drv.o 
+# CONFIG_PHY_MTK_MIPI_DSI phy-mtk-mipi-dsi-drv.o 
+# Reading Makefile: drivers/phy/marvell/Makefile
+# CONFIG_ARMADA375_USBCLUSTER_PHY phy-armada375-usb2.o 
+# CONFIG_PHY_BERLIN_SATA phy-berlin-sata.o 
+# CONFIG_PHY_BERLIN_USB phy-berlin-usb.o 
+# CONFIG_PHY_MMP3_USB phy-mmp3-usb.o 
+# CONFIG_PHY_MMP3_HSIC phy-mmp3-hsic.o 
+# CONFIG_PHY_MVEBU_A3700_COMPHY phy-mvebu-a3700-comphy.o 
+# CONFIG_PHY_MVEBU_A3700_UTMI phy-mvebu-a3700-utmi.o 
+# CONFIG_PHY_MVEBU_A38X_COMPHY phy-armada38x-comphy.o 
+# CONFIG_PHY_MVEBU_CP110_COMPHY phy-mvebu-cp110-comphy.o 
+# CONFIG_PHY_MVEBU_CP110_UTMI phy-mvebu-cp110-utmi.o 
+# CONFIG_PHY_MVEBU_SATA phy-mvebu-sata.o 
+# CONFIG_PHY_PXA_28NM_HSIC phy-pxa-28nm-hsic.o 
+# CONFIG_PHY_PXA_28NM_USB2 phy-pxa-28nm-usb2.o 
+# CONFIG_PHY_PXA_USB phy-pxa-usb.o 
+# Reading Makefile: drivers/phy/lantiq/Makefile
+# CONFIG_PHY_LANTIQ_RCU_USB2 phy-lantiq-rcu-usb2.o 
+# CONFIG_PHY_LANTIQ_VRX200_PCIE phy-lantiq-vrx200-pcie.o 
+# Reading Makefile: drivers/phy/intel/Makefile
+# CONFIG_PHY_INTEL_KEEMBAY_EMMC phy-intel-keembay-emmc.o 
+# CONFIG_PHY_INTEL_KEEMBAY_USB phy-intel-keembay-usb.o 
+# CONFIG_PHY_INTEL_LGM_COMBO phy-intel-lgm-combo.o 
+# CONFIG_PHY_INTEL_LGM_EMMC phy-intel-lgm-emmc.o 
+# CONFIG_PHY_INTEL_THUNDERBAY_EMMC phy-intel-thunderbay-emmc.o 
+# Reading Makefile: drivers/phy/ingenic/Makefile
+# CONFIG_PHY_INGENIC_USB phy-ingenic-usb.o 
+# Reading Makefile: drivers/phy/hisilicon/Makefile
+# CONFIG_PHY_HI6220_USB phy-hi6220-usb.o 
+# CONFIG_PHY_HI3660_USB phy-hi3660-usb3.o 
+# CONFIG_PHY_HI3670_USB phy-hi3670-usb3.o 
+# CONFIG_PHY_HI3670_PCIE phy-hi3670-pcie.o 
+# CONFIG_PHY_HISTB_COMBPHY phy-histb-combphy.o 
+# CONFIG_PHY_HISI_INNO_USB2 phy-hisi-inno-usb2.o 
+# CONFIG_PHY_HIX5HD2_SATA phy-hix5hd2-sata.o 
+# Reading Makefile: drivers/phy/freescale/Makefile
+# CONFIG_PHY_FSL_IMX8MQ_USB phy-fsl-imx8mq-usb.o 
+# CONFIG_PHY_MIXEL_MIPI_DPHY phy-fsl-imx8-mipi-dphy.o 
+# CONFIG_PHY_FSL_IMX8M_PCIE phy-fsl-imx8m-pcie.o 
+# CONFIG_PHY_FSL_LYNX_28G phy-fsl-lynx-28g.o 
+# Reading Makefile: drivers/phy/cadence/Makefile
+# CONFIG_PHY_CADENCE_TORRENT phy-cadence-torrent.o 
+# CONFIG_PHY_CADENCE_DPHY cdns-dphy.o 
+# CONFIG_PHY_CADENCE_DPHY_RX cdns-dphy-rx.o 
+# CONFIG_PHY_CADENCE_SIERRA phy-cadence-sierra.o 
+# CONFIG_PHY_CADENCE_SALVO phy-cadence-salvo.o 
+# Reading Makefile: drivers/phy/broadcom/Makefile
+# CONFIG_PHY_BCM63XX_USBH phy-bcm63xx-usbh.o 
+# CONFIG_PHY_CYGNUS_PCIE phy-bcm-cygnus-pcie.o 
+# CONFIG_BCM_KONA_USB2_PHY phy-bcm-kona-usb2.o 
+# CONFIG_PHY_BCM_NS_USB2 phy-bcm-ns-usb2.o 
+# CONFIG_PHY_BCM_NS_USB3 phy-bcm-ns-usb3.o 
+# CONFIG_PHY_NS2_PCIE phy-bcm-ns2-pcie.o 
+# CONFIG_PHY_NS2_USB_DRD phy-bcm-ns2-usbdrd.o 
+# CONFIG_PHY_BRCM_SATA phy-brcm-sata.o 
+# CONFIG_PHY_BRCM_USB phy-brcm-usb-dvr.o 
+# CONFIG_PHY_BCM_SR_PCIE phy-bcm-sr-pcie.o 
+# CONFIG_PHY_BCM_SR_USB phy-bcm-sr-usb.o 
+# Reading Makefile: drivers/phy/amlogic/Makefile
+# CONFIG_PHY_MESON8_HDMI_TX phy-meson8-hdmi-tx.o 
+# CONFIG_PHY_MESON8B_USB2 phy-meson8b-usb2.o 
+# CONFIG_PHY_MESON_GXL_USB2 phy-meson-gxl-usb2.o 
+# CONFIG_PHY_MESON_G12A_USB2 phy-meson-g12a-usb2.o 
+# CONFIG_PHY_MESON_G12A_USB3_PCIE phy-meson-g12a-usb3-pcie.o 
+# CONFIG_PHY_MESON_AXG_PCIE phy-meson-axg-pcie.o 
+# CONFIG_PHY_MESON_AXG_MIPI_PCIE_ANALOG phy-meson-axg-mipi-pcie-analog.o 
+# CONFIG_PHY_MESON_AXG_MIPI_DPHY phy-meson-axg-mipi-dphy.o 
+# Reading Makefile: drivers/phy/allwinner/Makefile
+# CONFIG_PHY_SUN4I_USB phy-sun4i-usb.o 
+# CONFIG_PHY_SUN6I_MIPI_DPHY phy-sun6i-mipi-dphy.o 
+# CONFIG_PHY_SUN9I_USB phy-sun9i-usb.o 
+# CONFIG_PHY_SUN50I_USB3 phy-sun50i-usb3.o 
+# Reading Makefile: drivers/phy/Makefile
+# CONFIG_GENERIC_PHY phy-core.o 
+# CONFIG_GENERIC_PHY_MIPI_DPHY phy-core-mipi-dphy.o 
+# CONFIG_PHY_CAN_TRANSCEIVER phy-can-transceiver.o 
+# CONFIG_PHY_LPC18XX_USB_OTG phy-lpc18xx-usb-otg.o 
+# CONFIG_PHY_XGENE phy-xgene.o 
+# CONFIG_PHY_PISTACHIO_USB phy-pistachio-usb.o 
+# CONFIG_USB_LGM_PHY phy-lgm-usb.o 

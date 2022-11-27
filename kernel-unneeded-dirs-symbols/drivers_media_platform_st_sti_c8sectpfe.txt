@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/st/sti/c8sectpfe/Makefile
+# CONFIG_DVB_C8SECTPFE c8sectpfe.o 

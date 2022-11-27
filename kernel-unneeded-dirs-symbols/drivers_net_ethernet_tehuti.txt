@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/tehuti/Makefile
+# CONFIG_TEHUTI tehuti.o 

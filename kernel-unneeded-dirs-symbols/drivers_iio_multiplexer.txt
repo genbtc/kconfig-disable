@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/iio/multiplexer/Makefile
+# CONFIG_IIO_MUX iio-mux.o 

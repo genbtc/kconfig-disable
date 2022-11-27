@@ -1,0 +1,57 @@
+AMD GPU
+Choose this option if you have a recent AMD Radeon graphics card.
+
+If M is selected, the module will be called amdgpu.
+Depends: DRM && PCI && MMU
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:58.871610335 -0400
+@@ -576,9 +576,7 @@
+ CONFIG_PM_TRACE=y
+ CONFIG_PM_TRACE_RTC=y
+ CONFIG_PM_CLK=y
+-CONFIG_PM_GENERIC_DOMAINS=y
+ # CONFIG_WQ_POWER_EFFICIENT_DEFAULT is not set
+-CONFIG_PM_GENERIC_DOMAINS_SLEEP=y
+ CONFIG_ENERGY_MODEL=y
+ CONFIG_ARCH_SUPPORTS_ACPI=y
+ CONFIG_ACPI=y
+@@ -6129,7 +6127,6 @@
+ CONFIG_DRM_TTM_HELPER=m
+ CONFIG_DRM_GEM_CMA_HELPER=m
+ CONFIG_DRM_GEM_SHMEM_HELPER=m
+-CONFIG_DRM_SCHED=m
+ 
+ #
+ # I2C encoder or helper chips
+@@ -6147,29 +6144,7 @@
+ 
+ CONFIG_DRM_RADEON=m
+ CONFIG_DRM_RADEON_USERPTR=y
+-CONFIG_DRM_AMDGPU=m
+-CONFIG_DRM_AMDGPU_SI=y
+-CONFIG_DRM_AMDGPU_CIK=y
+-CONFIG_DRM_AMDGPU_USERPTR=y
+-
+-#
+-# ACP (Audio CoProcessor) Configuration
+-#
+-CONFIG_DRM_AMD_ACP=y
+-# end of ACP (Audio CoProcessor) Configuration
+-
+-#
+-# Display Engine Configuration
+-#
+-CONFIG_DRM_AMD_DC=y
+-CONFIG_DRM_AMD_DC_DCN=y
+-CONFIG_DRM_AMD_DC_HDCP=y
+-CONFIG_DRM_AMD_DC_SI=y
+-CONFIG_DRM_AMD_SECURE_DISPLAY=y
+-# end of Display Engine Configuration
+-
+-CONFIG_HSA_AMD=y
+-CONFIG_HSA_AMD_SVM=y
++# CONFIG_DRM_AMDGPU is not set
+ CONFIG_DRM_NOUVEAU=m
+ # CONFIG_NOUVEAU_LEGACY_CTX_SUPPORT is not set
+ CONFIG_NOUVEAU_DEBUG=5

@@ -1,0 +1,49 @@
+# Reading Makefile: drivers/net/dsa/xrs700x/Makefile
+# CONFIG_NET_DSA_XRS700X xrs700x.o 
+# CONFIG_NET_DSA_XRS700X_I2C xrs700x_i2c.o 
+# CONFIG_NET_DSA_XRS700X_MDIO xrs700x_mdio.o 
+# Reading Makefile: drivers/net/dsa/sja1105/Makefile
+# CONFIG_NET_DSA_SJA1105 sja1105.o 
+# Reading Makefile: drivers/net/dsa/realtek/Makefile
+# CONFIG_NET_DSA_REALTEK_MDIO realtek-mdio.o 
+# CONFIG_NET_DSA_REALTEK_SMI realtek-smi.o 
+# CONFIG_NET_DSA_REALTEK_RTL8366RB rtl8366.o 
+# CONFIG_NET_DSA_REALTEK_RTL8365MB rtl8365mb.o 
+# Reading Makefile: drivers/net/dsa/qca/Makefile
+# CONFIG_NET_DSA_AR9331 ar9331.o 
+# Reading Makefile: drivers/net/dsa/ocelot/Makefile
+# CONFIG_NET_DSA_MSCC_FELIX mscc_felix.o 
+# CONFIG_NET_DSA_MSCC_SEVILLE mscc_seville.o 
+# Reading Makefile: drivers/net/dsa/mv88e6xxx/Makefile
+# CONFIG_NET_DSA_MV88E6XXX mv88e6xxx.o 
+# Reading Makefile: drivers/net/dsa/microchip/Makefile
+# CONFIG_NET_DSA_MICROCHIP_KSZ_COMMON ksz_common.o 
+# CONFIG_NET_DSA_MICROCHIP_KSZ9477 ksz9477.o 
+# CONFIG_NET_DSA_MICROCHIP_KSZ9477_I2C ksz9477_i2c.o 
+# CONFIG_NET_DSA_MICROCHIP_KSZ9477_SPI ksz9477_spi.o 
+# CONFIG_NET_DSA_MICROCHIP_KSZ8795 ksz8795.o 
+# CONFIG_NET_DSA_MICROCHIP_KSZ8795_SPI ksz8795_spi.o 
+# CONFIG_NET_DSA_MICROCHIP_KSZ8863_SMI ksz8863_smi.o 
+# Reading Makefile: drivers/net/dsa/hirschmann/Makefile
+# CONFIG_NET_DSA_HIRSCHMANN_HELLCREEK hellcreek_sw.o 
+# Reading Makefile: drivers/net/dsa/b53/Makefile
+# CONFIG_B53 b53_common.o 
+# CONFIG_B53_SPI_DRIVER b53_spi.o 
+# CONFIG_B53_MDIO_DRIVER b53_mdio.o 
+# CONFIG_B53_MMAP_DRIVER b53_mmap.o 
+# CONFIG_B53_SRAB_DRIVER b53_srab.o 
+# CONFIG_B53_SERDES b53_serdes.o 
+# Reading Makefile: drivers/net/dsa/Makefile
+# CONFIG_NET_DSA_BCM_SF2 bcm-sf2.o 
+# CONFIG_NET_DSA_LOOP dsa_loop.o 
+# CONFIG_FIXED_PHY dsa_loop_bdinfo.o 
+# CONFIG_NET_DSA_LANTIQ_GSWIP lantiq_gswip.o 
+# CONFIG_NET_DSA_MT7530 mt7530.o 
+# CONFIG_NET_DSA_MV88E6060 mv88e6060.o 
+# CONFIG_NET_DSA_QCA8K qca8k.o 
+# CONFIG_NET_DSA_SMSC_LAN9303 lan9303-core.o 
+# CONFIG_NET_DSA_SMSC_LAN9303_I2C lan9303_i2c.o 
+# CONFIG_NET_DSA_SMSC_LAN9303_MDIO lan9303_mdio.o 
+# CONFIG_NET_DSA_VITESSE_VSC73XX vitesse-vsc73xx-core.o 
+# CONFIG_NET_DSA_VITESSE_VSC73XX_PLATFORM vitesse-vsc73xx-platform.o 
+# CONFIG_NET_DSA_VITESSE_VSC73XX_SPI vitesse-vsc73xx-spi.o 

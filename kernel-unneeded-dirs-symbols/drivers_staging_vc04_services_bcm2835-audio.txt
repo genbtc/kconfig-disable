@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/vc04_services/bcm2835-audio/Makefile
+# CONFIG_SND_BCM2835 snd-bcm2835.o 

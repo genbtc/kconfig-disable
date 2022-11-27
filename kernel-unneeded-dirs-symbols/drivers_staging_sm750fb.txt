@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/sm750fb/Makefile
+# CONFIG_FB_SM750 sm750fb.o 

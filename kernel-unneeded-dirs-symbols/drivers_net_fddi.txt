@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/net/fddi/skfp/Makefile
+# CONFIG_SKFP skfp.o 
+# Reading Makefile: drivers/net/fddi/Makefile
+# CONFIG_DEFXX defxx.o 
+# CONFIG_DEFZA defza.o 
+# CONFIG_SKFP skfp/ 

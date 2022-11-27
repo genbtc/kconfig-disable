@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/scsi/smartpqi/Makefile
+# CONFIG_SCSI_SMARTPQI smartpqi.o 

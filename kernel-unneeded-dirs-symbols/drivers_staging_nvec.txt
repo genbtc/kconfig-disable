@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/staging/nvec/Makefile
+# CONFIG_SERIO_NVEC_PS2 nvec_ps2.o 
+# CONFIG_MFD_NVEC nvec.o 
+# CONFIG_NVEC_POWER nvec_power.o 
+# CONFIG_KEYBOARD_NVEC nvec_kbd.o 
+# CONFIG_NVEC_PAZ00 nvec_paz00.o 

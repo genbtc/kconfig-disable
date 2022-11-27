@@ -1,0 +1,2 @@
+# Reading Makefile: kernel/livepatch/Makefile
+# CONFIG_LIVEPATCH livepatch.o 

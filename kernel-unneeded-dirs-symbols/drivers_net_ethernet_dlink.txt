@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/net/ethernet/dlink/Makefile
+# CONFIG_DL2K dl2k.o 
+# CONFIG_SUNDANCE sundance.o 

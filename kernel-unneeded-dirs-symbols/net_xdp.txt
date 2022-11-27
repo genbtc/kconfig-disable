@@ -1,0 +1,4 @@
+# Reading Makefile: net/xdp/Makefile
+# CONFIG_XDP_SOCKETS xsk.o xdp_umem.o xsk_queue.o xskmap.o 
+# CONFIG_XDP_SOCKETS xsk_buff_pool.o 
+# CONFIG_XDP_SOCKETS_DIAG xsk_diag.o 

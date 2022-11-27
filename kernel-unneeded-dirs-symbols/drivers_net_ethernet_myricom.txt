@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/myricom/myri10ge/Makefile
+# CONFIG_MYRI10GE myri10ge.o 
+# Reading Makefile: drivers/net/ethernet/myricom/Makefile
+# CONFIG_MYRI10GE myri10ge/ 

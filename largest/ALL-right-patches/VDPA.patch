@@ -1,0 +1,42 @@
+vDPA drivers
+Enable this module to support vDPA device that uses a
+datapath which complies with virtio specifications with
+vendor specific control path.
+Depends: NET
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:20:32.652610304 -0400
+@@ -7874,7 +7874,6 @@
+ CONFIG_VIRTIO_MENU=y
+ CONFIG_VIRTIO_PCI=y
+ CONFIG_VIRTIO_PCI_LEGACY=y
+-CONFIG_VIRTIO_VDPA=m
+ # CONFIG_VIRTIO_PMEM is not set
+ CONFIG_VIRTIO_BALLOON=m
+ CONFIG_VIRTIO_MEM=m
+@@ -7882,24 +7881,13 @@
+ CONFIG_VIRTIO_MMIO=m
+ # CONFIG_VIRTIO_MMIO_CMDLINE_DEVICES is not set
+ CONFIG_VIRTIO_DMA_SHARED_BUFFER=m
+-CONFIG_VDPA=m
+-CONFIG_VDPA_SIM=m
+-CONFIG_VDPA_SIM_NET=m
+-CONFIG_VDPA_SIM_BLOCK=m
+-CONFIG_VDPA_USER=m
+-CONFIG_IFCVF=m
+-CONFIG_MLX5_VDPA=y
+-CONFIG_MLX5_VDPA_NET=m
+-CONFIG_VP_VDPA=m
+-CONFIG_ALIBABA_ENI_VDPA=m
++# CONFIG_VDPA is not set
+ CONFIG_VHOST_IOTLB=m
+-CONFIG_VHOST_RING=m
+ CONFIG_VHOST=m
+ CONFIG_VHOST_MENU=y
+ CONFIG_VHOST_NET=m
+ CONFIG_VHOST_SCSI=m
+ CONFIG_VHOST_VSOCK=m
+-CONFIG_VHOST_VDPA=m
+ # CONFIG_VHOST_CROSS_ENDIAN_LEGACY is not set
+ 
+ #

@@ -1,0 +1,2 @@
+# Reading Makefile: fs/qnx6/Makefile
+# CONFIG_QNX6FS_FS qnx6.o 

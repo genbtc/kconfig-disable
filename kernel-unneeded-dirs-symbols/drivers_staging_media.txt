@@ -1,0 +1,59 @@
+# Reading Makefile: drivers/staging/media/zoran/Makefile
+# CONFIG_VIDEO_ZORAN zr36067.o 
+# Reading Makefile: drivers/staging/media/tegra-video/Makefile
+# CONFIG_VIDEO_TEGRA tegra-video.o 
+# Reading Makefile: drivers/staging/media/sunxi/cedrus/Makefile
+# CONFIG_VIDEO_SUNXI_CEDRUS sunxi-cedrus.o 
+# Reading Makefile: drivers/staging/media/sunxi/Makefile
+# CONFIG_VIDEO_SUNXI_CEDRUS cedrus/ 
+# Reading Makefile: drivers/staging/media/rkvdec/Makefile
+# CONFIG_VIDEO_ROCKCHIP_VDEC rockchip-vdec.o 
+# Reading Makefile: drivers/staging/media/omap4iss/Makefile
+# CONFIG_VIDEO_OMAP4 omap4-iss.o 
+# Reading Makefile: drivers/staging/media/meson/vdec/Makefile
+# CONFIG_VIDEO_MESON_VDEC meson-vdec.o 
+# Reading Makefile: drivers/staging/media/max96712/Makefile
+# CONFIG_VIDEO_MAX96712 max96712.o 
+# Reading Makefile: drivers/staging/media/ipu3/Makefile
+# CONFIG_VIDEO_IPU3_IMGU ipu3-imgu.o 
+# Reading Makefile: drivers/staging/media/imx/Makefile
+# CONFIG_VIDEO_IMX_MEDIA imx-media-common.o 
+# CONFIG_VIDEO_IMX_CSI imx6-media.o 
+# CONFIG_VIDEO_IMX_CSI imx6-media-csi.o 
+# CONFIG_VIDEO_IMX_CSI imx6-mipi-csi2.o 
+# CONFIG_VIDEO_IMX7_CSI imx7-media-csi.o 
+# CONFIG_VIDEO_IMX7_CSI imx8mq-mipi-csi2.o 
+# Reading Makefile: drivers/staging/media/hantro/Makefile
+# CONFIG_VIDEO_HANTRO hantro-vpu.o 
+# Reading Makefile: drivers/staging/media/av7110/Makefile
+# CONFIG_DVB_BUDGET_PATCH budget-patch.o 
+# CONFIG_DVB_AV7110 dvb-ttpci.o 
+# CONFIG_DVB_SP8870 sp8870.o 
+# Reading Makefile: drivers/staging/media/atomisp/i2c/ov5693/Makefile
+# CONFIG_VIDEO_ATOMISP_OV5693 atomisp-ov5693.o 
+# Reading Makefile: drivers/staging/media/atomisp/i2c/Makefile
+# CONFIG_VIDEO_ATOMISP_OV5693 ov5693/ 
+# CONFIG_VIDEO_ATOMISP_MT9M114 atomisp-mt9m114.o 
+# CONFIG_VIDEO_ATOMISP_GC2235 atomisp-gc2235.o 
+# CONFIG_VIDEO_ATOMISP_OV2722 atomisp-ov2722.o 
+# CONFIG_VIDEO_ATOMISP_OV2680 atomisp-ov2680.o 
+# CONFIG_VIDEO_ATOMISP_GC0310 atomisp-gc0310.o 
+# CONFIG_VIDEO_ATOMISP_MSRLIST_HELPER atomisp-libmsrlisthelper.o 
+# CONFIG_VIDEO_ATOMISP_LM3554 atomisp-lm3554.o 
+# Reading Makefile: drivers/staging/media/atomisp/Makefile
+# CONFIG_INTEL_ATOMISP i2c/ 
+# CONFIG_VIDEO_ATOMISP atomisp.o 
+# CONFIG_VIDEO_ATOMISP pci/atomisp_gmin_platform.o 
+# Reading Makefile: drivers/staging/media/Makefile
+# CONFIG_INTEL_ATOMISP atomisp/ 
+# CONFIG_VIDEO_IMX_MEDIA imx/ 
+# CONFIG_VIDEO_MAX96712 max96712/ 
+# CONFIG_VIDEO_MESON_VDEC meson/vdec/ 
+# CONFIG_VIDEO_OMAP4 omap4iss/ 
+# CONFIG_VIDEO_ROCKCHIP_VDEC rkvdec/ 
+# CONFIG_VIDEO_SUNXI sunxi/ 
+# CONFIG_VIDEO_TEGRA tegra-video/ 
+# CONFIG_VIDEO_HANTRO hantro/ 
+# CONFIG_VIDEO_IPU3_IMGU ipu3/ 
+# CONFIG_VIDEO_ZORAN zoran/ 
+# CONFIG_DVB_AV7110 av7110/ 

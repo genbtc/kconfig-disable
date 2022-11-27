@@ -1,0 +1,15 @@
+# Reading Makefile: net/bluetooth/rfcomm/Makefile
+# CONFIG_BT_RFCOMM rfcomm.o 
+# Reading Makefile: net/bluetooth/hidp/Makefile
+# CONFIG_BT_HIDP hidp.o 
+# Reading Makefile: net/bluetooth/cmtp/Makefile
+# CONFIG_BT_CMTP cmtp.o 
+# Reading Makefile: net/bluetooth/bnep/Makefile
+# CONFIG_BT_BNEP bnep.o 
+# Reading Makefile: net/bluetooth/Makefile
+# CONFIG_BT bluetooth.o 
+# CONFIG_BT_RFCOMM rfcomm/ 
+# CONFIG_BT_BNEP bnep/ 
+# CONFIG_BT_CMTP cmtp/ 
+# CONFIG_BT_HIDP hidp/ 
+# CONFIG_BT_6LOWPAN bluetooth_6lowpan.o 

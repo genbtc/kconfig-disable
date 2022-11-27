@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/pci/controller/mobiveil/Makefile
+# CONFIG_PCIE_MOBIVEIL pcie-mobiveil.o 
+# CONFIG_PCIE_MOBIVEIL_HOST pcie-mobiveil-host.o 
+# CONFIG_PCIE_MOBIVEIL_PLAT pcie-mobiveil-plat.o 
+# CONFIG_PCIE_LAYERSCAPE_GEN4 pcie-layerscape-gen4.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/scsi/qedf/Makefile
+# CONFIG_QEDF qedf.o 

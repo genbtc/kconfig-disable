@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/staging/media/imx/Makefile
+# CONFIG_VIDEO_IMX_MEDIA imx-media-common.o 
+# CONFIG_VIDEO_IMX_CSI imx6-media.o 
+# CONFIG_VIDEO_IMX_CSI imx6-media-csi.o 
+# CONFIG_VIDEO_IMX_CSI imx6-mipi-csi2.o 
+# CONFIG_VIDEO_IMX7_CSI imx7-media-csi.o 
+# CONFIG_VIDEO_IMX7_CSI imx8mq-mipi-csi2.o 

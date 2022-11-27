@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/usb/renesas_usbhs/Makefile
+# CONFIG_USB_RENESAS_USBHS renesas_usbhs.o 

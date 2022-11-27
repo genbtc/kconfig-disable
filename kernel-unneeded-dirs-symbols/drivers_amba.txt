@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/amba/Makefile
+# CONFIG_ARM_AMBA bus.o 
+# CONFIG_TEGRA_AHB tegra-ahb.o 

@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/video/fbdev/geode/Makefile
+# CONFIG_FB_GEODE_GX1 gx1fb.o 
+# CONFIG_FB_GEODE_GX gxfb.o 
+# CONFIG_FB_GEODE_LX lxfb.o 

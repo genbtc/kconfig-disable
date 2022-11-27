@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/amazon/ena/Makefile
+# CONFIG_ENA_ETHERNET ena.o 
+# Reading Makefile: drivers/net/ethernet/amazon/Makefile
+# CONFIG_ENA_ETHERNET ena/ 

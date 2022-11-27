@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/slimbus/Makefile
+# CONFIG_SLIMBUS slimbus.o 
+# CONFIG_SLIM_QCOM_CTRL slim-qcom-ctrl.o 
+# CONFIG_SLIM_QCOM_NGD_CTRL slim-qcom-ngd-ctrl.o 

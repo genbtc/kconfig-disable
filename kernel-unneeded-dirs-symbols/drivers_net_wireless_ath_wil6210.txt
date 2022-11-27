@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/wireless/ath/wil6210/Makefile
+# CONFIG_WIL6210 wil6210.o 

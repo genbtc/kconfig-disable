@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/pinctrl/actions/Makefile
+# CONFIG_PINCTRL_OWL pinctrl-owl.o 
+# CONFIG_PINCTRL_S500 pinctrl-s500.o 
+# CONFIG_PINCTRL_S700 pinctrl-s700.o 
+# CONFIG_PINCTRL_S900 pinctrl-s900.o 

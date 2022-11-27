@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/freescale/dpaa2/Makefile
+# CONFIG_FSL_DPAA2_ETH fsl-dpaa2-eth.o 
+# CONFIG_FSL_DPAA2_PTP_CLOCK fsl-dpaa2-ptp.o 
+# CONFIG_FSL_DPAA2_SWITCH fsl-dpaa2-switch.o 

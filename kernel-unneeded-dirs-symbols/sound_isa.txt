@@ -1,0 +1,53 @@
+# Reading Makefile: sound/isa/wss/Makefile
+# CONFIG_SND_WSS_LIB snd-wss-lib.o 
+# Reading Makefile: sound/isa/wavefront/Makefile
+# CONFIG_SND_WAVEFRONT snd-wavefront.o 
+# Reading Makefile: sound/isa/sb/Makefile
+# CONFIG_SND_SB_COMMON snd-sb-common.o 
+# CONFIG_SND_SB16_DSP snd-sb16-dsp.o 
+# CONFIG_SND_SB8_DSP snd-sb8-dsp.o 
+# CONFIG_SND_SB8 snd-sb8.o 
+# CONFIG_SND_SB16 snd-sb16.o 
+# CONFIG_SND_SBAWE snd-sbawe.o 
+# CONFIG_SND_JAZZ16 snd-jazz16.o 
+# CONFIG_SND_SB16 snd-sb16-csp.o 
+# CONFIG_SND_SBAWE snd-sb16-csp.o 
+# CONFIG_SND_SBAWE_SEQ snd-emu8000-synth.o 
+# Reading Makefile: sound/isa/opti9xx/Makefile
+# CONFIG_SND_OPTI92X_AD1848 snd-opti92x-ad1848.o 
+# CONFIG_SND_OPTI92X_CS4231 snd-opti92x-cs4231.o 
+# CONFIG_SND_OPTI93X snd-opti93x.o 
+# CONFIG_SND_MIRO snd-miro.o 
+# Reading Makefile: sound/isa/msnd/Makefile
+# CONFIG_SND_MSND_PINNACLE snd-msnd-pinnacle.o snd-msnd-lib.o 
+# CONFIG_SND_MSND_CLASSIC snd-msnd-classic.o snd-msnd-lib.o 
+# Reading Makefile: sound/isa/gus/Makefile
+# CONFIG_SND_GUSCLASSIC snd-gusclassic.o snd-gus-lib.o 
+# CONFIG_SND_GUSMAX snd-gusmax.o snd-gus-lib.o 
+# CONFIG_SND_GUSEXTREME snd-gusextreme.o snd-gus-lib.o 
+# CONFIG_SND_INTERWAVE snd-interwave.o snd-gus-lib.o 
+# CONFIG_SND_INTERWAVE_STB snd-interwave-stb.o snd-gus-lib.o 
+# Reading Makefile: sound/isa/galaxy/Makefile
+# CONFIG_SND_AZT1605 snd-azt1605.o 
+# CONFIG_SND_AZT2316 snd-azt2316.o 
+# Reading Makefile: sound/isa/es1688/Makefile
+# CONFIG_SND_ES1688 snd-es1688.o snd-es1688-lib.o 
+# CONFIG_SND_GUSEXTREME snd-es1688-lib.o 
+# Reading Makefile: sound/isa/cs423x/Makefile
+# CONFIG_SND_CS4231 snd-cs4231.o 
+# CONFIG_SND_CS4236 snd-cs4236.o 
+# Reading Makefile: sound/isa/ad1848/Makefile
+# CONFIG_SND_AD1848 snd-ad1848.o 
+# Reading Makefile: sound/isa/ad1816a/Makefile
+# CONFIG_SND_AD1816A snd-ad1816a.o 
+# Reading Makefile: sound/isa/Makefile
+# CONFIG_SND_ADLIB snd-adlib.o 
+# CONFIG_SND_ALS100 snd-als100.o 
+# CONFIG_SND_AZT2320 snd-azt2320.o 
+# CONFIG_SND_CMI8328 snd-cmi8328.o 
+# CONFIG_SND_CMI8330 snd-cmi8330.o 
+# CONFIG_SND_ES18XX snd-es18xx.o 
+# CONFIG_SND_OPL3SA2 snd-opl3sa2.o 
+# CONFIG_SND_SC6000 snd-sc6000.o 
+# CONFIG_SND_SSCAPE snd-sscape.o 
+# CONFIG_SND ad1816a/ ad1848/ cs423x/ es1688/ galaxy/ gus/ msnd/ opti9xx/ 		     sb/ wavefront/ wss/ 

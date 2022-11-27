@@ -1,0 +1,28 @@
+BT8XX GPIO abuser
+The BT8xx frame grabber chip has 24 GPIO pins that can be abused
+as a cheap PCI GPIO card.
+
+This chip can be found on Miro, Hauppauge and STB TV-cards.
+
+The card needs to be physically altered for using it as a
+GPIO card. For more information on how to build a GPIO card
+from a BT8xx TV card, see the documentation file at
+Documentation/driver-api/gpio/bt8xxgpio.rst
+
+If unsure, say N.
+Depends: VIDEO_BT848=n
+---
+BT8XX GPIO abuser
+The BT8xx frame grabber chip has 24 GPIO pins that can be abused
+as a cheap PCI GPIO card.
+
+This chip can be found on Miro, Hauppauge and STB TV-cards.
+
+The card needs to be physically altered for using it as a
+GPIO card. For more information on how to build a GPIO card
+from a BT8xx TV card, see the documentation file at
+Documentation/driver-api/gpio/bt8xxgpio.rst
+
+If unsure, say N.
+Depends: VIDEO_BT848=n
+---

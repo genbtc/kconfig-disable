@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/silan/Makefile
+# CONFIG_SC92031 sc92031.o 

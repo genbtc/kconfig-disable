@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/i2c/cx25840/Makefile
+# CONFIG_VIDEO_CX25840 cx25840.o 

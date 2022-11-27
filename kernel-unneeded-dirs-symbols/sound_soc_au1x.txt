@@ -1,0 +1,9 @@
+# Reading Makefile: sound/soc/au1x/Makefile
+# CONFIG_SND_SOC_AU1XPSC snd-soc-au1xpsc-dbdma.o 
+# CONFIG_SND_SOC_AU1XPSC_I2S snd-soc-au1xpsc-i2s.o 
+# CONFIG_SND_SOC_AU1XPSC_AC97 snd-soc-au1xpsc-ac97.o 
+# CONFIG_SND_SOC_AU1XAUDIO snd-soc-au1x-dma.o 
+# CONFIG_SND_SOC_AU1XAC97C snd-soc-au1x-ac97c.o 
+# CONFIG_SND_SOC_AU1XI2SC snd-soc-au1x-i2sc.o 
+# CONFIG_SND_SOC_DB1000 snd-soc-db1000.o 
+# CONFIG_SND_SOC_DB1200 snd-soc-db1200.o 

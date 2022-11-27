@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/crypto/cavium/nitrox/Makefile
+# CONFIG_CRYPTO_DEV_NITROX_CNN55XX n5pf.o 

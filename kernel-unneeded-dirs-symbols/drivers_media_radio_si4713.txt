@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/media/radio/si4713/Makefile
+# CONFIG_I2C_SI4713 si4713.o 
+# CONFIG_USB_SI4713 radio-usb-si4713.o 
+# CONFIG_PLATFORM_SI4713 radio-platform-si4713.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: net/bluetooth/bnep/Makefile
+# CONFIG_BT_BNEP bnep.o 

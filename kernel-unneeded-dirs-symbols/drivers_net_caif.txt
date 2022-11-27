@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/net/caif/Makefile
+# CONFIG_CAIF_TTY caif_serial.o 
+# CONFIG_CAIF_VIRTIO caif_virtio.o 

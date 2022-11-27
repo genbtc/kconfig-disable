@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/dma/dw-edma/Makefile
+# CONFIG_DW_EDMA dw-edma.o 
+# CONFIG_DW_EDMA_PCIE dw-edma-pcie.o 

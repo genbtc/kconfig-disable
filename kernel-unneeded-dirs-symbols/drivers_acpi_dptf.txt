@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/acpi/dptf/Makefile
+# CONFIG_ACPI int340x_thermal.o 
+# CONFIG_DPTF_POWER dptf_power.o 
+# CONFIG_DPTF_PCH_FIVR dptf_pch_fivr.o 

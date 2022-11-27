@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/staging/iio/frequency/Makefile
+# CONFIG_AD9832 ad9832.o 
+# CONFIG_AD9834 ad9834.o 

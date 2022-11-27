@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/media/platform/st/stm32/Makefile
+# CONFIG_VIDEO_STM32_DCMI stm32-dcmi.o 
+# CONFIG_VIDEO_STM32_DMA2D stm32-dma2d.o 

@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/iio/imu/bmi160/Makefile
+# CONFIG_BMI160 bmi160_core.o 
+# CONFIG_BMI160_I2C bmi160_i2c.o 
+# CONFIG_BMI160_SPI bmi160_spi.o 

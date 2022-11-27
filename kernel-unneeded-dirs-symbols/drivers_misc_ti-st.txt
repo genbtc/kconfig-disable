@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/misc/ti-st/Makefile
+# CONFIG_TI_ST st_drv.o 

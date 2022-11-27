@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/net/ethernet/neterion/vxge/Makefile
+# CONFIG_VXGE vxge.o 
+# Reading Makefile: drivers/net/ethernet/neterion/Makefile
+# CONFIG_S2IO s2io.o 
+# CONFIG_VXGE vxge/ 

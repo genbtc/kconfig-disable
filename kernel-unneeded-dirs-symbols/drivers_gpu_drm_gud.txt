@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/gud/Makefile
+# CONFIG_DRM_GUD gud.o 

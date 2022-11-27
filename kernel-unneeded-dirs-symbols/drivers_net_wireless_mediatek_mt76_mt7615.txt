@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/net/wireless/mediatek/mt76/mt7615/Makefile
+# CONFIG_MT7615_COMMON mt7615-common.o 
+# CONFIG_MT7615E mt7615e.o 
+# CONFIG_MT7663_USB_SDIO_COMMON mt7663-usb-sdio-common.o 
+# CONFIG_MT7663U mt7663u.o 
+# CONFIG_MT7663S mt7663s.o 

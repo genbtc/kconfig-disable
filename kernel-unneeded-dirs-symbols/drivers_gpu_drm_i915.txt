@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/gpu/drm/i915/gvt/Makefile
+# Reading Makefile: drivers/gpu/drm/i915/Makefile
+# CONFIG_DRM_I915 i915.o 
+# CONFIG_DRM_I915_GVT_KVMGT kvmgt.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/allegro-dvt/Makefile
+# CONFIG_VIDEO_ALLEGRO_DVT allegro.o 

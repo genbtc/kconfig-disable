@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/pci/endpoint/functions/Makefile
+# CONFIG_PCI_EPF_TEST pci-epf-test.o 
+# CONFIG_PCI_EPF_NTB pci-epf-ntb.o 

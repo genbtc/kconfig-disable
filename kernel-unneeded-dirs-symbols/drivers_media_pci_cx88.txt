@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/media/pci/cx88/Makefile
+# CONFIG_VIDEO_CX88 cx88xx.o cx8800.o 
+# CONFIG_VIDEO_CX88_MPEG cx8802.o 
+# CONFIG_VIDEO_CX88_ALSA cx88-alsa.o 
+# CONFIG_VIDEO_CX88_BLACKBIRD cx88-blackbird.o 
+# CONFIG_VIDEO_CX88_DVB cx88-dvb.o 
+# CONFIG_VIDEO_CX88_VP3054 cx88-vp3054-i2c.o 

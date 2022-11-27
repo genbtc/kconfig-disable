@@ -1,0 +1,18 @@
+# Reading Makefile: net/dsa/Makefile
+# CONFIG_NET_DSA dsa_core.o 
+# CONFIG_NET_DSA_TAG_AR9331 tag_ar9331.o 
+# CONFIG_NET_DSA_TAG_BRCM_COMMON tag_brcm.o 
+# CONFIG_NET_DSA_TAG_DSA_COMMON tag_dsa.o 
+# CONFIG_NET_DSA_TAG_GSWIP tag_gswip.o 
+# CONFIG_NET_DSA_TAG_HELLCREEK tag_hellcreek.o 
+# CONFIG_NET_DSA_TAG_KSZ tag_ksz.o 
+# CONFIG_NET_DSA_TAG_LAN9303 tag_lan9303.o 
+# CONFIG_NET_DSA_TAG_MTK tag_mtk.o 
+# CONFIG_NET_DSA_TAG_OCELOT tag_ocelot.o 
+# CONFIG_NET_DSA_TAG_OCELOT_8021Q tag_ocelot_8021q.o 
+# CONFIG_NET_DSA_TAG_QCA tag_qca.o 
+# CONFIG_NET_DSA_TAG_RTL4_A tag_rtl4_a.o 
+# CONFIG_NET_DSA_TAG_RTL8_4 tag_rtl8_4.o 
+# CONFIG_NET_DSA_TAG_SJA1105 tag_sja1105.o 
+# CONFIG_NET_DSA_TAG_TRAILER tag_trailer.o 
+# CONFIG_NET_DSA_TAG_XRS700X tag_xrs700x.o 

@@ -1,0 +1,13 @@
+# Reading Makefile: drivers/media/platform/renesas/vsp1/Makefile
+# CONFIG_VIDEO_RENESAS_VSP1 vsp1.o 
+# Reading Makefile: drivers/media/platform/renesas/rcar-vin/Makefile
+# CONFIG_VIDEO_RCAR_CSI2 rcar-csi2.o 
+# CONFIG_VIDEO_RCAR_VIN rcar-vin.o 
+# Reading Makefile: drivers/media/platform/renesas/Makefile
+# CONFIG_VIDEO_RCAR_DRIF rcar_drif.o 
+# CONFIG_VIDEO_RCAR_ISP rcar-isp.o 
+# CONFIG_VIDEO_RENESAS_CEU renesas-ceu.o 
+# CONFIG_VIDEO_RENESAS_FCP rcar-fcp.o 
+# CONFIG_VIDEO_RENESAS_FDP1 rcar_fdp1.o 
+# CONFIG_VIDEO_RENESAS_JPU rcar_jpu.o 
+# CONFIG_VIDEO_SH_VOU sh_vou.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/hsi/controllers/Makefile
+# CONFIG_OMAP_SSI omap_ssi.o 

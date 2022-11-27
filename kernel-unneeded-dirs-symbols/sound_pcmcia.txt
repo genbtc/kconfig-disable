@@ -1,0 +1,6 @@
+# Reading Makefile: sound/pcmcia/vx/Makefile
+# CONFIG_SND_VXPOCKET snd-vxpocket.o 
+# Reading Makefile: sound/pcmcia/pdaudiocf/Makefile
+# CONFIG_SND_PDAUDIOCF snd-pdaudiocf.o 
+# Reading Makefile: sound/pcmcia/Makefile
+# CONFIG_SND vx/ pdaudiocf/ 

@@ -1,0 +1,30 @@
+# Reading Makefile: drivers/hwtracing/stm/Makefile
+# CONFIG_STM stm_core.o 
+# CONFIG_STM_PROTO_BASIC stm_p_basic.o 
+# CONFIG_STM_PROTO_SYS_T stm_p_sys-t.o 
+# CONFIG_STM_DUMMY dummy_stm.o 
+# CONFIG_STM_SOURCE_CONSOLE stm_console.o 
+# CONFIG_STM_SOURCE_HEARTBEAT stm_heartbeat.o 
+# CONFIG_STM_SOURCE_FTRACE stm_ftrace.o 
+# Reading Makefile: drivers/hwtracing/intel_th/Makefile
+# CONFIG_INTEL_TH intel_th.o 
+# CONFIG_INTEL_TH_PCI intel_th_pci.o 
+# CONFIG_INTEL_TH_ACPI intel_th_acpi.o 
+# CONFIG_INTEL_TH_GTH intel_th_gth.o 
+# CONFIG_INTEL_TH_STH intel_th_sth.o 
+# CONFIG_INTEL_TH_MSU intel_th_msu.o 
+# CONFIG_INTEL_TH_PTI intel_th_pti.o 
+# CONFIG_INTEL_TH_MSU intel_th_msu_sink.o 
+# Reading Makefile: drivers/hwtracing/coresight/Makefile
+# CONFIG_CORESIGHT coresight.o 
+# CONFIG_CORESIGHT_LINK_AND_SINK_TMC coresight-tmc.o 
+# CONFIG_CORESIGHT_SINK_TPIU coresight-tpiu.o 
+# CONFIG_CORESIGHT_SINK_ETBV10 coresight-etb10.o 
+# CONFIG_CORESIGHT_LINKS_AND_SINKS coresight-funnel.o 					   coresight-replicator.o 
+# CONFIG_CORESIGHT_SOURCE_ETM3X coresight-etm3x.o 
+# CONFIG_CORESIGHT_SOURCE_ETM4X coresight-etm4x.o 
+# CONFIG_CORESIGHT_STM coresight-stm.o 
+# CONFIG_CORESIGHT_CPU_DEBUG coresight-cpu-debug.o 
+# CONFIG_CORESIGHT_CATU coresight-catu.o 
+# CONFIG_CORESIGHT_CTI coresight-cti.o 
+# CONFIG_CORESIGHT_TRBE coresight-trbe.o 

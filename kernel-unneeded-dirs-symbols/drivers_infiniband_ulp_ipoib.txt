@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/infiniband/ulp/ipoib/Makefile
+# CONFIG_INFINIBAND_IPOIB ib_ipoib.o 

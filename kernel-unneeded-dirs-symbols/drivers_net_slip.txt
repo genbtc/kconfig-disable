@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/net/slip/Makefile
+# CONFIG_SLIP slip.o 
+# CONFIG_SLHC slhc.o 

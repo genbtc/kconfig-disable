@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/tilcdc/Makefile
+# CONFIG_DRM_TILCDC tilcdc.o 

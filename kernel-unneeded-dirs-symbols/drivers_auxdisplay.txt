@@ -1,0 +1,12 @@
+# Reading Makefile: drivers/auxdisplay/Makefile
+# CONFIG_CHARLCD charlcd.o 
+# CONFIG_HD44780_COMMON hd44780_common.o 
+# CONFIG_ARM_CHARLCD arm-charlcd.o 
+# CONFIG_KS0108 ks0108.o 
+# CONFIG_CFAG12864B cfag12864b.o cfag12864bfb.o 
+# CONFIG_IMG_ASCII_LCD img-ascii-lcd.o 
+# CONFIG_HD44780 hd44780.o 
+# CONFIG_HT16K33 ht16k33.o 
+# CONFIG_PARPORT_PANEL panel.o 
+# CONFIG_LCD2S lcd2s.o 
+# CONFIG_LINEDISP line-display.o 

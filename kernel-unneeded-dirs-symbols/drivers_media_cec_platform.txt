@@ -1,0 +1,26 @@
+# Reading Makefile: drivers/media/cec/platform/tegra/Makefile
+# CONFIG_CEC_TEGRA tegra_cec.o 
+# Reading Makefile: drivers/media/cec/platform/stm32/Makefile
+# CONFIG_CEC_STM32 stm32-cec.o 
+# Reading Makefile: drivers/media/cec/platform/sti/Makefile
+# CONFIG_CEC_STI stih-cec.o 
+# Reading Makefile: drivers/media/cec/platform/seco/Makefile
+# CONFIG_CEC_SECO seco-cec.o 
+# Reading Makefile: drivers/media/cec/platform/s5p/Makefile
+# CONFIG_CEC_SAMSUNG_S5P s5p-cec.o 
+# Reading Makefile: drivers/media/cec/platform/meson/Makefile
+# CONFIG_CEC_MESON_AO ao-cec.o 
+# CONFIG_CEC_MESON_G12A_AO ao-cec-g12a.o 
+# Reading Makefile: drivers/media/cec/platform/cros-ec/Makefile
+# CONFIG_CEC_CROS_EC cros-ec-cec.o 
+# Reading Makefile: drivers/media/cec/platform/cec-gpio/Makefile
+# CONFIG_CEC_GPIO cec-gpio.o 
+# Reading Makefile: drivers/media/cec/platform/Makefile
+# CONFIG_CEC_CROS_EC cros-ec/ 
+# CONFIG_CEC_GPIO cec-gpio/ 
+# CONFIG_CEC_MESON_AO meson/ 
+# CONFIG_CEC_SAMSUNG_S5P s5p/ 
+# CONFIG_CEC_SECO seco/ 
+# CONFIG_CEC_STI sti/ 
+# CONFIG_CEC_STM32 stm32/ 
+# CONFIG_CEC_TEGRA tegra/ 

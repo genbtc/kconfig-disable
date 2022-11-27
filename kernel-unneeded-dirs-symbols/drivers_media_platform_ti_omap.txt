@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/ti/omap/Makefile
+# CONFIG_VIDEO_OMAP2_VOUT omap-vout.o 

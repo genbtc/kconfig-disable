@@ -1,0 +1,32 @@
+# Reading Makefile: drivers/net/ethernet/freescale/fs_enet/Makefile
+# CONFIG_FS_ENET fs_enet.o 
+# CONFIG_FS_ENET_MDIO_FEC mii-fec.o 
+# CONFIG_FS_ENET_MDIO_FCC mii-bitbang.o 
+# Reading Makefile: drivers/net/ethernet/freescale/fman/Makefile
+# CONFIG_FSL_FMAN fsl_dpaa_fman.o 
+# CONFIG_FSL_FMAN fsl_dpaa_fman_port.o 
+# CONFIG_FSL_FMAN fsl_dpaa_mac.o 
+# Reading Makefile: drivers/net/ethernet/freescale/enetc/Makefile
+# CONFIG_FSL_ENETC fsl-enetc.o 
+# CONFIG_FSL_ENETC_VF fsl-enetc-vf.o 
+# CONFIG_FSL_ENETC_IERB fsl-enetc-ierb.o 
+# CONFIG_FSL_ENETC_MDIO fsl-enetc-mdio.o 
+# CONFIG_FSL_ENETC_PTP_CLOCK fsl-enetc-ptp.o 
+# Reading Makefile: drivers/net/ethernet/freescale/dpaa2/Makefile
+# CONFIG_FSL_DPAA2_ETH fsl-dpaa2-eth.o 
+# CONFIG_FSL_DPAA2_PTP_CLOCK fsl-dpaa2-ptp.o 
+# CONFIG_FSL_DPAA2_SWITCH fsl-dpaa2-switch.o 
+# Reading Makefile: drivers/net/ethernet/freescale/dpaa/Makefile
+# CONFIG_FSL_DPAA_ETH fsl_dpa.o 
+# Reading Makefile: drivers/net/ethernet/freescale/Makefile
+# CONFIG_FEC fec.o 
+# CONFIG_FEC_MPC52xx fec_mpc52xx.o 
+# CONFIG_FEC_MPC52xx fec_mpc52xx_phy.o 
+# CONFIG_FS_ENET fs_enet/ 
+# CONFIG_FSL_PQ_MDIO fsl_pq_mdio.o 
+# CONFIG_FSL_XGMAC_MDIO xgmac_mdio.o 
+# CONFIG_GIANFAR gianfar_driver.o 
+# CONFIG_UCC_GETH ucc_geth_driver.o 
+# CONFIG_FSL_FMAN fman/ 
+# CONFIG_FSL_DPAA_ETH dpaa/ 
+# CONFIG_FSL_DPAA2_ETH dpaa2/ 

@@ -1,0 +1,9 @@
+# Reading Makefile: drivers/soc/fsl/qe/Makefile
+# CONFIG_QUICC_ENGINE qe.o qe_common.o qe_ic.o qe_io.o 
+# CONFIG_CPM qe_common.o 
+# CONFIG_UCC ucc.o 
+# CONFIG_UCC_SLOW ucc_slow.o 
+# CONFIG_UCC_FAST ucc_fast.o 
+# CONFIG_QE_TDM qe_tdm.o 
+# CONFIG_QE_USB usb.o 
+# CONFIG_QE_GPIO gpio.o 

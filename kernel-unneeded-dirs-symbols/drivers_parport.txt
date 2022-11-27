@@ -1,0 +1,12 @@
+# Reading Makefile: drivers/parport/Makefile
+# CONFIG_PARPORT parport.o 
+# CONFIG_PARPORT_PC parport_pc.o 
+# CONFIG_PARPORT_SERIAL parport_serial.o 
+# CONFIG_PARPORT_PC_PCMCIA parport_cs.o 
+# CONFIG_PARPORT_AMIGA parport_amiga.o 
+# CONFIG_PARPORT_MFC3 parport_mfc3.o 
+# CONFIG_PARPORT_ATARI parport_atari.o 
+# CONFIG_PARPORT_SUNBPP parport_sunbpp.o 
+# CONFIG_PARPORT_GSC parport_gsc.o 
+# CONFIG_PARPORT_AX88796 parport_ax88796.o 
+# CONFIG_PARPORT_IP32 parport_ip32.o 

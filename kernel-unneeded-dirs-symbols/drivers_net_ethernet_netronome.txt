@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/netronome/nfp/Makefile
+# CONFIG_NFP nfp.o 
+# Reading Makefile: drivers/net/ethernet/netronome/Makefile
+# CONFIG_NFP nfp/ 

@@ -1,0 +1,37 @@
+# Reading Makefile: sound/soc/amd/yc/Makefile
+# CONFIG_SND_SOC_AMD_ACP6x snd-pci-acp6x.o 
+# CONFIG_SND_SOC_AMD_ACP6x snd-acp6x-pdm-dma.o 
+# CONFIG_SND_SOC_AMD_YC_MACH snd-soc-acp6x-mach.o 
+# Reading Makefile: sound/soc/amd/vangogh/Makefile
+# CONFIG_SND_SOC_AMD_ACP5x snd-pci-acp5x.o 
+# CONFIG_SND_SOC_AMD_ACP5x snd-acp5x-i2s.o 
+# CONFIG_SND_SOC_AMD_ACP5x snd-acp5x-pcm-dma.o 
+# CONFIG_SND_SOC_AMD_VANGOGH_MACH snd-soc-acp5x-mach.o 
+# Reading Makefile: sound/soc/amd/renoir/Makefile
+# CONFIG_SND_SOC_AMD_RENOIR snd-rn-pci-acp3x.o 
+# CONFIG_SND_SOC_AMD_RENOIR snd-acp3x-pdm-dma.o 
+# CONFIG_SND_SOC_AMD_RENOIR_MACH snd-acp3x-rn.o 
+# Reading Makefile: sound/soc/amd/raven/Makefile
+# CONFIG_SND_SOC_AMD_ACP3x snd-pci-acp3x.o 
+# CONFIG_SND_SOC_AMD_ACP3x snd-acp3x-pcm-dma.o 
+# CONFIG_SND_SOC_AMD_ACP3x snd-acp3x-i2s.o 
+# Reading Makefile: sound/soc/amd/acp/Makefile
+# CONFIG_SND_SOC_AMD_ACP_PCM snd-acp-pcm.o 
+# CONFIG_SND_SOC_AMD_ACP_I2S snd-acp-i2s.o 
+# CONFIG_SND_SOC_AMD_ACP_PDM snd-acp-pdm.o 
+# CONFIG_SND_SOC_AMD_ACP_PCI snd-acp-pci.o 
+# CONFIG_SND_AMD_ASOC_RENOIR snd-acp-renoir.o 
+# CONFIG_SND_SOC_AMD_MACH_COMMON snd-acp-mach.o 
+# CONFIG_SND_SOC_AMD_LEGACY_MACH snd-acp-legacy-mach.o 
+# CONFIG_SND_SOC_AMD_SOF_MACH snd-acp-sof-mach.o 
+# Reading Makefile: sound/soc/amd/Makefile
+# CONFIG_SND_SOC_AMD_ACP acp_audio_dma.o 
+# CONFIG_SND_SOC_AMD_CZ_DA7219MX98357_MACH snd-soc-acp-da7219mx98357-mach.o 
+# CONFIG_SND_SOC_AMD_CZ_RT5645_MACH snd-soc-acp-rt5645-mach.o 
+# CONFIG_SND_SOC_AMD_ACP3x raven/ 
+# CONFIG_SND_SOC_AMD_RV_RT5682_MACH snd-soc-acp-rt5682-mach.o 
+# CONFIG_SND_SOC_AMD_RENOIR renoir/ 
+# CONFIG_SND_SOC_AMD_ACP5x vangogh/ 
+# CONFIG_SND_SOC_AMD_ACP6x yc/ 
+# CONFIG_SND_SOC_AMD_ACP_COMMON acp/ 
+# CONFIG_SND_AMD_ACP_CONFIG snd-acp-config.o 

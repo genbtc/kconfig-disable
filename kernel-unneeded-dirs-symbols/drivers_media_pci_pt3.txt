@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/pci/pt3/Makefile
+# CONFIG_DVB_PT3 earth-pt3.o 

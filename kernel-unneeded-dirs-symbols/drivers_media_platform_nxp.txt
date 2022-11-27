@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/media/platform/nxp/imx-jpeg/Makefile
+# CONFIG_VIDEO_IMX8_JPEG mxc-jpeg-encdec.o 
+# Reading Makefile: drivers/media/platform/nxp/Makefile
+# CONFIG_VIDEO_IMX_MIPI_CSIS imx-mipi-csis.o 
+# CONFIG_VIDEO_IMX_PXP imx-pxp.o 
+# CONFIG_VIDEO_MX2_EMMAPRP mx2_emmaprp.o 
+# CONFIG_VIDEO_VIU fsl-viu.o 

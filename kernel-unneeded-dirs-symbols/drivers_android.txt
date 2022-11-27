@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/android/Makefile
+# CONFIG_ANDROID_BINDERFS binderfs.o 
+# CONFIG_ANDROID_BINDER_IPC binder.o binder_alloc.o 
+# CONFIG_ANDROID_BINDER_IPC_SELFTEST binder_alloc_selftest.o 

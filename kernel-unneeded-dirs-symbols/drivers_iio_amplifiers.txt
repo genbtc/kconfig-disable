@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/iio/amplifiers/Makefile
+# CONFIG_AD8366 ad8366.o 
+# CONFIG_ADA4250 ada4250.o 
+# CONFIG_HMC425 hmc425a.o 

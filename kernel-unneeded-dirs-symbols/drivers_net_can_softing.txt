@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/net/can/softing/Makefile
+# CONFIG_CAN_SOFTING softing.o 
+# CONFIG_CAN_SOFTING_CS softing_cs.o 

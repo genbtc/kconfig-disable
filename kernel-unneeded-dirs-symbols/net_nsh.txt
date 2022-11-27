@@ -1,0 +1,2 @@
+# Reading Makefile: net/nsh/Makefile
+# CONFIG_NET_NSH nsh.o 

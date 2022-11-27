@@ -1,0 +1,11 @@
+# Reading Makefile: drivers/rpmsg/Makefile
+# CONFIG_RPMSG rpmsg_core.o 
+# CONFIG_RPMSG_CHAR rpmsg_char.o 
+# CONFIG_RPMSG_CTRL rpmsg_ctrl.o 
+# CONFIG_RPMSG_NS rpmsg_ns.o 
+# CONFIG_RPMSG_MTK_SCP mtk_rpmsg.o 
+# CONFIG_RPMSG_QCOM_GLINK qcom_glink.o 
+# CONFIG_RPMSG_QCOM_GLINK_RPM qcom_glink_rpm.o 
+# CONFIG_RPMSG_QCOM_GLINK_SMEM qcom_glink_smem.o 
+# CONFIG_RPMSG_QCOM_SMD qcom_smd.o 
+# CONFIG_RPMSG_VIRTIO virtio_rpmsg_bus.o 

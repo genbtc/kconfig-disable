@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/soc/versatile/Makefile
+# CONFIG_SOC_INTEGRATOR_CM soc-integrator.o 
+# CONFIG_SOC_REALVIEW soc-realview.o 

@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/tty/serdev/Makefile
+# CONFIG_SERIAL_DEV_BUS serdev.o 
+# CONFIG_SERIAL_DEV_CTRL_TTYPORT serdev-ttyport.o 

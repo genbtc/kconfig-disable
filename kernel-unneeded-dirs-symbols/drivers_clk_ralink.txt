@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/clk/ralink/Makefile
+# CONFIG_CLK_MT7621 clk-mt7621.o 

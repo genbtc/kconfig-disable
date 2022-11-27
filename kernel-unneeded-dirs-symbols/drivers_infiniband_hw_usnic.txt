@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/infiniband/hw/usnic/Makefile
+# CONFIG_INFINIBAND_USNIC usnic_verbs.o 

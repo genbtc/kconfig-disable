@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/net/ethernet/marvell/prestera/Makefile
+# CONFIG_PRESTERA prestera.o 
+# CONFIG_PRESTERA_PCI prestera_pci.o 

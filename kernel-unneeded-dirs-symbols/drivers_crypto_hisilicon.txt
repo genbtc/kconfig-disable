@@ -1,0 +1,17 @@
+# Reading Makefile: drivers/crypto/hisilicon/zip/Makefile
+# CONFIG_CRYPTO_DEV_HISI_ZIP hisi_zip.o 
+# Reading Makefile: drivers/crypto/hisilicon/trng/Makefile
+# CONFIG_CRYPTO_DEV_HISI_TRNG hisi-trng-v2.o 
+# Reading Makefile: drivers/crypto/hisilicon/sec2/Makefile
+# CONFIG_CRYPTO_DEV_HISI_SEC2 hisi_sec2.o 
+# Reading Makefile: drivers/crypto/hisilicon/sec/Makefile
+# CONFIG_CRYPTO_DEV_HISI_SEC hisi_sec.o 
+# Reading Makefile: drivers/crypto/hisilicon/hpre/Makefile
+# CONFIG_CRYPTO_DEV_HISI_HPRE hisi_hpre.o 
+# Reading Makefile: drivers/crypto/hisilicon/Makefile
+# CONFIG_CRYPTO_DEV_HISI_HPRE hpre/ 
+# CONFIG_CRYPTO_DEV_HISI_SEC sec/ 
+# CONFIG_CRYPTO_DEV_HISI_SEC2 sec2/ 
+# CONFIG_CRYPTO_DEV_HISI_QM hisi_qm.o 
+# CONFIG_CRYPTO_DEV_HISI_ZIP zip/ 
+# CONFIG_CRYPTO_DEV_HISI_TRNG trng/ 

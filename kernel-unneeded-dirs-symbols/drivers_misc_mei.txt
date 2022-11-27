@@ -1,0 +1,11 @@
+# Reading Makefile: drivers/misc/mei/pxp/Makefile
+# CONFIG_INTEL_MEI_PXP mei_pxp.o 
+# Reading Makefile: drivers/misc/mei/hdcp/Makefile
+# CONFIG_INTEL_MEI_HDCP mei_hdcp.o 
+# Reading Makefile: drivers/misc/mei/Makefile
+# CONFIG_INTEL_MEI mei.o 
+# CONFIG_INTEL_MEI_ME mei-me.o 
+# CONFIG_INTEL_MEI_GSC mei-gsc.o 
+# CONFIG_INTEL_MEI_TXE mei-txe.o 
+# CONFIG_INTEL_MEI_HDCP hdcp/ 
+# CONFIG_INTEL_MEI_PXP pxp/ 

@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/pensando/ionic/Makefile
+# CONFIG_IONIC ionic.o 
+# Reading Makefile: drivers/net/ethernet/pensando/Makefile
+# CONFIG_IONIC ionic/ 

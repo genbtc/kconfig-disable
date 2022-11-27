@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/pci/netup_unidvb/Makefile
+# CONFIG_DVB_NETUP_UNIDVB netup-unidvb.o 

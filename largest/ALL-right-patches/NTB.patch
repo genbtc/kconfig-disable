@@ -1,0 +1,39 @@
+Non-Transparent Bridge support
+The PCI-E Non-transparent bridge hardware is a point-to-point PCI-E bus
+connecting 2 systems.  When configured, writes to the device's PCI
+mapped memory will be mirrored to a buffer on the remote system.  The
+ntb Linux driver uses this point-to-point communication as a method to
+transfer data from one system to the other.
+
+If unsure, say N.
+Depends: PCI
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:18:59.026610389 -0400
+@@ -2997,7 +2997,6 @@
+ CONFIG_NETCONSOLE_DYNAMIC=y
+ CONFIG_NETPOLL=y
+ CONFIG_NET_POLL_CONTROLLER=y
+-CONFIG_NTB_NETDEV=m
+ CONFIG_TUN=m
+ CONFIG_TAP=m
+ # CONFIG_TUN_VNET_CROSS_LE is not set
+@@ -8931,17 +8930,7 @@
+ CONFIG_MAX31865=m
+ # end of Temperature sensors
+ 
+-CONFIG_NTB=m
+-# CONFIG_NTB_MSI is not set
+-CONFIG_NTB_AMD=m
+-CONFIG_NTB_IDT=m
+-CONFIG_NTB_INTEL=m
+-CONFIG_NTB_EPF=m
+-CONFIG_NTB_SWITCHTEC=m
+-CONFIG_NTB_PINGPONG=m
+-CONFIG_NTB_TOOL=m
+-CONFIG_NTB_PERF=m
+-CONFIG_NTB_TRANSPORT=m
++# CONFIG_NTB is not set
+ # CONFIG_VME_BUS is not set
+ CONFIG_PWM=y
+ CONFIG_PWM_SYSFS=y

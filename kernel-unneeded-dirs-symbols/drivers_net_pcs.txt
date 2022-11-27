@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/net/pcs/Makefile
+# CONFIG_PCS_XPCS pcs_xpcs.o 
+# CONFIG_PCS_LYNX pcs-lynx.o 

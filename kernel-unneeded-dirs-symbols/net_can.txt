@@ -1,0 +1,9 @@
+# Reading Makefile: net/can/j1939/Makefile
+# CONFIG_CAN_J1939 can-j1939.o 
+# Reading Makefile: net/can/Makefile
+# CONFIG_CAN can.o 
+# CONFIG_CAN_RAW can-raw.o 
+# CONFIG_CAN_BCM can-bcm.o 
+# CONFIG_CAN_GW can-gw.o 
+# CONFIG_CAN_J1939 j1939/ 
+# CONFIG_CAN_ISOTP can-isotp.o 

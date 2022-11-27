@@ -1,0 +1,8 @@
+# Reading Makefile: drivers/platform/mellanox/Makefile
+# CONFIG_MLXBF_BOOTCTL mlxbf-bootctl.o 
+# CONFIG_MLXBF_PMC mlxbf-pmc.o 
+# CONFIG_MLXBF_TMFIFO mlxbf-tmfifo.o 
+# CONFIG_MLXREG_HOTPLUG mlxreg-hotplug.o 
+# CONFIG_MLXREG_IO mlxreg-io.o 
+# CONFIG_MLXREG_LC mlxreg-lc.o 
+# CONFIG_NVSW_SN2201 nvsw-sn2201.o 

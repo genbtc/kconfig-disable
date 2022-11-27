@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/acpi/apei/Makefile
+# CONFIG_ACPI_APEI apei.o 
+# CONFIG_ACPI_APEI_GHES ghes.o 
+# CONFIG_ACPI_APEI_EINJ einj.o 
+# CONFIG_ACPI_APEI_ERST_DEBUG erst-dbg.o 

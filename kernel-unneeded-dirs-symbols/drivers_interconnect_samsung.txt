@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/interconnect/samsung/Makefile
+# CONFIG_INTERCONNECT_EXYNOS exynos-interconnect.o 

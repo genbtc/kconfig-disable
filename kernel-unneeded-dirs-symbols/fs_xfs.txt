@@ -1,0 +1,2 @@
+# Reading Makefile: fs/xfs/Makefile
+# CONFIG_XFS_FS xfs.o 

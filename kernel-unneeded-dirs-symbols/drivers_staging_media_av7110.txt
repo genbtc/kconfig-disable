@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/staging/media/av7110/Makefile
+# CONFIG_DVB_BUDGET_PATCH budget-patch.o 
+# CONFIG_DVB_AV7110 dvb-ttpci.o 
+# CONFIG_DVB_SP8870 sp8870.o 

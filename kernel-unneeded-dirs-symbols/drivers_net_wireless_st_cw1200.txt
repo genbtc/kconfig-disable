@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/wireless/st/cw1200/Makefile
+# CONFIG_CW1200 cw1200_core.o 
+# CONFIG_CW1200_WLAN_SDIO cw1200_wlan_sdio.o 
+# CONFIG_CW1200_WLAN_SPI cw1200_wlan_spi.o 

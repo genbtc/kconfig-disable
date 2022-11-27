@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/amphion/Makefile
+# CONFIG_VIDEO_AMPHION_VPU amphion-vpu.o 

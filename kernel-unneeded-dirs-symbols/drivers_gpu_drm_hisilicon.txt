@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/gpu/drm/hisilicon/kirin/Makefile
+# CONFIG_DRM_HISI_KIRIN kirin-drm.o dw_drm_dsi.o 
+# Reading Makefile: drivers/gpu/drm/hisilicon/hibmc/Makefile
+# CONFIG_DRM_HISI_HIBMC hibmc-drm.o 
+# Reading Makefile: drivers/gpu/drm/hisilicon/Makefile
+# CONFIG_DRM_HISI_HIBMC hibmc/ 
+# CONFIG_DRM_HISI_KIRIN kirin/ 

@@ -1,0 +1,2 @@
+# Reading Makefile: fs/ntfs/Makefile
+# CONFIG_NTFS_FS ntfs.o 

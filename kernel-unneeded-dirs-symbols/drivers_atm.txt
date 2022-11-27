@@ -1,0 +1,15 @@
+# Reading Makefile: drivers/atm/Makefile
+# CONFIG_ATM_NICSTAR nicstar.o 
+# CONFIG_ATM_IA iphase.o suni.o 
+# CONFIG_ATM_FORE200E fore_200e.o 
+# CONFIG_ATM_ENI eni.o suni.o 
+# CONFIG_ATM_IDT77252 idt77252.o 
+# CONFIG_ATM_SOLOS solos-pci.o 
+# CONFIG_ATM_NICSTAR suni.o 
+# CONFIG_ATM_NICSTAR idt77105.o 
+# CONFIG_ATM_IDT77252 suni.o 
+# CONFIG_ATM_DUMMY adummy.o 
+# CONFIG_ATM_TCP atmtcp.o 
+# CONFIG_ATM_LANAI lanai.o 
+# CONFIG_ATM_HE he.o 
+# CONFIG_ATM_HE suni.o 

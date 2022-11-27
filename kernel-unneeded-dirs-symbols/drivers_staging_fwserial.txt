@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/fwserial/Makefile
+# CONFIG_FIREWIRE_SERIAL firewire-serial.o 

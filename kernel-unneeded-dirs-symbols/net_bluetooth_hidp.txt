@@ -1,0 +1,2 @@
+# Reading Makefile: net/bluetooth/hidp/Makefile
+# CONFIG_BT_HIDP hidp.o 

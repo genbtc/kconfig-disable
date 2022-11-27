@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/dma/lgm/Makefile
+# CONFIG_INTEL_LDMA lgm-dma.o 

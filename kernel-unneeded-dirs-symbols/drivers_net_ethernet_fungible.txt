@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/net/ethernet/fungible/funeth/Makefile
+# CONFIG_FUN_ETH funeth.o 
+# Reading Makefile: drivers/net/ethernet/fungible/funcore/Makefile
+# CONFIG_FUN_CORE funcore.o 
+# Reading Makefile: drivers/net/ethernet/fungible/Makefile
+# CONFIG_FUN_CORE funcore/ 
+# CONFIG_FUN_ETH funeth/ 

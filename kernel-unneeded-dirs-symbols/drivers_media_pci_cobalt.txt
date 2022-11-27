@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/pci/cobalt/Makefile
+# CONFIG_VIDEO_COBALT cobalt.o 

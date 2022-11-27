@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/scsi/elx/Makefile
+# CONFIG_SCSI_EFCT efct.o 

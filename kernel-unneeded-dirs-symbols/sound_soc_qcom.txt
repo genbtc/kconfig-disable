@@ -1,0 +1,33 @@
+# Reading Makefile: sound/soc/qcom/qdsp6/Makefile
+# CONFIG_SND_SOC_QDSP6_COMMON snd-q6dsp-common.o 
+# CONFIG_SND_SOC_QDSP6_CORE q6core.o 
+# CONFIG_SND_SOC_QDSP6_AFE q6afe.o 
+# CONFIG_SND_SOC_QDSP6_AFE_DAI q6afe-dai.o 
+# CONFIG_SND_SOC_QDSP6_AFE_CLOCKS q6afe-clocks.o 
+# CONFIG_SND_SOC_QDSP6_ADM q6adm.o 
+# CONFIG_SND_SOC_QDSP6_ROUTING q6routing.o 
+# CONFIG_SND_SOC_QDSP6_ASM q6asm.o 
+# CONFIG_SND_SOC_QDSP6_ASM_DAI q6asm-dai.o 
+# CONFIG_SND_SOC_QDSP6_APM snd-q6apm.o 
+# CONFIG_SND_SOC_QDSP6_APM_DAI q6apm-dai.o 
+# CONFIG_SND_SOC_QDSP6_APM_LPASS_DAI q6apm-lpass-dais.o 
+# CONFIG_SND_SOC_QDSP6_PRM q6prm.o 
+# CONFIG_SND_SOC_QDSP6_PRM_LPASS_CLOCKS q6prm-clocks.o 
+# Reading Makefile: sound/soc/qcom/Makefile
+# CONFIG_SND_SOC_LPASS_CPU snd-soc-lpass-cpu.o 
+# CONFIG_SND_SOC_LPASS_CDC_DMA snd-soc-lpass-cdc-dma.o 
+# CONFIG_SND_SOC_LPASS_HDMI snd-soc-lpass-hdmi.o 
+# CONFIG_SND_SOC_LPASS_PLATFORM snd-soc-lpass-platform.o 
+# CONFIG_SND_SOC_LPASS_IPQ806X snd-soc-lpass-ipq806x.o 
+# CONFIG_SND_SOC_LPASS_APQ8016 snd-soc-lpass-apq8016.o 
+# CONFIG_SND_SOC_LPASS_SC7180 snd-soc-lpass-sc7180.o 
+# CONFIG_SND_SOC_LPASS_SC7280 snd-soc-lpass-sc7280.o 
+# CONFIG_SND_SOC_STORM snd-soc-storm.o 
+# CONFIG_SND_SOC_APQ8016_SBC snd-soc-apq8016-sbc.o 
+# CONFIG_SND_SOC_MSM8996 snd-soc-apq8096.o 
+# CONFIG_SND_SOC_SC7180 snd-soc-sc7180.o 
+# CONFIG_SND_SOC_SC7280 snd-soc-sc7280.o 
+# CONFIG_SND_SOC_SDM845 snd-soc-sdm845.o 
+# CONFIG_SND_SOC_SM8250 snd-soc-sm8250.o 
+# CONFIG_SND_SOC_QCOM_COMMON snd-soc-qcom-common.o 
+# CONFIG_SND_SOC_QDSP6 qdsp6/ 

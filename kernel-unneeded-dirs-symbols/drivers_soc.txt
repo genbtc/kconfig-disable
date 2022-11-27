@@ -1,0 +1,218 @@
+# Reading Makefile: drivers/soc/xilinx/Makefile
+# CONFIG_ZYNQMP_POWER zynqmp_power.o 
+# CONFIG_ZYNQMP_PM_DOMAINS zynqmp_pm_domains.o 
+# CONFIG_XLNX_EVENT_MANAGER xlnx_event_manager.o 
+# Reading Makefile: drivers/soc/versatile/Makefile
+# CONFIG_SOC_INTEGRATOR_CM soc-integrator.o 
+# CONFIG_SOC_REALVIEW soc-realview.o 
+# Reading Makefile: drivers/soc/ux500/Makefile
+# CONFIG_UX500_SOC_ID ux500-soc-id.o 
+# Reading Makefile: drivers/soc/ti/Makefile
+# CONFIG_KEYSTONE_NAVIGATOR_QMSS knav_qmss.o 
+# CONFIG_KEYSTONE_NAVIGATOR_DMA knav_dma.o 
+# CONFIG_AMX3_PM pm33xx.o 
+# CONFIG_ARCH_OMAP2PLUS omap_prm.o 
+# CONFIG_WKUP_M3_IPC wkup_m3_ipc.o 
+# CONFIG_TI_SCI_PM_DOMAINS ti_sci_pm_domains.o 
+# CONFIG_TI_SCI_INTA_MSI_DOMAIN ti_sci_inta_msi.o 
+# CONFIG_TI_K3_RINGACC k3-ringacc.o 
+# CONFIG_TI_K3_SOCINFO k3-socinfo.o 
+# CONFIG_TI_PRUSS pruss.o 
+# CONFIG_POWER_AVS_OMAP smartreflex.o 
+# Reading Makefile: drivers/soc/tegra/fuse/Makefile
+# CONFIG_ARCH_TEGRA_2x_SOC fuse-tegra20.o 
+# CONFIG_ARCH_TEGRA_2x_SOC speedo-tegra20.o 
+# CONFIG_ARCH_TEGRA_3x_SOC speedo-tegra30.o 
+# CONFIG_ARCH_TEGRA_114_SOC speedo-tegra114.o 
+# CONFIG_ARCH_TEGRA_124_SOC speedo-tegra124.o 
+# CONFIG_ARCH_TEGRA_132_SOC speedo-tegra124.o 
+# CONFIG_ARCH_TEGRA_210_SOC speedo-tegra210.o 
+# Reading Makefile: drivers/soc/tegra/Makefile
+# CONFIG_SOC_TEGRA_FLOWCTRL flowctrl.o 
+# CONFIG_SOC_TEGRA_PMC pmc.o 
+# CONFIG_SOC_TEGRA_POWERGATE_BPMP powergate-bpmp.o 
+# CONFIG_SOC_TEGRA20_VOLTAGE_COUPLER regulators-tegra20.o 
+# CONFIG_SOC_TEGRA30_VOLTAGE_COUPLER regulators-tegra30.o 
+# CONFIG_ARCH_TEGRA_186_SOC ari-tegra186.o 
+# Reading Makefile: drivers/soc/sunxi/Makefile
+# CONFIG_SUNXI_MBUS sunxi_mbus.o 
+# CONFIG_SUNXI_SRAM sunxi_sram.o 
+# Reading Makefile: drivers/soc/sifive/Makefile
+# CONFIG_SIFIVE_L2 sifive_l2_cache.o 
+# Reading Makefile: drivers/soc/samsung/Makefile
+# CONFIG_EXYNOS_ASV_ARM exynos5422-asv.o 
+# CONFIG_EXYNOS_CHIPID exynos_chipid.o 
+# CONFIG_EXYNOS_USI exynos-usi.o 
+# CONFIG_EXYNOS_PMU exynos-pmu.o 
+# CONFIG_EXYNOS_PMU_ARM_DRIVERS exynos3250-pmu.o exynos4-pmu.o 					exynos5250-pmu.o exynos5420-pmu.o 
+# CONFIG_EXYNOS_PM_DOMAINS pm_domains.o 
+# CONFIG_EXYNOS_REGULATOR_COUPLER exynos-regulator-coupler.o 
+# CONFIG_SAMSUNG_PM_CHECK s3c-pm-check.o 
+# CONFIG_SAMSUNG_PM_DEBUG s3c-pm-debug.o 
+# Reading Makefile: drivers/soc/rockchip/Makefile
+# CONFIG_ROCKCHIP_GRF grf.o 
+# CONFIG_ROCKCHIP_IODOMAIN io-domain.o 
+# CONFIG_ROCKCHIP_PM_DOMAINS pm_domains.o 
+# CONFIG_ROCKCHIP_DTPM dtpm.o 
+# Reading Makefile: drivers/soc/renesas/Makefile
+# CONFIG_SOC_RENESAS renesas-soc.o 
+# CONFIG_SYSC_R8A7742 r8a7742-sysc.o 
+# CONFIG_SYSC_R8A7743 r8a7743-sysc.o 
+# CONFIG_SYSC_R8A7745 r8a7745-sysc.o 
+# CONFIG_SYSC_R8A77470 r8a77470-sysc.o 
+# CONFIG_SYSC_R8A774A1 r8a774a1-sysc.o 
+# CONFIG_SYSC_R8A774B1 r8a774b1-sysc.o 
+# CONFIG_SYSC_R8A774C0 r8a774c0-sysc.o 
+# CONFIG_SYSC_R8A774E1 r8a774e1-sysc.o 
+# CONFIG_SYSC_R8A7779 r8a7779-sysc.o 
+# CONFIG_SYSC_R8A7790 r8a7790-sysc.o 
+# CONFIG_SYSC_R8A7791 r8a7791-sysc.o 
+# CONFIG_SYSC_R8A7792 r8a7792-sysc.o 
+# CONFIG_SYSC_R8A7794 r8a7794-sysc.o 
+# CONFIG_SYSC_R8A7795 r8a7795-sysc.o 
+# CONFIG_SYSC_R8A77960 r8a7796-sysc.o 
+# CONFIG_SYSC_R8A77961 r8a7796-sysc.o 
+# CONFIG_SYSC_R8A77965 r8a77965-sysc.o 
+# CONFIG_SYSC_R8A77970 r8a77970-sysc.o 
+# CONFIG_SYSC_R8A77980 r8a77980-sysc.o 
+# CONFIG_SYSC_R8A77990 r8a77990-sysc.o 
+# CONFIG_SYSC_R8A77995 r8a77995-sysc.o 
+# CONFIG_SYSC_R8A779A0 r8a779a0-sysc.o 
+# CONFIG_SYSC_R8A779F0 r8a779f0-sysc.o 
+# CONFIG_SYSC_R8A779G0 r8a779g0-sysc.o 
+# CONFIG_ARCH_R9A06G032 r9a06g032-smp.o 
+# CONFIG_RST_RCAR rcar-rst.o 
+# CONFIG_SYSC_RCAR rcar-sysc.o 
+# CONFIG_SYSC_RCAR_GEN4 rcar-gen4-sysc.o 
+# CONFIG_SYSC_RMOBILE rmobile-sysc.o 
+# Reading Makefile: drivers/soc/qcom/Makefile
+# CONFIG_QCOM_AOSS_QMP qcom_aoss.o 
+# CONFIG_QCOM_GENI_SE qcom-geni-se.o 
+# CONFIG_QCOM_COMMAND_DB cmd-db.o 
+# CONFIG_QCOM_CPR cpr.o 
+# CONFIG_QCOM_GSBI qcom_gsbi.o 
+# CONFIG_QCOM_MDT_LOADER mdt_loader.o 
+# CONFIG_QCOM_OCMEM ocmem.o 
+# CONFIG_QCOM_PDR_HELPERS pdr_interface.o 
+# CONFIG_QCOM_QMI_HELPERS qmi_helpers.o 
+# CONFIG_QCOM_RMTFS_MEM rmtfs_mem.o 
+# CONFIG_QCOM_RPMH qcom_rpmh.o 
+# CONFIG_QCOM_SMD_RPM smd-rpm.o 
+# CONFIG_QCOM_SMEM smem.o 
+# CONFIG_QCOM_SMEM_STATE smem_state.o 
+# CONFIG_QCOM_SMP2P smp2p.o 
+# CONFIG_QCOM_SMSM smsm.o 
+# CONFIG_QCOM_SOCINFO socinfo.o 
+# CONFIG_QCOM_SPM spm.o 
+# CONFIG_QCOM_STATS qcom_stats.o 
+# CONFIG_QCOM_WCNSS_CTRL wcnss_ctrl.o 
+# CONFIG_QCOM_APR apr.o 
+# CONFIG_QCOM_LLCC llcc-qcom.o 
+# CONFIG_QCOM_RPMHPD rpmhpd.o 
+# CONFIG_QCOM_RPMPD rpmpd.o 
+# CONFIG_QCOM_KRYO_L2_ACCESSORS kryo-l2-accessors.o 
+# Reading Makefile: drivers/soc/pxa/Makefile
+# CONFIG_PXA3xx mfp.o 
+# CONFIG_ARCH_MMP mfp.o 
+# CONFIG_PXA_SSP ssp.o 
+# Reading Makefile: drivers/soc/microchip/Makefile
+# CONFIG_POLARFIRE_SOC_SYS_CTRL mpfs-sys-controller.o 
+# Reading Makefile: drivers/soc/mediatek/Makefile
+# CONFIG_MTK_CMDQ mtk-cmdq-helper.o 
+# CONFIG_MTK_DEVAPC mtk-devapc.o 
+# CONFIG_MTK_INFRACFG mtk-infracfg.o 
+# CONFIG_MTK_PMIC_WRAP mtk-pmic-wrap.o 
+# CONFIG_MTK_SCPSYS mtk-scpsys.o 
+# CONFIG_MTK_SCPSYS_PM_DOMAINS mtk-pm-domains.o 
+# CONFIG_MTK_MMSYS mtk-mmsys.o 
+# CONFIG_MTK_MMSYS mtk-mutex.o 
+# Reading Makefile: drivers/soc/litex/Makefile
+# CONFIG_LITEX_SOC_CONTROLLER litex_soc_ctrl.o 
+# Reading Makefile: drivers/soc/lantiq/Makefile
+# Reading Makefile: drivers/soc/ixp4xx/Makefile
+# CONFIG_IXP4XX_QMGR ixp4xx-qmgr.o 
+# CONFIG_IXP4XX_NPE ixp4xx-npe.o 
+# Reading Makefile: drivers/soc/imx/Makefile
+# CONFIG_ARCH_MXC soc-imx.o 
+# CONFIG_HAVE_IMX_GPC gpc.o 
+# CONFIG_IMX_GPCV2_PM_DOMAINS gpcv2.o 
+# CONFIG_SOC_IMX8M soc-imx8m.o 
+# CONFIG_SOC_IMX8M imx8m-blk-ctrl.o 
+# CONFIG_SOC_IMX8M imx8mp-blk-ctrl.o 
+# Reading Makefile: drivers/soc/gemini/Makefile
+# Reading Makefile: drivers/soc/fsl/qe/Makefile
+# CONFIG_QUICC_ENGINE qe.o qe_common.o qe_ic.o qe_io.o 
+# CONFIG_CPM qe_common.o 
+# CONFIG_UCC ucc.o 
+# CONFIG_UCC_SLOW ucc_slow.o 
+# CONFIG_UCC_FAST ucc_fast.o 
+# CONFIG_QE_TDM qe_tdm.o 
+# CONFIG_QE_USB usb.o 
+# CONFIG_QE_GPIO gpio.o 
+# Reading Makefile: drivers/soc/fsl/qbman/Makefile
+# CONFIG_FSL_DPAA bman_ccsr.o qman_ccsr.o 						   bman_portal.o qman_portal.o 						   bman.o qman.o dpaa_sys.o 
+# CONFIG_FSL_BMAN_TEST bman-test.o 
+# CONFIG_FSL_QMAN_TEST qman-test.o 
+# Reading Makefile: drivers/soc/fsl/dpio/Makefile
+# CONFIG_FSL_MC_DPIO fsl-mc-dpio.o 
+# Reading Makefile: drivers/soc/fsl/Makefile
+# CONFIG_FSL_DPAA qbman/ 
+# CONFIG_QUICC_ENGINE qe/ 
+# CONFIG_CPM qe/ 
+# CONFIG_FSL_RCPM rcpm.o 
+# CONFIG_FSL_GUTS guts.o 
+# CONFIG_FSL_MC_DPIO dpio/ 
+# CONFIG_DPAA2_CONSOLE dpaa2-console.o 
+# Reading Makefile: drivers/soc/dove/Makefile
+# Reading Makefile: drivers/soc/canaan/Makefile
+# CONFIG_SOC_K210_SYSCTL k210-sysctl.o 
+# Reading Makefile: drivers/soc/bcm/brcmstb/pm/Makefile
+# CONFIG_ARM s2-arm.o pm-arm.o 
+# CONFIG_BMIPS_GENERIC s2-mips.o s3-mips.o pm-mips.o 
+# Reading Makefile: drivers/soc/bcm/brcmstb/Makefile
+# CONFIG_BRCMSTB_PM pm/ 
+# Reading Makefile: drivers/soc/bcm/bcm63xx/Makefile
+# CONFIG_BCM63XX_POWER bcm63xx-power.o 
+# CONFIG_BCM_PMB bcm-pmb.o 
+# Reading Makefile: drivers/soc/bcm/Makefile
+# CONFIG_BCM2835_POWER bcm2835-power.o 
+# CONFIG_RASPBERRYPI_POWER raspberrypi-power.o 
+# CONFIG_SOC_BRCMSTB brcmstb/ 
+# Reading Makefile: drivers/soc/atmel/Makefile
+# CONFIG_AT91_SOC_ID soc.o 
+# CONFIG_AT91_SOC_SFR sfr.o 
+# Reading Makefile: drivers/soc/aspeed/Makefile
+# CONFIG_ASPEED_LPC_CTRL aspeed-lpc-ctrl.o 
+# CONFIG_ASPEED_LPC_SNOOP aspeed-lpc-snoop.o 
+# CONFIG_ASPEED_UART_ROUTING aspeed-uart-routing.o 
+# CONFIG_ASPEED_P2A_CTRL aspeed-p2a-ctrl.o 
+# CONFIG_ASPEED_SOCINFO aspeed-socinfo.o 
+# Reading Makefile: drivers/soc/apple/Makefile
+# CONFIG_APPLE_PMGR_PWRSTATE apple-pmgr-pwrstate.o 
+# CONFIG_APPLE_RTKIT apple-rtkit.o 
+# CONFIG_APPLE_SART apple-sart.o 
+# Reading Makefile: drivers/soc/amlogic/Makefile
+# CONFIG_MESON_CANVAS meson-canvas.o 
+# CONFIG_MESON_CLK_MEASURE meson-clk-measure.o 
+# CONFIG_MESON_GX_SOCINFO meson-gx-socinfo.o 
+# CONFIG_MESON_GX_PM_DOMAINS meson-gx-pwrc-vpu.o 
+# CONFIG_MESON_MX_SOCINFO meson-mx-socinfo.o 
+# CONFIG_MESON_EE_PM_DOMAINS meson-ee-pwrc.o 
+# CONFIG_MESON_SECURE_PM_DOMAINS meson-secure-pwrc.o 
+# Reading Makefile: drivers/soc/actions/Makefile
+# CONFIG_OWL_PM_DOMAINS_HELPER owl-sps-helper.o 
+# CONFIG_OWL_PM_DOMAINS owl-sps.o 
+# Reading Makefile: drivers/soc/Makefile
+# CONFIG_ARCH_ACTIONS actions/ 
+# CONFIG_ARCH_AT91 atmel/ 
+# CONFIG_SOC_CANAAN canaan/ 
+# CONFIG_ARCH_DOVE dove/ 
+# CONFIG_MACH_DOVE dove/ 
+# CONFIG_ARCH_GEMINI gemini/ 
+# CONFIG_SOC_XWAY lantiq/ 
+# CONFIG_LITEX_SOC_CONTROLLER litex/ 
+# CONFIG_SOC_SAMSUNG samsung/ 
+# CONFIG_SOC_SIFIVE sifive/ 
+# CONFIG_ARCH_TEGRA tegra/ 
+# CONFIG_ARCH_U8500 ux500/ 
+# CONFIG_PLAT_VERSATILE versatile/ 

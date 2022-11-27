@@ -1,0 +1,14 @@
+# Reading Makefile: drivers/pinctrl/mvebu/Makefile
+# CONFIG_PINCTRL_MVEBU pinctrl-mvebu.o 
+# CONFIG_PINCTRL_DOVE pinctrl-dove.o 
+# CONFIG_PINCTRL_KIRKWOOD pinctrl-kirkwood.o 
+# CONFIG_PINCTRL_ARMADA_370 pinctrl-armada-370.o 
+# CONFIG_PINCTRL_ARMADA_375 pinctrl-armada-375.o 
+# CONFIG_PINCTRL_ARMADA_38X pinctrl-armada-38x.o 
+# CONFIG_PINCTRL_ARMADA_39X pinctrl-armada-39x.o 
+# CONFIG_PINCTRL_ARMADA_AP806 pinctrl-armada-ap806.o 
+# CONFIG_PINCTRL_ARMADA_CP110 pinctrl-armada-cp110.o 
+# CONFIG_PINCTRL_ARMADA_XP pinctrl-armada-xp.o 
+# CONFIG_PINCTRL_ARMADA_37XX pinctrl-armada-37xx.o 
+# CONFIG_PINCTRL_ORION pinctrl-orion.o 
+# CONFIG_PINCTRL_AC5 pinctrl-ac5.o 

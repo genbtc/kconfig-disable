@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/wireless/microchip/wilc1000/Makefile
+# CONFIG_WILC1000 wilc1000.o 
+# CONFIG_WILC1000_SDIO wilc1000-sdio.o 
+# CONFIG_WILC1000_SPI wilc1000-spi.o 

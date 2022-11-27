@@ -1,0 +1,2 @@
+# Reading Makefile: fs/efs/Makefile
+# CONFIG_EFS_FS efs.o 

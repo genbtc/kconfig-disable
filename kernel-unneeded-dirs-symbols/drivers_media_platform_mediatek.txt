@@ -1,0 +1,9 @@
+# Reading Makefile: drivers/media/platform/mediatek/vpu/Makefile
+# CONFIG_VIDEO_MEDIATEK_VPU mtk-vpu.o 
+# Reading Makefile: drivers/media/platform/mediatek/vcodec/Makefile
+# CONFIG_VIDEO_MEDIATEK_VCODEC mtk-vcodec-dec.o 				       mtk-vcodec-enc.o 				       mtk-vcodec-common.o 				       mtk-vcodec-dec-hw.o 
+# Reading Makefile: drivers/media/platform/mediatek/mdp/Makefile
+# CONFIG_VIDEO_MEDIATEK_MDP mtk-mdp.o 
+# Reading Makefile: drivers/media/platform/mediatek/jpeg/Makefile
+# CONFIG_VIDEO_MEDIATEK_JPEG mtk_jpeg.o 
+# Reading Makefile: drivers/media/platform/mediatek/Makefile

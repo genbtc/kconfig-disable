@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/block/zram/Makefile
+# CONFIG_ZRAM zram.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/usb/mtu3/Makefile
+# CONFIG_USB_MTU3 mtu3.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/wireless/ti/wl12xx/Makefile
+# CONFIG_WL12XX wl12xx.o 

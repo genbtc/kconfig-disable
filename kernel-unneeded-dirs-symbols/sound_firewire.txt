@@ -1,0 +1,27 @@
+# Reading Makefile: sound/firewire/tascam/Makefile
+# CONFIG_SND_FIREWIRE_TASCAM snd-firewire-tascam.o 
+# Reading Makefile: sound/firewire/oxfw/Makefile
+# CONFIG_SND_OXFW snd-oxfw.o 
+# Reading Makefile: sound/firewire/motu/Makefile
+# CONFIG_SND_FIREWIRE_MOTU snd-firewire-motu.o 
+# Reading Makefile: sound/firewire/fireworks/Makefile
+# CONFIG_SND_FIREWORKS snd-fireworks.o 
+# Reading Makefile: sound/firewire/fireface/Makefile
+# CONFIG_SND_FIREFACE snd-fireface.o 
+# Reading Makefile: sound/firewire/digi00x/Makefile
+# CONFIG_SND_FIREWIRE_DIGI00X snd-firewire-digi00x.o 
+# Reading Makefile: sound/firewire/dice/Makefile
+# CONFIG_SND_DICE snd-dice.o 
+# Reading Makefile: sound/firewire/bebob/Makefile
+# CONFIG_SND_BEBOB snd-bebob.o 
+# Reading Makefile: sound/firewire/Makefile
+# CONFIG_SND_FIREWIRE_LIB snd-firewire-lib.o 
+# CONFIG_SND_DICE dice/ 
+# CONFIG_SND_OXFW oxfw/ 
+# CONFIG_SND_ISIGHT snd-isight.o 
+# CONFIG_SND_FIREWORKS fireworks/ 
+# CONFIG_SND_BEBOB bebob/ 
+# CONFIG_SND_FIREWIRE_DIGI00X digi00x/ 
+# CONFIG_SND_FIREWIRE_TASCAM tascam/ 
+# CONFIG_SND_FIREWIRE_MOTU motu/ 
+# CONFIG_SND_FIREFACE fireface/ 

@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/pinctrl/berlin/Makefile
+# CONFIG_PINCTRL_BERLIN_BG2 berlin-bg2.o 
+# CONFIG_PINCTRL_BERLIN_BG2CD berlin-bg2cd.o 
+# CONFIG_PINCTRL_BERLIN_BG2Q berlin-bg2q.o 
+# CONFIG_PINCTRL_BERLIN_BG4CT berlin-bg4ct.o 
+# CONFIG_PINCTRL_AS370 pinctrl-as370.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/target/sbp/Makefile
+# CONFIG_SBP_TARGET sbp_target.o 

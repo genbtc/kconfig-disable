@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/samsung/s5p-jpeg/Makefile
+# CONFIG_VIDEO_SAMSUNG_S5P_JPEG s5p-jpeg.o 

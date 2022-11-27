@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/mgag200/Makefile
+# CONFIG_DRM_MGAG200 mgag200.o 

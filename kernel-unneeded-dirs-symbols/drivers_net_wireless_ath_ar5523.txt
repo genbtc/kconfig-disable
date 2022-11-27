@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/wireless/ath/ar5523/Makefile
+# CONFIG_AR5523 ar5523.o 

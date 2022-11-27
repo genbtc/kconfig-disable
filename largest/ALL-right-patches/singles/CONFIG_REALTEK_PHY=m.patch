@@ -1,0 +1,12 @@
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:28.791610362 -0400
+@@ -3431,7 +3431,7 @@
+ # CONFIG_NXP_TJA11XX_PHY is not set
+ CONFIG_AT803X_PHY=m
+ CONFIG_QSEMI_PHY=m
+-CONFIG_REALTEK_PHY=y
++CONFIG_REALTEK_PHY=m
+ # CONFIG_RENESAS_PHY is not set
+ # CONFIG_ROCKCHIP_PHY is not set
+ CONFIG_SMSC_PHY=m

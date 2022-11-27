@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/soundwire/Makefile
+# CONFIG_SOUNDWIRE soundwire-bus.o 
+# CONFIG_SOUNDWIRE_GENERIC_ALLOCATION soundwire-generic-allocation.o 
+# CONFIG_SOUNDWIRE_CADENCE soundwire-cadence.o 
+# CONFIG_SOUNDWIRE_INTEL soundwire-intel.o 
+# CONFIG_SOUNDWIRE_QCOM soundwire-qcom.o 

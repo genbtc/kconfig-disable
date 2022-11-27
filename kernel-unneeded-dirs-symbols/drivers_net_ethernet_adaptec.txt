@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/adaptec/Makefile
+# CONFIG_ADAPTEC_STARFIRE starfire.o 

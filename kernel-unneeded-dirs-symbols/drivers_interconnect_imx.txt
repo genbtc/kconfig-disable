@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/interconnect/imx/Makefile
+# CONFIG_INTERCONNECT_IMX imx-interconnect.o 
+# CONFIG_INTERCONNECT_IMX8MM imx8mm-interconnect.o 
+# CONFIG_INTERCONNECT_IMX8MQ imx8mq-interconnect.o 
+# CONFIG_INTERCONNECT_IMX8MN imx8mn-interconnect.o 

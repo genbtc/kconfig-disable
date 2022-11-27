@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/nvme/target/Makefile
+# CONFIG_NVME_TARGET nvmet.o 
+# CONFIG_NVME_TARGET_LOOP nvme-loop.o 
+# CONFIG_NVME_TARGET_RDMA nvmet-rdma.o 
+# CONFIG_NVME_TARGET_FC nvmet-fc.o 
+# CONFIG_NVME_TARGET_FCLOOP nvme-fcloop.o 
+# CONFIG_NVME_TARGET_TCP nvmet-tcp.o 

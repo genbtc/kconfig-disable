@@ -1,0 +1,22 @@
+# Reading Makefile: drivers/vdpa/virtio_pci/Makefile
+# CONFIG_VP_VDPA vp_vdpa.o 
+# Reading Makefile: drivers/vdpa/vdpa_user/Makefile
+# CONFIG_VDPA_USER vduse.o 
+# Reading Makefile: drivers/vdpa/vdpa_sim/Makefile
+# CONFIG_VDPA_SIM vdpa_sim.o 
+# CONFIG_VDPA_SIM_NET vdpa_sim_net.o 
+# CONFIG_VDPA_SIM_BLOCK vdpa_sim_blk.o 
+# Reading Makefile: drivers/vdpa/mlx5/Makefile
+# CONFIG_MLX5_VDPA_NET mlx5_vdpa.o 
+# Reading Makefile: drivers/vdpa/ifcvf/Makefile
+# CONFIG_IFCVF ifcvf.o 
+# Reading Makefile: drivers/vdpa/alibaba/Makefile
+# CONFIG_ALIBABA_ENI_VDPA eni_vdpa.o 
+# Reading Makefile: drivers/vdpa/Makefile
+# CONFIG_VDPA vdpa.o 
+# CONFIG_VDPA_SIM vdpa_sim/ 
+# CONFIG_VDPA_USER vdpa_user/ 
+# CONFIG_IFCVF ifcvf/ 
+# CONFIG_MLX5_VDPA mlx5/ 
+# CONFIG_VP_VDPA virtio_pci/ 
+# CONFIG_ALIBABA_ENI_VDPA alibaba/ 

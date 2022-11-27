@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/usb/gspca/stv06xx/Makefile
+# CONFIG_USB_STV06XX gspca_stv06xx.o 

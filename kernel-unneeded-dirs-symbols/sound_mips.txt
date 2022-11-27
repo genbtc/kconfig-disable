@@ -1,0 +1,4 @@
+# Reading Makefile: sound/mips/Makefile
+# CONFIG_SND_SGI_O2 snd-sgi-o2.o 
+# CONFIG_SND_SGI_HAL2 snd-sgi-hal2.o 
+# CONFIG_SND_N64 snd-n64.o 

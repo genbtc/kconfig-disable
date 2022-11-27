@@ -1,0 +1,17 @@
+# Reading Makefile: drivers/accessibility/speakup/Makefile
+# CONFIG_SPEAKUP_SYNTH_ACNTSA speakup_acntsa.o 
+# CONFIG_SPEAKUP_SYNTH_ACNTPC speakup_acntpc.o 
+# CONFIG_SPEAKUP_SYNTH_APOLLO speakup_apollo.o 
+# CONFIG_SPEAKUP_SYNTH_AUDPTR speakup_audptr.o 
+# CONFIG_SPEAKUP_SYNTH_BNS speakup_bns.o 
+# CONFIG_SPEAKUP_SYNTH_DECTLK speakup_dectlk.o 
+# CONFIG_SPEAKUP_SYNTH_DECEXT speakup_decext.o 
+# CONFIG_SPEAKUP_SYNTH_DECPC speakup_decpc.o 
+# CONFIG_SPEAKUP_SYNTH_DTLK speakup_dtlk.o 
+# CONFIG_SPEAKUP_SYNTH_KEYPC speakup_keypc.o 
+# CONFIG_SPEAKUP_SYNTH_LTLK speakup_ltlk.o 
+# CONFIG_SPEAKUP_SYNTH_SOFT speakup_soft.o 
+# CONFIG_SPEAKUP_SYNTH_SPKOUT speakup_spkout.o 
+# CONFIG_SPEAKUP_SYNTH_TXPRT speakup_txprt.o 
+# CONFIG_SPEAKUP_SYNTH_DUMMY speakup_dummy.o 
+# CONFIG_SPEAKUP speakup.o 

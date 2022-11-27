@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/pinctrl/sunplus/Makefile
+# CONFIG_PINCTRL_SPPCTL sppinctrl.o 

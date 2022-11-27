@@ -1,0 +1,40 @@
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8821ae/Makefile
+# CONFIG_RTL8821AE rtl8821ae.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8723com/Makefile
+# CONFIG_RTL8723_COMMON rtl8723-common.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8723be/Makefile
+# CONFIG_RTL8723BE rtl8723be.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8723ae/Makefile
+# CONFIG_RTL8723AE rtl8723ae.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8192se/Makefile
+# CONFIG_RTL8192SE rtl8192se.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8192ee/Makefile
+# CONFIG_RTL8192EE rtl8192ee.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8192de/Makefile
+# CONFIG_RTL8192DE rtl8192de.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8192cu/Makefile
+# CONFIG_RTL8192CU rtl8192cu.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8192ce/Makefile
+# CONFIG_RTL8192CE rtl8192ce.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8192c/Makefile
+# CONFIG_RTL8192C_COMMON rtl8192c-common.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/rtl8188ee/Makefile
+# CONFIG_RTL8188EE rtl8188ee.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/btcoexist/Makefile
+# CONFIG_RTLBTCOEXIST btcoexist.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtlwifi/Makefile
+# CONFIG_RTLWIFI rtlwifi.o 
+# CONFIG_RTLWIFI_PCI rtl_pci.o 
+# CONFIG_RTLWIFI_USB rtl_usb.o 
+# CONFIG_RTL8192C_COMMON rtl8192c/ 
+# CONFIG_RTL8192CE rtl8192ce/ 
+# CONFIG_RTL8192CU rtl8192cu/ 
+# CONFIG_RTL8192SE rtl8192se/ 
+# CONFIG_RTL8192DE rtl8192de/ 
+# CONFIG_RTL8723AE rtl8723ae/ 
+# CONFIG_RTL8723BE rtl8723be/ 
+# CONFIG_RTL8188EE rtl8188ee/ 
+# CONFIG_RTLBTCOEXIST btcoexist/ 
+# CONFIG_RTL8723_COMMON rtl8723com/ 
+# CONFIG_RTL8821AE rtl8821ae/ 
+# CONFIG_RTL8192EE rtl8192ee/ 

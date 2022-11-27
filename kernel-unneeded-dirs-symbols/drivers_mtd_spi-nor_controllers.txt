@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/mtd/spi-nor/controllers/Makefile
+# CONFIG_SPI_HISI_SFC hisi-sfc.o 
+# CONFIG_SPI_NXP_SPIFI nxp-spifi.o 

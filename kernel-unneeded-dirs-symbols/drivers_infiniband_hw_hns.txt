@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/infiniband/hw/hns/Makefile
+# CONFIG_INFINIBAND_HNS hns-roce-hw-v2.o 

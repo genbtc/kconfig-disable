@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/vt6655/Makefile
+# CONFIG_VT6655 vt6655_stage.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/rtl8723bs/Makefile
+# CONFIG_RTL8723BS r8723bs.o 

@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/can/cc770/Makefile
+# CONFIG_CAN_CC770 cc770.o 
+# CONFIG_CAN_CC770_ISA cc770_isa.o 
+# CONFIG_CAN_CC770_PLATFORM cc770_platform.o 

@@ -1,0 +1,8 @@
+# Reading Makefile: drivers/firmware/google/Makefile
+# CONFIG_GOOGLE_SMI gsmi.o 
+# CONFIG_GOOGLE_COREBOOT_TABLE coreboot_table.o 
+# CONFIG_GOOGLE_FRAMEBUFFER_COREBOOT framebuffer-coreboot.o 
+# CONFIG_GOOGLE_MEMCONSOLE memconsole.o 
+# CONFIG_GOOGLE_MEMCONSOLE_COREBOOT memconsole-coreboot.o 
+# CONFIG_GOOGLE_MEMCONSOLE_X86_LEGACY memconsole-x86-legacy.o 
+# CONFIG_GOOGLE_VPD vpd-sysfs.o 

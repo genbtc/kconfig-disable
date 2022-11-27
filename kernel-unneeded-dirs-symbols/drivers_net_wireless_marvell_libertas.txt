@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/net/wireless/marvell/libertas/Makefile
+# CONFIG_LIBERTAS libertas.o 
+# CONFIG_LIBERTAS_USB usb8xxx.o 
+# CONFIG_LIBERTAS_CS libertas_cs.o 
+# CONFIG_LIBERTAS_SDIO libertas_sdio.o 
+# CONFIG_LIBERTAS_SPI libertas_spi.o 

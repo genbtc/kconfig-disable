@@ -1,0 +1,3 @@
+# Reading Makefile: fs/verity/Makefile
+# CONFIG_FS_VERITY enable.o 			   hash_algs.o 			   init.o 			   measure.o 			   open.o 			   read_metadata.o 			   verify.o 
+# CONFIG_FS_VERITY_BUILTIN_SIGNATURES signature.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/media/meson/vdec/Makefile
+# CONFIG_VIDEO_MESON_VDEC meson-vdec.o 

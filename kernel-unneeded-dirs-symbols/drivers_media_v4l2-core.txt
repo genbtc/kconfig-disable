@@ -1,0 +1,14 @@
+# Reading Makefile: drivers/media/v4l2-core/Makefile
+# CONFIG_V4L2_ASYNC v4l2-async.o 
+# CONFIG_V4L2_FLASH_LED_CLASS v4l2-flash-led-class.o 
+# CONFIG_V4L2_FWNODE v4l2-fwnode.o 
+# CONFIG_V4L2_H264 v4l2-h264.o 
+# CONFIG_V4L2_JPEG_HELPER v4l2-jpeg.o 
+# CONFIG_V4L2_MEM2MEM_DEV v4l2-mem2mem.o 
+# CONFIG_V4L2_VP9 v4l2-vp9.o 
+# CONFIG_VIDEOBUF_DMA_CONTIG videobuf-dma-contig.o 
+# CONFIG_VIDEOBUF_DMA_SG videobuf-dma-sg.o 
+# CONFIG_VIDEOBUF_GEN videobuf-core.o 
+# CONFIG_VIDEOBUF_VMALLOC videobuf-vmalloc.o 
+# CONFIG_VIDEO_TUNER tuner.o 
+# CONFIG_VIDEO_DEV v4l2-dv-timings.o videodev.o 

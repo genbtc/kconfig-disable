@@ -1,0 +1,14 @@
+# Reading Makefile: fs/nfs/flexfilelayout/Makefile
+# CONFIG_PNFS_FLEXFILE_LAYOUT nfs_layout_flexfiles.o 
+# Reading Makefile: fs/nfs/filelayout/Makefile
+# CONFIG_PNFS_FILE_LAYOUT nfs_layout_nfsv41_files.o 
+# Reading Makefile: fs/nfs/blocklayout/Makefile
+# CONFIG_PNFS_BLOCK blocklayoutdriver.o 
+# Reading Makefile: fs/nfs/Makefile
+# CONFIG_NFS_FS nfs.o 
+# CONFIG_NFS_V2 nfsv2.o 
+# CONFIG_NFS_V3 nfsv3.o 
+# CONFIG_NFS_V4 nfsv4.o 
+# CONFIG_PNFS_FILE_LAYOUT filelayout/ 
+# CONFIG_PNFS_BLOCK blocklayout/ 
+# CONFIG_PNFS_FLEXFILE_LAYOUT flexfilelayout/ 

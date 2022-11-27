@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/wireless/ti/wl1251/Makefile
+# CONFIG_WL1251 wl1251.o 
+# CONFIG_WL1251_SPI wl1251_spi.o 
+# CONFIG_WL1251_SDIO wl1251_sdio.o 

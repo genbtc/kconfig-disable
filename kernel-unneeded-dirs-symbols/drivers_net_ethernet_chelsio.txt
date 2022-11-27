@@ -1,0 +1,27 @@
+# Reading Makefile: drivers/net/ethernet/chelsio/libcxgb/Makefile
+# CONFIG_CHELSIO_LIB libcxgb.o 
+# Reading Makefile: drivers/net/ethernet/chelsio/inline_crypto/chtls/Makefile
+# CONFIG_CRYPTO_DEV_CHELSIO_TLS chtls.o 
+# Reading Makefile: drivers/net/ethernet/chelsio/inline_crypto/ch_ktls/Makefile
+# CONFIG_CHELSIO_TLS_DEVICE ch_ktls.o 
+# Reading Makefile: drivers/net/ethernet/chelsio/inline_crypto/ch_ipsec/Makefile
+# CONFIG_CHELSIO_IPSEC_INLINE ch_ipsec.o 
+# Reading Makefile: drivers/net/ethernet/chelsio/inline_crypto/Makefile
+# CONFIG_CRYPTO_DEV_CHELSIO_TLS chtls/ 
+# CONFIG_CHELSIO_IPSEC_INLINE ch_ipsec/ 
+# CONFIG_CHELSIO_TLS_DEVICE ch_ktls/ 
+# Reading Makefile: drivers/net/ethernet/chelsio/cxgb4vf/Makefile
+# CONFIG_CHELSIO_T4VF cxgb4vf.o 
+# Reading Makefile: drivers/net/ethernet/chelsio/cxgb4/Makefile
+# CONFIG_CHELSIO_T4 cxgb4.o 
+# Reading Makefile: drivers/net/ethernet/chelsio/cxgb3/Makefile
+# CONFIG_CHELSIO_T3 cxgb3.o 
+# Reading Makefile: drivers/net/ethernet/chelsio/cxgb/Makefile
+# CONFIG_CHELSIO_T1 cxgb.o 
+# Reading Makefile: drivers/net/ethernet/chelsio/Makefile
+# CONFIG_CHELSIO_T1 cxgb/ 
+# CONFIG_CHELSIO_T3 cxgb3/ 
+# CONFIG_CHELSIO_T4 cxgb4/ 
+# CONFIG_CHELSIO_T4VF cxgb4vf/ 
+# CONFIG_CHELSIO_LIB libcxgb/ 
+# CONFIG_CHELSIO_INLINE_CRYPTO inline_crypto/ 

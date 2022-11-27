@@ -1,0 +1,8 @@
+# Reading Makefile: drivers/net/ethernet/sfc/siena/Makefile
+# CONFIG_SFC_SIENA sfc-siena.o 
+# Reading Makefile: drivers/net/ethernet/sfc/falcon/Makefile
+# CONFIG_SFC_FALCON sfc-falcon.o 
+# Reading Makefile: drivers/net/ethernet/sfc/Makefile
+# CONFIG_SFC sfc.o 
+# CONFIG_SFC_FALCON falcon/ 
+# CONFIG_SFC_SIENA siena/ 

@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/wireless/intel/iwlegacy/Makefile
+# CONFIG_IWLEGACY iwlegacy.o 
+# CONFIG_IWL4965 iwl4965.o 
+# CONFIG_IWL3945 iwl3945.o 

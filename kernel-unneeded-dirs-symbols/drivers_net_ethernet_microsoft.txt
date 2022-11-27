@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/microsoft/mana/Makefile
+# CONFIG_MICROSOFT_MANA mana.o 
+# Reading Makefile: drivers/net/ethernet/microsoft/Makefile
+# CONFIG_MICROSOFT_MANA mana/ 

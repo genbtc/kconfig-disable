@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/media/usb/tm6000/Makefile
+# CONFIG_VIDEO_TM6000 tm6000.o 
+# CONFIG_VIDEO_TM6000_ALSA tm6000-alsa.o 
+# CONFIG_VIDEO_TM6000_DVB tm6000-dvb.o 

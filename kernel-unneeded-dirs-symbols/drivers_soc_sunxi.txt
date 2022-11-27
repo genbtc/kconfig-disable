@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/soc/sunxi/Makefile
+# CONFIG_SUNXI_MBUS sunxi_mbus.o 
+# CONFIG_SUNXI_SRAM sunxi_sram.o 

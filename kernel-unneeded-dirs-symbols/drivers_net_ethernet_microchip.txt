@@ -1,0 +1,10 @@
+# Reading Makefile: drivers/net/ethernet/microchip/sparx5/Makefile
+# CONFIG_SPARX5_SWITCH sparx5-switch.o 
+# Reading Makefile: drivers/net/ethernet/microchip/lan966x/Makefile
+# CONFIG_LAN966X_SWITCH lan966x-switch.o 
+# Reading Makefile: drivers/net/ethernet/microchip/Makefile
+# CONFIG_ENC28J60 enc28j60.o 
+# CONFIG_ENCX24J600 encx24j600.o encx24j600-regmap.o 
+# CONFIG_LAN743X lan743x.o 
+# CONFIG_LAN966X_SWITCH lan966x/ 
+# CONFIG_SPARX5_SWITCH sparx5/ 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/media/tegra-video/Makefile
+# CONFIG_VIDEO_TEGRA tegra-video.o 

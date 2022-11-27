@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/exynos/Makefile
+# CONFIG_DRM_EXYNOS exynosdrm.o 

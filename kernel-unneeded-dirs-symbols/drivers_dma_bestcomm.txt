@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/dma/bestcomm/Makefile
+# CONFIG_PPC_BESTCOMM bestcomm-core.o 
+# CONFIG_PPC_BESTCOMM_ATA bestcomm-ata.o 
+# CONFIG_PPC_BESTCOMM_FEC bestcomm-fec.o 
+# CONFIG_PPC_BESTCOMM_GEN_BD bestcomm-gen-bd.o 

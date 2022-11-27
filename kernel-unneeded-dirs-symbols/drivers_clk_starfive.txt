@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/clk/starfive/Makefile
+# CONFIG_CLK_STARFIVE_JH7100 clk-starfive-jh7100.o 
+# CONFIG_CLK_STARFIVE_JH7100_AUDIO clk-starfive-jh7100-audio.o 

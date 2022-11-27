@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/nxp/Makefile
+# CONFIG_LPC_ENET lpc_eth.o 

@@ -1,0 +1,19 @@
+# Reading Makefile: drivers/net/wireless/marvell/mwifiex/Makefile
+# CONFIG_MWIFIEX mwifiex.o 
+# CONFIG_MWIFIEX_SDIO mwifiex_sdio.o 
+# CONFIG_MWIFIEX_PCIE mwifiex_pcie.o 
+# CONFIG_MWIFIEX_USB mwifiex_usb.o 
+# Reading Makefile: drivers/net/wireless/marvell/libertas_tf/Makefile
+# CONFIG_LIBERTAS_THINFIRM libertas_tf.o 
+# CONFIG_LIBERTAS_THINFIRM_USB libertas_tf_usb.o 
+# Reading Makefile: drivers/net/wireless/marvell/libertas/Makefile
+# CONFIG_LIBERTAS libertas.o 
+# CONFIG_LIBERTAS_USB usb8xxx.o 
+# CONFIG_LIBERTAS_CS libertas_cs.o 
+# CONFIG_LIBERTAS_SDIO libertas_sdio.o 
+# CONFIG_LIBERTAS_SPI libertas_spi.o 
+# Reading Makefile: drivers/net/wireless/marvell/Makefile
+# CONFIG_LIBERTAS libertas/ 
+# CONFIG_LIBERTAS_THINFIRM libertas_tf/ 
+# CONFIG_MWIFIEX mwifiex/ 
+# CONFIG_MWL8K mwl8k.o 

@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/firmware/broadcom/Makefile
+# CONFIG_BCM47XX_NVRAM bcm47xx_nvram.o 
+# CONFIG_BCM47XX_SPROM bcm47xx_sprom.o 
+# CONFIG_TEE_BNXT_FW tee_bnxt_fw.o 

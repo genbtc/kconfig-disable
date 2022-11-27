@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/ks7010/Makefile
+# CONFIG_KS7010 ks7010.o 

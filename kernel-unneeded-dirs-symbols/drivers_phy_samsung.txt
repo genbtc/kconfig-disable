@@ -1,0 +1,8 @@
+# Reading Makefile: drivers/phy/samsung/Makefile
+# CONFIG_PHY_EXYNOS_DP_VIDEO phy-exynos-dp-video.o 
+# CONFIG_PHY_EXYNOS_MIPI_VIDEO phy-exynos-mipi-video.o 
+# CONFIG_PHY_EXYNOS_PCIE phy-exynos-pcie.o 
+# CONFIG_PHY_SAMSUNG_UFS phy-exynos-ufs.o 
+# CONFIG_PHY_SAMSUNG_USB2 phy-exynos-usb2.o 
+# CONFIG_PHY_EXYNOS5_USBDRD phy-exynos5-usbdrd.o 
+# CONFIG_PHY_EXYNOS5250_SATA phy-exynos5250-sata.o 

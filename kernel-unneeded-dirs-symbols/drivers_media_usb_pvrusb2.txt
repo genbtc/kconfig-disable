@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/usb/pvrusb2/Makefile
+# CONFIG_VIDEO_PVRUSB2 pvrusb2.o 

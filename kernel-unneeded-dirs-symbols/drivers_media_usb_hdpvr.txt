@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/usb/hdpvr/Makefile
+# CONFIG_VIDEO_HDPVR hdpvr.o 

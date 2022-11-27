@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/media/omap4iss/Makefile
+# CONFIG_VIDEO_OMAP4 omap4-iss.o 

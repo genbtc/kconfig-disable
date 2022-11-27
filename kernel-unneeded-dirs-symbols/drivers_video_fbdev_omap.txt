@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/video/fbdev/omap/Makefile
+# CONFIG_FB_OMAP omapfb.o 
+# CONFIG_FB_OMAP $(lcds-yy) 

@@ -1,0 +1,2 @@
+# Reading Makefile: sound/atmel/Makefile
+# CONFIG_SND_ATMEL_AC97C snd-atmel-ac97c.o 

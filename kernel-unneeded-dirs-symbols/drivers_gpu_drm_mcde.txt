@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/mcde/Makefile
+# CONFIG_DRM_MCDE mcde_drm.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: fs/orangefs/Makefile
+# CONFIG_ORANGEFS_FS orangefs.o 

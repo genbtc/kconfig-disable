@@ -1,0 +1,9 @@
+# Reading Makefile: drivers/net/ethernet/ibm/emac/Makefile
+# CONFIG_IBM_EMAC ibm_emac.o 
+# Reading Makefile: drivers/net/ethernet/ibm/ehea/Makefile
+# CONFIG_EHEA ehea.o 
+# Reading Makefile: drivers/net/ethernet/ibm/Makefile
+# CONFIG_IBMVETH ibmveth.o 
+# CONFIG_IBMVNIC ibmvnic.o 
+# CONFIG_IBM_EMAC emac/ 
+# CONFIG_EHEA ehea/ 

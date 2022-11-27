@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/test-drivers/vidtv/Makefile
+# CONFIG_DVB_VIDTV dvb-vidtv-tuner.o dvb-vidtv-demod.o 			   dvb-vidtv-bridge.o 

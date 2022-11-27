@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/freescale/fman/Makefile
+# CONFIG_FSL_FMAN fsl_dpaa_fman.o 
+# CONFIG_FSL_FMAN fsl_dpaa_fman_port.o 
+# CONFIG_FSL_FMAN fsl_dpaa_mac.o 

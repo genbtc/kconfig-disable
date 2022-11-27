@@ -1,0 +1,2 @@
+# Reading Makefile: sound/soc/xtensa/Makefile
+# CONFIG_SND_SOC_XTFPGA_I2S snd-soc-xtfpga-i2s.o 

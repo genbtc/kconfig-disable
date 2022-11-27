@@ -1,0 +1,8 @@
+# Reading Makefile: drivers/gpu/drm/arm/display/komeda/Makefile
+# CONFIG_DRM_KOMEDA komeda.o 
+# Reading Makefile: drivers/gpu/drm/arm/display/Kbuild
+# CONFIG_DRM_KOMEDA komeda/ 
+# Reading Makefile: drivers/gpu/drm/arm/Makefile
+# CONFIG_DRM_HDLCD hdlcd.o 
+# CONFIG_DRM_MALI_DISPLAY mali-dp.o 
+# CONFIG_DRM_KOMEDA display/ 

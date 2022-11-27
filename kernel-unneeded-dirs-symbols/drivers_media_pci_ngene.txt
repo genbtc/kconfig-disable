@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/pci/ngene/Makefile
+# CONFIG_DVB_NGENE ngene.o 

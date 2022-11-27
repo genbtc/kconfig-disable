@@ -1,0 +1,2 @@
+# Reading Makefile: fs/omfs/Makefile
+# CONFIG_OMFS_FS omfs.o 

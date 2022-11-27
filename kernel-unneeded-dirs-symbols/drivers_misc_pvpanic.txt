@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/misc/pvpanic/Makefile
+# CONFIG_PVPANIC_MMIO pvpanic.o pvpanic-mmio.o 
+# CONFIG_PVPANIC_PCI pvpanic.o pvpanic-pci.o 

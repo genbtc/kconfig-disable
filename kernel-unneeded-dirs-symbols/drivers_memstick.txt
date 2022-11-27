@@ -1,0 +1,13 @@
+# Reading Makefile: drivers/memstick/host/Makefile
+# CONFIG_MEMSTICK_TIFM_MS tifm_ms.o 
+# CONFIG_MEMSTICK_JMICRON_38X jmb38x_ms.o 
+# CONFIG_MEMSTICK_R592 r592.o 
+# CONFIG_MEMSTICK_REALTEK_PCI rtsx_pci_ms.o 
+# CONFIG_MEMSTICK_REALTEK_USB rtsx_usb_ms.o 
+# Reading Makefile: drivers/memstick/core/Makefile
+# CONFIG_MEMSTICK memstick.o 
+# CONFIG_MS_BLOCK ms_block.o 
+# CONFIG_MSPRO_BLOCK mspro_block.o 
+# Reading Makefile: drivers/memstick/Makefile
+# CONFIG_MEMSTICK core/ 
+# CONFIG_MEMSTICK host/ 

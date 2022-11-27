@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/most/i2c/Makefile
+# CONFIG_MOST_I2C most_i2c.o 

@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/media/pci/bt8xx/Makefile
+# CONFIG_VIDEO_BT848 bttv.o 
+# CONFIG_DVB_BT8XX bt878.o dvb-bt8xx.o dst.o dst_ca.o 

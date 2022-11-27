@@ -1,0 +1,2 @@
+# Reading Makefile: fs/ntfs3/Makefile
+# CONFIG_NTFS3_FS ntfs3.o 

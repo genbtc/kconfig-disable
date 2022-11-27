@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/net/ethernet/i825xx/Makefile
+# CONFIG_ARM_ETHER1 ether1.o 
+# CONFIG_SUN3_82586 sun3_82586.o 
+# CONFIG_LASI_82596 lasi_82596.o 
+# CONFIG_SNI_82596 sni_82596.o 
+# CONFIG_MVME16x_NET 82596.o 
+# CONFIG_BVME6000_NET 82596.o 

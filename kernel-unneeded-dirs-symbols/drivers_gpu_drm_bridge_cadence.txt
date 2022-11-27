@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/bridge/cadence/Makefile
+# CONFIG_DRM_CDNS_MHDP8546 cdns-mhdp8546.o 

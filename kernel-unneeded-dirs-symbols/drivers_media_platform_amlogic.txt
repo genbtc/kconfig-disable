@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/media/platform/amlogic/meson-ge2d/Makefile
+# CONFIG_VIDEO_MESON_GE2D ge2d.o 
+# Reading Makefile: drivers/media/platform/amlogic/Makefile

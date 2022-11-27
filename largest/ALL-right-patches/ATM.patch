@@ -1,0 +1,82 @@
+Asynchronous Transfer Mode (ATM)
+ATM is a high-speed networking technology for Local Area Networks
+and Wide Area Networks.  It uses a fixed packet size and is
+connection oriented, allowing for the negotiation of minimum
+bandwidth requirements.
+
+In order to participate in an ATM network, your Linux box needs an
+ATM networking card. If you have that, say Y here and to the driver
+of your ATM card below.
+
+Note that you need a set of user-space programs to actually make use
+of ATM.  See the file <file:Documentation/networking/atm.rst> for
+further details.
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:07.960610380 -0400
+@@ -1649,13 +1649,7 @@
+ CONFIG_TIPC_MEDIA_UDP=y
+ CONFIG_TIPC_CRYPTO=y
+ CONFIG_TIPC_DIAG=m
+-CONFIG_ATM=m
+-CONFIG_ATM_CLIP=m
+-# CONFIG_ATM_CLIP_NO_ICMP is not set
+-CONFIG_ATM_LANE=m
+-# CONFIG_ATM_MPOA is not set
+-CONFIG_ATM_BR2684=m
+-# CONFIG_ATM_BR2684_IPFILTER is not set
++# CONFIG_ATM is not set
+ CONFIG_L2TP=m
+ CONFIG_L2TP_DEBUGFS=m
+ CONFIG_L2TP_V3=y
+@@ -1733,7 +1727,6 @@
+ CONFIG_NET_SCH_CBQ=m
+ CONFIG_NET_SCH_HTB=m
+ CONFIG_NET_SCH_HFSC=m
+-CONFIG_NET_SCH_ATM=m
+ CONFIG_NET_SCH_PRIO=m
+ CONFIG_NET_SCH_MULTIQ=m
+ CONFIG_NET_SCH_RED=m
+@@ -3009,22 +3002,6 @@
+ CONFIG_MHI_NET=m
+ CONFIG_SUNGEM_PHY=m
+ # CONFIG_ARCNET is not set
+-CONFIG_ATM_DRIVERS=y
+-# CONFIG_ATM_DUMMY is not set
+-CONFIG_ATM_TCP=m
+-# CONFIG_ATM_LANAI is not set
+-CONFIG_ATM_ENI=m
+-# CONFIG_ATM_ENI_DEBUG is not set
+-# CONFIG_ATM_ENI_TUNE_BURST is not set
+-CONFIG_ATM_NICSTAR=m
+-# CONFIG_ATM_NICSTAR_USE_SUNI is not set
+-# CONFIG_ATM_NICSTAR_USE_IDT77105 is not set
+-# CONFIG_ATM_IDT77252 is not set
+-# CONFIG_ATM_IA is not set
+-# CONFIG_ATM_FORE200E is not set
+-CONFIG_ATM_HE=m
+-# CONFIG_ATM_HE_USE_SUNI is not set
+-CONFIG_ATM_SOLOS=m
+ 
+ #
+ # Distributed Switch Architecture drivers
+@@ -3484,7 +3461,6 @@
+ CONFIG_PPP_FILTER=y
+ CONFIG_PPP_MPPE=m
+ CONFIG_PPP_MULTILINK=y
+-CONFIG_PPPOATM=m
+ CONFIG_PPPOE=m
+ CONFIG_PPTP=m
+ CONFIG_PPPOL2TP=m
+@@ -7373,11 +7349,6 @@
+ CONFIG_USB_HSIC_USB4604=m
+ # CONFIG_USB_LINK_LAYER_TEST is not set
+ CONFIG_USB_CHAOSKEY=m
+-CONFIG_USB_ATM=m
+-CONFIG_USB_SPEEDTOUCH=m
+-CONFIG_USB_CXACRU=m
+-CONFIG_USB_UEAGLEATM=m
+-CONFIG_USB_XUSBATM=m
+ 
+ #
+ # USB Physical Layer drivers

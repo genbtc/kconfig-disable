@@ -1,0 +1,6 @@
+# Reading Makefile: net/9p/Makefile
+# CONFIG_NET_9P 9pnet.o 
+# CONFIG_NET_9P_FD 9pnet_fd.o 
+# CONFIG_NET_9P_XEN 9pnet_xen.o 
+# CONFIG_NET_9P_VIRTIO 9pnet_virtio.o 
+# CONFIG_NET_9P_RDMA 9pnet_rdma.o 

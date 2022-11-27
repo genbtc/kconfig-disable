@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/clk/microchip/Makefile
+# CONFIG_COMMON_CLK_PIC32 clk-core.o 
+# CONFIG_PIC32MZDA clk-pic32mzda.o 
+# CONFIG_MCHP_CLK_MPFS clk-mpfs.o 

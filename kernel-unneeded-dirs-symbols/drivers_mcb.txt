@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/mcb/Makefile
+# CONFIG_MCB mcb.o 
+# CONFIG_MCB_PCI mcb-pci.o 
+# CONFIG_MCB_LPC mcb-lpc.o 

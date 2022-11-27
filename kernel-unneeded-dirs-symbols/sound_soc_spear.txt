@@ -1,0 +1,4 @@
+# Reading Makefile: sound/soc/spear/Makefile
+# CONFIG_SND_SPEAR_SOC snd-soc-spear-pcm.o 
+# CONFIG_SND_SPEAR_SPDIF_IN snd-soc-spear-spdif-in.o 
+# CONFIG_SND_SPEAR_SPDIF_OUT snd-soc-spear-spdif-out.o 

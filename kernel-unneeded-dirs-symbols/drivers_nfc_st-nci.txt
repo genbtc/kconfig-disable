@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/nfc/st-nci/Makefile
+# CONFIG_NFC_ST_NCI st-nci.o 
+# CONFIG_NFC_ST_NCI_I2C st-nci_i2c.o 
+# CONFIG_NFC_ST_NCI_SPI st-nci_spi.o 

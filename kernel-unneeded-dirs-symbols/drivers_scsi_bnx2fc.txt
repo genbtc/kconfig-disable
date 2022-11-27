@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/scsi/bnx2fc/Makefile
+# CONFIG_SCSI_BNX2X_FCOE bnx2fc.o 

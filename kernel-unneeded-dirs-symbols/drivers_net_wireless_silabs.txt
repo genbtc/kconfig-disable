@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/wireless/silabs/wfx/Makefile
+# CONFIG_WFX wfx.o 
+# Reading Makefile: drivers/net/wireless/silabs/Makefile
+# CONFIG_WFX wfx/ 

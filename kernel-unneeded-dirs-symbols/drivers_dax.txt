@@ -1,0 +1,11 @@
+# Reading Makefile: drivers/dax/pmem/Makefile
+# CONFIG_DEV_DAX_PMEM dax_pmem.o 
+# CONFIG_DEV_DAX_PMEM dax_pmem_core.o 
+# Reading Makefile: drivers/dax/hmem/Makefile
+# CONFIG_DEV_DAX_HMEM dax_hmem.o 
+# CONFIG_DEV_DAX_HMEM_DEVICES device_hmem.o 
+# Reading Makefile: drivers/dax/Makefile
+# CONFIG_DAX dax.o 
+# CONFIG_DEV_DAX device_dax.o 
+# CONFIG_DEV_DAX_KMEM kmem.o 
+# CONFIG_DEV_DAX_PMEM dax_pmem.o 

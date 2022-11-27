@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/ntb/hw/mscc/Makefile
+# CONFIG_NTB_SWITCHTEC ntb_hw_switchtec.o 

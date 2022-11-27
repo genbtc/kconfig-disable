@@ -1,0 +1,2 @@
+# Reading Makefile: fs/befs/Makefile
+# CONFIG_BEFS_FS befs.o 

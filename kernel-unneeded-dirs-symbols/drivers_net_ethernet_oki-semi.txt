@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/oki-semi/pch_gbe/Makefile
+# CONFIG_PCH_GBE pch_gbe.o 
+# Reading Makefile: drivers/net/ethernet/oki-semi/Makefile
+# CONFIG_PCH_GBE pch_gbe/ 

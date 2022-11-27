@@ -1,0 +1,2 @@
+# Reading Makefile: fs/ubifs/Makefile
+# CONFIG_UBIFS_FS ubifs.o 

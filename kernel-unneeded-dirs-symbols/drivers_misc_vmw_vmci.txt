@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/misc/vmw_vmci/Makefile
+# CONFIG_VMWARE_VMCI vmw_vmci.o 

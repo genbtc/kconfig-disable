@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/mtd/lpddr/Makefile
+# CONFIG_MTD_QINFO_PROBE qinfo_probe.o 
+# CONFIG_MTD_LPDDR lpddr_cmds.o 
+# CONFIG_MTD_LPDDR2_NVM lpddr2_nvm.o 

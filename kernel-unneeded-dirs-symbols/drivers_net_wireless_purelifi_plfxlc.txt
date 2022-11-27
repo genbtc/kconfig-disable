@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/wireless/purelifi/plfxlc/Makefile
+# CONFIG_PLFXLC plfxlc.o 

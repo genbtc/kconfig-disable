@@ -1,0 +1,23 @@
+# Reading Makefile: sound/soc/pxa/Makefile
+# CONFIG_SND_PXA2XX_SOC snd-soc-pxa2xx.o 
+# CONFIG_SND_PXA2XX_SOC_AC97 snd-soc-pxa2xx-ac97.o 
+# CONFIG_SND_PXA2XX_SOC_I2S snd-soc-pxa2xx-i2s.o 
+# CONFIG_SND_PXA_SOC_SSP snd-soc-pxa-ssp.o 
+# CONFIG_SND_MMP_SOC snd-soc-mmp.o 
+# CONFIG_SND_MMP_SOC_SSPA snd-soc-mmp-sspa.o 
+# CONFIG_SND_PXA2XX_SOC_CORGI snd-soc-corgi.o 
+# CONFIG_SND_PXA2XX_SOC_POODLE snd-soc-poodle.o 
+# CONFIG_SND_PXA2XX_SOC_TOSA snd-soc-tosa.o 
+# CONFIG_SND_PXA2XX_SOC_E740 snd-soc-e740.o 
+# CONFIG_SND_PXA2XX_SOC_E750 snd-soc-e750.o 
+# CONFIG_SND_PXA2XX_SOC_E800 snd-soc-e800.o 
+# CONFIG_SND_PXA2XX_SOC_SPITZ snd-soc-spitz.o 
+# CONFIG_SND_PXA2XX_SOC_EM_X270 snd-soc-em-x270.o 
+# CONFIG_SND_PXA2XX_SOC_PALM27X snd-soc-palm27x.o 
+# CONFIG_SND_PXA2XX_SOC_HX4700 snd-soc-hx4700.o 
+# CONFIG_SND_PXA2XX_SOC_MAGICIAN snd-soc-magician.o 
+# CONFIG_SND_PXA2XX_SOC_MIOA701 snd-soc-mioa701.o 
+# CONFIG_SND_PXA2XX_SOC_Z2 snd-soc-z2.o 
+# CONFIG_SND_SOC_ZYLONITE snd-soc-zylonite.o 
+# CONFIG_SND_MMP_SOC_BROWNSTONE snd-soc-brownstone.o 
+# CONFIG_SND_SOC_TTC_DKB snd-soc-ttc-dkb.o 

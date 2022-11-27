@@ -1,0 +1,16 @@
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:20:13.673610322 -0400
+@@ -7204,10 +7204,10 @@
+ CONFIG_USB_XHCI_PCI=y
+ CONFIG_USB_XHCI_PCI_RENESAS=y
+ CONFIG_USB_XHCI_PLATFORM=m
+-CONFIG_USB_EHCI_HCD=y
++CONFIG_USB_EHCI_HCD=m
+ CONFIG_USB_EHCI_ROOT_HUB_TT=y
+ CONFIG_USB_EHCI_TT_NEWSCHED=y
+-CONFIG_USB_EHCI_PCI=y
++CONFIG_USB_EHCI_PCI=m
+ # CONFIG_USB_EHCI_FSL is not set
+ # CONFIG_USB_EHCI_HCD_PLATFORM is not set
+ # CONFIG_USB_OXU210HP_HCD is not set

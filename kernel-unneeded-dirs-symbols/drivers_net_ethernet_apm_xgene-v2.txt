@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/apm/xgene-v2/Makefile
+# CONFIG_NET_XGENE_V2 xgene-enet-v2.o 

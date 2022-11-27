@@ -1,0 +1,2 @@
+# Reading Makefile: net/ife/Makefile
+# CONFIG_NET_IFE ife.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/usb/s2255/Makefile
+# CONFIG_USB_S2255 s2255drv.o 

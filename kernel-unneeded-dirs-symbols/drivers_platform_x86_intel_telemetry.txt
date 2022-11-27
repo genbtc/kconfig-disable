@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/platform/x86/intel/telemetry/Makefile
+# CONFIG_INTEL_TELEMETRY intel_telemetry_core.o 
+# CONFIG_INTEL_TELEMETRY intel_telemetry_pltdrv.o 
+# CONFIG_INTEL_TELEMETRY intel_telemetry_debugfs.o 

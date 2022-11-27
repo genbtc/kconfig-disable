@@ -1,0 +1,10 @@
+# Reading Makefile: drivers/crypto/allwinner/sun8i-ss/Makefile
+# CONFIG_CRYPTO_DEV_SUN8I_SS sun8i-ss.o 
+# Reading Makefile: drivers/crypto/allwinner/sun8i-ce/Makefile
+# CONFIG_CRYPTO_DEV_SUN8I_CE sun8i-ce.o 
+# Reading Makefile: drivers/crypto/allwinner/sun4i-ss/Makefile
+# CONFIG_CRYPTO_DEV_SUN4I_SS sun4i-ss.o 
+# Reading Makefile: drivers/crypto/allwinner/Makefile
+# CONFIG_CRYPTO_DEV_SUN4I_SS sun4i-ss/ 
+# CONFIG_CRYPTO_DEV_SUN8I_CE sun8i-ce/ 
+# CONFIG_CRYPTO_DEV_SUN8I_SS sun8i-ss/ 

@@ -1,0 +1,8 @@
+# Reading Makefile: drivers/mmc/core/Makefile
+# CONFIG_MMC mmc_core.o 
+# CONFIG_PWRSEQ_SIMPLE pwrseq_simple.o 
+# CONFIG_PWRSEQ_SD8787 pwrseq_sd8787.o 
+# CONFIG_PWRSEQ_EMMC pwrseq_emmc.o 
+# CONFIG_MMC_BLOCK mmc_block.o 
+# CONFIG_MMC_TEST mmc_test.o 
+# CONFIG_SDIO_UART sdio_uart.o 

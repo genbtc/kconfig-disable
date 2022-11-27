@@ -1,0 +1,22 @@
+# Reading Makefile: drivers/extcon/Makefile
+# CONFIG_EXTCON extcon-core.o 
+# CONFIG_EXTCON_ADC_JACK extcon-adc-jack.o 
+# CONFIG_EXTCON_AXP288 extcon-axp288.o 
+# CONFIG_EXTCON_FSA9480 extcon-fsa9480.o 
+# CONFIG_EXTCON_GPIO extcon-gpio.o 
+# CONFIG_EXTCON_INTEL_INT3496 extcon-intel-int3496.o 
+# CONFIG_EXTCON_INTEL_CHT_WC extcon-intel-cht-wc.o 
+# CONFIG_EXTCON_INTEL_MRFLD extcon-intel-mrfld.o 
+# CONFIG_EXTCON_MAX14577 extcon-max14577.o 
+# CONFIG_EXTCON_MAX3355 extcon-max3355.o 
+# CONFIG_EXTCON_MAX77693 extcon-max77693.o 
+# CONFIG_EXTCON_MAX77843 extcon-max77843.o 
+# CONFIG_EXTCON_MAX8997 extcon-max8997.o 
+# CONFIG_EXTCON_PALMAS extcon-palmas.o 
+# CONFIG_EXTCON_PTN5150 extcon-ptn5150.o 
+# CONFIG_EXTCON_QCOM_SPMI_MISC extcon-qcom-spmi-misc.o 
+# CONFIG_EXTCON_RT8973A extcon-rt8973a.o 
+# CONFIG_EXTCON_SM5502 extcon-sm5502.o 
+# CONFIG_EXTCON_USB_GPIO extcon-usb-gpio.o 
+# CONFIG_EXTCON_USBC_CROS_EC extcon-usbc-cros-ec.o 
+# CONFIG_EXTCON_USBC_TUSB320 extcon-usbc-tusb320.o 

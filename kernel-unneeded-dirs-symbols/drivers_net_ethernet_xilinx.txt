@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/xilinx/Makefile
+# CONFIG_XILINX_LL_TEMAC ll_temac.o 
+# CONFIG_XILINX_EMACLITE xilinx_emaclite.o 
+# CONFIG_XILINX_AXI_EMAC xilinx_emac.o 

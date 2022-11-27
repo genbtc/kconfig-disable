@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/pinctrl/samsung/Makefile
+# CONFIG_PINCTRL_SAMSUNG pinctrl-samsung.o 
+# CONFIG_PINCTRL_EXYNOS pinctrl-exynos.o 
+# CONFIG_PINCTRL_EXYNOS_ARM pinctrl-exynos-arm.o 
+# CONFIG_PINCTRL_EXYNOS_ARM64 pinctrl-exynos-arm64.o 
+# CONFIG_PINCTRL_S3C24XX pinctrl-s3c24xx.o 
+# CONFIG_PINCTRL_S3C64XX pinctrl-s3c64xx.o 

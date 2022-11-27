@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/net/wireless/ath/ath9k/Makefile
+# CONFIG_ATH9K ath9k.o 
+# CONFIG_ATH9K_HW ath9k_hw.o 
+# CONFIG_ATH9K_COMMON ath9k_common.o 
+# CONFIG_ATH9K_HTC ath9k_htc.o 
+# CONFIG_ATH9K_PCI_NO_EEPROM ath9k_pci_owl_loader.o 

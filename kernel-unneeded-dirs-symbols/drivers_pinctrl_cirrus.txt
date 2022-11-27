@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/pinctrl/cirrus/Makefile
+# CONFIG_PINCTRL_LOCHNAGAR pinctrl-lochnagar.o 
+# CONFIG_PINCTRL_MADERA pinctrl-madera.o 

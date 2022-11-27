@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/sprd/Makefile
+# CONFIG_DRM_SPRD sprd-drm.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/media/max96712/Makefile
+# CONFIG_VIDEO_MAX96712 max96712.o 

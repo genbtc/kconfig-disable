@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/virt/nitro_enclaves/Makefile
+# CONFIG_NITRO_ENCLAVES nitro_enclaves.o 

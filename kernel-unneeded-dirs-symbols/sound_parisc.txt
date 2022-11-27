@@ -1,0 +1,2 @@
+# Reading Makefile: sound/parisc/Makefile
+# CONFIG_SND_HARMONY snd-harmony.o 

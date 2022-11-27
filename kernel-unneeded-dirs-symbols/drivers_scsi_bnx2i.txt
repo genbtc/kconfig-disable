@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/scsi/bnx2i/Makefile
+# CONFIG_SCSI_BNX2_ISCSI bnx2i.o 

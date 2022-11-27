@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/pl111/Makefile
+# CONFIG_DRM_PL111 pl111_drm.o 

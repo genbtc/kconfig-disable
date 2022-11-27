@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/ntb/hw/epf/Makefile
+# CONFIG_NTB_EPF ntb_hw_epf.o 

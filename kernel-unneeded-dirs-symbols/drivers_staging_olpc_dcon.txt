@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/olpc_dcon/Makefile
+# CONFIG_FB_OLPC_DCON olpc-dcon.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/tidss/Makefile
+# CONFIG_DRM_TIDSS tidss.o 

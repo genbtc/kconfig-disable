@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/mtd/ubi/Makefile
+# CONFIG_MTD_UBI ubi.o 
+# CONFIG_MTD_UBI_GLUEBI gluebi.o 

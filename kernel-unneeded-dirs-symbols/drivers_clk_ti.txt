@@ -1,0 +1,10 @@
+# Reading Makefile: drivers/clk/ti/Makefile
+# CONFIG_SOC_AM33XX dpll.o composite.o divider.o gate.o 					  fixed-factor.o mux.o apll.o 					  clkt_dpll.o clkt_iclk.o clkt_dflt.o 					  clkctrl.o clk-33xx.o dpll3xxx.o 
+# CONFIG_SOC_TI81XX dpll.o composite.o divider.o gate.o 					  fixed-factor.o mux.o apll.o 					  clkt_dpll.o clkt_iclk.o clkt_dflt.o 					  clkctrl.o fapll.o clk-814x.o clk-816x.o 
+# CONFIG_ARCH_OMAP2 dpll.o composite.o divider.o gate.o 					  fixed-factor.o mux.o apll.o 					  clkt_dpll.o clkt_iclk.o clkt_dflt.o 					  clkctrl.o interface.o clk-2xxx.o 
+# CONFIG_ARCH_OMAP3 dpll.o composite.o divider.o gate.o 					  fixed-factor.o mux.o apll.o 					  clkt_dpll.o clkt_iclk.o clkt_dflt.o 					  clkctrl.o interface.o 					   clk-3xxx.o dpll3xxx.o 
+# CONFIG_ARCH_OMAP4 dpll.o composite.o divider.o gate.o 					  fixed-factor.o mux.o apll.o 					  clkt_dpll.o clkt_iclk.o clkt_dflt.o 					  clkctrl.o clk-44xx.o 					   dpll3xxx.o dpll44xx.o 
+# CONFIG_SOC_OMAP5 dpll.o composite.o divider.o gate.o 					  fixed-factor.o mux.o apll.o 					  clkt_dpll.o clkt_iclk.o clkt_dflt.o 					  clkctrl.o clk-54xx.o 					   dpll3xxx.o dpll44xx.o 
+# CONFIG_SOC_DRA7XX dpll.o composite.o divider.o gate.o 					  fixed-factor.o mux.o apll.o 					  clkt_dpll.o clkt_iclk.o clkt_dflt.o 					  clkctrl.o clk-7xx.o 					   clk-dra7-atl.o dpll3xxx.o 					   dpll44xx.o 
+# CONFIG_SOC_AM43XX dpll.o composite.o divider.o gate.o 					  fixed-factor.o mux.o apll.o 					  clkt_dpll.o clkt_iclk.o clkt_dflt.o 					  clkctrl.o dpll3xxx.o clk-43xx.o 
+# CONFIG_COMMON_CLK_TI_ADPLL adpll.o 

@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/toshiba/Makefile
+# CONFIG_GELIC_NET ps3_gelic.o 
+# CONFIG_SPIDER_NET spidernet.o 
+# CONFIG_TC35815 tc35815.o 

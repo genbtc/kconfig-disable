@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/target/tcm_fc/Makefile
+# CONFIG_TCM_FC tcm_fc.o 

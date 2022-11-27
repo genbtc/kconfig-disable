@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/media/pci/cx18/Makefile
+# CONFIG_VIDEO_CX18 cx18.o 
+# CONFIG_VIDEO_CX18_ALSA cx18-alsa.o 

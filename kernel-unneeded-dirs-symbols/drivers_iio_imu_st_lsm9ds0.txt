@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/iio/imu/st_lsm9ds0/Makefile
+# CONFIG_IIO_ST_LSM9DS0 st_lsm9ds0.o 
+# CONFIG_IIO_ST_LSM9DS0_I2C st_lsm9ds0_i2c.o 
+# CONFIG_IIO_ST_LSM9DS0_SPI st_lsm9ds0_spi.o 

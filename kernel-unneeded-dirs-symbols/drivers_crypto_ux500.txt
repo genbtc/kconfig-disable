@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/crypto/ux500/hash/Makefile
+# CONFIG_CRYPTO_DEV_UX500_HASH ux500_hash.o 
+# Reading Makefile: drivers/crypto/ux500/cryp/Makefile
+# CONFIG_CRYPTO_DEV_UX500_CRYP ux500_cryp.o 
+# Reading Makefile: drivers/crypto/ux500/Makefile
+# CONFIG_CRYPTO_DEV_UX500_HASH hash/ 
+# CONFIG_CRYPTO_DEV_UX500_CRYP cryp/ 

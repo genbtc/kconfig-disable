@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/firmware/arm_ffa/Makefile
+# CONFIG_ARM_FFA_TRANSPORT ffa-module.o 

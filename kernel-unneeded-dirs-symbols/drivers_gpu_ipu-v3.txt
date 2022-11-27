@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/ipu-v3/Makefile
+# CONFIG_IMX_IPUV3_CORE imx-ipu-v3.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/etnaviv/Makefile
+# CONFIG_DRM_ETNAVIV etnaviv.o 

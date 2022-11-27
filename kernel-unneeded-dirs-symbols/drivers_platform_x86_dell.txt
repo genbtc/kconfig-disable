@@ -1,0 +1,15 @@
+# Reading Makefile: drivers/platform/x86/dell/dell-wmi-sysman/Makefile
+# CONFIG_DELL_WMI_SYSMAN dell-wmi-sysman.o 
+# Reading Makefile: drivers/platform/x86/dell/Makefile
+# CONFIG_ALIENWARE_WMI alienware-wmi.o 
+# CONFIG_DCDBAS dcdbas.o 
+# CONFIG_DELL_LAPTOP dell-laptop.o 
+# CONFIG_DELL_RBTN dell-rbtn.o 
+# CONFIG_DELL_RBU dell_rbu.o 
+# CONFIG_DELL_SMBIOS dell-smbios.o 
+# CONFIG_DELL_SMO8800 dell-smo8800.o 
+# CONFIG_DELL_WMI dell-wmi.o 
+# CONFIG_DELL_WMI_AIO dell-wmi-aio.o 
+# CONFIG_DELL_WMI_DESCRIPTOR dell-wmi-descriptor.o 
+# CONFIG_DELL_WMI_LED dell-wmi-led.o 
+# CONFIG_DELL_WMI_SYSMAN dell-wmi-sysman/ 

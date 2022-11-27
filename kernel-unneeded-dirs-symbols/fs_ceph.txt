@@ -1,0 +1,2 @@
+# Reading Makefile: fs/ceph/Makefile
+# CONFIG_CEPH_FS ceph.o 

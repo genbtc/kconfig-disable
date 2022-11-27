@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/vmwgfx/Makefile
+# CONFIG_DRM_VMWGFX vmwgfx.o 

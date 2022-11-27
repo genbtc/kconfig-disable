@@ -1,0 +1,21 @@
+# Reading Makefile: drivers/net/ethernet/broadcom/genet/Makefile
+# CONFIG_BCMGENET genet.o 
+# Reading Makefile: drivers/net/ethernet/broadcom/bnxt/Makefile
+# CONFIG_BNXT bnxt_en.o 
+# Reading Makefile: drivers/net/ethernet/broadcom/bnx2x/Makefile
+# CONFIG_BNX2X bnx2x.o 
+# Reading Makefile: drivers/net/ethernet/broadcom/Makefile
+# CONFIG_B44 b44.o 
+# CONFIG_BCM4908_ENET bcm4908_enet.o 
+# CONFIG_BCM63XX_ENET bcm63xx_enet.o 
+# CONFIG_BCMGENET genet/ 
+# CONFIG_BNX2 bnx2.o 
+# CONFIG_CNIC cnic.o 
+# CONFIG_BNX2X bnx2x/ 
+# CONFIG_SB1250_MAC sb1250-mac.o 
+# CONFIG_TIGON3 tg3.o 
+# CONFIG_BGMAC bgmac.o 
+# CONFIG_BGMAC_BCMA bgmac-bcma.o bgmac-bcma-mdio.o 
+# CONFIG_BGMAC_PLATFORM bgmac-platform.o 
+# CONFIG_SYSTEMPORT bcmsysport.o 
+# CONFIG_BNXT bnxt/ 

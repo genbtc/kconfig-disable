@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/ssb/Makefile
+# CONFIG_SSB ssb.o 

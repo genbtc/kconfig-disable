@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/peci/controller/Makefile
+# CONFIG_PECI_ASPEED peci-aspeed.o 

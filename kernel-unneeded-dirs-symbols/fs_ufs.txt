@@ -1,0 +1,2 @@
+# Reading Makefile: fs/ufs/Makefile
+# CONFIG_UFS_FS ufs.o 

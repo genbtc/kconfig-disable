@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/vlynq/Makefile
+# CONFIG_VLYNQ vlynq.o 

@@ -1,0 +1,7 @@
+# Reading Makefile: fs/quota/Makefile
+# CONFIG_QUOTA dquot.o 
+# CONFIG_QFMT_V1 quota_v1.o 
+# CONFIG_QFMT_V2 quota_v2.o 
+# CONFIG_QUOTA_TREE quota_tree.o 
+# CONFIG_QUOTACTL quota.o kqid.o 
+# CONFIG_QUOTA_NETLINK_INTERFACE netlink.o 

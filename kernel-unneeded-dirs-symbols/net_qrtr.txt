@@ -1,0 +1,5 @@
+# Reading Makefile: net/qrtr/Makefile
+# CONFIG_QRTR qrtr.o 
+# CONFIG_QRTR_SMD qrtr-smd.o 
+# CONFIG_QRTR_TUN qrtr-tun.o 
+# CONFIG_QRTR_MHI qrtr-mhi.o 

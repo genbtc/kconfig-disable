@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/vertexcom/Makefile
+# CONFIG_MSE102X mse102x.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/kmb/Makefile
+# CONFIG_DRM_KMB_DISPLAY kmb-drm.o 

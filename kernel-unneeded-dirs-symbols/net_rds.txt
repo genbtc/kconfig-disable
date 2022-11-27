@@ -1,0 +1,4 @@
+# Reading Makefile: net/rds/Makefile
+# CONFIG_RDS rds.o 
+# CONFIG_RDS_RDMA rds_rdma.o 
+# CONFIG_RDS_TCP rds_tcp.o 

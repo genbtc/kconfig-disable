@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/gpu/drm/solomon/Makefile
+# CONFIG_DRM_SSD130X ssd130x.o 
+# CONFIG_DRM_SSD130X_I2C ssd130x-i2c.o 
+# CONFIG_DRM_SSD130X_SPI ssd130x-spi.o 

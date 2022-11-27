@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/misc/mei/hdcp/Makefile
+# CONFIG_INTEL_MEI_HDCP mei_hdcp.o 

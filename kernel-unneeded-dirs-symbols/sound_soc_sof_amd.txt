@@ -1,0 +1,3 @@
+# Reading Makefile: sound/soc/sof/amd/Makefile
+# CONFIG_SND_SOC_SOF_AMD_COMMON snd-sof-amd-acp.o 
+# CONFIG_SND_SOC_SOF_AMD_RENOIR snd-sof-amd-renoir.o 

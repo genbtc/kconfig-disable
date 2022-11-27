@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/rockchip/rga/Makefile
+# CONFIG_VIDEO_ROCKCHIP_RGA rockchip-rga.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/usb/stk1160/Makefile
+# CONFIG_VIDEO_STK1160 stk1160.o 

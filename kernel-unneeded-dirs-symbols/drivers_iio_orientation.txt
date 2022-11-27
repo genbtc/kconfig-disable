@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/iio/orientation/Makefile
+# CONFIG_HID_SENSOR_INCLINOMETER_3D hid-sensor-incl-3d.o 
+# CONFIG_HID_SENSOR_DEVICE_ROTATION hid-sensor-rotation.o 

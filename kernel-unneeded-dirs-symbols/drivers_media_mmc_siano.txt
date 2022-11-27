@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/mmc/siano/Makefile
+# CONFIG_SMS_SDIO_DRV smssdio.o 

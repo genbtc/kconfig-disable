@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/nfc/microread/Makefile
+# CONFIG_NFC_MICROREAD microread.o 
+# CONFIG_NFC_MICROREAD_I2C microread_i2c.o 
+# CONFIG_NFC_MICROREAD_MEI microread_mei.o 

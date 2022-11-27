@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/rdc/Makefile
+# CONFIG_R6040 r6040.o 

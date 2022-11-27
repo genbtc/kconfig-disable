@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/net/ethernet/davicom/Makefile
+# CONFIG_DM9000 dm9000.o 
+# CONFIG_DM9051 dm9051.o 

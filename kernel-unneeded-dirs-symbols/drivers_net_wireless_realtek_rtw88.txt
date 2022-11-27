@@ -1,0 +1,11 @@
+# Reading Makefile: drivers/net/wireless/realtek/rtw88/Makefile
+# CONFIG_RTW88_CORE rtw88_core.o 
+# CONFIG_RTW88_8822B rtw88_8822b.o 
+# CONFIG_RTW88_8822BE rtw88_8822be.o 
+# CONFIG_RTW88_8822C rtw88_8822c.o 
+# CONFIG_RTW88_8822CE rtw88_8822ce.o 
+# CONFIG_RTW88_8723D rtw88_8723d.o 
+# CONFIG_RTW88_8723DE rtw88_8723de.o 
+# CONFIG_RTW88_8821C rtw88_8821c.o 
+# CONFIG_RTW88_8821CE rtw88_8821ce.o 
+# CONFIG_RTW88_PCI rtw88_pci.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/altera/Makefile
+# CONFIG_ALTERA_TSE altera_tse.o 

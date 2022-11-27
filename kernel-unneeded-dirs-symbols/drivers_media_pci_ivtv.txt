@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/media/pci/ivtv/Makefile
+# CONFIG_VIDEO_IVTV ivtv.o 
+# CONFIG_VIDEO_IVTV_ALSA ivtv-alsa.o 
+# CONFIG_VIDEO_FB_IVTV ivtvfb.o 

@@ -1,0 +1,11 @@
+# Reading Makefile: drivers/ptp/Makefile
+# CONFIG_PTP_1588_CLOCK ptp.o 
+# CONFIG_PTP_1588_CLOCK_DTE ptp_dte.o 
+# CONFIG_PTP_1588_CLOCK_INES ptp_ines.o 
+# CONFIG_PTP_1588_CLOCK_PCH ptp_pch.o 
+# CONFIG_PTP_1588_CLOCK_KVM ptp_kvm.o 
+# CONFIG_PTP_1588_CLOCK_QORIQ ptp-qoriq.o 
+# CONFIG_PTP_1588_CLOCK_IDTCM ptp_clockmatrix.o 
+# CONFIG_PTP_1588_CLOCK_IDT82P33 ptp_idt82p33.o 
+# CONFIG_PTP_1588_CLOCK_VMW ptp_vmw.o 
+# CONFIG_PTP_1588_CLOCK_OCP ptp_ocp.o 

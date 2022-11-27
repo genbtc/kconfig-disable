@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/allwinner/Makefile
+# CONFIG_SUN4I_EMAC sun4i-emac.o 

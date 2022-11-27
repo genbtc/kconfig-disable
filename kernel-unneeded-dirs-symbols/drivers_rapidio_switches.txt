@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/rapidio/switches/Makefile
+# CONFIG_RAPIDIO_CPS_XX idtcps.o 
+# CONFIG_RAPIDIO_CPS_GEN2 idt_gen2.o 
+# CONFIG_RAPIDIO_RXS_GEN3 idt_gen3.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/common/siano/Makefile
+# CONFIG_SMS_SIANO_MDTV smsmdtv.o smsdvb.o 

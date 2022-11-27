@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/plip/Makefile
+# CONFIG_PLIP plip.o 

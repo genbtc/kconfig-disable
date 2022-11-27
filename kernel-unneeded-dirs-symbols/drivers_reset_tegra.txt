@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/reset/tegra/Makefile
+# CONFIG_RESET_TEGRA_BPMP reset-bpmp.o 

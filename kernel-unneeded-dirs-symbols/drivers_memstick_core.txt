@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/memstick/core/Makefile
+# CONFIG_MEMSTICK memstick.o 
+# CONFIG_MS_BLOCK ms_block.o 
+# CONFIG_MSPRO_BLOCK mspro_block.o 

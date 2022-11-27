@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/hid/intel-ish-hid/Makefile
+# CONFIG_INTEL_ISH_HID intel-ishtp.o 
+# CONFIG_INTEL_ISH_HID intel-ish-ipc.o 
+# CONFIG_INTEL_ISH_HID intel-ishtp-hid.o 
+# CONFIG_INTEL_ISH_FIRMWARE_DOWNLOADER intel-ishtp-loader.o 

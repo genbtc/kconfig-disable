@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/litex/Makefile
+# CONFIG_LITEX_LITEETH litex_liteeth.o 

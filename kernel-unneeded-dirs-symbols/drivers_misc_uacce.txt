@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/misc/uacce/Makefile
+# CONFIG_UACCE uacce.o 

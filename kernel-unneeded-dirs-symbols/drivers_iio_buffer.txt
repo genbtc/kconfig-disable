@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/iio/buffer/Makefile
+# CONFIG_IIO_BUFFER_CB industrialio-buffer-cb.o 
+# CONFIG_IIO_BUFFER_DMA industrialio-buffer-dma.o 
+# CONFIG_IIO_BUFFER_DMAENGINE industrialio-buffer-dmaengine.o 
+# CONFIG_IIO_BUFFER_HW_CONSUMER industrialio-hw-consumer.o 
+# CONFIG_IIO_TRIGGERED_BUFFER industrialio-triggered-buffer.o 
+# CONFIG_IIO_KFIFO_BUF kfifo_buf.o 

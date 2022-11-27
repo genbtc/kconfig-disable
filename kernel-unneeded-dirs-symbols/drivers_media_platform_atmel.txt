@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/media/platform/atmel/Makefile
+# CONFIG_VIDEO_ATMEL_ISI atmel-isi.o 
+# CONFIG_VIDEO_ATMEL_ISC_BASE atmel-isc-common.o 
+# CONFIG_VIDEO_ATMEL_ISC atmel-isc.o 
+# CONFIG_VIDEO_ATMEL_XISC atmel-xisc.o 
+# CONFIG_VIDEO_MICROCHIP_CSI2DC microchip-csi2dc.o 

@@ -1,0 +1,72 @@
+PTP clock support
+The IEEE 1588 standard defines a method to precisely
+synchronize distributed clocks over Ethernet networks. The
+standard defines a Precision Time Protocol (PTP), which can
+be used to achieve synchronization within a few dozen
+microseconds. In addition, with the help of special hardware
+time stamping units, it can be possible to achieve
+synchronization to within a few hundred nanoseconds.
+
+This driver adds support for PTP clocks as character
+devices. If you want to use a PTP clock, then you should
+also enable at least one clock driver as well.
+
+To compile this driver as a module, choose M here: the module
+will be called ptp.
+Depends: NET && POSIX_TIMERS
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:50.733610342 -0400
+@@ -3037,7 +3037,6 @@
+ CONFIG_B53_SERDES=m
+ CONFIG_NET_DSA_BCM_SF2=m
+ CONFIG_NET_DSA_LOOP=m
+-CONFIG_NET_DSA_HIRSCHMANN_HELLCREEK=m
+ # CONFIG_NET_DSA_LANTIQ_GSWIP is not set
+ CONFIG_NET_DSA_MT7530=m
+ # CONFIG_NET_DSA_MV88E6060 is not set
+@@ -3047,7 +3046,6 @@
+ CONFIG_NET_DSA_MICROCHIP_KSZ9477_SPI=m
+ # CONFIG_NET_DSA_MICROCHIP_KSZ8795 is not set
+ CONFIG_NET_DSA_MV88E6XXX=m
+-CONFIG_NET_DSA_MV88E6XXX_PTP=y
+ # CONFIG_NET_DSA_AR9331 is not set
+ # CONFIG_NET_DSA_SJA1105 is not set
+ CONFIG_NET_DSA_XRS700X=m
+@@ -3124,7 +3122,6 @@
+ CONFIG_BNXT_HWMON=y
+ CONFIG_NET_VENDOR_CADENCE=y
+ CONFIG_MACB=m
+-CONFIG_MACB_USE_HWSTAMP=y
+ CONFIG_MACB_PCI=m
+ # CONFIG_NET_VENDOR_CAVIUM is not set
+ CONFIG_NET_VENDOR_CHELSIO=y
+@@ -3337,11 +3334,6 @@
+ # CONFIG_SFC_MCDI_LOGGING is not set
+ CONFIG_SFC_FALCON=m
+ CONFIG_SFC_FALCON_MTD=y
+-CONFIG_SFC_SIENA=m
+-CONFIG_SFC_SIENA_MTD=y
+-CONFIG_SFC_SIENA_MCDI_MON=y
+-CONFIG_SFC_SIENA_SRIOV=y
+-CONFIG_SFC_SIENA_MCDI_LOGGING=y
+ CONFIG_NET_VENDOR_SMSC=y
+ CONFIG_PCMCIA_SMC91C92=m
+ CONFIG_EPIC100=m
+@@ -4492,15 +4484,8 @@
+ #
+ # PTP clock support
+ #
+-CONFIG_PTP_1588_CLOCK=y
++# CONFIG_PTP_1588_CLOCK is not set
+ CONFIG_PTP_1588_CLOCK_OPTIONAL=y
+-CONFIG_DP83640_PHY=m
+-# CONFIG_PTP_1588_CLOCK_INES is not set
+-CONFIG_PTP_1588_CLOCK_KVM=m
+-CONFIG_PTP_1588_CLOCK_IDT82P33=m
+-CONFIG_PTP_1588_CLOCK_IDTCM=m
+-CONFIG_PTP_1588_CLOCK_VMW=m
+-# CONFIG_PTP_1588_CLOCK_OCP is not set
+ # end of PTP clock support
+ 
+ CONFIG_PINCTRL=y

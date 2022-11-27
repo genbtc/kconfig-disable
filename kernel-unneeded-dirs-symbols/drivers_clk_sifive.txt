@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/clk/sifive/Makefile
+# CONFIG_CLK_SIFIVE_PRCI sifive-prci.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/qlge/Makefile
+# CONFIG_QLGE qlge.o 

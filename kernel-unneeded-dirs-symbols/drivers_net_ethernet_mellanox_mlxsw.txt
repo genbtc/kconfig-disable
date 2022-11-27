@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/net/ethernet/mellanox/mlxsw/Makefile
+# CONFIG_MLXSW_CORE mlxsw_core.o 
+# CONFIG_MLXSW_PCI mlxsw_pci.o 
+# CONFIG_MLXSW_I2C mlxsw_i2c.o 
+# CONFIG_MLXSW_SPECTRUM mlxsw_spectrum.o 
+# CONFIG_MLXSW_MINIMAL mlxsw_minimal.o 

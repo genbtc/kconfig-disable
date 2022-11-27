@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/virt/coco/sev-guest/Makefile
+# CONFIG_SEV_GUEST sev-guest.o 

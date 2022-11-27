@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/pci/tw686x/Makefile
+# CONFIG_VIDEO_TW686X tw686x.o 

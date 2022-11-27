@@ -1,0 +1,9 @@
+# Reading Makefile: drivers/gpu/drm/imx/dcss/Makefile
+# CONFIG_DRM_IMX_DCSS imx-dcss.o 
+# Reading Makefile: drivers/gpu/drm/imx/Makefile
+# CONFIG_DRM_IMX imxdrm.o 
+# CONFIG_DRM_IMX_PARALLEL_DISPLAY parallel-display.o 
+# CONFIG_DRM_IMX_TVE imx-tve.o 
+# CONFIG_DRM_IMX_LDB imx-ldb.o 
+# CONFIG_DRM_IMX_HDMI dw_hdmi-imx.o 
+# CONFIG_DRM_IMX_DCSS dcss/ 

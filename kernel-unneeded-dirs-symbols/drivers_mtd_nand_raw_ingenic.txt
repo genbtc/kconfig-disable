@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/mtd/nand/raw/ingenic/Makefile
+# CONFIG_MTD_NAND_JZ4780 ingenic_nand.o 
+# CONFIG_MTD_NAND_JZ4740_ECC jz4740_ecc.o 
+# CONFIG_MTD_NAND_JZ4725B_BCH jz4725b_bch.o 
+# CONFIG_MTD_NAND_JZ4780_BCH jz4780_bch.o 

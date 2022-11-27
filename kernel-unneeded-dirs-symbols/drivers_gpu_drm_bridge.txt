@@ -1,0 +1,50 @@
+# Reading Makefile: drivers/gpu/drm/bridge/synopsys/Makefile
+# CONFIG_DRM_DW_HDMI dw-hdmi.o 
+# CONFIG_DRM_DW_HDMI_AHB_AUDIO dw-hdmi-ahb-audio.o 
+# CONFIG_DRM_DW_HDMI_GP_AUDIO dw-hdmi-gp-audio.o 
+# CONFIG_DRM_DW_HDMI_I2S_AUDIO dw-hdmi-i2s-audio.o 
+# CONFIG_DRM_DW_HDMI_CEC dw-hdmi-cec.o 
+# CONFIG_DRM_DW_MIPI_DSI dw-mipi-dsi.o 
+# Reading Makefile: drivers/gpu/drm/bridge/cadence/Makefile
+# CONFIG_DRM_CDNS_MHDP8546 cdns-mhdp8546.o 
+# Reading Makefile: drivers/gpu/drm/bridge/analogix/Makefile
+# CONFIG_DRM_ANALOGIX_ANX6345 analogix-anx6345.o 
+# CONFIG_DRM_ANALOGIX_ANX7625 anx7625.o 
+# CONFIG_DRM_ANALOGIX_ANX78XX analogix-anx78xx.o 
+# CONFIG_DRM_ANALOGIX_DP analogix_dp.o 
+# Reading Makefile: drivers/gpu/drm/bridge/adv7511/Makefile
+# CONFIG_DRM_I2C_ADV7511 adv7511.o 
+# Reading Makefile: drivers/gpu/drm/bridge/Makefile
+# CONFIG_DRM_CDNS_DSI cdns-dsi.o 
+# CONFIG_DRM_CHIPONE_ICN6211 chipone-icn6211.o 
+# CONFIG_DRM_CHRONTEL_CH7033 chrontel-ch7033.o 
+# CONFIG_DRM_CROS_EC_ANX7688 cros-ec-anx7688.o 
+# CONFIG_DRM_DISPLAY_CONNECTOR display-connector.o 
+# CONFIG_DRM_FSL_LDB fsl-ldb.o 
+# CONFIG_DRM_ITE_IT6505 ite-it6505.o 
+# CONFIG_DRM_LONTIUM_LT8912B lontium-lt8912b.o 
+# CONFIG_DRM_LONTIUM_LT9211 lontium-lt9211.o 
+# CONFIG_DRM_LONTIUM_LT9611 lontium-lt9611.o 
+# CONFIG_DRM_LONTIUM_LT9611UXC lontium-lt9611uxc.o 
+# CONFIG_DRM_LVDS_CODEC lvds-codec.o 
+# CONFIG_DRM_MEGACHIPS_STDPXXXX_GE_B850V3_FW megachips-stdpxxxx-ge-b850v3-fw.o 
+# CONFIG_DRM_NXP_PTN3460 nxp-ptn3460.o 
+# CONFIG_DRM_PARADE_PS8622 parade-ps8622.o 
+# CONFIG_DRM_PARADE_PS8640 parade-ps8640.o 
+# CONFIG_DRM_SIL_SII8620 sil-sii8620.o 
+# CONFIG_DRM_SII902X sii902x.o 
+# CONFIG_DRM_SII9234 sii9234.o 
+# CONFIG_DRM_SIMPLE_BRIDGE simple-bridge.o 
+# CONFIG_DRM_THINE_THC63LVD1024 thc63lvd1024.o 
+# CONFIG_DRM_TOSHIBA_TC358762 tc358762.o 
+# CONFIG_DRM_TOSHIBA_TC358764 tc358764.o 
+# CONFIG_DRM_TOSHIBA_TC358767 tc358767.o 
+# CONFIG_DRM_TOSHIBA_TC358768 tc358768.o 
+# CONFIG_DRM_TOSHIBA_TC358775 tc358775.o 
+# CONFIG_DRM_I2C_ADV7511 adv7511/ 
+# CONFIG_DRM_TI_SN65DSI83 ti-sn65dsi83.o 
+# CONFIG_DRM_TI_SN65DSI86 ti-sn65dsi86.o 
+# CONFIG_DRM_TI_TFP410 ti-tfp410.o 
+# CONFIG_DRM_TI_TPD12S015 ti-tpd12s015.o 
+# CONFIG_DRM_NWL_MIPI_DSI nwl-dsi.o 
+# CONFIG_DRM_ITE_IT66121 ite-it66121.o 

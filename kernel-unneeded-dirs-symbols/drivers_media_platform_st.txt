@@ -1,0 +1,13 @@
+# Reading Makefile: drivers/media/platform/st/stm32/Makefile
+# CONFIG_VIDEO_STM32_DCMI stm32-dcmi.o 
+# CONFIG_VIDEO_STM32_DMA2D stm32-dma2d.o 
+# Reading Makefile: drivers/media/platform/st/sti/hva/Makefile
+# CONFIG_VIDEO_STI_HVA st-hva.o 
+# Reading Makefile: drivers/media/platform/st/sti/delta/Makefile
+# CONFIG_VIDEO_STI_DELTA_DRIVER st-delta.o 
+# Reading Makefile: drivers/media/platform/st/sti/c8sectpfe/Makefile
+# CONFIG_DVB_C8SECTPFE c8sectpfe.o 
+# Reading Makefile: drivers/media/platform/st/sti/bdisp/Makefile
+# CONFIG_VIDEO_STI_BDISP bdisp.o 
+# Reading Makefile: drivers/media/platform/st/sti/Makefile
+# Reading Makefile: drivers/media/platform/st/Makefile

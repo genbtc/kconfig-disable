@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/media/zoran/Makefile
+# CONFIG_VIDEO_ZORAN zr36067.o 

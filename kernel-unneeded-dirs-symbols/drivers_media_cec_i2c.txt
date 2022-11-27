@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/cec/i2c/Makefile
+# CONFIG_CEC_CH7322 ch7322.o 

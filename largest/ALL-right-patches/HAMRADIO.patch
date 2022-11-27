@@ -1,0 +1,43 @@
+Amateur Radio support
+If you want to connect your Linux box to an amateur radio, answer Y
+here. You want to read <https://www.tapr.org/>
+and more specifically about AX.25 on Linux
+<http://www.linux-ax25.org/>.
+
+Note that the answer to this question won't directly affect the
+kernel: saying N will just cause the configurator to skip all
+the questions about amateur radio.
+Depends: (NET && !S390)  &&  (HAMRADIO)
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:13.902610375 -0400
+@@ -1875,28 +1875,7 @@
+ # end of Network testing
+ # end of Networking options
+ 
+-CONFIG_HAMRADIO=y
+-
+-#
+-# Packet Radio protocols
+-#
+-CONFIG_AX25=m
+-CONFIG_AX25_DAMA_SLAVE=y
+-CONFIG_NETROM=m
+-CONFIG_ROSE=m
+-
+-#
+-# AX.25 network device drivers
+-#
+-CONFIG_MKISS=m
+-CONFIG_6PACK=m
+-CONFIG_BPQETHER=m
+-CONFIG_BAYCOM_SER_FDX=m
+-CONFIG_BAYCOM_SER_HDX=m
+-CONFIG_BAYCOM_PAR=m
+-CONFIG_YAM=m
+-# end of AX.25 network device drivers
+-
++# CONFIG_HAMRADIO is not set
+ CONFIG_CAN=m
+ CONFIG_CAN_RAW=m
+ CONFIG_CAN_BCM=m

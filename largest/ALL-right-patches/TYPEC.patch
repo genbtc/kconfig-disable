@@ -1,0 +1,99 @@
+USB Type-C Support
+USB Type-C Specification defines a cable and connector for USB where
+only one type of plug is supported on both ends, i.e. there will not
+be Type-A plug on one end of the cable and Type-B plug on the other.
+Determination of the host-to-device relationship happens through a
+specific Configuration Channel (CC) which goes through the USB Type-C
+cable. The Configuration Channel may also be used to detect optional
+Accessory Modes - Analog Audio and Debug - and if USB Power Delivery
+is supported, the Alternate Modes, where the connector is used for
+something else then USB communication.
+
+USB Power Delivery Specification defines a protocol that can be used
+to negotiate the voltage and current levels with the connected
+partners. USB Power Delivery allows higher voltages then the normal
+5V, up to 20V, and current up to 5A over the cable. The USB Power
+Delivery protocol is also used to negotiate the optional Alternate
+Modes when they are supported. USB Power Delivery does not depend on
+USB Type-C connector, however it is mostly used together with USB
+Type-C connectors.
+
+USB Type-C and USB Power Delivery Specifications define a set of state
+machines that need to be implemented in either software or firmware.
+Simple USB Type-C PHYs, for example USB Type-C Port Controller
+Interface Specification compliant "Port Controllers" need the state
+machines to be handled in the OS, but stand-alone USB Type-C and Power
+Delivery controllers handle the state machines inside their firmware.
+The USB Type-C and Power Delivery controllers usually function
+autonomously, and do not necessarily require drivers.
+
+Enable this configurations option if you have USB Type-C connectors on
+your system and 1) you know your USB Type-C hardware requires OS
+control (a driver) to function, or 2) if you need to be able to read
+the status of the USB Type-C ports in your system, or 3) if you need
+to be able to swap the power role (decide are you supplying or
+consuming power over the cable) or data role (host or device) when
+both roles are supported.
+
+For more information, see the kernel documentation for USB Type-C
+Connector Class API (Documentation/driver-api/usb/typec.rst)
+<https://www.kernel.org/doc/html/latest/driver-api/usb/typec.html>
+and ABI (Documentation/ABI/testing/sysfs-class-typec).
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:20:23.307610313 -0400
+@@ -7389,37 +7389,7 @@
+ # end of USB Physical Layer drivers
+ 
+ # CONFIG_USB_GADGET is not set
+-CONFIG_TYPEC=m
+-CONFIG_TYPEC_TCPM=m
+-CONFIG_TYPEC_TCPCI=m
+-# CONFIG_TYPEC_RT1711H is not set
+-CONFIG_TYPEC_TCPCI_MAXIM=m
+-CONFIG_TYPEC_FUSB302=m
+-CONFIG_TYPEC_WCOVE=m
+-CONFIG_TYPEC_UCSI=m
+-CONFIG_UCSI_CCG=m
+-CONFIG_UCSI_ACPI=m
+-CONFIG_TYPEC_TPS6598X=m
+-CONFIG_TYPEC_RT1719=m
+-CONFIG_TYPEC_HD3SS3220=m
+-CONFIG_TYPEC_STUSB160X=m
+-CONFIG_TYPEC_WUSB3801=m
+-
+-#
+-# USB Type-C Multiplexer/DeMultiplexer Switch support
+-#
+-CONFIG_TYPEC_MUX_FSA4480=m
+-CONFIG_TYPEC_MUX_PI3USB30532=m
+-CONFIG_TYPEC_MUX_INTEL_PMC=m
+-# end of USB Type-C Multiplexer/DeMultiplexer Switch support
+-
+-#
+-# USB Type-C Alternate Mode drivers
+-#
+-CONFIG_TYPEC_DP_ALTMODE=m
+-CONFIG_TYPEC_NVIDIA_ALTMODE=m
+-# end of USB Type-C Alternate Mode drivers
+-
++# CONFIG_TYPEC is not set
+ CONFIG_USB_ROLE_SWITCH=y
+ CONFIG_USB_ROLES_INTEL_XHCI=m
+ CONFIG_MMC=m
+@@ -8131,7 +8101,6 @@
+ CONFIG_INTEL_OAKTRAIL=m
+ CONFIG_INTEL_BXTWC_PMIC_TMU=m
+ CONFIG_INTEL_CHTDC_TI_PWRBTN=m
+-CONFIG_INTEL_CHTWC_INT33FE=m
+ CONFIG_INTEL_ISHTP_ECLITE=m
+ CONFIG_INTEL_MRFLD_PWRBTN=m
+ CONFIG_INTEL_PUNIT_IPC=m
+@@ -8189,7 +8158,6 @@
+ # CONFIG_CROS_EC_DEBUGFS is not set
+ CONFIG_CROS_EC_SENSORHUB=m
+ CONFIG_CROS_EC_SYSFS=m
+-CONFIG_CROS_EC_TYPEC=m
+ CONFIG_CROS_USBPD_LOGGER=m
+ CONFIG_CROS_USBPD_NOTIFY=m
+ CONFIG_CHROMEOS_PRIVACY_SCREEN=m

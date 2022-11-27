@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/samsung/exynos-gsc/Makefile
+# CONFIG_VIDEO_SAMSUNG_EXYNOS_GSC exynos-gsc.o 

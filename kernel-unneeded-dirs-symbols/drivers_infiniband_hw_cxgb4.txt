@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/infiniband/hw/cxgb4/Makefile
+# CONFIG_INFINIBAND_CXGB4 iw_cxgb4.o 

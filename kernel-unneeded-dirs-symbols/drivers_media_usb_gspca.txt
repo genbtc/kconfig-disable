@@ -1,0 +1,57 @@
+# Reading Makefile: drivers/media/usb/gspca/stv06xx/Makefile
+# CONFIG_USB_STV06XX gspca_stv06xx.o 
+# Reading Makefile: drivers/media/usb/gspca/m5602/Makefile
+# CONFIG_USB_M5602 gspca_m5602.o 
+# Reading Makefile: drivers/media/usb/gspca/gl860/Makefile
+# CONFIG_USB_GL860 gspca_gl860.o 
+# Reading Makefile: drivers/media/usb/gspca/Makefile
+# CONFIG_USB_GSPCA gspca_main.o 
+# CONFIG_USB_GSPCA_BENQ gspca_benq.o 
+# CONFIG_USB_GSPCA_CONEX gspca_conex.o 
+# CONFIG_USB_GSPCA_CPIA1 gspca_cpia1.o 
+# CONFIG_USB_GSPCA_DTCS033 gspca_dtcs033.o 
+# CONFIG_USB_GSPCA_ETOMS gspca_etoms.o 
+# CONFIG_USB_GSPCA_FINEPIX gspca_finepix.o 
+# CONFIG_USB_GSPCA_JEILINJ gspca_jeilinj.o 
+# CONFIG_USB_GSPCA_JL2005BCD gspca_jl2005bcd.o 
+# CONFIG_USB_GSPCA_KINECT gspca_kinect.o 
+# CONFIG_USB_GSPCA_KONICA gspca_konica.o 
+# CONFIG_USB_GSPCA_MARS gspca_mars.o 
+# CONFIG_USB_GSPCA_MR97310A gspca_mr97310a.o 
+# CONFIG_USB_GSPCA_NW80X gspca_nw80x.o 
+# CONFIG_USB_GSPCA_OV519 gspca_ov519.o 
+# CONFIG_USB_GSPCA_OV534 gspca_ov534.o 
+# CONFIG_USB_GSPCA_OV534_9 gspca_ov534_9.o 
+# CONFIG_USB_GSPCA_PAC207 gspca_pac207.o 
+# CONFIG_USB_GSPCA_PAC7302 gspca_pac7302.o 
+# CONFIG_USB_GSPCA_PAC7311 gspca_pac7311.o 
+# CONFIG_USB_GSPCA_SE401 gspca_se401.o 
+# CONFIG_USB_GSPCA_SN9C2028 gspca_sn9c2028.o 
+# CONFIG_USB_GSPCA_SN9C20X gspca_sn9c20x.o 
+# CONFIG_USB_GSPCA_SONIXB gspca_sonixb.o 
+# CONFIG_USB_GSPCA_SONIXJ gspca_sonixj.o 
+# CONFIG_USB_GSPCA_SPCA500 gspca_spca500.o 
+# CONFIG_USB_GSPCA_SPCA501 gspca_spca501.o 
+# CONFIG_USB_GSPCA_SPCA505 gspca_spca505.o 
+# CONFIG_USB_GSPCA_SPCA506 gspca_spca506.o 
+# CONFIG_USB_GSPCA_SPCA508 gspca_spca508.o 
+# CONFIG_USB_GSPCA_SPCA561 gspca_spca561.o 
+# CONFIG_USB_GSPCA_SPCA1528 gspca_spca1528.o 
+# CONFIG_USB_GSPCA_SQ905 gspca_sq905.o 
+# CONFIG_USB_GSPCA_SQ905C gspca_sq905c.o 
+# CONFIG_USB_GSPCA_SQ930X gspca_sq930x.o 
+# CONFIG_USB_GSPCA_SUNPLUS gspca_sunplus.o 
+# CONFIG_USB_GSPCA_STK014 gspca_stk014.o 
+# CONFIG_USB_GSPCA_STK1135 gspca_stk1135.o 
+# CONFIG_USB_GSPCA_STV0680 gspca_stv0680.o 
+# CONFIG_USB_GSPCA_T613 gspca_t613.o 
+# CONFIG_USB_GSPCA_TOPRO gspca_topro.o 
+# CONFIG_USB_GSPCA_TOUPTEK gspca_touptek.o 
+# CONFIG_USB_GSPCA_TV8532 gspca_tv8532.o 
+# CONFIG_USB_GSPCA_VC032X gspca_vc032x.o 
+# CONFIG_USB_GSPCA_VICAM gspca_vicam.o 
+# CONFIG_USB_GSPCA_XIRLINK_CIT gspca_xirlink_cit.o 
+# CONFIG_USB_GSPCA_ZC3XX gspca_zc3xx.o 
+# CONFIG_USB_M5602 m5602/ 
+# CONFIG_USB_STV06XX stv06xx/ 
+# CONFIG_USB_GL860 gl860/ 

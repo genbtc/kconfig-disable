@@ -1,0 +1,8 @@
+# Reading Makefile: drivers/tee/optee/Makefile
+# CONFIG_OPTEE optee.o 
+# Reading Makefile: drivers/tee/amdtee/Makefile
+# CONFIG_AMDTEE amdtee.o 
+# Reading Makefile: drivers/tee/Makefile
+# CONFIG_TEE tee.o 
+# CONFIG_OPTEE optee/ 
+# CONFIG_AMDTEE amdtee/ 

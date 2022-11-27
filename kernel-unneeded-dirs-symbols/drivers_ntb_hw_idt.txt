@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/ntb/hw/idt/Makefile
+# CONFIG_NTB_IDT ntb_hw_idt.o 

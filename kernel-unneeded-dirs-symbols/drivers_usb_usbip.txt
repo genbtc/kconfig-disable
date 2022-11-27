@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/usb/usbip/Makefile
+# CONFIG_USBIP_CORE usbip-core.o 
+# CONFIG_USBIP_VHCI_HCD vhci-hcd.o 
+# CONFIG_USBIP_HOST usbip-host.o 
+# CONFIG_USBIP_VUDC usbip-vudc.o 

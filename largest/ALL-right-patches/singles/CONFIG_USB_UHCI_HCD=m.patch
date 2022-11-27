@@ -1,0 +1,12 @@
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:20:19.098610317 -0400
+@@ -7217,7 +7217,7 @@
+ CONFIG_USB_OHCI_HCD=y
+ CONFIG_USB_OHCI_HCD_PCI=y
+ # CONFIG_USB_OHCI_HCD_PLATFORM is not set
+-CONFIG_USB_UHCI_HCD=y
++CONFIG_USB_UHCI_HCD=m
+ # CONFIG_USB_U132_HCD is not set
+ CONFIG_USB_SL811_HCD=m
+ CONFIG_USB_SL811_HCD_ISO=y

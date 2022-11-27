@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/usb/uvc/Makefile
+# CONFIG_USB_VIDEO_CLASS uvcvideo.o 

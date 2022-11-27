@@ -1,0 +1,9 @@
+# Reading Makefile: drivers/fsi/Makefile
+# CONFIG_FSI fsi-core.o 
+# CONFIG_FSI_MASTER_HUB fsi-master-hub.o 
+# CONFIG_FSI_MASTER_ASPEED fsi-master-aspeed.o 
+# CONFIG_FSI_MASTER_GPIO fsi-master-gpio.o 
+# CONFIG_FSI_MASTER_AST_CF fsi-master-ast-cf.o 
+# CONFIG_FSI_SCOM fsi-scom.o 
+# CONFIG_FSI_SBEFIFO fsi-sbefifo.o 
+# CONFIG_FSI_OCC fsi-occ.o 

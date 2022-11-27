@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/nxp/imx-jpeg/Makefile
+# CONFIG_VIDEO_IMX8_JPEG mxc-jpeg-encdec.o 

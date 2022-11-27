@@ -1,0 +1,261 @@
+# Reading Makefile: drivers/staging/wlan-ng/Makefile
+# CONFIG_PRISM2_USB prism2_usb.o 
+# Reading Makefile: drivers/staging/vt6656/Makefile
+# CONFIG_VT6656 vt6656_stage.o 
+# Reading Makefile: drivers/staging/vt6655/Makefile
+# CONFIG_VT6655 vt6655_stage.o 
+# Reading Makefile: drivers/staging/vme_user/Makefile
+# CONFIG_VME_USER vme_user.o 
+# Reading Makefile: drivers/staging/vc04_services/vchiq-mmal/Makefile
+# CONFIG_BCM2835_VCHIQ_MMAL bcm2835-mmal-vchiq.o 
+# Reading Makefile: drivers/staging/vc04_services/bcm2835-camera/Makefile
+# CONFIG_VIDEO_BCM2835 bcm2835-v4l2.o 
+# Reading Makefile: drivers/staging/vc04_services/bcm2835-audio/Makefile
+# CONFIG_SND_BCM2835 snd-bcm2835.o 
+# Reading Makefile: drivers/staging/vc04_services/Makefile
+# CONFIG_BCM2835_VCHIQ vchiq.o 
+# CONFIG_SND_BCM2835 bcm2835-audio/ 
+# CONFIG_VIDEO_BCM2835 bcm2835-camera/ 
+# CONFIG_BCM2835_VCHIQ_MMAL vchiq-mmal/ 
+# Reading Makefile: drivers/staging/sm750fb/Makefile
+# CONFIG_FB_SM750 sm750fb.o 
+# Reading Makefile: drivers/staging/rts5208/Makefile
+# CONFIG_RTS5208 rts5208.o 
+# Reading Makefile: drivers/staging/rtl8723bs/Makefile
+# CONFIG_RTL8723BS r8723bs.o 
+# Reading Makefile: drivers/staging/rtl8712/Makefile
+# CONFIG_R8712U r8712u.o 
+# Reading Makefile: drivers/staging/rtl8192u/Makefile
+# CONFIG_RTL8192U r8192u_usb.o 
+# Reading Makefile: drivers/staging/rtl8192e/rtl8192e/Makefile
+# CONFIG_RTL8192E r8192e_pci.o 
+# Reading Makefile: drivers/staging/rtl8192e/Makefile
+# CONFIG_RTLLIB rtllib.o 
+# CONFIG_RTLLIB_CRYPTO_CCMP rtllib_crypt_ccmp.o 
+# CONFIG_RTLLIB_CRYPTO_TKIP rtllib_crypt_tkip.o 
+# CONFIG_RTLLIB_CRYPTO_WEP rtllib_crypt_wep.o 
+# CONFIG_RTL8192E rtl8192e/ 
+# Reading Makefile: drivers/staging/r8188eu/Makefile
+# CONFIG_R8188EU r8188eu.o 
+# Reading Makefile: drivers/staging/qlge/Makefile
+# CONFIG_QLGE qlge.o 
+# Reading Makefile: drivers/staging/pi433/Makefile
+# CONFIG_PI433 pi433.o 
+# Reading Makefile: drivers/staging/olpc_dcon/Makefile
+# CONFIG_FB_OLPC_DCON olpc-dcon.o 
+# Reading Makefile: drivers/staging/octeon/Makefile
+# Reading Makefile: drivers/staging/octeon-usb/Makefile
+# Reading Makefile: drivers/staging/nvec/Makefile
+# CONFIG_SERIO_NVEC_PS2 nvec_ps2.o 
+# CONFIG_MFD_NVEC nvec.o 
+# CONFIG_NVEC_POWER nvec_power.o 
+# CONFIG_KEYBOARD_NVEC nvec_kbd.o 
+# CONFIG_NVEC_PAZ00 nvec_paz00.o 
+# Reading Makefile: drivers/staging/most/video/Makefile
+# CONFIG_MOST_VIDEO most_video.o 
+# Reading Makefile: drivers/staging/most/net/Makefile
+# CONFIG_MOST_NET most_net.o 
+# Reading Makefile: drivers/staging/most/i2c/Makefile
+# CONFIG_MOST_I2C most_i2c.o 
+# Reading Makefile: drivers/staging/most/dim2/Makefile
+# CONFIG_MOST_DIM2 most_dim2.o 
+# Reading Makefile: drivers/staging/most/Makefile
+# CONFIG_MOST_NET net/ 
+# CONFIG_MOST_VIDEO video/ 
+# CONFIG_MOST_DIM2 dim2/ 
+# CONFIG_MOST_I2C i2c/ 
+# Reading Makefile: drivers/staging/media/zoran/Makefile
+# CONFIG_VIDEO_ZORAN zr36067.o 
+# Reading Makefile: drivers/staging/media/tegra-video/Makefile
+# CONFIG_VIDEO_TEGRA tegra-video.o 
+# Reading Makefile: drivers/staging/media/sunxi/cedrus/Makefile
+# CONFIG_VIDEO_SUNXI_CEDRUS sunxi-cedrus.o 
+# Reading Makefile: drivers/staging/media/sunxi/Makefile
+# CONFIG_VIDEO_SUNXI_CEDRUS cedrus/ 
+# Reading Makefile: drivers/staging/media/rkvdec/Makefile
+# CONFIG_VIDEO_ROCKCHIP_VDEC rockchip-vdec.o 
+# Reading Makefile: drivers/staging/media/omap4iss/Makefile
+# CONFIG_VIDEO_OMAP4 omap4-iss.o 
+# Reading Makefile: drivers/staging/media/meson/vdec/Makefile
+# CONFIG_VIDEO_MESON_VDEC meson-vdec.o 
+# Reading Makefile: drivers/staging/media/max96712/Makefile
+# CONFIG_VIDEO_MAX96712 max96712.o 
+# Reading Makefile: drivers/staging/media/ipu3/Makefile
+# CONFIG_VIDEO_IPU3_IMGU ipu3-imgu.o 
+# Reading Makefile: drivers/staging/media/imx/Makefile
+# CONFIG_VIDEO_IMX_MEDIA imx-media-common.o 
+# CONFIG_VIDEO_IMX_CSI imx6-media.o 
+# CONFIG_VIDEO_IMX_CSI imx6-media-csi.o 
+# CONFIG_VIDEO_IMX_CSI imx6-mipi-csi2.o 
+# CONFIG_VIDEO_IMX7_CSI imx7-media-csi.o 
+# CONFIG_VIDEO_IMX7_CSI imx8mq-mipi-csi2.o 
+# Reading Makefile: drivers/staging/media/hantro/Makefile
+# CONFIG_VIDEO_HANTRO hantro-vpu.o 
+# Reading Makefile: drivers/staging/media/av7110/Makefile
+# CONFIG_DVB_BUDGET_PATCH budget-patch.o 
+# CONFIG_DVB_AV7110 dvb-ttpci.o 
+# CONFIG_DVB_SP8870 sp8870.o 
+# Reading Makefile: drivers/staging/media/atomisp/i2c/ov5693/Makefile
+# CONFIG_VIDEO_ATOMISP_OV5693 atomisp-ov5693.o 
+# Reading Makefile: drivers/staging/media/atomisp/i2c/Makefile
+# CONFIG_VIDEO_ATOMISP_OV5693 ov5693/ 
+# CONFIG_VIDEO_ATOMISP_MT9M114 atomisp-mt9m114.o 
+# CONFIG_VIDEO_ATOMISP_GC2235 atomisp-gc2235.o 
+# CONFIG_VIDEO_ATOMISP_OV2722 atomisp-ov2722.o 
+# CONFIG_VIDEO_ATOMISP_OV2680 atomisp-ov2680.o 
+# CONFIG_VIDEO_ATOMISP_GC0310 atomisp-gc0310.o 
+# CONFIG_VIDEO_ATOMISP_MSRLIST_HELPER atomisp-libmsrlisthelper.o 
+# CONFIG_VIDEO_ATOMISP_LM3554 atomisp-lm3554.o 
+# Reading Makefile: drivers/staging/media/atomisp/Makefile
+# CONFIG_INTEL_ATOMISP i2c/ 
+# CONFIG_VIDEO_ATOMISP atomisp.o 
+# CONFIG_VIDEO_ATOMISP pci/atomisp_gmin_platform.o 
+# Reading Makefile: drivers/staging/media/Makefile
+# CONFIG_INTEL_ATOMISP atomisp/ 
+# CONFIG_VIDEO_IMX_MEDIA imx/ 
+# CONFIG_VIDEO_MAX96712 max96712/ 
+# CONFIG_VIDEO_MESON_VDEC meson/vdec/ 
+# CONFIG_VIDEO_OMAP4 omap4iss/ 
+# CONFIG_VIDEO_ROCKCHIP_VDEC rkvdec/ 
+# CONFIG_VIDEO_SUNXI sunxi/ 
+# CONFIG_VIDEO_TEGRA tegra-video/ 
+# CONFIG_VIDEO_HANTRO hantro/ 
+# CONFIG_VIDEO_IPU3_IMGU ipu3/ 
+# CONFIG_VIDEO_ZORAN zoran/ 
+# CONFIG_DVB_AV7110 av7110/ 
+# Reading Makefile: drivers/staging/ks7010/Makefile
+# CONFIG_KS7010 ks7010.o 
+# Reading Makefile: drivers/staging/iio/resolver/Makefile
+# CONFIG_AD2S1210 ad2s1210.o 
+# Reading Makefile: drivers/staging/iio/meter/Makefile
+# CONFIG_ADE7854 ade7854.o 
+# CONFIG_ADE7854_I2C ade7854-i2c.o 
+# CONFIG_ADE7854_SPI ade7854-spi.o 
+# Reading Makefile: drivers/staging/iio/impedance-analyzer/Makefile
+# CONFIG_AD5933 ad5933.o 
+# Reading Makefile: drivers/staging/iio/frequency/Makefile
+# CONFIG_AD9832 ad9832.o 
+# CONFIG_AD9834 ad9834.o 
+# Reading Makefile: drivers/staging/iio/cdc/Makefile
+# CONFIG_AD7746 ad7746.o 
+# Reading Makefile: drivers/staging/iio/addac/Makefile
+# CONFIG_ADT7316 adt7316.o 
+# CONFIG_ADT7316_SPI adt7316-spi.o 
+# CONFIG_ADT7316_I2C adt7316-i2c.o 
+# Reading Makefile: drivers/staging/iio/adc/Makefile
+# CONFIG_AD7816 ad7816.o 
+# Reading Makefile: drivers/staging/iio/accel/Makefile
+# CONFIG_ADIS16203 adis16203.o 
+# CONFIG_ADIS16240 adis16240.o 
+# Reading Makefile: drivers/staging/iio/Makefile
+# Reading Makefile: drivers/staging/greybus/tools/Makefile
+# Reading Makefile: drivers/staging/greybus/Makefile
+# CONFIG_GREYBUS_BOOTROM gb-bootrom.o 
+# CONFIG_GREYBUS_CAMERA gb-camera.o 
+# CONFIG_GREYBUS_FIRMWARE gb-firmware.o gb-spilib.o 
+# CONFIG_GREYBUS_HID gb-hid.o 
+# CONFIG_GREYBUS_LIGHT gb-light.o 
+# CONFIG_GREYBUS_LOG gb-log.o 
+# CONFIG_GREYBUS_LOOPBACK gb-loopback.o 
+# CONFIG_GREYBUS_POWER gb-power-supply.o 
+# CONFIG_GREYBUS_RAW gb-raw.o 
+# CONFIG_GREYBUS_VIBRATOR gb-vibrator.o 
+# CONFIG_GREYBUS_AUDIO_APB_CODEC gb-audio-codec.o 
+# CONFIG_GREYBUS_AUDIO_APB_CODEC gb-audio-module.o 
+# CONFIG_GREYBUS_AUDIO gb-audio-gb.o 
+# CONFIG_GREYBUS_AUDIO gb-audio-apbridgea.o 
+# CONFIG_GREYBUS_AUDIO gb-audio-manager.o 
+# CONFIG_GREYBUS_BRIDGED_PHY gb-gbphy.o 
+# CONFIG_GREYBUS_GPIO gb-gpio.o 
+# CONFIG_GREYBUS_I2C gb-i2c.o 
+# CONFIG_GREYBUS_PWM gb-pwm.o 
+# CONFIG_GREYBUS_SDIO gb-sdio.o 
+# CONFIG_GREYBUS_SPI gb-spi.o gb-spilib.o 
+# CONFIG_GREYBUS_UART gb-uart.o 
+# CONFIG_GREYBUS_USB gb-usb.o 
+# CONFIG_GREYBUS_ARCHE gb-arche.o 
+# Reading Makefile: drivers/staging/gdm724x/Makefile
+# CONFIG_LTE_GDM724X gdmulte.o 
+# CONFIG_LTE_GDM724X gdmtty.o 
+# Reading Makefile: drivers/staging/fwserial/Makefile
+# CONFIG_FIREWIRE_SERIAL firewire-serial.o 
+# Reading Makefile: drivers/staging/fieldbus/anybuss/Makefile
+# CONFIG_HMS_ANYBUSS_BUS anybuss_core.o 
+# CONFIG_ARCX_ANYBUS_CONTROLLER arcx-anybus.o 
+# CONFIG_HMS_PROFINET hms-profinet.o 
+# Reading Makefile: drivers/staging/fieldbus/Makefile
+# CONFIG_FIELDBUS_DEV fieldbus_dev.o anybuss/ 
+# Reading Makefile: drivers/staging/fbtft/Makefile
+# CONFIG_FB_TFT fbtft.o 
+# CONFIG_FB_TFT_AGM1264K_FL fb_agm1264k-fl.o 
+# CONFIG_FB_TFT_BD663474 fb_bd663474.o 
+# CONFIG_FB_TFT_HX8340BN fb_hx8340bn.o 
+# CONFIG_FB_TFT_HX8347D fb_hx8347d.o 
+# CONFIG_FB_TFT_HX8353D fb_hx8353d.o 
+# CONFIG_FB_TFT_HX8357D fb_hx8357d.o 
+# CONFIG_FB_TFT_ILI9163 fb_ili9163.o 
+# CONFIG_FB_TFT_ILI9320 fb_ili9320.o 
+# CONFIG_FB_TFT_ILI9325 fb_ili9325.o 
+# CONFIG_FB_TFT_ILI9340 fb_ili9340.o 
+# CONFIG_FB_TFT_ILI9341 fb_ili9341.o 
+# CONFIG_FB_TFT_ILI9481 fb_ili9481.o 
+# CONFIG_FB_TFT_ILI9486 fb_ili9486.o 
+# CONFIG_FB_TFT_PCD8544 fb_pcd8544.o 
+# CONFIG_FB_TFT_RA8875 fb_ra8875.o 
+# CONFIG_FB_TFT_S6D02A1 fb_s6d02a1.o 
+# CONFIG_FB_TFT_S6D1121 fb_s6d1121.o 
+# CONFIG_FB_TFT_SEPS525 fb_seps525.o 
+# CONFIG_FB_TFT_SH1106 fb_sh1106.o 
+# CONFIG_FB_TFT_SSD1289 fb_ssd1289.o 
+# CONFIG_FB_TFT_SSD1305 fb_ssd1305.o 
+# CONFIG_FB_TFT_SSD1306 fb_ssd1306.o 
+# CONFIG_FB_TFT_SSD1305 fb_ssd1325.o 
+# CONFIG_FB_TFT_SSD1331 fb_ssd1331.o 
+# CONFIG_FB_TFT_SSD1351 fb_ssd1351.o 
+# CONFIG_FB_TFT_ST7735R fb_st7735r.o 
+# CONFIG_FB_TFT_ST7789V fb_st7789v.o 
+# CONFIG_FB_TFT_TINYLCD fb_tinylcd.o 
+# CONFIG_FB_TFT_TLS8204 fb_tls8204.o 
+# CONFIG_FB_TFT_UC1611 fb_uc1611.o 
+# CONFIG_FB_TFT_UC1701 fb_uc1701.o 
+# CONFIG_FB_TFT_UPD161704 fb_upd161704.o 
+# Reading Makefile: drivers/staging/emxx_udc/Makefile
+# CONFIG_USB_EMXX emxx_udc.o 
+# Reading Makefile: drivers/staging/clocking-wizard/Makefile
+# CONFIG_COMMON_CLK_XLNX_CLKWZRD clk-xlnx-clock-wizard.o 
+# Reading Makefile: drivers/staging/board/Makefile
+# CONFIG_ARCH_EMEV2 kzm9d.o 
+# CONFIG_ARCH_R8A7740 armadillo800eva.o 
+# Reading Makefile: drivers/staging/axis-fifo/Makefile
+# CONFIG_XIL_AXIS_FIFO axis-fifo.o 
+# Reading Makefile: drivers/staging/Makefile
+# CONFIG_PRISM2_USB wlan-ng/ 
+# CONFIG_FB_OLPC_DCON olpc_dcon/ 
+# CONFIG_RTL8192U rtl8192u/ 
+# CONFIG_RTL8192E rtl8192e/ 
+# CONFIG_RTL8723BS rtl8723bs/ 
+# CONFIG_R8712U rtl8712/ 
+# CONFIG_R8188EU r8188eu/ 
+# CONFIG_RTS5208 rts5208/ 
+# CONFIG_OCTEON_ETHERNET octeon/ 
+# CONFIG_OCTEON_USB octeon-usb/ 
+# CONFIG_VT6655 vt6655/ 
+# CONFIG_VT6656 vt6656/ 
+# CONFIG_VME_BUS vme_user/ 
+# CONFIG_IIO iio/ 
+# CONFIG_FB_SM750 sm750fb/ 
+# CONFIG_USB_EMXX emxx_udc/ 
+# CONFIG_MFD_NVEC nvec/ 
+# CONFIG_STAGING_BOARD board/ 
+# CONFIG_LTE_GDM724X gdm724x/ 
+# CONFIG_FIREWIRE_SERIAL fwserial/ 
+# CONFIG_COMMON_CLK_XLNX_CLKWZRD clocking-wizard/ 
+# CONFIG_FB_TFT fbtft/ 
+# CONFIG_MOST most/ 
+# CONFIG_KS7010 ks7010/ 
+# CONFIG_GREYBUS greybus/ 
+# CONFIG_BCM2835_VCHIQ vc04_services/ 
+# CONFIG_PI433 pi433/ 
+# CONFIG_XIL_AXIS_FIFO axis-fifo/ 
+# CONFIG_FIELDBUS_DEV fieldbus/ 
+# CONFIG_QLGE qlge/ 

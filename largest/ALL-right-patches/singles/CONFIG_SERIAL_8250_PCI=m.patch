@@ -1,0 +1,12 @@
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:39.248610352 -0400
+@@ -4194,7 +4194,7 @@
+ # CONFIG_SERIAL_8250_FINTEK is not set
+ CONFIG_SERIAL_8250_CONSOLE=y
+ CONFIG_SERIAL_8250_DMA=y
+-CONFIG_SERIAL_8250_PCI=y
++CONFIG_SERIAL_8250_PCI=m
+ CONFIG_SERIAL_8250_EXAR=m
+ CONFIG_SERIAL_8250_CS=m
+ CONFIG_SERIAL_8250_NR_UARTS=32

@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/ipack/devices/Makefile
+# CONFIG_SERIAL_IPOCTAL ipoctal.o 
+# Reading Makefile: drivers/ipack/carriers/Makefile
+# CONFIG_BOARD_TPCI200 tpci200.o 
+# Reading Makefile: drivers/ipack/Makefile
+# CONFIG_IPACK_BUS ipack.o 

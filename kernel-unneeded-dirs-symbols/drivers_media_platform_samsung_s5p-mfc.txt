@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/samsung/s5p-mfc/Makefile
+# CONFIG_VIDEO_SAMSUNG_S5P_MFC s5p-mfc.o 

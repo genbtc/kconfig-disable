@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/most/video/Makefile
+# CONFIG_MOST_VIDEO most_video.o 

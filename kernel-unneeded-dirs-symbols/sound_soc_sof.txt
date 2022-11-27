@@ -1,0 +1,43 @@
+# Reading Makefile: sound/soc/sof/xtensa/Makefile
+# CONFIG_SND_SOC_SOF_XTENSA snd-sof-xtensa-dsp.o 
+# Reading Makefile: sound/soc/sof/mediatek/mt8195/Makefile
+# CONFIG_SND_SOC_SOF_MT8195 snd-sof-mt8195.o 
+# Reading Makefile: sound/soc/sof/mediatek/mt8186/Makefile
+# CONFIG_SND_SOC_SOF_MT8186 snd-sof-mt8186.o 
+# Reading Makefile: sound/soc/sof/mediatek/Makefile
+# CONFIG_SND_SOC_SOF_MTK_COMMON mtk-adsp-common.o 
+# CONFIG_SND_SOC_SOF_MT8195 mt8195/ 
+# CONFIG_SND_SOC_SOF_MT8186 mt8186/ 
+# Reading Makefile: sound/soc/sof/intel/Makefile
+# CONFIG_SND_SOC_SOF_INTEL_ATOM_HIFI_EP snd-sof-intel-atom.o 
+# CONFIG_SND_SOC_SOF_BAYTRAIL snd-sof-acpi-intel-byt.o 
+# CONFIG_SND_SOC_SOF_BROADWELL snd-sof-acpi-intel-bdw.o 
+# CONFIG_SND_SOC_SOF_HDA_COMMON snd-sof-intel-hda-common.o 
+# CONFIG_SND_SOC_SOF_HDA snd-sof-intel-hda.o 
+# CONFIG_SND_SOC_SOF_MERRIFIELD snd-sof-pci-intel-tng.o 
+# CONFIG_SND_SOC_SOF_INTEL_APL snd-sof-pci-intel-apl.o 
+# CONFIG_SND_SOC_SOF_INTEL_CNL snd-sof-pci-intel-cnl.o 
+# CONFIG_SND_SOC_SOF_INTEL_ICL snd-sof-pci-intel-icl.o 
+# CONFIG_SND_SOC_SOF_INTEL_TGL snd-sof-pci-intel-tgl.o 
+# Reading Makefile: sound/soc/sof/imx/Makefile
+# CONFIG_SND_SOC_SOF_IMX8 snd-sof-imx8.o 
+# CONFIG_SND_SOC_SOF_IMX8M snd-sof-imx8m.o 
+# CONFIG_SND_SOC_SOF_IMX_COMMON imx-common.o 
+# Reading Makefile: sound/soc/sof/amd/Makefile
+# CONFIG_SND_SOC_SOF_AMD_COMMON snd-sof-amd-acp.o 
+# CONFIG_SND_SOC_SOF_AMD_RENOIR snd-sof-amd-renoir.o 
+# Reading Makefile: sound/soc/sof/Makefile
+# CONFIG_SND_SOC_SOF snd-sof.o 
+# CONFIG_SND_SOC_SOF_NOCODEC snd-sof-nocodec.o 
+# CONFIG_SND_SOC_SOF snd-sof-utils.o 
+# CONFIG_SND_SOC_SOF_ACPI_DEV snd-sof-acpi.o 
+# CONFIG_SND_SOC_SOF_OF_DEV snd-sof-of.o 
+# CONFIG_SND_SOC_SOF_PCI_DEV snd-sof-pci.o 
+# CONFIG_SND_SOC_SOF_DEBUG_IPC_FLOOD_TEST snd-sof-ipc-flood-test.o 
+# CONFIG_SND_SOC_SOF_DEBUG_IPC_MSG_INJECTOR snd-sof-ipc-msg-injector.o 
+# CONFIG_SND_SOC_SOF_DEBUG_PROBES snd-sof-probes.o 
+# CONFIG_SND_SOC_SOF_INTEL_TOPLEVEL intel/ 
+# CONFIG_SND_SOC_SOF_IMX_TOPLEVEL imx/ 
+# CONFIG_SND_SOC_SOF_AMD_TOPLEVEL amd/ 
+# CONFIG_SND_SOC_SOF_XTENSA xtensa/ 
+# CONFIG_SND_SOC_SOF_MTK_TOPLEVEL mediatek/ 

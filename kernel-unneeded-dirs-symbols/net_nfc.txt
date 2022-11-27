@@ -1,0 +1,11 @@
+# Reading Makefile: net/nfc/nci/Makefile
+# CONFIG_NFC_NCI nci.o 
+# CONFIG_NFC_NCI_SPI nci_spi.o 
+# CONFIG_NFC_NCI_UART nci_uart.o 
+# Reading Makefile: net/nfc/hci/Makefile
+# CONFIG_NFC_HCI hci.o 
+# Reading Makefile: net/nfc/Makefile
+# CONFIG_NFC nfc.o 
+# CONFIG_NFC_NCI nci/ 
+# CONFIG_NFC_HCI hci/ 
+# CONFIG_NFC_DIGITAL nfc_digital.o 

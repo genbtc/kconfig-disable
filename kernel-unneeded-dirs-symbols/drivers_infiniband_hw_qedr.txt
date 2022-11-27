@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/infiniband/hw/qedr/Makefile
+# CONFIG_INFINIBAND_QEDR qedr.o 

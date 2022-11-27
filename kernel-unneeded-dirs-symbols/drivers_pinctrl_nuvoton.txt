@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/pinctrl/nuvoton/Makefile
+# CONFIG_PINCTRL_WPCM450 pinctrl-wpcm450.o 
+# CONFIG_PINCTRL_NPCM7XX pinctrl-npcm7xx.o 

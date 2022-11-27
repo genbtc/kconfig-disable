@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/phy/freescale/Makefile
+# CONFIG_PHY_FSL_IMX8MQ_USB phy-fsl-imx8mq-usb.o 
+# CONFIG_PHY_MIXEL_MIPI_DPHY phy-fsl-imx8-mipi-dphy.o 
+# CONFIG_PHY_FSL_IMX8M_PCIE phy-fsl-imx8m-pcie.o 
+# CONFIG_PHY_FSL_LYNX_28G phy-fsl-lynx-28g.o 

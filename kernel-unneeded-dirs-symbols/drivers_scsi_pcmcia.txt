@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/scsi/pcmcia/Makefile
+# CONFIG_PCMCIA_QLOGIC qlogic_cs.o 
+# CONFIG_PCMCIA_FDOMAIN fdomain_cs.o 
+# CONFIG_PCMCIA_AHA152X aha152x_cs.o 
+# CONFIG_PCMCIA_NINJA_SCSI nsp_cs.o 
+# CONFIG_PCMCIA_SYM53C500 sym53c500_cs.o 

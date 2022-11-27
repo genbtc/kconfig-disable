@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/phy/ralink/Makefile
+# CONFIG_PHY_MT7621_PCI phy-mt7621-pci.o 
+# CONFIG_PHY_RALINK_USB phy-ralink-usb.o 

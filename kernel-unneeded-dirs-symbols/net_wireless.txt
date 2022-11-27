@@ -1,0 +1,10 @@
+# Reading Makefile: net/wireless/Makefile
+# CONFIG_CFG80211 cfg80211.o 
+# CONFIG_LIB80211 lib80211.o 
+# CONFIG_LIB80211_CRYPT_WEP lib80211_crypt_wep.o 
+# CONFIG_LIB80211_CRYPT_CCMP lib80211_crypt_ccmp.o 
+# CONFIG_LIB80211_CRYPT_TKIP lib80211_crypt_tkip.o 
+# CONFIG_WEXT_CORE wext-core.o 
+# CONFIG_WEXT_PROC wext-proc.o 
+# CONFIG_WEXT_SPY wext-spy.o 
+# CONFIG_WEXT_PRIV wext-priv.o 

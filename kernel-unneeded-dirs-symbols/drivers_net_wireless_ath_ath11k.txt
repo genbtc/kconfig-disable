@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/wireless/ath/ath11k/Makefile
+# CONFIG_ATH11K ath11k.o 
+# CONFIG_ATH11K_AHB ath11k_ahb.o 
+# CONFIG_ATH11K_PCI ath11k_pci.o 

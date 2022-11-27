@@ -1,0 +1,9 @@
+# Reading Makefile: drivers/soc/mediatek/Makefile
+# CONFIG_MTK_CMDQ mtk-cmdq-helper.o 
+# CONFIG_MTK_DEVAPC mtk-devapc.o 
+# CONFIG_MTK_INFRACFG mtk-infracfg.o 
+# CONFIG_MTK_PMIC_WRAP mtk-pmic-wrap.o 
+# CONFIG_MTK_SCPSYS mtk-scpsys.o 
+# CONFIG_MTK_SCPSYS_PM_DOMAINS mtk-pm-domains.o 
+# CONFIG_MTK_MMSYS mtk-mmsys.o 
+# CONFIG_MTK_MMSYS mtk-mutex.o 

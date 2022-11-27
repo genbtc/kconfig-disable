@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/firmware/imx/Makefile
+# CONFIG_IMX_DSP imx-dsp.o 
+# CONFIG_IMX_SCU imx-scu.o misc.o imx-scu-irq.o rm.o imx-scu-soc.o 
+# CONFIG_IMX_SCU_PD scu-pd.o 

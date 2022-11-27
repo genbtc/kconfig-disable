@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/cortina/Makefile
+# CONFIG_GEMINI_ETHERNET gemini.o 

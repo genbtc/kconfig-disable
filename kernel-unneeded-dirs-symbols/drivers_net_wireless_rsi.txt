@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/wireless/rsi/Makefile
+# CONFIG_RSI_91X rsi_91x.o 
+# CONFIG_RSI_SDIO rsi_sdio.o 
+# CONFIG_RSI_USB rsi_usb.o 

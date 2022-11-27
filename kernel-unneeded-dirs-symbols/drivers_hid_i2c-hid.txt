@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/hid/i2c-hid/Makefile
+# CONFIG_I2C_HID_CORE i2c-hid.o 
+# CONFIG_I2C_HID_ACPI i2c-hid-acpi.o 
+# CONFIG_I2C_HID_OF i2c-hid-of.o 
+# CONFIG_I2C_HID_OF_GOODIX i2c-hid-of-goodix.o 

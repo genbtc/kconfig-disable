@@ -1,0 +1,5 @@
+# Reading Makefile: fs/pstore/Makefile
+# CONFIG_PSTORE pstore.o 
+# CONFIG_PSTORE_RAM ramoops.o 
+# CONFIG_PSTORE_ZONE pstore_zone.o 
+# CONFIG_PSTORE_BLK pstore_blk.o 

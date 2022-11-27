@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/aspeed/Makefile
+# CONFIG_DRM_ASPEED_GFX aspeed_gfx.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: fs/gfs2/Makefile
+# CONFIG_GFS2_FS gfs2.o 

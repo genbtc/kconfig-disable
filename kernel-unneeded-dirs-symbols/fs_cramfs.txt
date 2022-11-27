@@ -1,0 +1,2 @@
+# Reading Makefile: fs/cramfs/Makefile
+# CONFIG_CRAMFS cramfs.o 

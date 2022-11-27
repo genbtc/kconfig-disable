@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/clk/x86/Makefile
+# CONFIG_PMC_ATOM clk-pmc-atom.o 
+# CONFIG_X86_AMD_PLATFORM_DEVICE clk-fch.o 
+# CONFIG_X86_INTEL_LPSS clk-x86-lpss.o 
+# CONFIG_CLK_LGM_CGU clk-cgu.o clk-cgu-pll.o clk-lgm.o 

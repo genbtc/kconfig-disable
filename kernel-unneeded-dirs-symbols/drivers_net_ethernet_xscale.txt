@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/net/ethernet/xscale/Makefile
+# CONFIG_IXP4XX_ETH ptp_ixp46x.o 
+# CONFIG_IXP4XX_ETH ixp4xx_eth.o 

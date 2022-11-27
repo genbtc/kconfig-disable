@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/soc/atmel/Makefile
+# CONFIG_AT91_SOC_ID soc.o 
+# CONFIG_AT91_SOC_SFR sfr.o 

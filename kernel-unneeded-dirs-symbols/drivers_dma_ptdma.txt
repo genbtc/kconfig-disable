@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/dma/ptdma/Makefile
+# CONFIG_AMD_PTDMA ptdma.o 

@@ -1,0 +1,13 @@
+# Reading Makefile: drivers/tty/hvc/Makefile
+# CONFIG_HVC_CONSOLE hvc_vio.o hvsi_lib.o 
+# CONFIG_HVC_OPAL hvc_opal.o hvsi_lib.o 
+# CONFIG_HVC_OLD_HVSI hvsi.o 
+# CONFIG_HVC_RTAS hvc_rtas.o 
+# CONFIG_HVC_DCC hvc_dcc.o 
+# CONFIG_HVC_DRIVER hvc_console.o 
+# CONFIG_HVC_IRQ hvc_irq.o 
+# CONFIG_HVC_XEN hvc_xen.o 
+# CONFIG_HVC_IUCV hvc_iucv.o 
+# CONFIG_HVC_UDBG hvc_udbg.o 
+# CONFIG_HVC_RISCV_SBI hvc_riscv_sbi.o 
+# CONFIG_HVCS hvcs.o 

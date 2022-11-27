@@ -1,0 +1,2 @@
+# Reading Makefile: net/lapb/Makefile
+# CONFIG_LAPB lapb.o 

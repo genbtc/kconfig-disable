@@ -1,0 +1,2 @@
+# Reading Makefile: sound/virtio/Makefile
+# CONFIG_SND_VIRTIO virtio_snd.o 

@@ -1,0 +1,2 @@
+# Reading Makefile: net/bluetooth/rfcomm/Makefile
+# CONFIG_BT_RFCOMM rfcomm.o 

@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/scsi/qla2xxx/Makefile
+# CONFIG_SCSI_QLA_FC qla2xxx.o 
+# CONFIG_TCM_QLA2XXX tcm_qla2xxx.o 

@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/media/platform/chips-media/Makefile
+# CONFIG_VIDEO_CODA coda-vpu.o 
+# CONFIG_VIDEO_IMX_VDOA imx-vdoa.o 

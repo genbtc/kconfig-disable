@@ -1,0 +1,2 @@
+# Reading Makefile: sound/aoa/fabrics/Makefile
+# CONFIG_SND_AOA_FABRIC_LAYOUT snd-aoa-fabric-layout.o 

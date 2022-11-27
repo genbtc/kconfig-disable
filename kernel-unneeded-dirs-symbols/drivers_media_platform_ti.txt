@@ -1,0 +1,21 @@
+# Reading Makefile: drivers/media/platform/ti/vpe/Makefile
+# CONFIG_VIDEO_TI_VPE ti-vpe.o 
+# CONFIG_VIDEO_TI_VPDMA ti-vpdma.o 
+# CONFIG_VIDEO_TI_SC ti-sc.o 
+# CONFIG_VIDEO_TI_CSC ti-csc.o 
+# Reading Makefile: drivers/media/platform/ti/omap3isp/Makefile
+# CONFIG_VIDEO_OMAP3 omap3-isp.o 
+# Reading Makefile: drivers/media/platform/ti/omap/Makefile
+# CONFIG_VIDEO_OMAP2_VOUT omap-vout.o 
+# Reading Makefile: drivers/media/platform/ti/davinci/Makefile
+# CONFIG_VIDEO_DAVINCI_VPIF_DISPLAY vpif.o vpif_display.o 
+# CONFIG_VIDEO_DAVINCI_VPIF_CAPTURE vpif.o vpif_capture.o 
+# CONFIG_VIDEO_DM6446_CCDC vpfe_capture.o vpss.o dm644x_ccdc.o 
+# CONFIG_VIDEO_DM355_CCDC vpfe_capture.o vpss.o dm355_ccdc.o 
+# CONFIG_VIDEO_DM365_ISIF vpfe_capture.o vpss.o isif.o 
+# CONFIG_VIDEO_DAVINCI_VPBE_DISPLAY vpss.o vpbe.o vpbe_osd.o 	vpbe_venc.o vpbe_display.o 
+# Reading Makefile: drivers/media/platform/ti/cal/Makefile
+# CONFIG_VIDEO_TI_CAL ti-cal.o 
+# Reading Makefile: drivers/media/platform/ti/am437x/Makefile
+# CONFIG_VIDEO_AM437X_VPFE am437x-vpfe.o 
+# Reading Makefile: drivers/media/platform/ti/Makefile

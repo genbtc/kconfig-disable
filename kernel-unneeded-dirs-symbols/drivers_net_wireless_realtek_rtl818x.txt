@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/net/wireless/realtek/rtl818x/rtl8187/Makefile
+# CONFIG_RTL8187 rtl8187.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtl818x/rtl8180/Makefile
+# CONFIG_RTL8180 rtl818x_pci.o 
+# Reading Makefile: drivers/net/wireless/realtek/rtl818x/Makefile
+# CONFIG_RTL8180 rtl8180/ 
+# CONFIG_RTL8187 rtl8187/ 

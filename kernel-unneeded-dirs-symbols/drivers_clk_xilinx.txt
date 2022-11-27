@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/clk/xilinx/Makefile
+# CONFIG_XILINX_VCU xlnx_vcu.o 

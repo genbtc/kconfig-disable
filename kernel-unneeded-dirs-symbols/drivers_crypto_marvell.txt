@@ -1,0 +1,10 @@
+# Reading Makefile: drivers/crypto/marvell/octeontx2/Makefile
+# CONFIG_CRYPTO_DEV_OCTEONTX2_CPT rvu_cptpf.o rvu_cptvf.o 
+# Reading Makefile: drivers/crypto/marvell/octeontx/Makefile
+# CONFIG_CRYPTO_DEV_OCTEONTX_CPT octeontx-cpt.o octeontx-cptvf.o 
+# Reading Makefile: drivers/crypto/marvell/cesa/Makefile
+# CONFIG_CRYPTO_DEV_MARVELL_CESA marvell-cesa.o 
+# Reading Makefile: drivers/crypto/marvell/Makefile
+# CONFIG_CRYPTO_DEV_MARVELL_CESA cesa/ 
+# CONFIG_CRYPTO_DEV_OCTEONTX_CPT octeontx/ 
+# CONFIG_CRYPTO_DEV_OCTEONTX2_CPT octeontx2/ 

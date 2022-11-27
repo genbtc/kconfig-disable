@@ -1,0 +1,2 @@
+# Reading Makefile: fs/nilfs2/Makefile
+# CONFIG_NILFS2_FS nilfs2.o 

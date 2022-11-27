@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/gnss/Makefile
+# CONFIG_GNSS gnss.o 
+# CONFIG_GNSS_SERIAL gnss-serial.o 
+# CONFIG_GNSS_MTK_SERIAL gnss-mtk.o 
+# CONFIG_GNSS_SIRF_SERIAL gnss-sirf.o 
+# CONFIG_GNSS_UBX_SERIAL gnss-ubx.o 
+# CONFIG_GNSS_USB gnss-usb.o 

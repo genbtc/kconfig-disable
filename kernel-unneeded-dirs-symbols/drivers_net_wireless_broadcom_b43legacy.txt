@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/wireless/broadcom/b43legacy/Makefile
+# CONFIG_B43LEGACY b43legacy.o 

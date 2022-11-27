@@ -1,0 +1,2 @@
+# Reading Makefile: net/psample/Makefile
+# CONFIG_PSAMPLE psample.o 

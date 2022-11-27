@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/can/mscan/Makefile
+# CONFIG_CAN_MPC5XXX mscan-mpc5xxx.o 

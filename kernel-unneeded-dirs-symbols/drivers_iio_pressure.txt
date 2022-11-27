@@ -1,0 +1,27 @@
+# Reading Makefile: drivers/iio/pressure/Makefile
+# CONFIG_ABP060MG abp060mg.o 
+# CONFIG_BMP280 bmp280.o 
+# CONFIG_BMP280_I2C bmp280-i2c.o 
+# CONFIG_BMP280_SPI bmp280-spi.o 
+# CONFIG_DLHL60D dlhl60d.o 
+# CONFIG_DPS310 dps310.o 
+# CONFIG_IIO_CROS_EC_BARO cros_ec_baro.o 
+# CONFIG_HID_SENSOR_PRESS hid-sensor-press.o 
+# CONFIG_HP03 hp03.o 
+# CONFIG_ICP10100 icp10100.o 
+# CONFIG_MPL115 mpl115.o 
+# CONFIG_MPL115_I2C mpl115_i2c.o 
+# CONFIG_MPL115_SPI mpl115_spi.o 
+# CONFIG_MPL3115 mpl3115.o 
+# CONFIG_MS5611 ms5611_core.o 
+# CONFIG_MS5611_I2C ms5611_i2c.o 
+# CONFIG_MS5611_SPI ms5611_spi.o 
+# CONFIG_MS5637 ms5637.o 
+# CONFIG_IIO_ST_PRESS st_pressure.o 
+# CONFIG_T5403 t5403.o 
+# CONFIG_HP206C hp206c.o 
+# CONFIG_ZPA2326 zpa2326.o 
+# CONFIG_ZPA2326_I2C zpa2326_i2c.o 
+# CONFIG_ZPA2326_SPI zpa2326_spi.o 
+# CONFIG_IIO_ST_PRESS_I2C st_pressure_i2c.o 
+# CONFIG_IIO_ST_PRESS_SPI st_pressure_spi.o 

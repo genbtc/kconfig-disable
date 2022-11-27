@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/media/usb/go7007/Makefile
+# CONFIG_VIDEO_GO7007 go7007.o 
+# CONFIG_VIDEO_GO7007_USB go7007-usb.o 
+# CONFIG_VIDEO_GO7007_LOADER go7007-loader.o 
+# CONFIG_VIDEO_GO7007_USB_S2250_BOARD s2250.o 

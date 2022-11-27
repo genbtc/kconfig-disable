@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/test-drivers/vivid/Makefile
+# CONFIG_VIDEO_VIVID vivid.o 

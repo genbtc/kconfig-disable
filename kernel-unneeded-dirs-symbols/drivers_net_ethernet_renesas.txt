@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/net/ethernet/renesas/Makefile
+# CONFIG_SH_ETH sh_eth.o 
+# CONFIG_RAVB ravb.o 

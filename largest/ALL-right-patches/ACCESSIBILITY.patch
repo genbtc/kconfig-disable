@@ -1,0 +1,45 @@
+Accessibility support
+Accessibility handles all special kinds of hardware devices or
+software adapters which help people with disabilities (e.g.
+blindness) to use computers.
+
+That includes braille devices, speech synthesis, keyboard
+remapping, etc.
+
+Say Y here to get to see options for accessibility.
+This option alone does not add any kernel code.
+
+If you say N, all options in this submenu will be skipped and disabled.
+
+If unsure, say N.
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:20:26.481610310 -0400
+@@ -7560,26 +7560,7 @@
+ #
+ # Simple LED drivers
+ #
+-CONFIG_ACCESSIBILITY=y
+-CONFIG_A11Y_BRAILLE_CONSOLE=y
+-
+-#
+-# Speakup console speech
+-#
+-CONFIG_SPEAKUP=m
+-CONFIG_SPEAKUP_SYNTH_ACNTSA=m
+-CONFIG_SPEAKUP_SYNTH_APOLLO=m
+-CONFIG_SPEAKUP_SYNTH_AUDPTR=m
+-CONFIG_SPEAKUP_SYNTH_BNS=m
+-CONFIG_SPEAKUP_SYNTH_DECTLK=m
+-# CONFIG_SPEAKUP_SYNTH_DECEXT is not set
+-CONFIG_SPEAKUP_SYNTH_LTLK=m
+-CONFIG_SPEAKUP_SYNTH_SOFT=m
+-CONFIG_SPEAKUP_SYNTH_SPKOUT=m
+-CONFIG_SPEAKUP_SYNTH_TXPRT=m
+-# CONFIG_SPEAKUP_SYNTH_DUMMY is not set
+-# end of Speakup console speech
+-
++# CONFIG_ACCESSIBILITY is not set
+ CONFIG_INFINIBAND=m
+ CONFIG_INFINIBAND_USER_MAD=m
+ CONFIG_INFINIBAND_USER_ACCESS=m

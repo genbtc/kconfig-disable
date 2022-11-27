@@ -1,0 +1,33 @@
+# Reading Makefile: drivers/usb/typec/ucsi/Makefile
+# CONFIG_TYPEC_UCSI typec_ucsi.o 
+# CONFIG_UCSI_ACPI ucsi_acpi.o 
+# CONFIG_UCSI_CCG ucsi_ccg.o 
+# Reading Makefile: drivers/usb/typec/tipd/Makefile
+# CONFIG_TYPEC_TPS6598X tps6598x.o 
+# Reading Makefile: drivers/usb/typec/tcpm/Makefile
+# CONFIG_TYPEC_TCPM tcpm.o 
+# CONFIG_TYPEC_FUSB302 fusb302.o 
+# CONFIG_TYPEC_WCOVE typec_wcove.o 
+# CONFIG_TYPEC_TCPCI tcpci.o 
+# CONFIG_TYPEC_RT1711H tcpci_rt1711h.o 
+# CONFIG_TYPEC_MT6360 tcpci_mt6360.o 
+# CONFIG_TYPEC_TCPCI_MAXIM tcpci_maxim.o 
+# Reading Makefile: drivers/usb/typec/mux/Makefile
+# CONFIG_TYPEC_MUX_FSA4480 fsa4480.o 
+# CONFIG_TYPEC_MUX_PI3USB30532 pi3usb30532.o 
+# CONFIG_TYPEC_MUX_INTEL_PMC intel_pmc_mux.o 
+# Reading Makefile: drivers/usb/typec/altmodes/Makefile
+# CONFIG_TYPEC_DP_ALTMODE typec_displayport.o 
+# CONFIG_TYPEC_NVIDIA_ALTMODE typec_nvidia.o 
+# Reading Makefile: drivers/usb/typec/Makefile
+# CONFIG_TYPEC typec.o 
+# CONFIG_TYPEC altmodes/ 
+# CONFIG_TYPEC_TCPM tcpm/ 
+# CONFIG_TYPEC_UCSI ucsi/ 
+# CONFIG_TYPEC_TPS6598X tipd/ 
+# CONFIG_TYPEC_HD3SS3220 hd3ss3220.o 
+# CONFIG_TYPEC_QCOM_PMIC qcom-pmic-typec.o 
+# CONFIG_TYPEC_STUSB160X stusb160x.o 
+# CONFIG_TYPEC_RT1719 rt1719.o 
+# CONFIG_TYPEC_WUSB3801 wusb3801.o 
+# CONFIG_TYPEC mux/ 

@@ -1,0 +1,2 @@
+# Reading Makefile: fs/romfs/Makefile
+# CONFIG_ROMFS_FS romfs.o 

@@ -1,0 +1,20 @@
+# Reading Makefile: sound/soc/ti/Makefile
+# CONFIG_SND_SOC_TI_EDMA_PCM snd-soc-ti-edma.o 
+# CONFIG_SND_SOC_TI_SDMA_PCM snd-soc-ti-sdma.o 
+# CONFIG_SND_SOC_TI_UDMA_PCM snd-soc-ti-udma.o 
+# CONFIG_SND_SOC_DAVINCI_ASP snd-soc-davinci-asp.o 
+# CONFIG_SND_SOC_DAVINCI_MCASP snd-soc-davinci-mcasp.o 
+# CONFIG_SND_SOC_DAVINCI_VCIF snd-soc-davinci-vcif.o 
+# CONFIG_SND_SOC_OMAP_DMIC snd-soc-omap-dmic.o 
+# CONFIG_SND_SOC_OMAP_MCBSP snd-soc-omap-mcbsp.o 
+# CONFIG_SND_SOC_OMAP_MCPDM snd-soc-omap-mcpdm.o 
+# CONFIG_SND_SOC_DAVINCI_EVM snd-soc-davinci-evm.o 
+# CONFIG_SND_SOC_NOKIA_N810 snd-soc-n810.o 
+# CONFIG_SND_SOC_NOKIA_RX51 snd-soc-rx51.o 
+# CONFIG_SND_SOC_OMAP3_PANDORA snd-soc-omap3pandora.o 
+# CONFIG_SND_SOC_OMAP3_TWL4030 snd-soc-omap-twl4030.o 
+# CONFIG_SND_SOC_OMAP_ABE_TWL6040 snd-soc-omap-abe-twl6040.o 
+# CONFIG_SND_SOC_OMAP_AMS_DELTA snd-soc-ams-delta.o 
+# CONFIG_SND_SOC_OMAP_HDMI snd-soc-omap-hdmi.o 
+# CONFIG_SND_SOC_OMAP_OSK5912 snd-soc-osk5912.o 
+# CONFIG_SND_SOC_J721E_EVM snd-soc-j721e-evm.o 

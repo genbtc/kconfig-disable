@@ -1,0 +1,2 @@
+# Reading Makefile: fs/adfs/Makefile
+# CONFIG_ADFS_FS adfs.o 

@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/media/usb/em28xx/Makefile
+# CONFIG_VIDEO_EM28XX em28xx.o 
+# CONFIG_VIDEO_EM28XX_V4L2 em28xx-v4l.o 
+# CONFIG_VIDEO_EM28XX_ALSA em28xx-alsa.o 
+# CONFIG_VIDEO_EM28XX_DVB em28xx-dvb.o 
+# CONFIG_VIDEO_EM28XX_RC em28xx-rc.o 

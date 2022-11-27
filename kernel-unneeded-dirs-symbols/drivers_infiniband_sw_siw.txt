@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/infiniband/sw/siw/Makefile
+# CONFIG_RDMA_SIW siw.o 

@@ -1,0 +1,14 @@
+# Reading Makefile: drivers/net/ethernet/qlogic/qlcnic/Makefile
+# CONFIG_QLCNIC qlcnic.o 
+# Reading Makefile: drivers/net/ethernet/qlogic/qede/Makefile
+# CONFIG_QEDE qede.o 
+# Reading Makefile: drivers/net/ethernet/qlogic/qed/Makefile
+# CONFIG_QED qed.o 
+# Reading Makefile: drivers/net/ethernet/qlogic/netxen/Makefile
+# CONFIG_NETXEN_NIC netxen_nic.o 
+# Reading Makefile: drivers/net/ethernet/qlogic/Makefile
+# CONFIG_QLA3XXX qla3xxx.o 
+# CONFIG_QLCNIC qlcnic/ 
+# CONFIG_NETXEN_NIC netxen/ 
+# CONFIG_QED qed/ 
+# CONFIG_QEDE qede/ 

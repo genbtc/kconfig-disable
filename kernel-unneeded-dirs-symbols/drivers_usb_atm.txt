@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/usb/atm/Makefile
+# CONFIG_USB_CXACRU cxacru.o 
+# CONFIG_USB_SPEEDTOUCH speedtch.o 
+# CONFIG_USB_UEAGLEATM ueagle-atm.o 
+# CONFIG_USB_ATM usbatm.o 
+# CONFIG_USB_XUSBATM xusbatm.o 

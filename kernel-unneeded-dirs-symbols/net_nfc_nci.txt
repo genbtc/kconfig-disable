@@ -1,0 +1,4 @@
+# Reading Makefile: net/nfc/nci/Makefile
+# CONFIG_NFC_NCI nci.o 
+# CONFIG_NFC_NCI_SPI nci_spi.o 
+# CONFIG_NFC_NCI_UART nci_uart.o 

@@ -1,0 +1,9 @@
+# Reading Makefile: drivers/hwtracing/intel_th/Makefile
+# CONFIG_INTEL_TH intel_th.o 
+# CONFIG_INTEL_TH_PCI intel_th_pci.o 
+# CONFIG_INTEL_TH_ACPI intel_th_acpi.o 
+# CONFIG_INTEL_TH_GTH intel_th_gth.o 
+# CONFIG_INTEL_TH_STH intel_th_sth.o 
+# CONFIG_INTEL_TH_MSU intel_th_msu.o 
+# CONFIG_INTEL_TH_PTI intel_th_pti.o 
+# CONFIG_INTEL_TH_MSU intel_th_msu_sink.o 

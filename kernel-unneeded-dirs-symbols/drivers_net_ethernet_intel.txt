@@ -1,0 +1,38 @@
+# Reading Makefile: drivers/net/ethernet/intel/ixgbevf/Makefile
+# CONFIG_IXGBEVF ixgbevf.o 
+# Reading Makefile: drivers/net/ethernet/intel/ixgbe/Makefile
+# CONFIG_IXGBE ixgbe.o 
+# Reading Makefile: drivers/net/ethernet/intel/ixgb/Makefile
+# CONFIG_IXGB ixgb.o 
+# Reading Makefile: drivers/net/ethernet/intel/igc/Makefile
+# CONFIG_IGC igc.o 
+# Reading Makefile: drivers/net/ethernet/intel/igbvf/Makefile
+# CONFIG_IGBVF igbvf.o 
+# Reading Makefile: drivers/net/ethernet/intel/igb/Makefile
+# CONFIG_IGB igb.o 
+# Reading Makefile: drivers/net/ethernet/intel/ice/Makefile
+# CONFIG_ICE ice.o 
+# Reading Makefile: drivers/net/ethernet/intel/iavf/Makefile
+# CONFIG_IAVF iavf.o 
+# Reading Makefile: drivers/net/ethernet/intel/i40e/Makefile
+# CONFIG_I40E i40e.o 
+# Reading Makefile: drivers/net/ethernet/intel/fm10k/Makefile
+# CONFIG_FM10K fm10k.o 
+# Reading Makefile: drivers/net/ethernet/intel/e1000e/Makefile
+# CONFIG_E1000E e1000e.o 
+# Reading Makefile: drivers/net/ethernet/intel/e1000/Makefile
+# CONFIG_E1000 e1000.o 
+# Reading Makefile: drivers/net/ethernet/intel/Makefile
+# CONFIG_E100 e100.o 
+# CONFIG_E1000 e1000/ 
+# CONFIG_E1000E e1000e/ 
+# CONFIG_IGB igb/ 
+# CONFIG_IGC igc/ 
+# CONFIG_IGBVF igbvf/ 
+# CONFIG_IXGBE ixgbe/ 
+# CONFIG_IXGBEVF ixgbevf/ 
+# CONFIG_I40E i40e/ 
+# CONFIG_IXGB ixgb/ 
+# CONFIG_IAVF iavf/ 
+# CONFIG_FM10K fm10k/ 
+# CONFIG_ICE ice/ 

@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/platform/olpc/Makefile
+# CONFIG_OLPC_EC olpc-ec.o 
+# CONFIG_OLPC_XO175_EC olpc-xo175-ec.o 

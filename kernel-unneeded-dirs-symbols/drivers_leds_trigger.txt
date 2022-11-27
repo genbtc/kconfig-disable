@@ -1,0 +1,18 @@
+# Reading Makefile: drivers/leds/trigger/Makefile
+# CONFIG_LEDS_TRIGGER_TIMER ledtrig-timer.o 
+# CONFIG_LEDS_TRIGGER_ONESHOT ledtrig-oneshot.o 
+# CONFIG_LEDS_TRIGGER_DISK ledtrig-disk.o 
+# CONFIG_LEDS_TRIGGER_MTD ledtrig-mtd.o 
+# CONFIG_LEDS_TRIGGER_HEARTBEAT ledtrig-heartbeat.o 
+# CONFIG_LEDS_TRIGGER_BACKLIGHT ledtrig-backlight.o 
+# CONFIG_LEDS_TRIGGER_GPIO ledtrig-gpio.o 
+# CONFIG_LEDS_TRIGGER_CPU ledtrig-cpu.o 
+# CONFIG_LEDS_TRIGGER_ACTIVITY ledtrig-activity.o 
+# CONFIG_LEDS_TRIGGER_DEFAULT_ON ledtrig-default-on.o 
+# CONFIG_LEDS_TRIGGER_TRANSIENT ledtrig-transient.o 
+# CONFIG_LEDS_TRIGGER_CAMERA ledtrig-camera.o 
+# CONFIG_LEDS_TRIGGER_PANIC ledtrig-panic.o 
+# CONFIG_LEDS_TRIGGER_NETDEV ledtrig-netdev.o 
+# CONFIG_LEDS_TRIGGER_PATTERN ledtrig-pattern.o 
+# CONFIG_LEDS_TRIGGER_AUDIO ledtrig-audio.o 
+# CONFIG_LEDS_TRIGGER_TTY ledtrig-tty.o 

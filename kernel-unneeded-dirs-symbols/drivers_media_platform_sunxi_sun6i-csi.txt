@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/media/platform/sunxi/sun6i-csi/Makefile
+# CONFIG_VIDEO_SUN6I_CSI sun6i-csi.o 

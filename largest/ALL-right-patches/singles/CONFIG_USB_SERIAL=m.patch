@@ -1,0 +1,13 @@
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:20:20.322610316 -0400
+@@ -7286,8 +7286,7 @@
+ # USB port drivers
+ #
+ CONFIG_USB_USS720=m
+-CONFIG_USB_SERIAL=y
+-CONFIG_USB_SERIAL_CONSOLE=y
++CONFIG_USB_SERIAL=m
+ CONFIG_USB_SERIAL_GENERIC=y
+ CONFIG_USB_SERIAL_SIMPLE=m
+ CONFIG_USB_SERIAL_AIRCABLE=m

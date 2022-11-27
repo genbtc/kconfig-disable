@@ -1,0 +1,5 @@
+# Reading Makefile: net/caif/Makefile
+# CONFIG_CAIF caif.o 
+# CONFIG_CAIF_NETDEV chnl_net.o 
+# CONFIG_CAIF caif_socket.o 
+# CONFIG_CAIF_USB caif_usb.o 

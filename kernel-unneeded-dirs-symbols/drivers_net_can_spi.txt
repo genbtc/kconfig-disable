@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/net/can/spi/mcp251xfd/Makefile
+# CONFIG_CAN_MCP251XFD mcp251xfd.o 
+# Reading Makefile: drivers/net/can/spi/Makefile
+# CONFIG_CAN_HI311X hi311x.o 
+# CONFIG_CAN_MCP251X mcp251x.o 

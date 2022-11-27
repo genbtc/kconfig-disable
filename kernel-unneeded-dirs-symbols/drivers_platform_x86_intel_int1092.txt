@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/platform/x86/intel/int1092/Makefile
+# CONFIG_INTEL_SAR_INT1092 intel_sar.o 

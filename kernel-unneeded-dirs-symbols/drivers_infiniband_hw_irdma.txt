@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/infiniband/hw/irdma/Makefile
+# CONFIG_INFINIBAND_IRDMA irdma.o 

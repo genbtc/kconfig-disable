@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/wireless/ath/ath5k/Makefile
+# CONFIG_ATH5K ath5k.o 

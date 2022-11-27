@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/apple/Makefile
+# CONFIG_MACE mace.o 
+# CONFIG_BMAC bmac.o 
+# CONFIG_MACMACE macmace.o 

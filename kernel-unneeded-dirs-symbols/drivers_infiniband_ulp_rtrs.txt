@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/infiniband/ulp/rtrs/Makefile
+# CONFIG_INFINIBAND_RTRS rtrs-core.o 
+# CONFIG_INFINIBAND_RTRS_CLIENT rtrs-client.o 
+# CONFIG_INFINIBAND_RTRS_SERVER rtrs-server.o 

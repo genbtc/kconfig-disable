@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/samsung/sxgbe/Makefile
+# CONFIG_SXGBE_ETH samsung-sxgbe.o 
+# Reading Makefile: drivers/net/ethernet/samsung/Makefile
+# CONFIG_SXGBE_ETH sxgbe/ 

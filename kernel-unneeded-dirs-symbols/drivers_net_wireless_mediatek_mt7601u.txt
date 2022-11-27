@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/wireless/mediatek/mt7601u/Makefile
+# CONFIG_MT7601U mt7601u.o 

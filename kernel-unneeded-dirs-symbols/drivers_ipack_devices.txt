@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/ipack/devices/Makefile
+# CONFIG_SERIAL_IPOCTAL ipoctal.o 

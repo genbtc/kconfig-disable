@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/staging/media/rkvdec/Makefile
+# CONFIG_VIDEO_ROCKCHIP_VDEC rockchip-vdec.o 

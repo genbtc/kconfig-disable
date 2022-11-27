@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/crypto/nx/Makefile
+# CONFIG_CRYPTO_DEV_NX_ENCRYPT nx-crypto.o 
+# CONFIG_CRYPTO_DEV_NX_COMPRESS_PSERIES nx-compress-pseries.o nx-compress.o 
+# CONFIG_CRYPTO_DEV_NX_COMPRESS_POWERNV nx-compress-powernv.o nx-compress.o 

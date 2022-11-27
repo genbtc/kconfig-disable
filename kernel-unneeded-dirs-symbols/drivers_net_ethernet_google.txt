@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/google/gve/Makefile
+# CONFIG_GVE gve.o 
+# Reading Makefile: drivers/net/ethernet/google/Makefile
+# CONFIG_GVE gve/ 

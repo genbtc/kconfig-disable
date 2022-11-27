@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/misc/habanalabs/goya/Makefile
+# Reading Makefile: drivers/misc/habanalabs/gaudi/Makefile
+# Reading Makefile: drivers/misc/habanalabs/common/pci/Makefile
+# Reading Makefile: drivers/misc/habanalabs/common/mmu/Makefile
+# Reading Makefile: drivers/misc/habanalabs/common/Makefile
+# Reading Makefile: drivers/misc/habanalabs/Makefile
+# CONFIG_HABANA_AI habanalabs.o 

@@ -1,0 +1,23 @@
+# Reading Makefile: drivers/soc/fsl/qe/Makefile
+# CONFIG_QUICC_ENGINE qe.o qe_common.o qe_ic.o qe_io.o 
+# CONFIG_CPM qe_common.o 
+# CONFIG_UCC ucc.o 
+# CONFIG_UCC_SLOW ucc_slow.o 
+# CONFIG_UCC_FAST ucc_fast.o 
+# CONFIG_QE_TDM qe_tdm.o 
+# CONFIG_QE_USB usb.o 
+# CONFIG_QE_GPIO gpio.o 
+# Reading Makefile: drivers/soc/fsl/qbman/Makefile
+# CONFIG_FSL_DPAA bman_ccsr.o qman_ccsr.o 						   bman_portal.o qman_portal.o 						   bman.o qman.o dpaa_sys.o 
+# CONFIG_FSL_BMAN_TEST bman-test.o 
+# CONFIG_FSL_QMAN_TEST qman-test.o 
+# Reading Makefile: drivers/soc/fsl/dpio/Makefile
+# CONFIG_FSL_MC_DPIO fsl-mc-dpio.o 
+# Reading Makefile: drivers/soc/fsl/Makefile
+# CONFIG_FSL_DPAA qbman/ 
+# CONFIG_QUICC_ENGINE qe/ 
+# CONFIG_CPM qe/ 
+# CONFIG_FSL_RCPM rcpm.o 
+# CONFIG_FSL_GUTS guts.o 
+# CONFIG_FSL_MC_DPIO dpio/ 
+# CONFIG_DPAA2_CONSOLE dpaa2-console.o 

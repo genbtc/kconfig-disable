@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/media/platform/xilinx/Makefile
+# CONFIG_VIDEO_XILINX xilinx-video.o 
+# CONFIG_VIDEO_XILINX_CSI2RXSS xilinx-csi2rxss.o 
+# CONFIG_VIDEO_XILINX_TPG xilinx-tpg.o 
+# CONFIG_VIDEO_XILINX_VTC xilinx-vtc.o 

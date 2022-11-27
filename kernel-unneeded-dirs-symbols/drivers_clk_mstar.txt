@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/clk/mstar/Makefile
+# CONFIG_MSTAR_MSC313_MPLL clk-msc313-mpll.o 

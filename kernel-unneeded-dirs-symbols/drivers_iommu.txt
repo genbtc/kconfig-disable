@@ -1,0 +1,49 @@
+# Reading Makefile: drivers/iommu/intel/Makefile
+# CONFIG_DMAR_TABLE dmar.o 
+# CONFIG_INTEL_IOMMU iommu.o pasid.o 
+# CONFIG_DMAR_TABLE trace.o cap_audit.o 
+# CONFIG_DMAR_PERF perf.o 
+# CONFIG_INTEL_IOMMU_DEBUGFS debugfs.o 
+# CONFIG_INTEL_IOMMU_SVM svm.o 
+# CONFIG_IRQ_REMAP irq_remapping.o 
+# Reading Makefile: drivers/iommu/arm/arm-smmu/Makefile
+# CONFIG_QCOM_IOMMU qcom_iommu.o 
+# CONFIG_ARM_SMMU arm_smmu.o 
+# Reading Makefile: drivers/iommu/arm/arm-smmu-v3/Makefile
+# CONFIG_ARM_SMMU_V3 arm_smmu_v3.o 
+# Reading Makefile: drivers/iommu/arm/Makefile
+# Reading Makefile: drivers/iommu/amd/Makefile
+# CONFIG_AMD_IOMMU iommu.o init.o quirks.o io_pgtable.o 
+# CONFIG_AMD_IOMMU_DEBUGFS debugfs.o 
+# CONFIG_AMD_IOMMU_V2 iommu_v2.o 
+# Reading Makefile: drivers/iommu/Makefile
+# CONFIG_IOMMU_API iommu.o 
+# CONFIG_IOMMU_API iommu-traces.o 
+# CONFIG_IOMMU_API iommu-sysfs.o 
+# CONFIG_IOMMU_DEBUGFS iommu-debugfs.o 
+# CONFIG_IOMMU_DMA dma-iommu.o 
+# CONFIG_IOMMU_IO_PGTABLE io-pgtable.o 
+# CONFIG_IOMMU_IO_PGTABLE_ARMV7S io-pgtable-arm-v7s.o 
+# CONFIG_IOMMU_IO_PGTABLE_LPAE io-pgtable-arm.o 
+# CONFIG_IOASID ioasid.o 
+# CONFIG_IOMMU_IOVA iova.o 
+# CONFIG_OF_IOMMU of_iommu.o 
+# CONFIG_MSM_IOMMU msm_iommu.o 
+# CONFIG_IPMMU_VMSA ipmmu-vmsa.o 
+# CONFIG_IRQ_REMAP irq_remapping.o 
+# CONFIG_MTK_IOMMU mtk_iommu.o 
+# CONFIG_MTK_IOMMU_V1 mtk_iommu_v1.o 
+# CONFIG_OMAP_IOMMU omap-iommu.o 
+# CONFIG_OMAP_IOMMU_DEBUG omap-iommu-debug.o 
+# CONFIG_ROCKCHIP_IOMMU rockchip-iommu.o 
+# CONFIG_SUN50I_IOMMU sun50i-iommu.o 
+# CONFIG_TEGRA_IOMMU_GART tegra-gart.o 
+# CONFIG_TEGRA_IOMMU_SMMU tegra-smmu.o 
+# CONFIG_EXYNOS_IOMMU exynos-iommu.o 
+# CONFIG_FSL_PAMU fsl_pamu.o fsl_pamu_domain.o 
+# CONFIG_S390_IOMMU s390-iommu.o 
+# CONFIG_HYPERV_IOMMU hyperv-iommu.o 
+# CONFIG_VIRTIO_IOMMU virtio-iommu.o 
+# CONFIG_IOMMU_SVA iommu-sva-lib.o io-pgfault.o 
+# CONFIG_SPRD_IOMMU sprd-iommu.o 
+# CONFIG_APPLE_DART apple-dart.o 

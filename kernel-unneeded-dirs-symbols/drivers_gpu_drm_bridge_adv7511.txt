@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/bridge/adv7511/Makefile
+# CONFIG_DRM_I2C_ADV7511 adv7511.o 

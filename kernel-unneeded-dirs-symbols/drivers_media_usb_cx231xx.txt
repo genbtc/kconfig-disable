@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/media/usb/cx231xx/Makefile
+# CONFIG_VIDEO_CX231XX cx231xx.o 
+# CONFIG_VIDEO_CX231XX_ALSA cx231xx-alsa.o 
+# CONFIG_VIDEO_CX231XX_DVB cx231xx-dvb.o 

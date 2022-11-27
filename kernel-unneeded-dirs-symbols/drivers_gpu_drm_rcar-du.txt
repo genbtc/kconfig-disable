@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/gpu/drm/rcar-du/Makefile
+# CONFIG_DRM_RCAR_CMM rcar_cmm.o 
+# CONFIG_DRM_RCAR_DU rcar-du-drm.o 
+# CONFIG_DRM_RCAR_DW_HDMI rcar_dw_hdmi.o 
+# CONFIG_DRM_RCAR_LVDS rcar_lvds.o 
+# CONFIG_DRM_RCAR_MIPI_DSI rcar_mipi_dsi.o 

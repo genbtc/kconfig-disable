@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/misc/bcm-vk/Makefile
+# CONFIG_BCM_VK bcm_vk.o 

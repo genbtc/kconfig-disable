@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/staging/fieldbus/anybuss/Makefile
+# CONFIG_HMS_ANYBUSS_BUS anybuss_core.o 
+# CONFIG_ARCX_ANYBUS_CONTROLLER arcx-anybus.o 
+# CONFIG_HMS_PROFINET hms-profinet.o 
+# Reading Makefile: drivers/staging/fieldbus/Makefile
+# CONFIG_FIELDBUS_DEV fieldbus_dev.o anybuss/ 

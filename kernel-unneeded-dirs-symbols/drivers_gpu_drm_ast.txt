@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/ast/Makefile
+# CONFIG_DRM_AST ast.o 

@@ -1,0 +1,5 @@
+# Reading Makefile: net/ieee802154/Makefile
+# CONFIG_IEEE802154 ieee802154.o 
+# CONFIG_IEEE802154_SOCKET ieee802154_socket.o 
+# Reading Makefile: net/ieee802154/6lowpan/Makefile
+# CONFIG_IEEE802154_6LOWPAN ieee802154_6lowpan.o 

@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/phy/st/Makefile
+# CONFIG_PHY_MIPHY28LP phy-miphy28lp.o 
+# CONFIG_PHY_ST_SPEAR1310_MIPHY phy-spear1310-miphy.o 
+# CONFIG_PHY_ST_SPEAR1340_MIPHY phy-spear1340-miphy.o 
+# CONFIG_PHY_STIH407_USB phy-stih407-usb.o 
+# CONFIG_PHY_STM32_USBPHYC phy-stm32-usbphyc.o 

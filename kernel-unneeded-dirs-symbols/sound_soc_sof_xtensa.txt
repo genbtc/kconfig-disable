@@ -1,0 +1,2 @@
+# Reading Makefile: sound/soc/sof/xtensa/Makefile
+# CONFIG_SND_SOC_SOF_XTENSA snd-sof-xtensa-dsp.o 

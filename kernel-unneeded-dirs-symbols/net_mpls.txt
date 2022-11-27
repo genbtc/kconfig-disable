@@ -1,0 +1,4 @@
+# Reading Makefile: net/mpls/Makefile
+# CONFIG_NET_MPLS_GSO mpls_gso.o 
+# CONFIG_MPLS_ROUTING mpls_router.o 
+# CONFIG_MPLS_IPTUNNEL mpls_iptunnel.o 

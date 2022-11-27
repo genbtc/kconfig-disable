@@ -1,0 +1,4 @@
+# Reading Makefile: sound/soc/xilinx/Makefile
+# CONFIG_SND_SOC_XILINX_I2S snd-soc-xlnx-i2s.o 
+# CONFIG_SND_SOC_XILINX_AUDIO_FORMATTER snd-soc-xlnx-formatter-pcm.o 
+# CONFIG_SND_SOC_XILINX_SPDIF snd-soc-xlnx-spdif.o 

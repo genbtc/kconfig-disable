@@ -1,0 +1,10 @@
+# Reading Makefile: drivers/counter/Makefile
+# CONFIG_COUNTER counter.o 
+# CONFIG_104_QUAD_8 104-quad-8.o 
+# CONFIG_INTERRUPT_CNT interrupt-cnt.o 
+# CONFIG_STM32_TIMER_CNT stm32-timer-cnt.o 
+# CONFIG_STM32_LPTIMER_CNT stm32-lptimer-cnt.o 
+# CONFIG_TI_EQEP ti-eqep.o 
+# CONFIG_FTM_QUADDEC ftm-quaddec.o 
+# CONFIG_MICROCHIP_TCB_CAPTURE microchip-tcb-capture.o 
+# CONFIG_INTEL_QEP intel-qep.o 

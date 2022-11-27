@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/iio/imu/inv_mpu6050/Makefile
+# CONFIG_INV_MPU6050_IIO inv-mpu6050.o 
+# CONFIG_INV_MPU6050_I2C inv-mpu6050-i2c.o 
+# CONFIG_INV_MPU6050_SPI inv-mpu6050-spi.o 

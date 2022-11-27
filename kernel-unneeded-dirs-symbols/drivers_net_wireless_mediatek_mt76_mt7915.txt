@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/wireless/mediatek/mt76/mt7915/Makefile
+# CONFIG_MT7915E mt7915e.o 

@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/iio/common/hid-sensors/Makefile
+# CONFIG_HID_SENSOR_IIO_COMMON hid-sensor-iio-common.o 
+# CONFIG_HID_SENSOR_IIO_TRIGGER hid-sensor-trigger.o 

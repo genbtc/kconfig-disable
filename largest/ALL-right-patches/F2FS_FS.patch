@@ -1,0 +1,39 @@
+F2FS filesystem support
+F2FS is based on Log-structured File System (LFS), which supports
+versatile "flash-friendly" features. The design has been focused on
+addressing the fundamental issues in LFS, which are snowball effect
+of wandering tree and high cleaning overhead.
+
+Since flash-based storages show different characteristics according to
+the internal geometry or flash memory management schemes aka FTL, F2FS
+and tools support various parameters not only for configuring on-disk
+layout, but also for selecting allocation and cleaning algorithms.
+
+If unsure, say N.
+Depends: BLOCK
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:02.270610386 -0400
+@@ -9145,21 +9145,7 @@
+ # CONFIG_BTRFS_ASSERT is not set
+ # CONFIG_BTRFS_FS_REF_VERIFY is not set
+ CONFIG_NILFS2_FS=m
+-CONFIG_F2FS_FS=m
+-CONFIG_F2FS_STAT_FS=y
+-CONFIG_F2FS_FS_XATTR=y
+-CONFIG_F2FS_FS_POSIX_ACL=y
+-CONFIG_F2FS_FS_SECURITY=y
+-# CONFIG_F2FS_CHECK_FS is not set
+-# CONFIG_F2FS_FAULT_INJECTION is not set
+-CONFIG_F2FS_FS_COMPRESSION=y
+-CONFIG_F2FS_FS_LZO=y
+-CONFIG_F2FS_FS_LZORLE=y
+-CONFIG_F2FS_FS_LZ4=y
+-CONFIG_F2FS_FS_LZ4HC=y
+-CONFIG_F2FS_FS_ZSTD=y
+-CONFIG_F2FS_IOSTAT=y
+-CONFIG_F2FS_UNFAIR_RWSEM=y
++# CONFIG_F2FS_FS is not set
+ CONFIG_ZONEFS_FS=m
+ CONFIG_FS_DAX=y
+ CONFIG_FS_DAX_PMD=y

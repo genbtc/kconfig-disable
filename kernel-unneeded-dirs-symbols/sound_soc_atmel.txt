@@ -1,0 +1,16 @@
+# Reading Makefile: sound/soc/atmel/Makefile
+# CONFIG_SND_ATMEL_SOC_SSC snd-soc-atmel-pcm-pdc.o 
+# CONFIG_SND_ATMEL_SOC_SSC snd-soc-atmel-pcm-dma.o 
+# CONFIG_SND_ATMEL_SOC_SSC snd-soc-atmel_ssc_dai.o 
+# CONFIG_SND_ATMEL_SOC_I2S snd-soc-atmel-i2s.o 
+# CONFIG_SND_MCHP_SOC_I2S_MCC snd-soc-mchp-i2s-mcc.o 
+# CONFIG_SND_MCHP_SOC_SPDIFTX snd-soc-mchp-spdiftx.o 
+# CONFIG_SND_MCHP_SOC_SPDIFRX snd-soc-mchp-spdifrx.o 
+# CONFIG_SND_MCHP_SOC_PDMC snd-soc-mchp-pdmc.o 
+# CONFIG_SND_AT91_SOC_SAM9G20_WM8731 snd-soc-sam9g20-wm8731.o 
+# CONFIG_SND_ATMEL_SOC_WM8904 snd-atmel-soc-wm8904.o 
+# CONFIG_SND_AT91_SOC_SAM9X5_WM8731 snd-soc-sam9x5-wm8731.o 
+# CONFIG_SND_ATMEL_SOC_CLASSD snd-atmel-soc-classd.o 
+# CONFIG_SND_ATMEL_SOC_PDMIC snd-atmel-soc-pdmic.o 
+# CONFIG_SND_ATMEL_SOC_TSE850_PCM5142 snd-atmel-soc-tse850-pcm5142.o 
+# CONFIG_SND_SOC_MIKROE_PROTO snd-soc-mikroe-proto.o 

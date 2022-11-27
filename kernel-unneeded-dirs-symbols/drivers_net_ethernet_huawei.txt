@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/net/ethernet/huawei/hinic/Makefile
+# CONFIG_HINIC hinic.o 
+# Reading Makefile: drivers/net/ethernet/huawei/Makefile
+# CONFIG_HINIC hinic/ 

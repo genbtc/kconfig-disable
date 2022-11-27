@@ -1,0 +1,22 @@
+Nouveau (NVIDIA) cards
+Choose this option for open-source NVIDIA support.
+Depends: DRM && PCI && MMU
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:20:00.039610334 -0400
+@@ -6170,14 +6170,7 @@
+ 
+ CONFIG_HSA_AMD=y
+ CONFIG_HSA_AMD_SVM=y
+-CONFIG_DRM_NOUVEAU=m
+-# CONFIG_NOUVEAU_LEGACY_CTX_SUPPORT is not set
+-CONFIG_NOUVEAU_DEBUG=5
+-CONFIG_NOUVEAU_DEBUG_DEFAULT=3
+-# CONFIG_NOUVEAU_DEBUG_MMU is not set
+-# CONFIG_NOUVEAU_DEBUG_PUSH is not set
+-CONFIG_DRM_NOUVEAU_BACKLIGHT=y
+-# CONFIG_DRM_NOUVEAU_SVM is not set
++# CONFIG_DRM_NOUVEAU is not set
+ CONFIG_DRM_I915=m
+ CONFIG_DRM_I915_FORCE_PROBE=""
+ CONFIG_DRM_I915_CAPTURE_ERROR=y

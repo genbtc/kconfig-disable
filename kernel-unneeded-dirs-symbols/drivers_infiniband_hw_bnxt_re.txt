@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/infiniband/hw/bnxt_re/Makefile
+# CONFIG_INFINIBAND_BNXT_RE bnxt_re.o 

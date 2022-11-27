@@ -1,0 +1,2 @@
+# Reading Makefile: fs/netfs/Makefile
+# CONFIG_NETFS_SUPPORT netfs.o 

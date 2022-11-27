@@ -1,0 +1,10 @@
+# Reading Makefile: drivers/i3c/master/mipi-i3c-hci/Makefile
+# CONFIG_MIPI_I3C_HCI mipi-i3c-hci.o 
+# Reading Makefile: drivers/i3c/master/Makefile
+# CONFIG_CDNS_I3C_MASTER i3c-master-cdns.o 
+# CONFIG_DW_I3C_MASTER dw-i3c-master.o 
+# CONFIG_SVC_I3C_MASTER svc-i3c-master.o 
+# CONFIG_MIPI_I3C_HCI mipi-i3c-hci/ 
+# Reading Makefile: drivers/i3c/Makefile
+# CONFIG_I3C i3c.o 
+# CONFIG_I3C master/ 

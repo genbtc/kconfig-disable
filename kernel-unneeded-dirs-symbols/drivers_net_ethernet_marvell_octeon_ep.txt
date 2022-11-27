@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/net/ethernet/marvell/octeon_ep/Makefile
+# CONFIG_OCTEON_EP octeon_ep.o 

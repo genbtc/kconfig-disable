@@ -1,0 +1,5 @@
+# Reading Makefile: drivers/hsi/clients/Makefile
+# CONFIG_NOKIA_MODEM nokia-modem.o 
+# CONFIG_SSI_PROTOCOL ssi_protocol.o 
+# CONFIG_CMT_SPEECH cmt_speech.o 
+# CONFIG_HSI_CHAR hsi_char.o 

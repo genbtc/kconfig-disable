@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/crypto/cavium/cpt/Makefile
+# CONFIG_CAVIUM_CPT cptpf.o cptvf.o 

@@ -1,0 +1,72 @@
+FireWire driver stack
+This is the new-generation IEEE 1394 (FireWire) driver stack
+a.k.a. Juju, a new implementation designed for robustness and
+simplicity.
+See http://ieee1394.wiki.kernel.org/index.php/Juju_Migration
+for information about migration from the older Linux 1394 stack
+to the new driver stack.
+
+To compile this driver as a module, say M here: the module will be
+called firewire-core.
+---
+--- /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config.orig	2022-10-31 13:57:59.705695527 -0400
++++ /var/tmp/portage/sys-kernel/gentoo-sources-5.19.17/image/usr/src/linux-5.19.17-gentoo//.config	2022-11-01 16:19:24.009610366 -0400
+@@ -2944,7 +2944,6 @@
+ CONFIG_TCM_FC=m
+ CONFIG_ISCSI_TARGET=m
+ CONFIG_ISCSI_TARGET_CXGB4=m
+-CONFIG_SBP_TARGET=m
+ CONFIG_FUSION=y
+ CONFIG_FUSION_SPI=m
+ CONFIG_FUSION_FC=m
+@@ -2957,10 +2956,7 @@
+ #
+ # IEEE 1394 (FireWire) support
+ #
+-CONFIG_FIREWIRE=m
+-CONFIG_FIREWIRE_OHCI=m
+-CONFIG_FIREWIRE_SBP2=m
+-CONFIG_FIREWIRE_NET=m
++# CONFIG_FIREWIRE is not set
+ CONFIG_FIREWIRE_NOSY=m
+ # end of IEEE 1394 (FireWire) support
+ 
+@@ -5725,12 +5721,6 @@
+ # MMC/SDIO DVB adapters
+ #
+ CONFIG_SMS_SDIO_DRV=m
+-
+-#
+-# FireWire (IEEE 1394) Adapters
+-#
+-CONFIG_DVB_FIREDTV=m
+-CONFIG_DVB_FIREDTV_INPUT=y
+ CONFIG_MEDIA_COMMON_OPTIONS=y
+ 
+ #
+@@ -6569,17 +6559,6 @@
+ CONFIG_SND_USB_PODHD=m
+ CONFIG_SND_USB_TONEPORT=m
+ CONFIG_SND_USB_VARIAX=m
+-CONFIG_SND_FIREWIRE=y
+-CONFIG_SND_FIREWIRE_LIB=m
+-CONFIG_SND_DICE=m
+-CONFIG_SND_OXFW=m
+-CONFIG_SND_ISIGHT=m
+-CONFIG_SND_FIREWORKS=m
+-CONFIG_SND_BEBOB=m
+-CONFIG_SND_FIREWIRE_DIGI00X=m
+-CONFIG_SND_FIREWIRE_TASCAM=m
+-CONFIG_SND_FIREWIRE_MOTU=m
+-CONFIG_SND_FIREFACE=m
+ # CONFIG_SND_PCMCIA is not set
+ CONFIG_SND_SOC=m
+ CONFIG_SND_SOC_AC97_BUS=y
+@@ -8028,7 +8007,6 @@
+ CONFIG_VIDEO_IPU3_IMGU=m
+ # CONFIG_DVB_AV7110 is not set
+ # CONFIG_LTE_GDM724X is not set
+-# CONFIG_FIREWIRE_SERIAL is not set
+ # CONFIG_FB_TFT is not set
+ # CONFIG_KS7010 is not set
+ # CONFIG_PI433 is not set

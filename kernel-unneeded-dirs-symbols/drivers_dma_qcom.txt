@@ -1,0 +1,6 @@
+# Reading Makefile: drivers/dma/qcom/Makefile
+# CONFIG_QCOM_ADM qcom_adm.o 
+# CONFIG_QCOM_BAM_DMA bam_dma.o 
+# CONFIG_QCOM_GPI_DMA gpi.o 
+# CONFIG_QCOM_HIDMA_MGMT hdma_mgmt.o 
+# CONFIG_QCOM_HIDMA hdma.o 

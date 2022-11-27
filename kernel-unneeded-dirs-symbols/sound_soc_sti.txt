@@ -1,0 +1,2 @@
+# Reading Makefile: sound/soc/sti/Makefile
+# CONFIG_SND_SOC_STI snd-soc-sti.o 

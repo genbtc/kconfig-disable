@@ -1,0 +1,11 @@
+# Reading Makefile: drivers/net/wireless/intel/iwlwifi/mvm/Makefile
+# CONFIG_IWLMVM iwlmvm.o 
+# Reading Makefile: drivers/net/wireless/intel/iwlwifi/mei/Makefile
+# CONFIG_IWLMEI iwlmei.o 
+# Reading Makefile: drivers/net/wireless/intel/iwlwifi/dvm/Makefile
+# CONFIG_IWLDVM iwldvm.o 
+# Reading Makefile: drivers/net/wireless/intel/iwlwifi/Makefile
+# CONFIG_IWLWIFI iwlwifi.o 
+# CONFIG_IWLDVM dvm/ 
+# CONFIG_IWLMVM mvm/ 
+# CONFIG_IWLMEI mei/ 

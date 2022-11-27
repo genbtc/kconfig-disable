@@ -1,0 +1,29 @@
+# Reading Makefile: drivers/platform/chrome/wilco_ec/Makefile
+# CONFIG_WILCO_EC wilco_ec.o 
+# CONFIG_WILCO_EC_DEBUGFS wilco_ec_debugfs.o 
+# CONFIG_WILCO_EC_EVENTS wilco_ec_events.o 
+# CONFIG_WILCO_EC_TELEMETRY wilco_ec_telem.o 
+# Reading Makefile: drivers/platform/chrome/Makefile
+# CONFIG_CHROMEOS_ACPI chromeos_acpi.o 
+# CONFIG_CHROMEOS_LAPTOP chromeos_laptop.o 
+# CONFIG_CHROMEOS_PRIVACY_SCREEN chromeos_privacy_screen.o 
+# CONFIG_CHROMEOS_PSTORE chromeos_pstore.o 
+# CONFIG_CHROMEOS_TBMC chromeos_tbmc.o 
+# CONFIG_CROS_EC cros_ec.o 
+# CONFIG_CROS_EC_I2C cros_ec_i2c.o 
+# CONFIG_CROS_EC_ISHTP cros_ec_ishtp.o 
+# CONFIG_CROS_EC_RPMSG cros_ec_rpmsg.o 
+# CONFIG_CROS_EC_SPI cros_ec_spi.o 
+# CONFIG_CROS_EC_TYPEC cros_ec_typec.o 
+# CONFIG_CROS_EC_LPC cros_ec_lpcs.o 
+# CONFIG_CROS_EC_PROTO cros_ec_proto.o cros_ec_trace.o 
+# CONFIG_CROS_KBD_LED_BACKLIGHT cros_kbd_led_backlight.o 
+# CONFIG_CROS_EC_CHARDEV cros_ec_chardev.o 
+# CONFIG_CROS_EC_LIGHTBAR cros_ec_lightbar.o 
+# CONFIG_CROS_EC_VBC cros_ec_vbc.o 
+# CONFIG_CROS_EC_DEBUGFS cros_ec_debugfs.o 
+# CONFIG_CROS_EC_SENSORHUB cros-ec-sensorhub.o 
+# CONFIG_CROS_EC_SYSFS cros_ec_sysfs.o 
+# CONFIG_CROS_USBPD_LOGGER cros_usbpd_logger.o 
+# CONFIG_CROS_USBPD_NOTIFY cros_usbpd_notify.o 
+# CONFIG_WILCO_EC wilco_ec/ 

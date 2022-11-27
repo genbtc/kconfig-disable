@@ -1,0 +1,4 @@
+# Reading Makefile: drivers/platform/x86/intel/pmt/Makefile
+# CONFIG_INTEL_PMT_CLASS pmt_class.o 
+# CONFIG_INTEL_PMT_TELEMETRY pmt_telemetry.o 
+# CONFIG_INTEL_PMT_CRASHLOG pmt_crashlog.o 

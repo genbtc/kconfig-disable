@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/leds/rgb/Makefile
+# CONFIG_LEDS_PWM_MULTICOLOR leds-pwm-multicolor.o 
+# CONFIG_LEDS_QCOM_LPG leds-qcom-lpg.o 

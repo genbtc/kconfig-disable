@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/platform/surface/aggregator/Makefile
+# CONFIG_SURFACE_AGGREGATOR surface_aggregator.o 

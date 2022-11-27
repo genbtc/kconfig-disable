@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/gpu/drm/rockchip/Makefile
+# CONFIG_DRM_ROCKCHIP rockchipdrm.o 

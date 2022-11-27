@@ -1,0 +1,2 @@
+# Reading Makefile: drivers/ntb/hw/intel/Makefile
+# CONFIG_NTB_INTEL ntb_hw_intel.o 

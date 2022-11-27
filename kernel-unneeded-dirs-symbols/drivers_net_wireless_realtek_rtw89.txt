@@ -1,0 +1,7 @@
+# Reading Makefile: drivers/net/wireless/realtek/rtw89/Makefile
+# CONFIG_RTW89_CORE rtw89_core.o 
+# CONFIG_RTW89_8852A rtw89_8852a.o 
+# CONFIG_RTW89_8852AE rtw89_8852ae.o 
+# CONFIG_RTW89_8852C rtw89_8852c.o 
+# CONFIG_RTW89_8852CE rtw89_8852ce.o 
+# CONFIG_RTW89_PCI rtw89_pci.o 

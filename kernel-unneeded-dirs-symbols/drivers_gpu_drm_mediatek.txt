@@ -1,0 +1,3 @@
+# Reading Makefile: drivers/gpu/drm/mediatek/Makefile
+# CONFIG_DRM_MEDIATEK mediatek-drm.o 
+# CONFIG_DRM_MEDIATEK_HDMI mediatek-drm-hdmi.o 
